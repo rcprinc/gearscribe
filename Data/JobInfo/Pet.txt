@@ -1,0 +1,36 @@
+{
+  "BST": [
+    "Charm",
+    "Gauge",
+    "Tame",
+    "Fight",
+    "Heel",
+    "Leave",
+    "Stay",
+    "Sic",
+    "Reward",
+    "Snarl"
+  ],
+  "SMN_Base": [
+    "Assault",
+    "Retreat",
+    "Release"
+  ],
+  "PUP": [
+    "Activate",
+    "Deactivate",
+    "Deploy",
+    "Retrieve",
+    "Retrieve (Emergency)",
+    "Fire Maneuver",
+    "Ice Maneuver",
+    "Wind Maneuver",
+    "Earth Maneuver",
+    "Thunder Maneuver",
+    "Water Maneuver",
+    "Light Maneuver",
+    "Dark Maneuver",
+    "Repair",
+    "Cooldown"
+  ]
+}

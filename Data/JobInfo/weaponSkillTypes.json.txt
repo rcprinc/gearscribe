@@ -1,0 +1,74 @@
+{
+  "WAR": {
+    "fullName": "Warrior",
+    "weaponSkillTypes": ["Hand-to-Hand", "Dagger", "Sword", "Great Sword", "Axe", "Great Axe", "Scythe", "Polearm", "Staff", "Bow", "Marksmanship"]
+  },
+  "MNK": {
+    "fullName": "Monk",
+    "weaponSkillTypes": ["Hand-to-Hand", "Club", "Staff"]
+  },
+  "WHM": {
+    "fullName": "White Mage",
+    "weaponSkillTypes": ["Club", "Staff"]
+  },
+  "BLM": {
+    "fullName": "Black Mage",
+    "weaponSkillTypes": ["Dagger", "Club", "Staff"]
+  },
+  "RDM": {
+    "fullName": "Red Mage",
+    "weaponSkillTypes": ["Dagger", "Sword", "Club", "Bow"]
+  },
+  "THF": {
+    "fullName": "Thief",
+    "weaponSkillTypes": ["Hand-to-Hand", "Dagger", "Sword", "Club", "Archery", "Marksmanship"]
+  },
+  "PLD": {
+    "fullName": "Paladin",
+    "weaponSkillTypes": ["Dagger", "Sword", "Great Sword", "Club", "Staff"]
+  },
+  "DRK": {
+    "fullName": "Dark Knight",
+    "weaponSkillTypes": ["Dagger", "Sword", "Great Sword", "Axe", "Scythe", "Club", "Staff"]
+  },
+  "BST": {
+    "fullName": "Beastmaster",
+    "weaponSkillTypes": ["Dagger", "Sword", "Axe", "Scythe", "Club", "Staff"]
+  },
+  "BRD": {
+    "fullName": "Bard",
+    "weaponSkillTypes": ["Dagger", "Sword", "Club", "Staff"]
+  },
+  "RNG": {
+    "fullName": "Ranger",
+    "weaponSkillTypes": ["Dagger", "Sword", "Axe", "Club", "Staff", "Archery", "Marksmanship"]
+  },
+  "SAM": {
+    "fullName": "Samurai",
+    "weaponSkillTypes": ["Dagger", "Sword", "Great Sword", "Great Axe", "Polearm", "Katana", "Great Katana", "Staff", "Archery"]
+  },
+  "NIN": {
+    "fullName": "Ninja",
+    "weaponSkillTypes": ["Dagger", "Sword", "Katana", "Club", "Archery", "Marksmanship"]
+  },
+  "DRG": {
+    "fullName": "Dragoon",
+    "weaponSkillTypes": ["Dagger", "Sword", "Axe", "Polearm", "Staff"]
+  },
+  "SMN": {
+    "fullName": "Summoner",
+    "weaponSkillTypes": ["Dagger", "Club", "Staff"]
+  },
+  "BLU": {
+    "fullName": "Blue Mage",
+    "weaponSkillTypes": ["Dagger", "Sword", "Club"]
+  },
+  "COR": {
+    "fullName": "Corsair",
+    "weaponSkillTypes": ["Dagger", "Sword", "Marksmanship"]
+  },
+  "PUP": {
+    "fullName": "Puppetmaster",
+    "weaponSkillTypes": ["Hand-to-Hand", "Club", "Staff"]
+  }
+}

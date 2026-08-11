@@ -1,0 +1,167 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs,,,,,,
+Aern Axe,1,1,288,0.21,,All Jobs,,,,,,
+Aern Axe II,1,1,288,0.21,,All Jobs,,,,,,
+Ark Tabar,1,1,999,0.06,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs,,,,,,
+Bronze Axe,1,8,276,1.74,,WAR / DRK / BST / RNG,,,,,,
+Bronze Axe +1,1,9,268,2.01,,WAR / DRK / BST / RNG,,,,,,
+Demonic Axe,1,1,288,0.21,,All Jobs,,,,,,
+Dullahan Axe,1,1,288,0.21,,All Jobs,,,,,,
+Gramk's Axe,1,1,288,0.21,,All Jobs,,,,,,
+Orcish Axe,5,10,288,2.08,"STR+2 INT-1 MND-1
+CHR-1",BST,,,,,,
+Brass Axe,8,12,276,2.61,,WAR / DRK / BST / RNG,,,,,,
+Brass Axe +1,8,13,268,2.91,,WAR / DRK / BST / RNG,,,,,,
+Legionnaire's Axe,10,13,276,2.83,,WAR / DRK / BST / RNG,,,,,,
+Light Axe,11,14,260,3.23,,WAR / DRK / BST / RNG,,,,,,
+Bone Axe,13,16,276,3.48,,WAR / DRK / BST / RNG,,,,,,
+Bone Axe +1,13,17,268,3.81,,WAR / DRK / BST / RNG,,,,,,
+Felling Axe,13,13,276,2.83,Ranged Accuracy+4,WAR / DRK / BST / RNG,,,,,,
+Jolt Axe,13,16,276,3.48,"Enchantment: Attack+3
+<50/50 0:30/[30:00, 0:30]>",WAR / DRK / BST / RNG,,,,,,
+Bastokan Axe,15,14,268,3.13,Accuracy+1,WAR / DRK / BST / RNG,,,,,,
+Republic Axe,15,15,260,3.46,Accuracy+2,WAR / DRK / BST / RNG,,,,,,
+Bone Pick,16,18,312,3.46,,WAR / DRK / BST,,,,,,
+Bone Pick +1,16,19,303,3.76,,WAR / DRK / BST,,,,,,
+Battleaxe,20,20,276,4.35,,WAR / DRK / BST / RNG,,,,,,
+Battleaxe +1,20,21,268,4.7,,WAR / DRK / BST / RNG,,,,,,
+Platoon Axe,20,19,276,4.13,,WAR / DRK / BST / RNG,,,,,,
+Rusty Pick,22,22,321,4.11,,WAR / DRK / BST,,,,,,
+Tomahawk,25,23,340,4.06,,BST / RNG,,,,,,
+Tomahawk +1,25,24,333,4.32,,BST / RNG,,,,,,
+Tigerhunter,26,22,276,4.78,Additional effect vs. tigers: Paralysis,WAR / DRK / BST / RNG,,,,,,
+Military Pick,28,24,260,5.54,Accuracy+1,WAR / DRK / BST / RNG,,,,,,
+Garde Pick,30,23,312,4.42,"In areas under own nation's control:
+Ranged Accuracy+3 Ranged Attack+3",WAR / DRK / BST / RNG,,,,,,
+Plain Pick,31,26,312,5,,WAR / DRK / BST,,,,,,
+War Pick,31,26,312,5,,WAR / DRK / BST,,,,,,
+War Pick +1,31,27,303,5.35,,WAR / DRK / BST,,,,,,
+Warrior's Axe,32,25,276,5.43,STR+1 DEX+1,WAR / DRK / BST / RNG,,,,,,
+Mythril Axe,37,29,276,6.3,,WAR / DRK / BST / RNG,,,,,,
+Mythril Axe +1,37,30,268,6.72,,WAR / DRK / BST / RNG,,,,,,
+Navy Axe,37,29,276,6.3,"Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>",WAR / DRK / BST / RNG,,,,,,
+De Saintre's Axe,39,28,288,5.83,"""Charm""+1",BST,,,,,,
+Emeth Pick,39,31,312,5.96,"Additional effect vs. dolls:
+Weakens defense",WAR / DRK / BST,,,,,,
+Barbaroi Axe,40,32,288,6.67,"STR+2 CHR+2
+Pet Accuracy+5",BST,,,,,,
+Combat Caster's Axe,40,33,280,7.07,Attack+5,WAR / DRK / BST / RNG,,,,,,
+Razor Axe,40,33,280,7.07,STR+2 DEX+2,WAR,,,,,,
+Veldt Axe,42,27,276,5.87,Ranged Attack+3,WAR / DRK / BST / RNG,,,,,,
+Veldt Axe +1,42,28,268,6.27,Ranged Attack+4,WAR / DRK / BST / RNG,,,,,,
+Cmb.Cst. Axe +1,43,34,272,7.5,"Attack+5
+In areas outside own nation's control:
+DEX+2",WAR / DRK / BST / RNG,,,,,,
+Cmb.Cst. Axe +2,43,35,264,7.95,"Attack+5
+In areas outside own nation's control:
+DEX+3",WAR / DRK / BST / RNG,,,,,,
+Storm Axe,43,32,276,6.96,"-10 +10 +10
+Additional effect: Wind damage",WAR / DRK / BST / RNG,,,,,,
+Tabar,43,34,288,7.08,,BST,,,,,,
+Tabar +1,43,35,280,7.5,,BST,,,,,,
+Viking Axe,48,36,276,7.83,"Accuracy+10
+Evasion-10",WAR / DRK / BST / RNG,,,,,,
+Gerwitz's Axe,50,19,624,1.83,,WAR / DRK / BST,,,,,,
+Mythril Pick,50,39,312,7.5,,WAR / DRK / BST,,,,,,
+Mythril Pick +1,50,40,303,7.92,,WAR / DRK / BST,,,,,,
+Viperine Pick,53,42,312,8.08,"HP+16
+Enhances ""Resist Sleep"" effect
+Additional effect: Poison",WAR / DRK / BST,,,,,,
+Darksteel Axe,56,42,289,8.72,,WAR / DRK / BST / RNG,,,,,,
+Darksteel Axe +1,56,43,281,9.18,,WAR / DRK / BST / RNG,,,,,,
+Wrath Tabar,56,45,316,8.54,"STR+7 DEX-1 VIT-1
+AGI-1 INT-1 MND-1 CHR-1",BST,,,,,,
+Arcanabane,59,39,276,8.48,Vs. arcana: Critical hit rate +5%,WAR / DRK / BST / RNG,,,,,,
+Kabrakan's Axe,59,42,288,8.75,"MND+3 CHR+3
+Accuracy+4
+Additional effect: ""Slow""",BST,,,,,,
+Sirocco Axe,60,41,258,9.53,#ERROR!,WAR / DRK / BST / RNG,,,,,,
+Tungi,60,41,260,9.46,,WAR / DRK / BST / RNG,,,,,,
+Darksteel Pick,62,43,312,8.27,,WAR / DRK / BST,,,,,,
+Darksteel Pick +1,62,44,303,8.71,,WAR / DRK / BST,,,,,,
+Fransisca,63,44,288,9.17,"Ranged Accuracy+7
+Ranged Attack+7",WAR / DRK / BST / RNG,,,,,,
+Darksteel Tabar,65,45,296,9.12,,BST,,,,,,
+Dst. Tabar +1,65,46,288,9.58,,BST,,,,,,
+Acha d'Armas,68,46,288,9.58,"STR+2 DEX+1 VIT-3
+AGI-2",WAR / DRK / BST / RNG,,,,,,
+Nadziak,68,46,312,8.85,HP+10 DEX+2 VIT+2,WAR / DRK / BST,,,,,,
+Nadziak +1,68,47,303,9.31,HP+11 DEX+3 VIT+3,WAR / DRK / BST,,,,,,
+Fendoir,69,14,288,2.92,Occasionally attacks twice,WAR / BST,,,,,,
+Fleetwing,69,45,276,9.78,"Evasion+5
+Set: Increases HP, VIT,
+Accuracy, Ranged Accuracy",WAR / BST,,,,,,
+Lohar,69,47,312,9.04,CHR+5,WAR / DRK / BST,,,,,,
+Rainmaker,69,45,276,9.78,"INT-1 MND-1 CHR-1
+""Store TP""+1
+Campaign: STR+5",BST,,,,,,
+Juggernaut,70,46,288,9.58,"HP+18 STR+3 AGI-3
+Attack+30",WAR / BST,,,,,,
+Kriegsbeil,70,48,276,10.43,"AGI+5
+Ranged Accuracy+4
+Ranged Attack+8",WAR / DRK / BST / RNG,,,,,,
+Marid Ancus,70,45,276,9.78,"Assault: DMG:49 ""Charm""+2",WAR / DRK / BST / RNG,,,,,,
+Rune Axe,70,45,276,9.78,"Latent effect:
+Attack+5
+Adds ""Regen"" effect","WAR / BLM / DRK / BST / BRD / RNG /
+SMN",,,,,,
+Furnace Tabarzin,71,49,288,10.21,"HP+10
+DEX+2 VIT+2 +8
+Enchantment: ""Fire""
+<50/50 0:30/[10:00, 0:30]>",WAR / DRK / BST,71,47,268,10.52,"Attack+10
+Enhances ""Resist Curse"" effect",WAR / DRK / BST / RNG
+Pick of Trials,71,46,312,8.85,Latent effect: HP+20 +10 +10,WAR / DRK / BST / RNG,,,,,,
+Rsv.Cpt. Pick,71,46,276,10,"Enhances ""Resist Curse"" effect
+Citizens of San d'Oria: Attack+10",WAR / DRK / BST / RNG,,,,,,
+Storm Tabar,71,49,288,10.21,"Depending on day: Increases elemental
+weapon skill damage",BST,,,,,,
+Tabarzin,71,49,288,10.21,HP+10 DEX+2 VIT+2,WAR / DRK / BST,,,,,,
+Tabarzin +1,71,50,280,10.71,HP+11 DEX+3 VIT+3,WAR / DRK / BST,,,,,,
+Barkborer,72,49,288,10.21,"Weapon Skill Accuracy+5
+Enhances ""Plantoid Killer"" effect
+Vs. plantoid: Critical hit rate +7%",BST,,,,,,
+Leopard Axe,72,49,288,10.21,"STR+3 MND-1 CHR+3
+Additional effect: Poison",BST,,,,,,
+Martial Axe,72,46,276,10,TP Bonus,WAR / DRK / BST / RNG,,,,,,
+Retributor,72,33,312,6.35,"Latent effect: DMG:46
+Critical hit rate +6%",WAR / DRK / BST / RNG,,,,,,
+Woodville's Axe,72,50,288,10.42,"STR+4
+Spell interruption rate down 5%",WAR / DRK / BST / RNG,,,,,,
+Lyft Tabar,73,50,288,10.42,,WAR / DRK / BST,,,,,,
+Maneater,73,43,276,9.35,Latent effect: DMG:49,WAR / DRK / BST / RNG,,,,,,
+Mighty Pick,73,47,312,9.04,"VIT+1 CHR+1
+On Windsdays: DMG:52 +15",WAR / DRK / BST / RNG,,,,,,
+Temperance Axe,73,39,276,8.48,"CHR+7
+Virtue stone equipped:
+Occasionally attacks twice",BST / RNG,,,,,,
+Labrys,74,45,288,9.38,"STR+2 AGI+2 Attack+7
+Ranged Attack+7
+""Store TP""-5",WAR / DRK / BST,,,,,,
+Lion Tamer,74,44,276,9.57,"Pet: DEF:+10
+Enchantment: ""Enfire""
+<50/50 0:30/[5:00, 0:30]>",BST,,,,,,
+Zoraal Ja's Axe,74,46,276,10,"Enhances ""Reward"" effect",WAR / DRK / BST / RNG,,,,,,
+Aymur,75,50,312,9.62,,BST,,,,,,
+Aymur,75,50,312,9.62,"Pet: Attack Bonus
+Enhances ""Sic"" and ""Ready"" effect
+""Primal Rend""
+Aftermath (Incl. Pets):
+Inc. Acc./Atk., Occ. attacks twice",BST,,,,,,
+Bonebiter,75,47,288,9.79,,WAR / BST,,,,,,
+Chopper,75,35,288,7.29,,WAR / BST,,,,,,
+Double Axe,75,46,312,8.85,,BST,,,,,,
+Dynamis Axe,75,46,288,9.58,In Dynamis: +9,BST,,,,,,
+Erlking's Tabar,75,41,288,8.54,Main hand: DMG:45,BST,,,,,,
+Guttler,75,53,280,11.36,"Attack+20
+""Onslaught""
+Additional effect: ""Choke""",BST,,,,,,
+Leonine Axe,75,1,288,0.21,In Dynamis: +7,BST,,,,,,
+Ogre Killer,75,53,288,11.04,"In Dynamis: ""Onslaught""",BST,,,,,,
+Punisher,75,27,280,5.79,,WAR / BST,,,,,,
+Relic Axe,75,1,999,0.06,,BST,,,,,,
+Sirius Axe,75,43,288,8.96,,BST,,,,,,
+Skeggiold,75,37,280,7.93,,WAR / BST,,,,,,
+Splinter,75,39,288,8.13,,WAR / BST,,,,,,
+Tartaglia,75,34,276,7.39,"Ranged Accuracy+3
+Ranged Attack+3 Enmity-5",RNG,,,,,,

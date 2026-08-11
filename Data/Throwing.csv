@@ -1,0 +1,48 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Bonanza Ball,1,1,168,0.36,"A bouncing ball based on the brilliant blueprints for Mog Bonanza marbles.
+Throwing it supposedly scatters all stress and swathes the soul in serendipity.",All Jobs
+Leafkin Grenade,1,1,168,0.36,,All Jobs
+Pamama Peel,1,1,800,0.08,"Additional effect: ""Bind""",All Jobs
+Pebble,1,5,276,1.09,,"WAR / MNK / WHM / BLM / THF / DRK /
+BST / BRD / RNG / NIN / DRG / SMN"
+Bomb Arm,5,6,300,1.2,Additional effect: Fire damage,WAR / THF / DRK / NIN
+Cluster Arm,5,7,300,1.4,Additional effect: Fire damage,WAR / THF / DRK / NIN
+Snoll Arm,5,7,300,1.4,Additional effect: Ice damage,WAR / THF / DRK / NIN
+Dart,7,6,168,2.14,,WAR / RDM / THF / DRK / NIN / COR
+Hawkeye,14,9,168,3.21,,WAR / RDM / THF / DRK / NIN / COR
+Shuriken,18,29,192,9.06,,NIN
+Throwing Coin,18,16,276,3.48,,SAM
+Grenade,19,13,300,2.6,Additional effect: Fire damage,WAR / THF / DRK / NIN
+Pinwheel,24,12,168,4.29,,WAR / RDM / THF / DRK / NIN / COR
+Juji Shuriken,28,41,192,12.81,,NIN
+Quake Grenade,32,18,300,3.6,Additional effect: Fire damage,WAR / THF / DRK / NIN
+Tathlum,35,24,276,5.22,,"WAR / MNK / WHM / BLM / THF / DRK /
+BST / BRD / RNG / NIN / DRG / SMN"
+Hyo,36,15,168,5.36,,WAR / RDM / THF / DRK / NIN / COR
+Riot Grenade,40,21,300,4.2,Additional effect: Lightning damage,WAR / THF / DRK / NIN
+Manji Shuriken,48,63,192,19.69,,NIN
+Astragalos,50,32,276,6.96,,"WAR / MNK / WHM / BLM / THF / DRK /
+BST / BRD / RNG / NIN / DRG / SMN"
+Peiste Dart,50,15,162,5.56,STR+1 AGI+1,WAR / RDM / THF / DRK / NIN / COR
+Smart Grenade,54,42,300,8.4,"Ranged Accuracy-4
+Additional effect: Fire damage",All Jobs
+Djinn Arm,55,8,300,1.6,Additional effect: Darkness damage,WAR / THF / DRK / NIN
+Dart +1,58,21,168,7.5,,WAR / RDM / THF / DRK / NIN / COR
+Fuma Shuriken,60,72,192,22.5,,NIN
+Aht Urhgan Dart,65,23,168,8.21,Ranged Accuracy+5,WAR / RDM / THF / DRK / NIN / COR
+Stygian Ash,71,21,168,7.5,,All Jobs
+Antarctic Wind,72,250,276,54.35,,All Jobs
+Arctic Wind,72,250,276,54.35,,All Jobs
+East Wind,72,250,276,54.35,,All Jobs
+Zephyr,72,250,276,54.35,,All Jobs
+Nokizaru Shuriken,73,85,192,26.56,"Ranged Accuracy+18
+Enmity+2",NIN
+Imperial Egg,75,99,999,5.95,"CHR+3
+Ranged Accuracy+99
+HP recovered while healing +3
+Additional effect: ""Provoke""",All Jobs
+Koga Shuriken,75,88,192,27.5,Ranged Attack+10,NIN
+Tsar's Egg,75,100,999,6.01,"CHR+4
+Ranged Accuracy+100
+HP recovered while healing +4
+Additional effect: ""Provoke""",All Jobs

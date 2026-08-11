@@ -1,0 +1,197 @@
+Name,Level,Jobs,Stats,Horizon Changes
+Beast Collar,1,All Jobs,None,none
+Miner's Pendant,1,All Jobs,None,none
+Buffoon's Collar,5,PUP,"HP +3 Reduces ""Overload"" rate",none
+Buffoon's Collar +1,5,PUP,"HP +5 Reduces ""Overload"" rate",none
+Justice Badge,7,All Jobs,DEF: 1 MND +3,none
+Silver Name Tag,7,All Jobs,5,none
+Rabbit Charm,7,THF,"DEF: 1 DEX +1 AGI +1 ""Steal"" +1","none
+
+none"
+Wing Pendant,7,All Jobs,AGI +1 +1 +1,none
+Feather Collar,7,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 1,none
+Feather Collar +1,7,MNK / WHM /BLM / RDM / THF / DRK / BRD / RNG / / SMN / BLU / COR / PUP,DEF: 2 Ranged Accuracy +2,none
+Leather Gorget,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 1,none
+Leather Gorget +1,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Regen Collar,7,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,"DEF: 1 Enchantment: Adds ""Regen"" effect",none
+Dog Collar,9,All Jobs,DEF: 1 CHR -1,none
+Republican Bronze Medal,10,All Jobs,MP +5,MP increased from +2 to +5.
+Green Scarf,10,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 1 HP +5 HP recovered while healing +2,"HP increased from HP +2 to HP +5.
+Added HP recovered while healing +2."
+Scale Gorget,11,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 2,none
+Ranger's Necklace,14,RNG,Ranged Accuracy +5 Ranged Attack +5,none
+Van Pendant,14,All Jobs,DEF: 3 Enemy critical hit rate -1%,none
+Bird Whistle,15,All Jobs,HP +5 CHR +3,none
+Cerulean Pendant,18,All Jobs,12,none
+Black Neckerchief,20,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 2 INT +1 +3,none
+Bloodbead Amulet,20,All Jobs,HP +15,none
+Beetle Gorget,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Fang Necklace,21,All Jobs,STR +2 DEX +2 MND -4,none
+Green Gorget,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 3 -3 Evasion +1,none
+Spike Necklace,21,All Jobs,STR +3 DEX +3 MND -6,none
+Hemp Gorget,23,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 2,none
+Hemp Gorget +1,23,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 3,none
+Beast Whistle,24,BST,VIT +2 CHR +2,none
+Chain Choker,24,All Jobs,6,none
+Chain Gorget,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 3,none
+Fine Gorget,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 4,none
+Red Choker,24,All Jobs,10,none
+Tiger Stole,24,All Jobs,DEF: 2 Attack +5,none
+Holy Phial,26,All Jobs,DEF: 3 MP +9 MND +3,none
+Flower Necklace,27,All Jobs,CHR +3,none
+Buburimu Gorget,27,All Jobs,10,none
+Sand Charm,27,All Jobs,15,"none
+
+Used in Quest: Fill In"
+Royal Squire's Collar,30,WAR / PLD / DRK / BST / SAM / NIN,DEF: 3 Evasion +2 Accuracy +2,"Evasion increased from +1 to +2
+Accuracy +2 added."
+Republican Iron Medal,30,All Jobs,MP +6,none
+Paisley Scarf,30,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN,DEF: 2 HP +8 HP recovered while healing +3,"HP increased from +6 to +8.
+New stat of HP recovered while healing +3 added."
+Ajase Beads,30,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 4 HP +20 In areas under own nation's control: Accuracy +3 Attack +3,none
+Willpower Torque,30,All Jobs,Spell Interruption Rate 5%,none
+Wolf Gorget,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3,none
+Wolf Gorget +1,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Dhalmel Whistle,31,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,Evasion +3 Enchantment: AGI +6,none
+Peacock Charm,33,All Jobs,-10 Accuracy +10 Ranged Accuracy +10,Obtainable from Argus and not from the BCNM Under Observation.
+Peacock Amulet,33,All Jobs,-10 Accuracy +10 Ranged Accuracy +10,Obtainable via Under Observation and not from Argus.
+Medieval Collar,35,All Jobs,DEF: 3 VIT +2,none
+Shield Pendant,35,All Jobs,HP +20 MP -20,none
+Memento Muffler,37,All Jobs,DEF: 4 Enchantment: VIT +7,none
+Spirit Torque,38,WHM / BLM / RDM / BRD / RNG / NIN / SMN / BLU / PUP,MP +10 Evasion +5,none
+Guarding Gorget,39,WAR / PLD / DRK / BST / DRG,DEF: 4 VIT +1 AGI -1 Evasion -5 Converts 15 MP to HP,none
+Stone Gorget,39,All Jobs,"DEF: 4 Enhances ""Stoneskin"" effect",none
+Gorget,40,WAR / PLD / DRK,DEF: 4,none
+Agile Gorget,40,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 3 AGI +2 Evasion +1,none
+Gorget +1,40,WAR / PLD / DRK,DEF: 5,none
+Jagd Gorget,40,RDM / THF / BRD / RNG / NIN,DEF: 2 MP +6 Ranged Accuracy +5 Ranged Attack +6,none
+Mohbwa Scarf,40,All Jobs,DEF: 1 MP +5 INT +1 MND +1,none
+Mohbwa Scarf +1,40,All Jobs,DEF: 2 MP +6 INT +2 MND +2,none
+Yinyang Lorgnette,40,WHM / BLM / SMN / PUP,DEF: 1 Enhancing Magic skill +1 Enfeebling Magic skill +1,none
+Clay Amulet,42,All Jobs,DEF: 4 +11,none
+Blue Gorget,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 5 -3 Evasion +1,none
+Carapace Gorget,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Auditory Torque,47,All Jobs,DEF: 5 Latent effect: STR +4 VIT +4,none
+Promise Badge,48,All Jobs,DEF: 3 HP +10 MND +5,none
+Mythril Gorget,49,WAR / PLD / DRK,DEF: 5,none
+Noble's Gorget,49,WAR / PLD / DRK,DEF: 6,none
+Nodowa,49,MNK / SAM / NIN,DEF: 4,none
+Nodowa +1,49,MNK / SAM / NIN,DEF: 5 VIT +1,none
+Wing Gorget,49,WAR / PLD / DRK,"DEF: 5 Enchantment: ""Regain"" +50",none
+Temple Knight Army Collar,50,WAR / PLD / DRK / BST / SAM / NIN,DEF: 8 MND +1 Accuracy +3 Evasion +2,"Defense increased by 3
+Accuracy +3 added."
+Royal Knight Army Collar,50,WAR / PLD / DRK / BST / SAM / NIN,DEF: 5 STR +2 VIT +2 Attack +2,"STR increased by 1
+VIT +2 added.
+Attack +2 added.
+Evasion +2 removed."
+Moon Amulet,50,All Jobs,22,none
+Parade Gorget,50,PLD / DRK,"DEF: 5 MP +10 Latent effect: Adds ""Refresh"" effect",none
+Beak Necklace,50,All Jobs,DEF: 4 MP +20 MP recovered while healing +1,none
+Beak Necklace +1,50,All Jobs,DEF: 5 MP +22 MP recovered while healing +2,none
+Benign Necklace,50,All Jobs,DEF: 2 Enmity -2,none
+Elemental Charm,50,All Jobs,36,none
+Hateful Collar,50,All Jobs,DEF: 6 Enmity +1,none
+Intellect Torque,50,All Jobs,DEF: 4 INT +2,none
+Storm Gorget,50,All Jobs,DEF: 4 DEX +2 AGI -2 Attack +6,none
+Storm Muffler,50,All Jobs,"DEF: 1 Assault: Adds ""Regen"" effect",none
+Storm Torque,50,All Jobs,DEF: 1 Assault: Evasion +7,none
+Ashura Necklace,54,All Jobs,DEF: 1 STR +1 DEX +1 VIT +1 AGI +1,none
+Pachamac's Collar,54,All Jobs,DEF: 2 HP and MP recovered while healing +2,HP/MP+10 & hp and mp recovered while healing +2 instead of +1
+Royal Guard's Collar,55,WAR / PLD / DRK / BST / SAM / NIN,DEF: 6 Accuracy +4 Attack +4,none
+Republican Mythril Medal,55,All Jobs,MP +12 INT +2,Now has INT +2.
+Checkered Scarf,55,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 4 HP -12 INT +2 HP recovered while healing +1 MP recovered while healing +1,"HP -12 instead of HP +12.
+New stat of INT +2 added.
+New stat of HP recovered while healing +1 added.
+New stat of MP recovered while healing +1 added."
+Iron Musketeer's Gorget,55,WAR / PLD / DRK,DEF: 7 HP +15 VIT +1 Accuracy +3,Accuracy +3
+Reraise Gorget,56,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,"DEF: 5 Accuracy +3 Ranged Accuracy +3 Enchantment: ""Reraise II""",none
+Coral Gorget,56,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 5 Accuracy +3 Ranged Accuracy +3,none
+Merman's Gorget,56,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 7 Accuracy +5 Ranged Accuracy +5,none
+Ajari Necklace,58,WHM / SMN,AGI +2 MND +6,none
+Stoneskin Torque,58,All Jobs,"DEF: 4 INT +1 MND +1 CHR +1 Enchantment: ""Stoneskin""",none
+Torque,58,All Jobs,DEF: 4 INT +1 MND +1 CHR +1,none
+Torque +1,58,All Jobs,DEF: 5 INT +2 MND +2 CHR +2,none
+Star Necklace,59,All Jobs,DEF: 1 CHR +3 Converts 15 HP to MP,none
+Spectacles,59,MNK / WHM / RDM / THF / BST / BRD / RNG / SAM / NIN / BLU / COR,DEF: 2 -7 Accuracy +7 Ranged Accuracy +7,none
+Chivalrous Chain,60,All Jobs,"DEF: 4 STR +3 Accuracy +5 ""Store TP"" +1",none
+Enlightened Chain,60,All Jobs,INT +3 MND +2,none
+Fortified Chain,60,All Jobs,DEF: 4 Evasion Skill +3 Shield Skill +3 Parrying Skill +3,none
+Grandiose Chain,60,All Jobs,HP +10 MP +10 HP recovered while healing +2 MP recovered while healing +2,none
+Tempered Chain,60,All Jobs,DEF: 8 HP +20,none
+Philomath Stole,61,BLM / RDM / BRD / BLU / PUP,INT +3,none
+Opo-opo Necklace,61,All Jobs,DEX +1  +3 While asleep: Raises TP,none
+Coeurl Gorget,61,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5,none
+Torama Gorget,61,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6,none
+Uggalepih Necklace,61,All Jobs,,none
+Darksteel Nodowa,63,SAM,DEF: 6,none
+Darksteel Nodowa +1,63,SAM,DEF: 7,none
+Spider Torque,64,All Jobs,Enfeebling Magic Skill +5,none
+Divine Torque,65,All Jobs,#ERROR!,
+Republican Gold Medal,65,All Jobs,In areas outside own nation's control: MP +50,none
+Dark Torque,65,All Jobs,#ERROR!,none
+Elemental Torque,65,All Jobs,#ERROR!,none
+Enfeebling Torque,65,All Jobs,#ERROR!,none
+Enhancing Torque,65,All Jobs,#ERROR!,none
+Evasion Torque,65,All Jobs,HP +7 Evasion Skill +7,none
+Grand Temple Knight's Collar,65,All Jobs,In areas outside own nation's control: DEF: 7 Accuracy +5 Attack +5,none
+Guarding Torque,65,All Jobs,HP +7 Guarding Skill +7,none
+Healing Torque,65,All Jobs,#ERROR!,none
+Lieutenant's Gorget,65,All Jobs,Accuracy +4 Magic Accuracy +2 Enmity -1,none
+Merrow No. 17's Locket,65,All Jobs,"DEF: 2 MP +10 +30 Enhances ""Resist Charm"" effect",none
+Ninjutsu Torque,65,All Jobs,#ERROR!,none
+Parrying Torque,65,All Jobs,HP +7 Parrying Skill +7,none
+Purgatory Collar,65,WHM / BLM / SMN / PUP,"Enchantment: ""Conserve MP""",none
+Shield Torque,65,All Jobs,HP +7 Shield Skill +7,none
+String Torque,65,All Jobs,#ERROR!,none
+Summoning Torque,65,All Jobs,#ERROR!,none
+Wind Torque,65,All Jobs,#ERROR!,none
+Windurstian Scarf,65,All Jobs,In areas outside own nation's control: DEF: 7 HP +15 Evasion +7,none
+Darksteel Gorget,67,PLD / DRK,DEF: 10 MP +5 STR -1 MND +3  +2  +2,none
+Darksteel Gorget +1,67,PLD / DRK,DEF: 11 MP +6 STR -1 MND +4  +3  +3,none
+Sniper's Collar,69,All Jobs,"Ranged Accuracy +6 Ranged Attack +5 Enmity -1 ""Subtle Blow"" +1",none
+Nanaa's Lucky Charm,70,THF,"Accuracy +3 ""Treasure Hunter""+1",This is a HorizonXI custom item.
+Chanoix's Gorget,70,All Jobs,Accuracy +2 Wyvern: HP +50,none
+Diabolos's Torque,70,All Jobs,"Ranged Accuracy +8 ""Dark Weather"": Ranged Accuracy -8 Ranged Attack +8",none
+Fenrir's Torque,70,All Jobs,Daytime: MP +30 Nighttime: Enmity -3,none
+Jeweled Collar,70,All Jobs,60,none
+Jeweled Collar +1,70,All Jobs,STR +1 DEX +1 VIT +1 AGI +1 INT +1 MND +1 +10 +10 +10 +10 +10 +10,none
+Kubira Beads,70,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 STR +4 DEX +4 Damage taken +5%,none
+Morgana's Choker,70,All Jobs,STR -2 DEX -2 MND +5 Converts 40 HP to MP,none
+Ritter Gorget,70,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 HP +25 Evasion +5 Enmity +3,none
+Uggalepih Pendant,70,All Jobs,"MP +20 Latent effect: ""Magic Atk. Bonus""",none
+Wivre Gorget,70,All Jobs,DEF: 8 Accuracy +5 Ranged Accuracy +5,none
+Wivre Gorget +1,70,All Jobs,DEF: 9 Accuracy +6 Ranged Accuracy +6,none
+Oscar Scarf,71,All Jobs,CHR -9 Enchantment: Slightly Bad Breath,none
+Brisingamen,71,All Jobs,DEF: 3 Attributes change depending on hour and day,none
+Brisingamen +1,71,All Jobs,DEF: 4 Attributes change depending on hour and day,none
+Sacrifice Torque,71,SMN,Latent effect: Enhances avatar attack,none
+Shark Necklace,71,WHM / BLM / RDM / PLD / DRK / SMN / BLU,"Latent effect: Adds ""Regen"" effect",none
+Flame Gorget,72,All Jobs,Latent effect: Increases weapon skill accuracy and damage,none
+Soil Gorget,72,All Jobs,Latent effect: Increases weapon skill accuracy and damage,none
+Aqua Gorget,72,All Jobs,Latent effect: Increases weapon skill accuracy and damage,none
+Breeze Gorget,72,All Jobs,Latent effect: Increases weapon skill accuracy and damage,none
+Snow Gorget,72,All Jobs,Latent effect: Increases weapon skill accuracy and damage,none
+Thunder Gorget,72,All Jobs,Latent effect: Increases weapon skill accuracy and damage,
+Light Gorget,72,All Jobs,Latent effect: Increases weapon skill accuracy and damage,none
+Shadow Gorget,72,All Jobs,Latent effect: Increases weapon skill accuracy and damage,
+Harmonia's Torque,72,All Jobs,DEF: 7 STR +2 VIT -5 Enmity +3,none
+Justice Torque,73,All Jobs,STR +5 Scythe Skill +7 Great Katana +7,none
+Prudence Torque,73,All Jobs,INT +5 Great Sword skill +7 Club skill +7,none
+Love Torque,73,All Jobs,DEX +5 Dagger skill +7 Polearm skill +7,none
+Fortitude Torque,73,All Jobs,VIT +5 Sword Skill +7 Great Axe Skill +7,none
+Temperance Torque,73,All Jobs,CHR +5 Axe Skill +7 Staff Skill +7,none
+Ace's Locket,74,DRK / SAM / DRG,"Latent effect: ""Counter"" +5",none
+Almah Torque,74,All Jobs,"""Store TP"" +2 ""Subtle Blow"" +2",none
+Qiqirn Collar,74,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 Accuracy -4 Attack -4 Ranged Accuracy +4 Ranged Attack +8,none
+9999's Broken Collar,75,WHM / BLM / RDM,"""Double Attack"" +2%",This is a Custom HorizonXI item.
+Dream Collar,75,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"""Triple Attack"" +2%",This is a Custom HorizonXI item.
+Berserker's Torque,75,WAR / PLD / DRK / SAM / DRG,"Latent effect: ""Regain"" +10",none
+Chi Necklace,75,All Jobs,"MP +20 Salvage: ""Conserve MP"" +2 Divine magic skill +3",none
+Colossus's Torque,75,All Jobs,#ERROR!,none
+Kappa Necklace,75,All Jobs,"Ranged Attack +8 Salvage: Adds ""Recycle"" effect ""Ninja Tool Expertise""",none
+Mu Necklace,75,All Jobs,Evasion +5 Salvage: Shield skill +3 Parrying skill +3,none
+Orochi Nodowa,75,All Jobs,"DEF: 1 Attack +6 Enhances ""Resist Poison"" effect Adds ""Regen"" effect",none
+Orochi Nodowa +1,75,All Jobs,"DEF: 2 Attack +7 Enhances ""Resist Poison"" effect Adds ""Regen"" effect",
+Phi Necklace,75,All Jobs,MP recovered while healing +3 Salvage: Healing Magic Skill +3 Enfeebling Magic Skill +3,none
+Rho Necklace,75,All Jobs,DEF: 10 HP +30 Salvage: DEF: 20 Summoning Magic skill +3,none
+Sushomi's Beginners Guide to Healing,{{{level}}},All Jobs,None,

@@ -1,0 +1,215 @@
+Name,Level,Slot,Jobs,Stats,Horizon Changes
+White Belt,1,Waist,MNK,STR +1,
+Alchemist's Belt,1,Waist,All Jobs,Enchantment: Synthesis Image Support,none
+Fisherman's Belt,1,Waist,All Jobs,Enchantment: Fishing Support,none
+Gyokuto Obi,1,Waist,All Jobs,Enchantment: Costume,
+Rabbit Belt,1,Waist,All Jobs,Enchantment: Costume,
+Culinarian's Belt,1,Waist,All Jobs,Enchantment: Synthesis Image Support,
+Blacksmith's Belt,1,Waist,All Jobs,Enchantment: Synthesis image support,none
+Blood Stone,1,Waist,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,HP +5,none
+Blood Stone +1,1,Waist,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,HP +7,none
+Bolt Belt,1,Waist,WAR / DRK / RNG,Dispense: Bronze Bolt,none
+Boneworker's Belt,1,Waist,All Jobs,Enchantment: Synthesis image support,none
+Carpenter's Belt,1,Waist,All Jobs,Enchantment: Synthesis Image Support,none
+Goldsmith's Belt,1,Waist,All Jobs,Enchantment: Synthesis Image Support,none
+Little Worm Belt,1,Waist,All Jobs,Dispense: Little Worm,none
+Lugworm Belt,1,Waist,All Jobs,Dispense: Lugworm,none
+Pellet Belt,1,Waist,WAR / MNK / WHM / BLM / THF / DRK / BST / BRD / RNG / NIN / DRG / SMN,Dispense: Pebble,none
+Tanner's Belt,1,Waist,All Jobs,Enchantment: Synthesis Image Support,none
+Weaver's Belt,1,Waist,All Jobs,Enchantment: Synthesis Image Support,none
+Worm Belt,1,Waist,All Jobs,None,
+Augmenting Belt,7,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 2 Enchantment: HP recovered while healing +2,none
+Leather Belt,7,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 1,none
+Leather Belt +1,7,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Heko Obi,8,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP / SCH / GEO / RUN,DEF: 1,
+Heko Obi +1,8,Waist,MNK / WHM / BLM / RDM / PLD / BRD RNG / SMN / BLU / PUP,DEF: 2 Spell interruption rate down 8%,none
+Talisman Obi,8,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 1 Enchantment: MP +12 Enmity -2,none
+Plate Belt,12,Waist,WAR / PLD / DRK,DEF: 2,
+Friar's Rope,14,Waist,All Jobs,DEF: 2 MP +5 MND +1 +2 +2,none
+Warrior's Belt,15,Waist,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 1 HP +3 VIT +2,none
+Warrior's Belt +1,15,Waist,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 2 HP +4 VIT +3,none
+Lizard Belt,17,Waist,All Jobs,DEF: 2,none
+Lizard Belt +1,17,Waist,All Jobs,DEF: 3,none
+Brave belt,18,Waist,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 3 STR +2 DEX -1 VIT +2 AGI -1,
+Acrobat's Belt,18,Waist,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 2 STR +1 DEX -1 VIT +1 AGI -1 Enchantment: AGI +3,none
+Barbarian's Belt,18,Waist,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 2 STR +1 DEX -1 VIT +1 AGI -1,none
+Brave Belt,18,Waist,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 3 STR +2 DEX -1 VIT +2 AGI -1,none
+Magic Belt,18,Waist,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 2 MP +3,none
+Magic Belt +1,18,Waist,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 3 MP +5,none
+Purple Belt,18,Waist,MNK,DEF: 2 STR +3 Haste +4%,none
+Runner's Belt,18,Waist,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 2 STR +1 DEX -1 VIT +1 AGI -1 Enchantment: DEX +3,none
+Samsonian Belt,18,Waist,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 2 STR +1 DEX -1 VIT +1 AGI -1 Enchantment: STR +3,none
+Tough Belt,18,Waist,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 2 STR +1 DEX -1 VIT +1 AGI -1 Enchantment: VIT +3,none
+Silver Obi,20,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP /,DEF: 2,
+Mohbwa Sash,20,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 2 MP +10 MP recovered while healing +1,none
+Mohbwa Sash +1,20,Waist,MNK / WHM / BLM / RDM / PLD / BRD RNG / SMN / BLU / PUP,DEF: 3 MP +12 MP recovered while healing +2,none
+Silver Obi +1,20,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 3 Spell interruption rate down 8%,none
+Chain Belt,24,Waist,WAR / PLD / DRK / BST / SAM / NIN,DEF: 3,
+Force Belt,27,Waist,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 3 HP +3 MP +3,none
+Shaman's Belt,28,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 2 MP +5 INT +1,none
+Healer's Belt,30,Waist,All Jobs,Latent effect: Enmity -2,"Renamed from Mace Belt to Healer's Belt
+Enmity -2 instead of Club Skill +5"
+Axe Belt,30,Waist,All Jobs,Latent effect: Great Axe Skill +5,
+Wizard's Belt,30,Waist,All Jobs,Latent effect: INT +2,"Formerly known as ""Staff Belt"" in era.
+INT +2 instead of Staff Skill +5"
+Pilferer's Belt,30,Waist,All Jobs,Latent effect: Accuracy +3,"Formerly known as ""Dagger Belt"" in era.
+Accuracy +3 instead of Dagger Skill +5"
+Shield Belt,30,Waist,All Jobs,"Latent effect: Enhances ""Shield Mastery""",Enhances Shield Mastery instead of Shield Skill +5
+Song Belt,30,Waist,All Jobs,Latent effect: Madrigal +1,Madrigal +1 instead of Singing Skill +5
+Warlock's Belt,30,Waist,All Jobs,Latent effect: Enspell Damage +3,"Formerly known as ""Rapier Belt"" in era.
+Has the new stat of Enspell Damage +3 instead of Sword Skill +5"
+Wyvern Belt,30,Waist,All Jobs,Latent effect: Haste +2%,"Formerly known as ""Lance Belt"" in era.
+Haste +2% instead of Polearm Skill +5"
+Pick Belt,30,Waist,All Jobs,Latent effect: Axe skill +5,none
+Cestus Belt,30,Waist,All Jobs,Latent effect: Hand-to-Hand skill +5,none
+Mercenary Captain's Belt,30,Waist,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 3 DEX +1 VIT +1 AGI +1 INT +1 MND +1 CHR +1,none
+Avatar Belt,30,Waist,All Jobs,Latent effect: Avatar perpetuation cost -2,none
+Gun Belt,30,Waist,All Jobs,Latent effect: Marksmanship Skill +5,none
+Katana Obi,30,Waist,All Jobs,"Latent effect: ""Store TP"" +1",none
+Sarashi,30,Waist,All Jobs,"Latent effect: Enhances ""Dual Wield"" effect",none
+Scythe Belt,30,Waist,All Jobs,Latent effect: Scythe Skill +5,none
+Hojutsu Belt,32,Waist,WHM / BLM / RDM / BRD / SMN,DEF: 2 MP +10,none
+Silver Belt,32,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3,none
+Silver Belt +1,32,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Deductive Gold Obi,34,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 3 Enchantment: MND +3,none
+Enthralling Gold Obi,34,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 3 Enchantment: CHR +3,none
+Gold Obi,34,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 3,none
+Gold Obi +1,34,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 4 Spell interruption rate down 8%,none
+Sagacious Gold Obi,34,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 3 Enchantment: INT +3,none
+Tathlum Belt,35,Waist,WAR/MNK/WHM/BLM/THF/DRK/ BST/BRD/RNG/NIN/DRG/SMN,DEF: +3 Dispense: Tathlum,none
+Survival Belt,38,Waist,MNK / WHM / RDM / THF / BST / BRD / RNG / SAM / NIN / BLU / COR,DEF: 3 HP +17 Evasion +5,none
+Oracle's Belt,39,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 3 MP +7 MND +1,none
+Brown Belt,40,Waist,MNK,DEF: +3 STR +5 Haste +8%,none
+Tilt Belt,40,Waist,All Jobs,DEF: 3 Accuracy +5 Evasion -5,none
+Mantra Belt,40,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP / SCH / GEO / RUN,DEF: 3 STR -1 INT +1 MND +1 Converts 10 MP to HP,
+Corsette,40,Waist,All Jobs,DEF: 4 STR -2 AGI -2 CHR +5,none
+Corsette +1,40,Waist,All Jobs,DEF: 5 STR -1 AGI -1 CHR +6,none
+Druid's Rope,40,Waist,WHM / BLM / RDM / BRD / RNG / NIN / SMN / BLU / PUP,DEF: 3 INT +1 MND +1 CHR +1 Spell interruption rate down 10%,none
+Haste Belt,40,Waist,WAR / PLD / DRK,"DEF: 4 Enchantment: ""Haste""",none
+Qiqirn Sash,40,Waist,MNK / WHM / BLM / RDM / PLD / BRD RNG / SMN / BLU / PUP,DEF: 4 MP +12 MP recovered while healing +2,none
+Qiqirn Sash +1,40,Waist,MNK / WHM / BLM / RDM / PLD / BRD RNG / SMN / BLU / PUP,DEF: 5 MP +14 MP recovered while healing +3,none
+Waistbelt,40,Waist,WAR / PLD / DRK,DEF: 4,none
+Waistbelt +1,40,Waist,WAR / PLD / DRK,DEF: 5,none
+Reverend Sash,41,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,INT +2 MND +2 CHR +2 MP recovered while healing +1,
+Quick Belt,41,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,HP -14 Haste +2%,none
+Adept's Rope,42,Waist,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 3 HP +8 MP +8,none
+Swordbelt,43,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4 Attack +10,none
+Swordbelt +1,43,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 Attack +12,none
+Powerful Rope,44,Waist,All Jobs,HP +20 MP +20,none
+Vanguard Belt,45,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 STR +3 Attack +5,none
+Brocade Obi,46,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 4,none
+Brocade Obi +1,46,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 5 Spell interruption rate down 8%,none
+Life Belt,48,Waist,All Jobs,Accuracy +10,none
+Royal Knight's Belt,50,Waist,WAR / RDM / THF / PLD / DRK / BST BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 STR +2 DEX +2 AGI +2 INT +2 MND +2 CHR +2,none
+Swift Belt,50,Waist,All Jobs,Accuracy +3 Attack -5 Haste +4%,
+Forest Stone,50,Waist,All Jobs,DEF: 1 MP +40 DEX -5 AGI +2 INT +3,none
+Jungle Belt,50,Waist,All Jobs,DEF: 4 HP +30 STR +3 VIT +2 INT -5,none
+Jungle Stone,50,Waist,All Jobs,DEF: 2 MP +30 AGI -5 INT +2 MND +3,none
+Storm Belt,50,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4 STR +4 VIT +4 Assault: Accuracy +15,none
+Storm Sash,50,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 3 MP +20 Assault: INT +6 MND +6,none
+Ocean Belt,50,Waist,All Jobs,DEF: 4 HP +30 STR +3 DEX +2 VIT -5,none
+Forest Belt,50,Waist,All Jobs,DEF: 5 HP +20 DEX +3 AGI +2 MND -5,none
+Steppe Belt,50,Waist,All Jobs,DEF: 3 HP +40 STR +2 VIT +3 INT -5,none
+Desert Belt,50,Waist,All Jobs,DEF: 5 HP +20 STR +2 AGI +3 INT -5,none
+Ocean Stone,50,Waist,All Jobs,DEF: 2 MP +30 STR -5 INT +3 MND +2,none
+Steppe Stone,50,Waist,All Jobs,DEF: 3 MP +20 STR -5 VIT +2 MND +3,none
+Desert Stone,50,Waist,All Jobs,DEF: 1 MP +40 DEX -5 INT +3 CHR +2,none
+Astral Rope,51,Waist,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 5 Converts 15 HP to MP Enmity +2,none
+Royal Knight's Belt +1,52,Waist,WAR / RDM / THF / PLD / DRK / BST BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6 STR +2 DEX +2 AGI +2 INT +2 MND +2 CHR +2 In areas under own nation's control: Ranged Attack +5,
+Royal Knight's Belt +2,52,Waist,WAR / RDM / THF / PLD / DRK / BST BRD / RNG / SAM / NIN / DRG / BLU / COR /,DEF: 7 STR +2 DEX +2 AGI +2 INT +2 MND +2 CHR +2 In areas under own nation's control: Ranged Attack +6,none
+Twinthread Obi,52,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,"DEF: 4 MND +2 Enhances ""Resist Poison"" effect",none
+Twinthread Obi +1,52,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,"DEF: 5 MND +3 Spell interruption rate down 8% Enhances ""Resist Poison"" effect",none
+Flagellant's Rope,53,Waist,All Jobs,DEF: 4 AGI +1 +3 While paralyzed: Haste +8%,
+Speed Belt,55,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,Haste +5%,"Haste +5% instead of Haste +6% (see Sonic Belt).
+Can be obtained from the KSNMs Horns of War and The Hills Are Alive."
+Grace Corset,58,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 2 MP +22 AGI +3 MND +3,none
+Master Belt,58,Waist,WAR / PLD / DRK / BST / DRG,DEF: 6 Accuracy +5 Attack +5,none
+Penitent's Rope,60,Waist,WHM / BLM / RDM / BRD / SMN / BLU,DEF: 4 HP -20 INT +5 MND +5 Enmity -3,
+Iron Musketeer's Quiver,60,Waist,All Jobs,Dispense: Iron Musketeer's Bolt,"This is a custom item, replacing Gold Musketeer's Bolt, which is no longer available."
+Bitter Corset,60,Waist,WHM / BLM / RDM / BRD / SMN,"Accuracy -20 Evasion -20 ""Slow"" +5% Magic Accuracy -1 ""Magic Atk. Bonus"" +2",none
+Combat Caster's Quiver,60,Waist,All Jobs,Dispense: Combat Caster's Arrow,none
+Gleeman's Belt,60,Waist,BRD,DEF: 5 CHR +6 Accuracy +8,none
+Hurling Belt,60,Waist,All Jobs,DEF: 5 Ranged Accuracy +4 Throwing Skill +5,none
+Lieutenant's Sash,60,Waist,All Jobs,DEF: 5 HP +15 MP +15 Magic damage taken -2% Breath damage taken -2% Enchantment: Removes food effect,none
+Potent Belt,60,Waist,All Jobs,DEF: 5 STR +3 Accuracy +8,none
+Precise Belt,60,Waist,All Jobs,DEF: 5 Accuracy +5 Ranged Accuracy +5,none
+Resolute Belt,60,Waist,All Jobs,"DEF: 5 ""Magic Def. Bonus"" +2 Spell interruption rate down 8%",none
+Spectral Belt,60,Waist,All Jobs,DEF: 5 MP +10 Enmity -4,none
+Temple Knight's Quiver,60,Waist,All Jobs,Dispense: Temple Knight's Arrow,none
+Deductive Brocade Obi,63,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 5 Enchantment: MND +10,none
+Enthralling Brocade Obi,63,Waist,MNK / WHM / BLM / RDM / PLD / BRD RNG / SMN / BLU / PUP,DEF: 5 Enchantment: CHR +10,none
+Prism Obi,63,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 6 Spell interruption rate down 8%,none
+Rainbow Obi,63,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 5,none
+Sagacious Brocade Obi,63,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 5 Enchantment: INT +10,none
+Sonic Belt,65,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 Haste +6%,Synthesis Skill Level of 107 instead of 85
+Earth Belt,65,Waist,All Jobs,DEF: 6 -20 +20 On Earthsday: VIT +3,none
+Fire Belt,65,Waist,All Jobs,DEF: 6  +20  -20 On Firesday: STR +3,none
+Ice Belt,65,Waist,All Jobs,DEF: 6 -20 +20 On Iceday: INT +3,none
+Lightning Belt,65,Waist,All Jobs,DEF: 6 -20 +20 On Lightningday: DEX +3,none
+Mithran Stone,65,Waist,All Jobs,DEF: 5 Accuracy +3 Evasion +3,none
+Sonic Belt +1,65,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4 Haste +6%,none
+Wind Belt,65,Waist,All Jobs,DEF: 6 -20 +20 On Windsday: AGI +3,none
+Water Belt,65,Waist,All Jobs,DEF: 6  +20  -20 On Watersday: MND +3,none
+Arachne Obi,66,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,"DEF: 4 INT +2 Enhances ""Resist Slow"" effect",none
+Arachne Obi +1,66,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,"DEF: 5 INT +3 Spell interruption rate down 8% Enhances ""Resist Slow"" effect",none
+Czar's Belt,67,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 HP +20 CHR +3 Enchantment: VIT +10,none
+Kaiser Belt,67,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 HP +25 CHR +4,none
+Koenigs Belt,67,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 HP +20 CHR +3,none
+Maharaja's Belt,67,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 HP +20 CHR +3 Enchantment: AGI +10,none
+Muscle Belt,67,Waist,WAR / MNK / THF / BST / NIN,"DEF: 7 Evasion -5 Latent effect: Adds ""Regen"" effect ""Counter"" +1",none
+Muscle Belt +1,67,Waist,WAR / MNK / THF / BST / NIN,"DEF: 8 Evasion -6 Latent effect: Adds ""Regen"" effect ""Counter"" +2",none
+Pendragon's Belt,67,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 HP +20 CHR +3 Enchantment: DEX +10,none
+Sultan's Belt,67,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 HP +20 CHR +3 Enchantment: STR +10,none
+Black Belt,70,Waist,MNK,"DEF: 7 STR +7 Haste +12% ""Subtle Blow"" +5 Physical damage taken -5%",
+Sorcerer's Belt,70,Waist,BLM,DEF: 4 HP +20 INT +6 Spell interruption rate down 8%,none
+Wyrm Belt,70,Waist,DRG,DEF: 5 VIT +5 Accuracy +7 Attack +7,none
+Cleric's Belt,70,Waist,WHM,DEF: 4 MP +40 MND +6 MP recovered while healing +3,None
+Duelist's Belt,70,Waist,RDM,DEF: 4 INT +4 MND +4 HP recovered while healing +4 MP recovered while healing +4,
+Saotome Koshi-Ate,70,Waist,SAM,DEF: 4 DEX +5 Accuracy +7 Ranged Accuracy +7,none
+Monster Belt,70,Waist,BST,DEF: 5 CHR +6 Accuracy +7 Enmity -3,
+Scout's Belt,70,Waist,RNG,DEF: 4 AGI +5 Ranged Accuracy +7 Ranged Attack +7,none
+Commodore Belt,70,Waist,COR,DEF: 4 STR +4 Ranged Accuracy +8 Ranged Attack +5,none
+Koga Sarashi,70,Waist,NIN,DEF: 4 Evasion +4 Haste +4% Magic Accuracy +2,none
+Star Sash,70,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 8 MP +15 Spell interruption rate down -8%,none
+Tarutaru Sash,70,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 7 MP +10 Spell interruption rate down 6%,none
+Tempest Belt,70,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,VIT +1 Windy weather: Haste +6%,none
+Volunteer's Belt,70,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,"DEF: 7 Spell interruption rate down 8% Besieged:: ""Conserve MP"" +5",none
+Ocean Sash,70,Waist,All Jobs,DEF: 6 HP +45 STR +4 INT -4,none
+Jungle Sash,70,Waist,All Jobs,DEF: 6 HP +45 STR +4 MND -4,none
+Steppe Sash,70,Waist,All Jobs,DEF: 5 HP +60 VIT +4 MND -4,none
+Desert Sash,70,Waist,All Jobs,DEF: 7 HP +30 AGI +4 INT -4,none
+Forest Sash,70,Waist,All Jobs,DEF: 7 HP +30 DEX +4 INT -4,none
+Ocean Rope,70,Waist,All Jobs,DEF: 4 MP +45 STR -4 INT +4,
+Jungle Rope,70,Waist,All Jobs,DEF: 4 MP +45 DEX -4 INT +4,
+Steppe Rope,70,Waist,All Jobs,DEF: 5 MP +30 STR -4 MND +4,
+Desert Rope,70,Waist,All Jobs,DEF: 3 MP +60 VIT -4 INT +4,
+Forest Rope,70,Waist,All Jobs,DEF: 32 MP +60 DEX -4 INT +4,
+Karin Obi,71,Waist,All Jobs,DEF: 7 Gain Full Effect of Firesday/Fire Weather Bonuses,
+Dorin Obi,71,Waist,All Jobs,DEF: 7 Gain Full Effect of Earthsday/Earth Weather Bonuses,
+Suirin Obi,71,Waist,All Jobs,DEF: 7 Gain full benefit of Watersday/Water Weather bonuses,
+Hyorin Obi,71,Waist,All Jobs,DEF: 7 Gain Full Effect of Iceday/Ice Weather Bonuses,
+Rairin Obi,71,Waist,All Jobs,DEF: 7 Gain Full Effect of Lightningday/Lightning Weather Bonuses,
+Korin Obi,71,Waist,All Jobs,DEF: 7 Gain Full Effect of Lightsday/Light Weather Bonuses,
+Anrin Obi,71,Waist,All Jobs,DEF: 7 Gain full benefit of Darksday/dark weather bonuses,
+Al Zahbi Sash,71,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 4 MP +15 INT +2 MND +2 CHR +2 Spell interruption rate down 6%,none
+Corsair's Belt,71,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4 Ranged Accuracy +3 Ranged Attack +3,none
+Hierarch Belt,71,Waist,WHM / BLM / RDM / PLD / DRK / SMN / BLU,DEF: 3 MP +48 HP recovered while healing +2 MP recovered while healing +2,none
+Marid Belt,71,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 HP +22 DEX +2 VIT +5 HP recovered while healing +1,none
+Marid Belt +1,71,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 HP +24 DEX +3 VIT +5 HP recovered while healing +2,none
+Moon Sash,71,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 5 MP +17 INT +3 MND +3 CHR +3 Spell interruption rate down 8%,none
+Venturer's Belt,71,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 HP +12 Attack +5 Ranged Attack +5,none
+Warwolf Belt,71,Waist,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 6 STR +5 DEX +5 VIT +5 Enmity +3,none
+Furin Obi,71,Waist,All Jobs,DEF: 7 Gain full benefit of Windsday/Wind Weather bonuses,
+Immortal's Sash,72,Waist,WHM / BLM / RDM / BRD / SMN / BLU,DEF: 3 MP +25 INT +3 Enmity -1,none
+Trance Belt,72,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 HP +14 Enmity +4,none
+Scouter's Rope,73,Waist,MNK / WHM / RDM / THF / BST / BRD / RNG / SAM / NIN / BLU / COR / DNC / RUN,DEF: 6 HP -40 AGI +4 Evasion +10,
+Sprinter's Belt,75,Waist,All Jobs,Haste +5%,This is a custom Horizon item.
+Buccaneer's Belt,75,Waist,All Jobs,DEF: 4 STR +4 Ranged Accuracy +7 Enmity -4,none
+Ksi Sash,75,Waist,MNK / WHM / BLM / RDM / PLD / BRD RNG / SMN / BLU / PUP,"DEF: 4 INT +5 MND +5 Salvage: ""Magic Atk. Bonus"" +2 Blue Magic skill +3",none
+Lambda Sash,75,Waist,MNK / WHM / BLM / RDM / PLD / BRD RNG / SMN / BLU / PUP,"DEF: 4 MP +48 Salvage: ""Cure"" potency +3% String Instrument skill +3",none
+Ninurta's Sash,75,Waist,All Jobs,"DEF: 6 Attack +6 Haste +6% ""Subtle Blow"" +6 Spell interruption rate down 6%",none
+Nu Sash,75,Waist,WAR / RDM / THF / PLD / DRK / BST BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 6 Accuracy +10 Salvage: ""Subtle Blow"" +5",none
+Theta Sash,75,Waist,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 4 Enmity -5 Salvage: Elemental Magic Skill +3 Dark Magic Skill +3,none
+Zeta Sash,75,Waist,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6 Attack +10 Salvage: Increases rate of critical hits,none
+Chain Belt +1,{{{level}}},{{{slot}}},All Jobs,None,
+Nebimonite Belt,{{{level}}},{{{slot}}},All Jobs,None,

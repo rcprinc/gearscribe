@@ -1,0 +1,544 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Aern Dagger,1,1,180,0.33,,All Jobs
+Aern Dagger II,1,1,180,0.33,,All Jobs
+Bronze Dagger,1,3,183,0.98,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Bronze Dagger +1,1,4,178,1.35,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Bronze Knife,1,5,195,1.23,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Bronze Knife +1,1,6,189,1.59,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Ceremonial Dagger,1,1,183,0.33,MP+10,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Chicken Knife II,1,1,200,0.3,,All Jobs
+Esikuva,1,1,180,0.33,,All Jobs
+Infiltrator,1,1,999,0.06,,All Jobs
+Norgish Dagger,1,1,180,0.33,,All Jobs
+Onion Dagger,1,3,193,0.93,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Onion Knife,1,5,205,1.17,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Qutrub Knife,1,1,180,0.33,,All Jobs
+Rusty Dagger,1,3,183,0.98,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Trainee Knife,1,1,200,0.3,Latent effect: Cooking skill +1,All Jobs
+Trainee's Needle,1,1,200,0.3,"Latent effect:
+Leathercraft skill +1",All Jobs
+Wind Knife,1,1,195,0.31,,All Jobs
+Wind Knife +1,1,2,189,0.63,"Additional effect: Wind damage
+Enchantment: ""Aero""
+<1/1 0:30/[10:00, 0:30]>",All Jobs
+Beestinger,7,5,150,2,DEX+1 AGI+1,RDM / THF / BRD / RNG / NIN
+Blind Dagger,7,4,188,1.28,Additional effect: Blindness,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Blind Dagger +1,7,5,183,1.64,Additional effect: Blindness,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Blind Knife,7,5,201,1.19,Additional effect: Blindness,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Blind Knife +1,7,6,195,1.54,Additional effect: Blindness,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Brass Dagger,9,5,183,1.64,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Brass Dagger +1,9,6,178,2.02,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Piercing Dagger,9,5,183,1.64,"Enchantment: Attack+3
+<50/50 0:30/[30:00, 0:30]>","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Aspir Knife,12,5,201,1.49,Additional effect: MP Drain,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Dagger,12,7,183,2.3,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Dagger +1,12,8,178,2.7,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Hushed Dagger,12,6,188,1.91,"Additional effect: Silence
+Enchantment: ""Ensilence""
+<15/15 0:30/[10:00, 0:30]>","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Silence Dagger,12,6,188,1.91,Additional effect: Silence,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Silence Dagger +1,12,7,183,2.3,Additional effect: Silence,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Spark Dagger,12,7,183,2.3,"Additional effect with battery
+equipped: Lightning damage","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Spark Dagger +1,12,8,178,2.7,"Additional effect with battery
+equipped: Lightning damage","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Knife,13,9,195,2.46,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Knife +1,13,10,189,2.86,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Baselard,18,8,186,2.58,,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Baselard +1,18,9,181,2.98,,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Burnite Shell,19,9,207,2.61,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Decurion's Dagger,20,10,178,3.37,Accuracy+2,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Kukri,20,10,200,3,,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Kukri +1,20,11,194,3.4,,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Mercenary's Knife,20,11,190,3.47,Accuracy+2,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Platoon Dagger,20,8,150,3.2,,RDM / THF / BRD / RNG / NIN
+Poison Baselard,20,8,191,2.51,Additional effect: Poison,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Poison Dagger,20,8,183,2.62,Additional effect: Poison,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Poison Dagger +1,20,9,178,3.03,Additional effect: Poison,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Python Baselard,20,9,186,2.9,Additional effect: Poison,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Poison Knife,21,9,201,2.69,Additional effect: Poison,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Poison Knife +1,21,10,195,3.08,Additional effect: Poison,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Acid Dagger,23,10,183,3.28,Additional effect: Weakens defense,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Corrosive Dagger,23,11,178,3.71,Additional effect: Weakens defense,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Melt Dagger,23,10,183,3.28,"Additional effect: Weakens defense
+Enchantment: Weakens defense
+<15/15 0:30/[10:00, 0:30]>","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Mythril Dagger,23,10,183,3.28,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Mythril Dagger +1,23,11,178,3.71,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Poison Kukri,24,10,206,2.91,Additional effect: Poison,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Poison Kukri +1,24,11,200,3.3,Additional effect: Poison,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Ranging Knife,24,7,195,2.15,Ranged Accuracy+6,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Ranging Knife +1,24,8,190,2.53,Ranged Accuracy+7,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Bastokan Dagger,25,11,173,3.82,"Accuracy+2
+Evasion+2","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Federation Knife,25,13,180,4.33,"Accuracy+2
+Attack+5","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Parrying Knife,25,11,195,3.38,Parrying skill +10,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Republic Dagger,25,12,168,4.29,"Accuracy+2
+Evasion+3","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Windurstian Knife,25,12,185,3.89,"Accuracy+2
+Attack+3","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Kris,27,11,192,3.44,,BLM / SMN
+Kris +1,27,12,187,3.85,,BLM / SMN
+Archer's Knife,28,11,195,3.38,"AGI+1
+Ranged Accuracy+10","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Hawker's Knife,30,12,195,3.69,"AGI+2 CHR+2
+Ranged Accuracy+11",BST / RNG
+Hawker's Knife +1,30,13,190,4.11,"AGI+3 CHR+3
+Ranged Accuracy+12",BST / RNG
+Mrc.Cpt. Kukri,30,13,194,4.02,Accuracy+3,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Ryl.Sqr. Dagger,30,12,181,3.98,Accuracy+3,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Sleep Dagger,30,10,183,3.28,Additional effect: Sleep,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Thug's Jambiya,30,13,201,3.88,DEX+1,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Thug's Jambiya +1,30,14,194,4.33,DEX+2,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Acid Knife,31,12,195,3.69,Additional effect: Weakens defense,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Corrosive Knife,31,13,190,4.11,Additional effect: Weakens defense,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Melt Knife,31,12,195,3.69,"Additional effect: Weakens defense
+Enchantment: Weakens defense
+<15/15 0:30/[10:00, 0:30]>","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Mythril Knife,31,12,195,3.69,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Mythril Knife +1,31,13,190,4.11,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Acid Kukri,34,14,200,4.2,Additional effect: Weakens defense,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Corrosive Kukri,34,15,194,4.64,Additional effect: Weakens defense,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Federation Kukri,34,15,182,4.95,"Accuracy+3
+In areas outside own nation's control:
+Attack+7","WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Kingdom Dagger,34,14,171,4.91,"Accuracy+3
+In areas outside own nation's control:
+AGI+2","WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Melt Kukri,34,14,200,4.2,"Additional effect: Weakens defense
+Enchantment: Weakens defense
+<15/15 0:30/[10:00, 0:30]>","WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Mythril Kukri,34,14,200,4.2,,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Mythril Kukri +1,34,15,194,4.64,,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+San. Dagger,34,13,176,4.43,"Accuracy+3
+In areas outside own nation's control:
+AGI+1","WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Windurstian Kukri,34,14,188,4.47,"Accuracy+3
+In areas outside own nation's control:
+Attack+5","WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Fine Baselard,36,14,181,4.64,,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Mythril Baselard,36,13,186,4.19,,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Spark Baselard,36,13,186,4.19,"Additional effect with battery
+equipped: Lightning damage","WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Spark Baselard +1,36,14,181,4.64,"Additional effect with battery
+equipped: Lightning damage","WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Chiroptera Dagger,38,13,192,4.06,Ranged Accuracy+12,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Minstrel's Dagger,38,14,183,4.59,CHR+5 Evasion+3,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Acid Baselard,40,14,186,4.52,Additional effect: Weakens defense,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Combat Caster's Dagger,40,15,192,4.69,,BLM / SMN
+Corrosive Baselard,40,15,181,4.97,Additional effect: Weakens defense,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Marauder's Knife,40,15,195,4.62,DEX+2 AGI+2,THF
+Melt Baselard,40,14,186,4.52,"Additional effect: Weakens defense
+Enchantment: Weakens defense
+<15/15 0:30/[10:00, 0:30]>","WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Paper Knife,40,15,195,4.62,CHR+5,BRD
+Calveley's Dagger,42,14,183,4.59,DEX+3,THF
+Jongleur's Dagger,42,14,183,4.59,STR+2 CHR+1,BRD
+Combat Caster's Dagger +1,43,16,187,5.13,"In areas outside own nation's control:
+MP+14",BLM / SMN
+Combat Caster's Dagger +2,43,17,182,5.6,"In areas outside own nation's control:
+MP+16",BLM / SMN
+Burglar's Dagger,45,15,183,4.92,DEX+2 MND-3,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Bone Knife,46,17,195,5.23,"-5 Accuracy+3
+Attack+3","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Bone Knife +1,46,18,190,5.68,"-5 Accuracy+5
+Attack+5","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Deathbone Knife,46,17,195,5.23,"-5
+Accuracy+3 Attack+3
+Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Hornetneedle,48,16,150,6.4,DEX+1 AGI+1,RDM / THF / BRD / RNG / NIN
+Galkan Dagger,49,16,186,5.16,"HP+8 VIT+2
+Additional effect: Earth damage","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Corsair's Knife,50,21,206,6.12,Attack+10,THF / RNG / COR
+Mercurial Kris,50,8,192,2.5,Occasionally attacks 2 to 3 times,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Lust Dagger,51,20,201,5.97,"STR-1 DEX-1 VIT-1
+AGI+7 INT-1 MND-1 CHR-1","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Triple Dagger,51,13,183,4.26,"""Triple Attack""+1%","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Darksteel Knife,53,19,195,5.85,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Darksteel Knife +1,53,20,190,6.32,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Venom Knife,53,19,195,5.85,Additional effect: Poison,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Venom Knife +1,53,20,190,6.32,Additional effect: Poison,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Darksteel Jambiya,54,20,201,5.97,Accuracy+1,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Darksteel Jambiya +1,54,21,194,6.49,Accuracy+2,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Darksteel Baselard,55,20,195,6.15,,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Darksteel Baselard +1,55,21,190,6.63,,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Beetle Knife,56,20,195,6.15,AGI+1,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Beetle Knife +1,56,21,190,6.63,AGI+2,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Kidney Dagger,56,18,183,5.9,Critical hit rate +5%,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Avis,57,23,201,6.87,"CHR+2
+Latent effect: Accuracy+6","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Darksteel Kris,57,22,202,6.53,,BLM / SMN
+Darksteel Kris +1,57,23,196,7.04,,BLM / SMN
+Spark Kris,57,22,202,6.53,"Additional effect with battery
+equipped: Lightning damage",BLM / SMN
+Spark Kris +1,57,23,196,7.04,"Additional effect with battery
+equipped: Lightning damage",BLM / SMN
+Venom Kris,57,20,220,5.45,Additional effect: Poison,BLM / SMN
+Venom Kris +1,57,21,202,6.24,Additional effect: Poison,BLM / SMN
+Chicken Knife,58,21,176,7.16,"Additional effect: ""Flee""",THF
+Darksteel Kukri,59,22,200,6.6,,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Darksteel Kukri +1,59,23,194,7.11,,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Cermet Knife,60,20,186,6.45,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Cermet Knife +1,60,21,180,7,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Bano del Sol,61,20,178,6.74,#ERROR!,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Trailer's Kukri,61,19,195,5.85,Ranged Accuracy+14,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Cermet Kukri,62,22,194,6.8,,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Cermet Kukri +1,62,23,188,7.34,,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Demon's Knife,62,22,211,6.26,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Demon's Knife +1,62,23,201,6.87,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Venom Baselard,63,19,191,5.97,Additional effect: Poison,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Venom Baselard +1,63,20,186,6.45,Additional effect: Poison,"WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Anubis's Knife,65,22,212,6.23,"Poison: Critical hit rate +7%
+Enchantment: ""Poison""
+<50/50 0:30/[30:00, 0:30]>","WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Garuda's Dagger,65,19,183,6.23,"AGI+3 Attack+7
+Additional effect: Silence","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Stun Knife,65,21,201,6.27,"Additional effect: ""Stun""","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Stun Knife +1,65,22,195,6.77,"Additional effect: ""Stun""","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Odorous Knife,66,17,200,5.1,Latent effect: DMG:24,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Odorous Knife +1,66,19,190,6,Latent effect: DMG:26,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Courser's Pugio,67,16,195,4.92,"AGI+5
+Ranged Accuracy+11",RNG
+Harpe,68,35,210,10,,WAR / THF
+Hoplites Harpe,68,32,210,9.14,,WAR / THF
+Kard,68,25,190,7.89,CHR+5,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Venom Kukri,68,24,206,6.99,Additional effect: Poison,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Venom Kukri +1,68,25,200,7.5,Additional effect: Poison,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Farseer,69,26,183,8.52,"INT+4
+Set: Increases HP, VIT,
+Accuracy, Ranged Accuracy","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Silktone,69,28,195,8.62,"CHR+4 Singing skill +2
+Set: Increases Evasion and
+HP recovered while healing
+Reduces Enmity",THF / BST / BRD
+Sirocco Kukri,69,26,150,10.4,"-7 +7
+Additional effect: Wind damage",THF
+Stun Kukri,69,26,212,7.36,"Additional effect: ""Stun""","WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Stun Kukri +1,69,27,206,7.86,"Additional effect: ""Stun""","WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Valiant Knife,69,24,195,7.38,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Adaman Kris,70,23,192,7.19,"MP+10
+DEX+2 VIT+2 INT+2",BLM / SMN
+Adaman Kris +1,70,24,187,7.7,"MP+11
+DEX+3 VIT+3 INT+3 Enmity-1",BLM / SMN
+Assassin's Jambiya,70,30,201,8.96,Assault: DMG:33 Critical hit rate+5%,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Behemoth Knife +1,70,32,201,9.55,HP+30 Attack+10,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Behemoth Knife,70,31,211,8.82,HP+25 Attack+8,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Daylight Dagger,70,28,183,9.18,Daytime: Accuracy+12,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Magnet Knife,70,32,201,9.55,"Evasion-10
+Additional effect: Weight",THF
+Orichalcum Dagger,70,20,183,6.56,MP+20 INT+2,BLM / SMN
+Palladium Dagger,70,30,201,8.96,"Ranged Attack+5 Parrying skill +5
+""Counter""+1
+Additional effect: Wind damage","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Rune Kris,70,24,192,7.5,"Latent effect: AGI+5
+""Store TP""+5","BLM / RDM / THF / BRD / RNG / NIN /
+SMN / COR"
+Taillefer's Dagger,70,27,187,8.66,"Accuracy-1
+String instrument skill +3","WAR / RDM / THF / BST / BRD / RNG /
+NIN / COR"
+Thief's Knife,70,18,194,5.57,Occasionally attacks twice,THF
+Triton's Dagger,70,21,178,7.08,MP+25 INT+2,BLM / SMN
+Bartholomew's Knife,71,27,200,8.1,"AGI+2 +8
+""Steal""+2
+Additional effect: Water damage","WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Buccaneer's Knife,71,17,200,5.1,7,"WAR / THF / DRK / RNG / NIN / COR /
+PUP>/span>"
+Cobra Knife,71,25,171,8.77,"HP+16 MP+16
+Enhances ""Resist Curse"" effect","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Dagger of Trials,71,27,200,8.1,Latent effect: HP+20 +10 +10,"WAR / RDM / THF / BST / BRD / RNG /
+NIN / COR"
+Khanjar,71,27,192,8.44,"Depending on day: Increases elemental
+weapon skill damage","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Matron's Knife,71,31,195,9.54,DEX+4,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Misericorde,71,27,183,8.85,"MP+10 DEX+2 VIT+2
+MND+2","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Misericorde +1,71,28,178,9.44,"MP+11 DEX+3 VIT+3
+MND+3","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Master Caster's Knife,71,24,176,8.18,"Citizens of Windurst:
+DEF+10 Attack+10 MP+25","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / SAM / NIN / DRG"
+Stylet,71,31,195,9.54,"DEX+4 AGI+2
+Enmity+1",THF
+Zareehkl Jambiya,71,31,201,9.25,"Evasion+5
+Latent effect: DMG:36","WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Adder Jambiya,72,33,201,9.85,"HP+15 Evasion+4
+Enhances ""Resist Poison"" effect
+Enhances ""Resist Petrify"" effect
+Additional effect: Impairs evasion","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Adder Jambiya +1,72,34,194,10.52,"HP+20 Evasion+5
+Enhances ""Resist Poison"" effect
+Enhances ""Resist Petrify"" effect
+Additional effect: Impairs evasion","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Amir Jambiya,72,34,194,10.52,HP+20 Evasion+5,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Argent Dagger,72,22,200,6.6,"Evasion-1
+Elemental magic skill +3",BLM / SMN
+Blau Dolch,72,26,178,8.76,Latent effect: DMG:33,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / DRG /
+SMN"
+Ermine's Tail,72,34,194,10.52,"Evasion+8
+Enhances ""Lizard Killer"" effect
+Vs. lizards: Critical hit rate +7%","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Gully,72,29,205,8.49,"HP+10 DEX+2 VIT+2
++8","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Gully +1,72,30,200,9,"HP+11 DEX+3 VIT+3
++9","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Khimaira Jambiya,72,33,201,9.85,HP+15 Evasion+4,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Martial Knife,72,27,186,8.71,TP Bonus,"WAR / RDM / THF / BST / BRD / RNG /
+NIN / COR"
+Ponderous Gully,72,29,205,8.49,"HP+10
+DEX+2 VIT+2 +8
+Enchantment: ""Stone""
+<50/50 0:30/[10:00, 0:30]>","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Titan's Baselarde,72,28,186,9.03,"VIT+4 Attack+8
+Latent effect: DMG:33","WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+X's Knife,72,34,201,10.15,Increases critical hit damage,THF / BST
+Creve-coeur,73,30,201,8.96,"HP+10 AGI+3 CHR-5
+Magic Accuracy+3","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Heart Snatcher,73,15,205,4.39,"Latent effect: DMG:30
+Critical hit rate +6%","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Jambiya,73,33,201,9.85,"HP+20
+Enhances ""Resist Virus"" effect","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Jambiya +1,73,34,194,10.52,"HP+22
+Enhances ""Resist Virus"" effect","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Lyft Jambiya,73,33,201,9.85,,"WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Mighty Knife,73,28,200,8.4,"AGI+1 CHR+1
+On Windsdays: DMG:38 +15","WAR / RDM / THF / BST / BRD / RNG /
+NIN / COR"
+Perseus's Harpe,73,37,210,10.57,"Enhances ""Resist Petrify"" effect",WAR / THF
+Trilling Dagger,73,28,186,9.03,"Increases light elemental
+magic damage dealt
+Silence: Attack+10","WAR / THF / PLD / DRK / BRD / RNG /
+SAM / NIN / DRG / COR / PUP"
+Azoth,74,35,210,10,"AGI+4
+Accuracy+4 Evasion+4",THF
+Thanatos Baselard,74,28,191,8.8,"Attack-1
+Enfeebling magic skill +4","WAR / BLM / RDM / THF / PLD / BRD /
+NIN"
+Athame,75,18,190,5.68,,THF / BRD
+Batardeau,75,39,200,11.7,"In Dynamis: ""Mercy Stroke""",RDM / THF / BRD
+Carnwenhan,75,29,186,9.35,,BRD
+Carnwenhan,75,29,186,9.35,"Magic Accuracy+10
+Increases song effect duration
+""Mordant Rime""
+Aftermath: Increases Magic Acc./Acc.
+Occasionally attacks twice",BRD
+Dakini,75,25,195,7.69,,THF / BRD
+Dancing Dagger,75,27,183,8.85,,BRD
+Dweomer Knife,75,25,195,7.69,Main hand: DMG:28,BRD
+Dynamis Dagger,75,23,200,6.9,In Dynamis: +9,RDM / THF / BRD
+Edgeless Knife,75,1,195,0.31,,"RDM / THF / BST / BRD / RNG / NIN /
+COR / PUP"
+Fane Baselard,75,22,186,7.1,Main hand: DMG:27,THF
+Kartika,75,33,201,9.85,,THF / BRD
+Machismo,75,34,196,10.41,,"RDM / THF / BST / BRD / RNG / NIN /
+COR / PUP"
+Malefic Dagger,75,1,200,0.3,In Dynamis: +7,RDM / THF / BRD
+Mandau,75,39,176,13.3,"Attack+20
+""Mercy Stroke""
+Additional effect: Poison",RDM / THF / BRD
+Peeler,75,24,201,7.16,,THF / BRD
+Relic Dagger,75,1,999,0.06,,RDM / THF / BRD
+Renegade,75,27,201,8.06,,THF / BRD
+Swordbreaker,75,27,200,8.1,,THF
+Vajra,75,31,200,9.3,,THF
+Vajra,75,31,200,9.3,"Enhances ""Sneak Attack"" effect
+Enhances ""Trick Attack"" effect
+""Mandalic Stab""
+Aftermath: Increases Acc./Atk.
+Occasionally attacks twice",THF

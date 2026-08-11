@@ -1,0 +1,231 @@
+Name,Level,Jobs,Stats,Horizon Changes
+Cassie Earring,1,All Jobs,DEF: 2 STR +1 VIT +1 Converts 50 MP to HP,none
+Tourmaline Earring,10,All Jobs,4,
+Amber Earring,10,All Jobs,4,none
+Amethyst Earring,10,All Jobs,4,none
+Balance Earring,10,All Jobs,6,none
+Balance Earring +1,10,All Jobs,DEF: 1 +4 +4,none
+Clear Earring,10,All Jobs,4,none
+Courage Earring,10,All Jobs,6,none
+Courage Earring +1,10,All Jobs,DEF: 1 +4 +4,none
+Energy Earring,10,All Jobs,MP +3 +3,none
+Energy Earring +1,10,All Jobs,DEF: 1 MP +4 +4,none
+Hope Earring,10,All Jobs,HP +3+3,none
+Hope Earring +1,10,All Jobs,DEF: 1 HP +4 +4,none
+Knowledge Earring,10,All Jobs,6,none
+Knowledge Earring +1,10,All Jobs,DEF: 1 +4 +4,none
+Lapis Lazuli Earring,10,All Jobs,4,none
+Onyx Earring,10,All Jobs,MP +2+2,none
+Opal Earring,10,All Jobs,HP +2+2,none
+Physical Earring,10,All Jobs,Converts 25 MP to HP,none
+Reflex Earring,10,All Jobs,6,none
+Reflex Earring +1,10,All Jobs,DEF: 1 +4 +4,none
+Sardonyx Earring,10,All Jobs,4,none
+Stamina Earring,10,All Jobs,6,none
+Stamina Earring +1,10,All Jobs,DEF: 1 +4 +4,none
+Tranquility Earring,10,All Jobs,6,none
+Tranquility Earring +1,10,All Jobs,DEF: 1 +4 +4,none
+Shell Earring,11,All Jobs,2,none
+Shell Earring +1,11,All Jobs,4,none
+Silver Earring,14,All Jobs,Attack -1Evasion +1,none
+Silver Earring +1,14,All Jobs,Attack -2Evasion +2,none
+Bone Earring,16,All Jobs,Attack +1 Evasion -1,none
+Bone Earring +1,16,All Jobs,Attack +2 Evasion -1,none
+Valor Earring,17,All Jobs,HP +3 MP +3,none
+Mecurial Earring,20,All Jobs,DEF: 1 Garrison: Evasion +1~,none
+Shield Earring,20,All Jobs,HP +10 MP -10,none
+Beetle Earring,21,All Jobs,Attack +2 Evasion -2,none
+Beetle Earring +1,21,All Jobs,Attack +3 Evasion -2,none
+Mythril Earring,24,All Jobs,Attack -2 Evasion +2,none
+Reraise Earring,24,All Jobs,"Attack -2 Evasion +2 Enchantment: ""Reraise""",none
+Twinstone Earring,24,All Jobs,-4 +4,none
+Mythril Earring +1,24,All Jobs,Attack -3 Evasion +3,none
+Cunning Earring,29,All Jobs,INT +1,none
+Dodge Earring,29,All Jobs,Evasion +3,none
+Warlock's Earring,30,All Jobs,Latent effect: MP recovered while healing +1,none
+Ashigaru Earring,30,All Jobs,"Latent effect: Enhances ""Zanshin"" effect",none
+Beater's Earring,30,All Jobs,Latent effect: Ranged Accuracy +3,none
+Esquire's Earring,30,All Jobs,"Latent Effect: HP +20, MP +20","HP +20, MP +20"
+Genin Earring,30,All Jobs,Latent effect: AGI +4,none
+Healer's Earring,30,All Jobs,Latent effect: Enmity -2,none
+Killer Earring,30,All Jobs,Latent effect: Attack +5,none
+Magician's Earring,30,All Jobs,Latent effect: MP +30,none
+Mercenary's Earring,30,All Jobs,Latent effect: DEF: +5,Changed from VIT +2 to DEF +5
+Morion Earring,30,All Jobs,MP +4 INT +1,none
+Morion Earring +1,30,All Jobs,MP +5 INT +2,none
+Pilferer's Earring,30,All Jobs,Latent effect: Critical Hit Rate +3%,none
+Singer's Earring,30,All Jobs,Latent effect: Evasion+5,none
+Trimmer's Earring,30,All Jobs,Latent effect: CHR +2,Changed from Accuracy +5 to CHR +2
+Wizard's Earring,30,All Jobs,Latent effect: Elemental Magic Skill +5,none
+Wrestler's Earring,30,All Jobs,Latent effect: HP +30,none
+Wyvern Earring,30,All Jobs,Latent effect: Haste +5%,none
+Turquoise Earring,31,All Jobs,8,none
+Alacrity Earring,31,All Jobs,10,none
+Alacrity Earring +1,31,All Jobs,DEF: 1 +6 +6,none
+Ametrine Earring,31,All Jobs,8,none
+Aura Earring,31,All Jobs,MP +5 +5,none
+Aura Earring +1,31,All Jobs,DEF: 1 MP +6 +6,none
+Black Earring,31,All Jobs,MP +4 +4,none
+Blood Earring,31,All Jobs,8,none
+Deft Earring,31,All Jobs,10,none
+Deft Earring +1,31,All Jobs,DEF: 1 +6 +6,none
+Goshenite Earring,31,All Jobs,8,none
+Loyalty Earring,31,All Jobs,HP +5 +5,none
+Loyalty Earring +1,31,All Jobs,DEF: 1 HP+6 +6,none
+Pearl Earring,31,All Jobs,HP +4 +4,none
+Peridot Earring,31,All Jobs,8,none
+Puissance Earring,31,All Jobs,10,none
+Puissance Earring +1,31,All Jobs,DEF: 1 +6 +6,none
+Solace Earring,31,All Jobs,10,none
+Solace Earring +1,31,All Jobs,DEF: 1 +6 +6,none
+Sphene Earring,31,All Jobs,8,none
+Verve Earring,31,All Jobs,10,none
+Verve Earring +1,31,All Jobs,DEF: 1 +6 +6,none
+Wisdom Earring,31,All Jobs,10,none
+Wisdom Earring +1,31,All Jobs,DEF: 1 +6 +6,none
+Bloodbead Earring,32,All Jobs,HP +25,none
+Pigeon Earring,33,All Jobs,HP +20 +5,none
+Pigeon Earring +1,33,All Jobs,HP +25 +7,none
+Drone Earring,35,All Jobs,AGI +3 +6,The desynthesis recipe is not currently present on Horizon
+Augmenting Earring,35,All Jobs,Enhancing magic skill +3,none
+Elemental Earring,35,All Jobs,Elemental Magic Skill +3,
+Buckler Earring,35,All Jobs,Shield Skill +3,none
+Dark Earring,35,All Jobs,Dark Magic Skill +3,none
+Divine Earring,35,All Jobs,Divine magic skill +3,none
+Enfeebling Earring,35,All Jobs,Enfeebling Magic Skill +3,none
+Evasion Earring,35,All Jobs,Evasion Skill +3,none
+Guarding Earring,35,All Jobs,Guarding skill +3,none
+Healing Earring,35,All Jobs,Healing Magic Skill +3,none
+Ninjutsu Earring,35,All Jobs,Ninjutsu Skill +3,none
+Parrying Earring,35,All Jobs,Parrying skill +3,none
+Singing Earring,35,All Jobs,Singing skill +3,none
+String Earring,35,All Jobs,String Instrument Skill +3,none
+Summoning Earring,35,All Jobs,Summoning Magic Skill +3,none
+Wind Earring,35,All Jobs,Wind Instrument Skill +3,none
+Wing Earring,35,All Jobs,AGI +2 +4,The desynthesis recipe is not currently present on Horizon
+Bull Earring,37,All Jobs,HP +5 Evasion -2,none
+Geist Earring,38,All Jobs,MP +5 MND +1,none
+Nemesis Earring,39,MNK / WHM / RDM / THF / BST / BRD RNG / SAM / NIN / BLU / COR,Enmity +1,none
+Enhancing Earring,40,WHM / BLM / RDM / BRD / RNG / NIN / SMN / BLU / PUP,HP +5 MP +5,none
+Avenger's Earring,42,All Jobs,"""Counter"" +1",none
+Curaga Earring,42,WHM / PLD,"Enchantment: ""Curaga""",none
+Astral Earring,45,All Jobs,Converts 25 HP to MP,none
+Gold Earring,45,All Jobs,Attack -3 Evasion +3,none
+Gold Earring +1,45,All Jobs,Attack -4 Evasion +4,none
+Tortoise Earring,45,All Jobs,Attack +3 Evasion -3,none
+Tortoise Earring +1,45,All Jobs,Attack +4 Evasion -2,none
+Harvest Earring,49,All Jobs,DEX +1 AGI +1 MND +1,none
+Sun Earring,49,All Jobs,12,none
+Allure Earring,49,All Jobs,HP +8 +8,none
+Allure Earring +1,49,All Jobs,DEF: 1 HP +10 +10,none
+Aquamarine Earring,49,All Jobs,12,none
+Celerity Earring,49,All Jobs,16,none
+Celerity Earring +1,49,All Jobs,DEF: 1 +10 +10,none
+Genius Earring,49,All Jobs,16,none
+Genius Earring +1,49,All Jobs,DEF: 1 +10 +10,none
+Grace Earring,49,All Jobs,16,none
+Grace Earring +1,49,All Jobs,DEF: 1 +10 +10,none
+Green Earring,49,All Jobs,12,none
+Heims Earring,49,All Jobs,STR +1 VIT +1 INT +1 CHR +1,none
+Mana Earring,49,All Jobs,MP +8 +8,none
+Mana Earring +1,49,All Jobs,DEF: 1 MP +10 +10,none
+Moon Earring,49,All Jobs,HP +6 +6,none
+Night Earring,49,All Jobs,MP +6 +6,none
+Purple Earring,49,All Jobs,12,none
+Serenity Earring,49,All Jobs,16,none
+Serenity Earring +1,49,All Jobs,DEF: 1 +10 +10,none
+Victory Earring,49,All Jobs,16,none
+Victory Earring +1,49,All Jobs,DEF: 1 +10 +10,none
+Vigor Earring,49,All Jobs,16,none
+Vigor Earring +1,49,All Jobs,DEF: 1 +10 +10,none
+Yellow Earring,49,All Jobs,12,none
+Zircon Earring,49,All Jobs,12,none
+Antivenom Earring,50,All Jobs,"MP +15 Enhances ""Resist Poison"" effect MP recovered while healing +1",
+Amorph Earring,50,All Jobs,"Enhances ""Bird Killer"" effect Weakens ""Amorph Killer"" effect",none
+Aquan Earring,50,All Jobs,"Weakens ""Aquan Killer"" effect Enhances ""Amorph Killer"" effect",none
+Arcana Earring,50,All Jobs,"Enhances ""Undead Killer"" effect Weakens ""Arcana Killer"" effect",none
+Beast Earring,50,All Jobs,"Weakens ""Beast Killer"" effect Enhances ""Lizard Killer"" effect",none
+Bird Earring,50,All Jobs,"Weakens ""Bird Killer"" effect Enhances ""Aquan Killer"" effect",none
+Demon Earring,50,All Jobs,"Weakens ""Demon Killer"" effect Enhances ""Dragon Killer"" effect",none
+Dragon Earring,50,All Jobs,"Weakens ""Dragon Killer"" effect Enhances ""Demon Killer"" effect",none
+Insomnia Earring,50,All Jobs,"HP +15 Enhances ""Resist Sleep"" effect",none
+Lizard Earring,50,All Jobs,"Weakens ""Lizard Killer"" effect Enhances ""Vermin Killer"" effect",none
+Stoic Earring,50,All Jobs,"HP+20 Enhances ""Resist Stun"" effect HP recovered while healing +1",none
+Undead Earring,50,All Jobs,"Weakens ""Undead Killer"" effect Enhances ""Arcana Killer"" effect",none
+Velocity Earring,50,All Jobs,"Evasion +4 Enhances ""Resist Slow"" Effect",none
+Vision Earring,50,All Jobs,"Ranged Accuracy +2 Enhances ""Resist Blind"" Effect",none
+Refresh Earring,51,All Jobs,"Garrison: Adds ""Refresh"" effect",none
+Accurate Earring,52,All Jobs,Accuracy +2,none
+Melody Earring,52,All Jobs,CHR +1 Latent effect: Evasion skill +5,none
+Melody Earring +1,52,All Jobs,CHR +2 Latent effect: Evasion skill +6,none
+Eris' Earring,54,MNK / WHM / RDM / THF / BST / BRD / RNG / SAM / NIN / BLU / COR,Enmity +2,none
+Eris' Earring +1,54,MNK / WHM / RDM / THF / BST / BRD / RNG / SAM / NIN / BLU / COR,Enmity +3,none
+Hospitaler Earring,54,PLD,"DEF: 3 ""Cure"" Potency +5%",none
+Fang Earring,55,All Jobs,Attack +4 Evasion -4,none
+Plantoid Earring,55,All Jobs,"Weakens ""Plantoid Killer"" effect Enhances ""Beast Killer"" effect",none
+Spike Earring,55,All Jobs,Attack +5 Evasion -5,none
+Vermin Earring,55,All Jobs,"Enhances ""Plantoid Killer"" effect Weakens ""Vermin Killer"" effect",none
+Bitter Earring,56,All Jobs,DEF: 5 +4 Curse: Ranged Accuracy +5,none
+Bat Earring,57,All Jobs,MP +5 +3 While blinded: Evasion +15,none
+Assault Earring,58,WAR / PLD / DRK / BST / DRG,Accuracy +2 Attack +5 Evasion -2 DEF: -3,none
+Knightly Earring,59,PLD/DRK,"Spell interruption rate down 9% ""Weapon Bash"" +10 ""Shield Bash"" +10",Dark Knight's can now use this earring
+Elusive Earring,60,All Jobs,DEF: 1 Evasion +5,none
+Immortal's Earring,60,All Jobs,Latent effect: Blue Magic skill +5,none
+Phantom Earring,60,All Jobs,MP +8 INT +1,none
+Phantom Earring +1,60,All Jobs,MP +10 INT +2,none
+Pirate's Earring,60,All Jobs,Latent effect: Ranged Attack +5,none
+Platinum Earring,60,All Jobs,Attack -4 Evasion +4,none
+Platinum Earring +1,60,All Jobs,Attack -5 Evasion +5,none
+Minuet Earring,61,All Jobs,STR +1 DEX +1 Minuet: Accuracy +3,none
+Titanis Earring,61,All Jobs,VIT +1 AGI +1 Minne: Enmity +4,none
+Merman's Earring,63,All Jobs,Attack +6 Evasion -4 Magic Damage Taken -2%,
+Coral Earring,63,All Jobs,Attack +5 Evasion -5 Magic Damage Taken -1%,
+Adroit Earring,67,All Jobs,DEX +2 +11 +11,none
+Adroit Earring +1,67,All Jobs,DEF: 1 DEX +2 +12 +12,none
+Angel's Earring,67,All Jobs,#ERROR!,none
+Celestial Earring,67,All Jobs,MP +22 MND +3 +12 +12,none
+Communion Earring,67,All Jobs,MND +2 +11 +11,none
+Communion Earring +1,67,All Jobs,DEF: 1 MND +2 +12 +12,none
+Death Earring,67,All Jobs,MP +10 +10,none
+Diamond Earring,67,All Jobs,20,none
+Emerald Earring,67,All Jobs,20,none
+Hades Earring,67,All Jobs,MP +11+11Enmity +1,none
+Hades Earring +1,67,All Jobs,DEF: 1 MP +12 +12 Enmity +2,none
+Heavens Earring,67,All Jobs,HP +11 +11 Enmity -1,none
+Heavens Earring +1,67,All Jobs,DEF: 1 +12 HP +12 Enmity -2,none
+Nimble Earring,67,All Jobs,AGI +2 +11 +11,none
+Nimble Earring +1,67,All Jobs,DEF: 1 AGI +2 +12 +12,none
+Omniscient Earring,67,All Jobs,INT +2 +11 +11,none
+Omniscient Earring +1,67,All Jobs,DEF: 1 INT +2 +12 +12,none
+Robust Earring,67,All Jobs,VIT +2 +11 +11,none
+Robust Earring +1,67,All Jobs,DEF: 1 VIT +2 +12 +12,none
+Ruby Earring,67,All Jobs,20,none
+Sapphire Earring,67,All Jobs,20,none
+Spinel Earring,67,All Jobs,20,none
+Star Earring,67,All Jobs,MP +20 MND +2 +11 +11,none
+Topaz Earring,67,All Jobs,20,none
+Triumph Earring,67,All Jobs,STR +2 +11 +11,none
+Triumph Earring +1,67,All Jobs,DEF: 1 STR +2 +12 +12,none
+Vampire Earring,67,WAR / PLD / DRK / BST / SAM / NIN,Nighttime: STR +4 VIT +4,none
+Attila's Earring,70,WAR / PLD / DRK / BST / SAM / NIN,"""Store TP"" +1",none
+Conjurer's Earring,70,SMN,Latent effect: Damage taken -20%,none
+Drake Earring,70,DRG,"Latent effect: ""Double Attack"" +5%",none
+Fencer's Earring,70,RDM,Latent effect: Magic damage taken -30%,none
+Fowling Earring,70,WAR / PLD / DRK / SAM / DRG,"STR +1 Accuracy +3 Enhances ""Bird Killer"" effect",none
+Guardian Earring,70,PLD,Latent effect: Spell interruption rate down 30%,none
+Kampfer Earring,70,MNK,"Latent effect: ""Counter"" +5",none
+Medicine Earring,70,WHM,Latent effect: Damage taken -30%,none
+Minstrel's Earring,70,BRD,Latent effect: Physical Damage Taken -30%,none
+Rogue's Earring,70,THF,Latent effect: Evasion +15,none
+Ronin Earring,70,SAM,Latent effect: Magic Damage Taken -20%,none
+Shinobi Earring,70,NIN,Latent effect: Haste +20%,none
+Slayer's Earring,70,DRK,Latent effect: Physical damage taken -20%,none
+Soldier's Earring,70,WAR,Latent effect: DEF +20%,none
+Sorcerer's Earring,70,BLM,Latent effect: Damage taken -30%,none
+Tamer's Earring,70,BST,"Latent effect: Increases ""Tame"" success rate",none
+Tracker's Earring,70,RNG,Latent effect: Physical damage taken -30%,none
+Rapture Earring,70,All Jobs,MP +10 MP recovered while healing +1,none
+Arete del Sol,71,All Jobs,#ERROR!,none
+Orichalcum Earring,75,All Jobs,Attack -5 Evasion +5,none
+Triton Earring,75,All Jobs,Attack -6 Evasion +6,none
+Jupiter's Earring,76,All Jobs,DEX +3 +16 +16,none

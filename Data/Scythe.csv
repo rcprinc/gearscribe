@@ -1,0 +1,140 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Bronze Zaghnal,1,14,480,1.75,,WAR / DRK / BST
+Bronze Zaghnal +1,1,15,470,1.91,,WAR / DRK / BST
+Brass Zaghnal,10,25,480,3.13,,WAR / DRK / BST
+Brass Zaghnal +1,10,26,470,3.32,,WAR / DRK / BST
+Keen Zaghnal,10,25,480,3.13,"Enchantment: Accuracy+3
+<50/50 0:30/[30:00, 0:30]>",WAR / DRK / BST
+Legionnaire's Scythe,10,27,495,3.27,STR+2 VIT-1,WAR / DRK / BST
+Plantreaper,14,30,480,3.75,"Additional effect vs. plantoids: ""Bind""",WAR / DRK / BST
+Bastokan Scythe,15,28,480,3.5,MP+4 STR+2 VIT-1,WAR / DRK / BST
+Republic Scythe,15,29,465,3.74,MP+6 STR+2 VIT-1,WAR / DRK / BST
+Lucent Scythe,18,38,528,4.32,"Enchantment: Delay:475
+<50/50 0:30/[30:00, 0:30]>",DRK
+Scythe,18,38,528,4.32,,DRK
+Scythe +1,18,39,513,4.56,,DRK
+Cruel Scythe,20,40,513,4.68,"INT+2 MND-2
+-2 +2
+Additional effect: Impairs evasion",DRK
+Platoon Zaghnal,20,34,470,4.34,,WAR / DRK / BST
+Zaghnal,20,35,480,4.38,,WAR / DRK / BST
+Zaghnal +1,20,36,470,4.6,,WAR / DRK / BST
+Webcutter,24,40,480,5,"Enhances effect of ""Resist Slow""
+Additional effect vs. vermin: ""Stun""",WAR / DRK / BST
+Frostreaper,27,42,480,5.25,#ERROR!,WAR / DRK / BST
+Mercenary Captain's Scythe,30,51,528,5.8,,DRK
+Federation Scythe,34,53,498,6.39,"In areas outside own nation's control:
+MP+12",DRK
+Windurstian Scythe,34,52,513,6.08,"In areas outside own nation's control:
+MP+10",DRK
+Harvester,37,53,480,6.63,Additional effect vs. plantoids: Weight,WAR / DRK / BST
+Mutilator,40,62,502,7.41,Accuracy+3,DRK
+Mythril Scythe,40,64,528,7.27,,DRK
+Mythril Scythe +1,40,65,513,7.6,,DRK
+Raven Scythe,40,68,528,7.73,STR+2 INT+2,DRK
+Mythril Zaghnal,42,58,480,7.25,,WAR / DRK / BST
+Mythril Zaghnal +1,42,59,466,7.6,,WAR / DRK / BST
+Antlion Sickle,46,68,490,8.33,,WAR / BLM / DRK / BST
+Jet Sickle,46,67,501,8.02,"Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>",WAR / BLM / DRK / BST
+Mandibular Sickle,46,67,501,8.02,,WAR / BLM / DRK / BST
+Falcastra,47,66,466,8.5,DEX+4 AGI-4,WAR / DRK / BST
+Barbarian's Scythe,49,76,528,8.64,"Accuracy-5
+Attack+25",DRK
+Bone Scythe,53,78,502,9.32,,DRK
+Bone Scythe +1,53,79,489,9.69,,DRK
+Smiting Scythe,54,81,528,9.2,"""Weapon Bash""+8",DRK
+Smiting Scythe +1,54,82,513,9.59,"""Weapon Bash""+10",DRK
+Demonslicer,55,74,480,9.25,#ERROR!,WAR / DRK / BST
+Ivory Sickle,57,80,501,9.58,"INT+1
+Converts 10 HP to MP",WAR / BLM / DRK / BST
+Ivory Sickle +1,57,81,490,9.92,"INT+2
+Converts 15 HP to MP",WAR / BLM / DRK / BST
+Vassago's Scythe,58,84,528,9.55,HP-5% Accuracy+5,DRK
+Rusty Zaghnal,60,60,480,7.5,,WAR / DRK / BST
+A l'Outrance,62,76,480,9.5,"Additional effect vs. beasts:
+Darkness damage",WAR / DRK / BST
+Darksteel Scythe,65,89,528,10.11,,DRK
+Darksteel Scythe +1,65,90,513,10.53,,DRK
+Ascention,67,79,480,9.88,#ERROR!,WAR / DRK / BST
+Blackjack,69,90,501,10.78,"MP+20 INT+4
+Dark magic skill +5",WAR / BLM / DRK / BST
+Faucheuse,69,87,480,10.88,"Physical damage taken -5%
+Set: Increases Evasion and
+HP recovered while healing
+Reduces Enmity",WAR / DRK / BST
+Vendetta,69,97,528,11.02,"Enhances ""Beast Killer"" effect
+Set: Increases STR, Attack,
+Ranged Attack, ""Magic Atk. Bonus""",DRK
+Goshisho's Scythe,70,80,480,10,Vs. undead: Accuracy+7,WAR / DRK / BST
+Havoc Scythe,70,91,513,10.64,"STR+2 VIT-2 INT+4
+Additional effect: MP drain",DRK
+King Maker,70,85,480,10.63,MP+20 CHR+5,WAR / DRK / BST
+Moliones's Sickle,70,95,501,11.38,"STR+3
+Set:
+Increases Accuracy
+Enhances ""Souleater"" effect",DRK
+Naigama,70,85,501,10.18,Additional effect: MP drain,WAR / BLM / DRK / BST
+Naigama +1,70,86,490,10.53,Additional effect: MP drain,WAR / BLM / DRK / BST
+Rune Scythe,70,90,528,10.23,"Latent effect: HP+10
+Critical hit rate +5",WAR / BLM / DRK / BST
+Volunteer's Scythe,70,97,528,11.02,Assault: DMG:99 Attack+6,DRK
+Fourth Zaghnal,71,84,470,10.72,"Accuracy+7
+Enhances ""Resist Paralyze"" effect",WAR / DRK / BST
+Scythe of Trials,71,82,480,10.25,Latent effect: HP+20 +10 +10,WAR / DRK / BST
+Senior Gold Musketeer's Scythe,71,83,480,10.38,"Enhances ""Resist Paralyze"" effect
+Citizens of Bastok: Accuracy+7",WAR / DRK / BST
+Storm Zaghnal,71,87,480,10.88,"Depending on day: Increases elemental
+weapon skill damage",WAR / DRK / BST
+Zareehkl Scythe,71,91,528,10.34,"Latent effect:
+Increases rate of ""Triple Attack""",DRK
+Garuda's Sickle,72,90,501,10.78,"AGI+4
+Latent effect: Accuracy+13",WAR / BLM / DRK / BST
+Martial Scythe,72,92,528,10.45,TP Bonus,DRK
+Mighty Zaghnal,72,86,494,10.45,"INT+2
+On Windsdays: DMG:94 +15",WAR / DRK / BST
+Y's Scythe,72,92,513,10.76,HP-5% Accuracy+5,DRK
+Blizzard Scythe,73,97,528,11.02,"Accuracy+2
+Magic Accuracy+2
+Enchantment: ""Blizzard""
+<50/50 0:30/[10:00, 0:30]>",DRK
+Death Scythe,73,97,528,11.02,Additional effect: HP drain,DRK
+Death Scythe +1,73,98,513,11.46,Additional effect: HP drain,DRK
+Gravedigger,73,74,490,9.06,"Latent effect: DMG:87
+Critical hit rate +6%",WAR / BLM / DRK / BST
+Lyft Scythe,73,98,528,11.14,,DRK
+Orichalcum Scythe,73,97,528,11.02,"Accuracy+2
+Magic Accuracy+2",DRK
+Perdu Sickle,73,88,501,10.54,Latent effect: DMG:93,WAR / BLM / DRK / BST
+Triton's Scythe,73,98,513,11.46,"Accuracy+3
+Magic Accuracy+3",DRK
+Enforcer,74,95,528,10.8,"STR+3 DEX+3 Evasion-6
+Additional effect: MP drain",DRK
+Suzaku's Scythe,74,88,480,11,#ERROR!,WAR / DRK / BST
+Tredecim Scythe,74,95,528,10.8,,DRK
+White Joker,74,89,501,10.66,"INT+4
+""Magic Atk. Bonus""+8",WAR / BLM / DRK / BST
+Apocalypse,75,103,513,12.05,"Accuracy+20
+""Catastrophe""
+Additional effect: Blindness",DRK
+Bahamut's Zaghnal,75,24,480,3,Occasionally attacks 2 to 3 times,WAR / DRK / BST
+Bec de Faucon,75,103,528,11.7,"In Dynamis: ""Catastrophe""",DRK
+Death Sickle,75,90,528,10.23,,DRK
+Dweomer Scythe,75,92,528,10.45,,DRK
+Dynamis Scythe,75,82,528,9.32,In Dynamis: +9,DRK
+Farmhand,75,75,528,8.52,,DRK
+Liberator,75,93,528,10.57,,DRK
+Liberator,75,93,528,10.57,"Magic Accuracy+20
+Augments ""Absorb"" spells
+""Insurgency""
+Aftermath: Increases Acc./Atk.
+Occasionally attacks twice",DRK
+Memento Scythe,75,1,528,0.11,In Dynamis: +7,DRK
+Ogre Sickle,75,80,501,9.58,,BLM
+Relic Scythe,75,1,999,0.06,,DRK
+Scarecrow Scythe,75,86,480,10.75,"""Double Attack""+1%
+Additional effect vs. birds: ""Bind""",WAR / DRK / BST
+Severance,75,77,528,8.75,,DRK
+Stigma,75,79,528,8.98,,DRK
+Ultimatum,75,93,528,10.57,,DRK
+Vengeance,75,45,518,5.21,,DRK

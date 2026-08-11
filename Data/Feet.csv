@@ -1,0 +1,445 @@
+Name,Level,Jobs,Stats,Horizon Changes
+Alliance Boots,,All Jobs,None,
+Ash Clogs,1,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 1,none
+Ash Clogs +1,1,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 2,none
+Bronze Leggings,1,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 1,none
+Bronze Leggings +1,1,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Chocobo Boots,1,All Jobs,DEF: 1 Chocobo Riding Time +3,none
+Dream Boots,1,All Jobs,DEF: 1,
+Dream Boots +1,1,All Jobs,"DEF: 2 Enhances ""Sneak"" effect Enchantment: ""Sneak""",
+Elvaan F Ledelsens,1,All Jobs,DEF: 1,none
+Field Boots,1,All Jobs,DEF: 1 Improves Mining and Harvesting results,none
+Fisherman's Boots,1,All Jobs,DEF: 1 Fishing skill +1,none
+Galkan Sandals,1,All Jobs,DEF: 1,none
+Hardcore Boots,1,All Jobs,DEF: 1,Cosmetic item received for achievemnts in Hardcore mode - details below.
+Hume F Boots,1,All Jobs,DEF: 1,none
+Hume M Boots,1,All Jobs,DEF: 1,none
+Mithran Gaiters,1,All Jobs,DEF: 1,none
+Rusty Leggings,1,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,None,
+Tarutaru Clomps,1,All Jobs,DEF: 1,none
+Vagabond's Boots,1,All Jobs,DEF: 1 HP recovered while healing +1,none
+Waders,1,All Jobs,DEF: 2 +1 Fishing skill +2,none
+Coarse Leggings,6,WAR / PLD / DRK,DEF: 5 Evasion -3,none
+Bounding Boots,7,WAR / RDM / THF / PLD / DRK / BST /BRD /RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 DEX +3 AGI +3,Obtainable via BCNM and not from Leaping Lizzy.
+Leaping Boots,7,WAR / RDM / THF / PLD / DRK / BST /BRD /RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 DEX +3 AGI +3,Obtainable from Leaping Lizzy and not the BCNM Petrifying Pair.
+Leather Highboots,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Leather Highboots +1,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3,none
+Kyahan,8,MNK / SAM / NIN,DEF: 2,none
+Kyahan +1,8,MNK / SAM / NIN,DEF: 3,none
+Solea,8,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 2,none
+Solea +1,8,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 3,none
+Legionnaire's Leggings,10,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 2 +3 +3,none
+Royal Footman's Boots,10,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 +3 +3,none
+Scale Greaves,10,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 3,none
+Solid Greaves,10,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 4,none
+Brass Leggings,11,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 3,none
+Brass Leggings +1,11,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Gaiters,11,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 3,none
+Gaiters +1,11,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 4,none
+Holly Clogs,12,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR,DEF: 3,none
+Holly Clogs +1,12,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR,DEF: 4,none
+Light Soleas,13,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 4 Evasion +3,
+Angler's Boots,15,All Jobs,DEF: 3 Fishing skill +1,Hidden Effect: Full set supposed to give a small bonus to number of gold arrows seen while fishing
+Anu's Gaiters,15,WHM / BRD / SMN,DEF: 3 MP +1%,none
+Bastokan Leggings,15,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 3 HP +2 MP +2 +3 +3,none
+Enyo's Leggings,15,WAR / PLD / DRK / DRG,DEF: 4 VIT +1,none
+Hoshikazu Kyahan,15,MNK / SAM / NIN / PUP,DEF: 4 Attack +1,none
+Kingdom Boots,15,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 HP +6 +3 +3,none
+Nemain's Sabots,15,BLM / RDM / BLU,DEF: 3 MP +1,none
+Njord's Ledelsens,15,THF / BST / RNG / COR,DEF: 4 Accuracy +1,none
+Nomad's Boots,15,All Jobs,DEF: 3 HP recovered while healing +1,none
+Republic Leggings,15,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD/ SAM / NIN / DRG / BLU / COR,DEF: 4 HP +3 MP +3 +3 +3,none
+Rider's Boots,15,All Jobs,DEF: 3 Chocobo riding time +3,
+San d'Orian Boots,15,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4 HP +4 +3 +3,none
+Worker Boots,15,All Jobs,DEF: 3 Improves Mining and Harvesting results,none
+Bone Leggings,16,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Bone Leggings +1,16,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 5 -3 Evasion +1,none
+Fine Ledelsens,17,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5,none
+Lizard Ledelsens,17,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Cotton Kyahan,18,MNK / SAM / NIN,DEF: 4,none
+Cotton Kyahan +1,18,MNK / SAM / NIN,DEF: 5,none
+Garrison Boots,18,All Jobs,DEF: 4 INT +1 MND +1,none
+Power Sandals,18,All Jobs,DEF: 3 VIT +3  +7,none
+Baron's Pigaches,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 5 MP +3,none
+Mage's Sandals,20,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 5 MP +3 AGI +1,none
+Mercenary's Kyahan,20,MNK / SAM / NIN,DEF: 4 +6,none
+Royal Footman's Clogs,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 5 AGI +1,none
+Sandals,20,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 4,none
+Strider Boots,20,THF / RNG,DEF: 4 AGI 2 Movement speed +12%,Obtainable from Simurgh and from the KSNM The Hills Are Alive.
+Trader's Pigaches,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 4,none
+Trotter Boots,20,THF / RNGStrider Boots,DEF: 4 AGI +2 Movement Speed +12%,Trotter Boots can now be obtained via HorizonXI's custom Hyper Empty Notorious Monsters (HENM).
+Beetle Leggings,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 5,none
+Beetle Leggings +1,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 6 -3 Evasion +1,none
+Stumbling Sandals,22,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 4 DEX -10 AGI -10,none
+Cotton Gaiters,23,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 5,none
+Great Gaiters,23,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 6,none
+Greaves,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 6,none
+Greaves +1,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 7,none
+Winged Boots,24,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 DEX +3 AGI +3,none
+Winged Boots +1,24,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6 DEX +3 AGI +3,none
+Bodb's Pigaches,25,BLM / RDM / BLU,DEF: 4 MP +1 STR +1,none
+Ea's Crackows,25,WHM / BRD / SMN,DEF: 4 MP +1% MND +1,none
+Federation Kyahan,25,MNK / SAM / NIN,DEF: 6  +6 Attack +4 Ranged Attack +4,none
+Freyr's Ledelsens,25,THF / BST / RNG / COR,DEF: 5 VIT +1 Accuracy +1,none
+Kingdom Clogs,25,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 7 HP +4 MP +4 AGI +1,none
+Phobos's Sabatons,25,WAR / PLD / DRK / DRG,DEF: 6 VIT +1 AGI +1,none
+San d'Orian Clogs,25,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 6 HP +3 MP +3 AGI +1,none
+Shade Leggings,25,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,"DEF: 6 ""Empty Killer""",none
+Shade Leggings +1,25,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,"DEF: 7 Evasion +1 ""Empty Killer""",none
+Shepherd's Boots,25,BST / DRG / SMN / PUP,DEF: 5 MP recovered while healing +1 Pet: STR +3 Pet: INT +3,This is a custom Horizon item.
+Tsukikazu Sune-Ate,25,MNK / SAM / NIN / PUP,DEF: 5 Attack +1 Enmity +1,none
+Windurstian Kyahan,25,MNK / SAM / NIN,DEF: 5  +6 Attack +3 Ranged Attack +3,none
+Brass Greaves,27,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 6,none
+Brass Greaves +1,27,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 7,none
+Air Solea,28,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN,DEF: 5 +3 Evasion +4,
+Air Solea +1,28,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN,DEF: 6 +4 Evasion +5,
+Chestnut Sabots,28,MNK / WHM / BLM / RDM / THF / DRK BRD / RNG / BST / SMN / BLU / COR / PUP,DEF: 5,none
+Chestnut Sabots +1,28,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 6,none
+Custom M Boots,29,All Jobs,DEF: 5 HP +4 MP +12 DEX -1 AGI +3 INT +3 MND -1,none
+Eisenschuhs,29,WAR / PLD,DEF: 8 VIT +2,none
+Elder's Sandals,29,All Jobs,DEF: 5 MP +12 AGI +3 INT +2,none
+Kampfschuhs,29,WAR / PLD,DEF: 9 VIT +3,none
+Magna F Ledelsens,29,All Jobs,DEF: 5 MP +20 AGI +3 INT +2,none
+Magna M Ledelsens,29,All Jobs,DEF: 5 MP +20 AGI +3 INT +2,none
+Savage Gaiters,29,All Jobs,DEF: 5 HP +16 STR +3 CHR +2,none
+Seer's Pumps,29,WHM / BLM / SMN / PUP,DEF: 6 MP +4 MND +1,none
+Seer's Pumps +1,29,WHM / BLM / SMN / PUP,DEF: 7 MP +5 MND +2,none
+Soil Kyahan,29,MNK / SAM / NIN,DEF: 6 +1 +1,none
+Soil Kyahan +1,29,MNK / SAM / NIN,DEF: 7 +2 +2,none
+Wonder Clomps,29,All Jobs,DEF: 5 HP +20 STR +2,none
+Centurion's Greaves,30,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 7 AGI +1,none
+Gargoyle Boots,30,DRG,DEF: 7 Enchantment: Wyvern gains effect of Stoneskin,none
+Garish Pumps,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 7 On Earthsdays: Evasion +2,none
+Mercenary Captain's Gaiters,30,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 5 AGI +1,none
+Mist Pumps,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 7 On Earthsdays: Evasion +2 Enchantment: Evasion Boost,none
+Noct Gaiters,30,THF / RNG / COR,DEF: 4 DEX +1  +1,none
+Noct Gaiters +1,30,THF / RNG / COR,DEF: 5 DEX +2  +2,none
+Royal Squire's Sollerets,30,WAR / PLD / DRK / BST / SAM / NIN,DEF: 7 AGI +1,none
+Rubious Pumps,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 8 On Earthsdays or Windsdays: Evasion +2,none
+Strong Boots,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7,none
+Studded Boots,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6,none
+Bastokan Greaves,34,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 8 AGI +1 In areas under own nation's control: Accuracy +3 Ranged Accuracy +3,none
+Federation Gaiters,34,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 7 AGI +1 In areas under own nation's control: Attack +7 Ranged Attack +7,none
+Kingdom Sollerets,34,WAR / PLD / DRK / BST / SAM / NIN,DEF: 9 AGI +1 In areas under own nation's control: DEX +2,none
+Republic Greaves,34,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 9 AGI +1 In areas under own nation's control: Accuracy +4 Ranged Accuracy +4,none
+San d'Orian Sollerets,34,WAR / PLD / DRK / BST / SAM / NIN,DEF: 8 AGI +1 In areas under own nation's control: DEX +1,none
+Shoes,34,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 6,none
+Shoes +1,34,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 7,none
+Windurstian Gaiters,34,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 6 AGI +1 In areas under own nation's control: Attack +5 Ranged Attack +5,none
+Deimos's Leggings,35,WAR / PLD / DRK / DRG,DEF: 7 VIT +1 AGI +1 Accuracy +1,none
+Enlil's Crackows,35,WHM / BRD / SMN,DEF: 5 MP +1% MND +1 Enmity -1,none
+Freya's Ledelsens,35,THF / BST / RNG / COR,DEF: 6 STR +1 VIT +1 Accuracy +1,none
+Hikazu Sune-Ate,35,MNK / SAM / NIN / PUP,"DEF: 6 Attack +1 Enmity +1 ""Store TP"" +1",none
+Leggings,35,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 7,none
+Leggings +1,35,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 8,none
+Macha's Pigaches,35,BLM / RDM / BLU,DEF: 5 MP +1 STR +1 Enmity -1,none
+Mannequin Pumps,35,All Jobs,DEF: 6 MP +12 INT +1 MND +2,none
+Silver Greaves,36,WAR / PLD / DRK / BST / SAM / NIN,DEF: 8,none
+Silver Greaves +1,36,WAR / PLD / DRK / BST / SAM / NIN,DEF: 9,none
+Socks,36,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 7,none
+Socks +1,36,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 8,none
+Iron Greaves,37,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 8,none
+Iron Greaves +1,37,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 9,none
+Cuir Highboots,38,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8,none
+Cuir Highboots +1,38,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 9,none
+Ebony Sabots,38,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 7,none
+Ebony Sabots +1,38,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 8,none
+Mountain Gaiters,38,All Jobs,DEF: 7 STR +1 INT +2 Evasion +2 Spell interruption rate down 5%,none
+Powder Boots,38,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 9 Enchantment: ""Flee""",none
+Volans Greaves,38,DRG,DEF: 9 Jump: Accuracy +4,none
+Fuma Kyahan,39,MNK / SAM / NIN,DEF: 7 Haste +3%,Obtainable from Quu Domi the Gallant and not from the BCNM60 Divine Punishers.
+Sarutobi Kyahan,39,MNK / SAM / NIN,DEF: 7 Haste +3%,Obtainable from the BCNM Divine Punishers.
+Ceremonial Boots,40,All Jobs,DEF: 3 CHR +1,none
+Combat Caster's Shoes,40,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 7 +4 +4,none
+Iron Musketeer's Sabatons,40,WAR / PLD / DRK,DEF: 10 Ranged Accuracy +5,none
+Opaline Boots,40,All Jobs,DEF: 3,none
+Plate Leggings,40,WAR / PLD / DRK,DEF: 9,none
+Plate Leggings +1,40,WAR / PLD / DRK,DEF: 10,none
+Inferno Sabots,41,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 7 MP +10 New Moon: INT +1 Dark Magic skill +3,none
+Inferno Sabots +1,41,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 8 MP +13 New Moon: INT +2 Dark Magic skill +5,none
+Combat Caster's Shoes +1,43,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 8 +4 +4 In areas under own nation's control: AGI +2,none
+Combat Caster's Shoes +2,43,MNK / WHM / BLM / RDM / PLD / BRD/ RNG / SMN / BLU / PUP,DEF: 9 +4 +4 In areas under own nation's control: AGI +3,none
+Iron Musketeer's Sabatons +1,43,WAR / PLD / DRK,DEF: 11 Ranged Accuracy +5 In areas under own nation's control: AGI +2,none
+Iron Musketeer's Sabatons +2,43,WAR / PLD / DRK,DEF: 12 Ranged Accuracy +5 In areas under own nation's control: AGI +3,none
+Alumine Sollerets,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 8 STR +1 DEX +1 Attack +1 Accuracy +1 Evasion -1,"STR +1 added
+DEX +1 added
+Attack +1 added
+Accuracy +1 added
+Evasion -1 added"
+Carapace Leggings,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 9,none
+Carapace Leggings +1,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 10 -3 Evasion +1,none
+Luisant Sollerets,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 8 STR +1 DEX +1 Attack +2 Accuracy +2 Evasion -2,"Accuracy +2 instead of Accuracy +1
+Attack +2 instead of Attack +1"
+Sollerets,46,WAR / PLD / DRK / BST / SAM / NIN,DEF: 10,none
+Sollerets +1,46,WAR / PLD / DRK / BST / SAM / NIN,DEF: 11,none
+Monsoon Kyahan,47,MNK / SAM / NIN,DEF: 9 Rainy Weather: Evasion +8,
+Steel Greaves,47,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 10,none
+Steel Greaves +1,47,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 11,none
+Dino Ledelsens,48,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 11 +3 -1,none
+Raptor Ledelsens,48,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 10 +2 -1,none
+Wool Socks,48,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 9,none
+Wool Socks +1,48,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 10,none
+Mythril Leggings,49,WAR / PLD / DRK,DEF: 11,none
+Mythril Leggings +1,49,WAR / PLD / DRK,DEF: 12 INT +1 -1 +4 +3,none
+Shinobi Kyahan,49,MNK/SAM/NIN,DEF: 9,none
+Shinobi Kyahan +1,49,MNK/SAM/NIN,DEF: 10 AGI +1,none
+Sune-Ate,49,SAM,DEF: 9,none
+Sune-Ate +1,49,SAM,DEF: 10,none
+Austere Sabots,50,SMN,DEF: 7 MP +10 VIT -1 CHR -1 Summoning Magic skill +3 Enmity -3,none
+Crow Gaiters,50,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 8 Evasion +4 Enmity -4,none
+Moccasins,50,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 8,none
+Moccasins +1,50,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 9,none
+Penance Sabots,50,SMN,DEF: 8 MP +15 VIT -2 CHR -2 Summoning Magic Skill +4 Enmity -4,none
+Raven Gaiters,50,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 9 Evasion +5 Enmity -5,none
+Royal Knight's Sollerets,50,WAR / PLD / DRK / BST / SAM / NIN,DEF: 11 AGI +2,none
+Sneaking Boots,50,All Jobs,"DEF: 9 Enhances ""Stealth"" effect Besieged: Evasion +8 Enchantment: Sneak",none
+Storm Crackows,50,All Jobs,DEF: 11 Assault: Movement speed +12%,none
+Storm Gambieras,50,All Jobs,DEF: 9 STR +2 HP recovered while healing +2,none
+Tactician Magician's Pigaches,50,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 9 INT +1 +10,INT +1 added
+Kung Fu Shoes,51,All Jobs,DEF: 8,none
+Beast Gaiters,52,BST,"DEF: 10 HP +11 CHR +3 Enhances ""Reward"" effect ""Charm"" +2",CHR +3 instead of AGI +3
+Chaos Sollerets,52,DRK,"DEF: 10 HP +15 MND +5 Accuracy +3 Enhances ""Arcane Circle"" effect",Accuracy +3
+Choral Slippers,52,BRD,DEF: 10 HP +10 AGI +2 DEX +2  +10 Evasion +5,AGI +2 DEX +2 instead of AGI +3
+Fighter's Calligae,52,WAR,"DEF: 14 HP +12 DEX +2 Enhances ""Double Attack"" effect Enmity +1",DEX +2 instead of AGI +3
+Gallant Leggings,52,PLD,"DEF: 14 HP +15 CHR +5 DEX +2  Shield skill +10 Enhances ""Holy Circle"" effect",DEX +2
+Healer's Duckbills,52,WHM,DEF: 12 MP +20 INT +3 Spell interruption rate down 20%,"INT +3 instead of AGI +3
+MP +20 instead of MP +10"
+Magus Charuqs,52,BLU,DEF: 13 HP +13 MP +13 Evasion Skill +10 Enmity -3,none
+Myochin Sune-Ate,52,SAM,DEF: 13 HP +20 AGI +4 +10 Evasion skill +5 Enmity +5,AGI +4
+Royal Knight's Sollerets +1,52,WAR / PLD / DRK / BST / SAM / NIN,DEF: 12 AGI +2 In areas under own nation's control: VIT +3,none
+Royal Knight's Sollerets +2,52,WAR / PLD / DRK / BST / SAM / NIN,DEF: 13 AGI +2 In areas under own nation's control: VIT +4,none
+Tactician Magician's Pigaches +1,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 10 +10 In areas under own nation's control: INT +3,none
+Tactician Magician's Pigaches +2,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 11 +10 In areas under own nation's control: INT +4,none
+Temple Gaiters,52,MNK,"DEF: 12 HP +12 DEX +3 +10 Enhances ""Dodge"" effect",none
+Warlock's Boots,52,RDM,DEF: 13 MP +11 MND +1 INT +1 +10 Shield skill +10,MND +1 INT +1 instead of AGI +3
+Wizard's Sabots,52,BLM,DEF: 11 MP +20 INT +1 Spell interruption rate down 20% Enmity -1,"MP +20 instead of MP +10
+INT +1 instead of AGI +3"
+Magi Pigaches,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 10 HP +13 MP +13,none
+Pigaches,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 9,none
+Pigaches +1,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 10 HP +3,none
+Silken Pigaches,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 9 HP +12 MP +12,none
+Drachen Greaves,54,DRG,"DEF: 10 HP +12 AGI +3 Evasion Skill +5 Enhances ""Jump"" effect",none
+Ninja Kyahan,54,NIN,DEF: 12 HP +12 AGI +4 Nighttime: Movement speed +25%,none
+Puppetry Babouches,54,PUP,"DEF: 11 HP +9 STR +3  +10 Enhances ""Repair"" effect",none
+Akinji Nails,55,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 13 HP -7 Accuracy +2 Ranged Accuracy +3 Evasion +2,none
+Jaridah Nails,55,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 12 HP -7 Accuracy +1 Ranged Accuracy +2 Evasion +1,none
+Corsair's Bottes,56,COR,DEF: 11 HP +10 STR +2 AGI +2 Ranged Accuracy +2,none
+Evoker's Pigaches,56,SMN,DEF: 10 MP +20 AGI +5 Avatar: Enhances EvasionAvatar: Enmity -2,"MP +20 instead of MP +15
+Description reads Avatar: Enhances Evasion instead of Enhances Avatar Evasion but has the same effect"
+Scorpion Leggings,57,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 11 HP +3 -2 +5 +5,none
+Scorpion Leggings +1,57,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 12 HP +4 -2 +7 +7,none
+Beak Ledelsens,58,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 12 VIT +1 +3,none
+Beak Ledelsens +1,58,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 13 VIT +2 +4,none
+Abtal Boots,59,WAR / PLD / DRK / BST / SAM,DEF: 12 STR +2 AGI +2,none
+Battle Boots,59,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 11 Evasion +1,none
+Battle Boots +1,59,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 12 Evasion +1,none
+Cure Clogs,59,WHM,"DEF: 14 ""Cure"" spellcasting time -15%",none
+Darksteel Sollerets,59,WAR / PLD / DRK / BST / SAM / NIN,DEF: 14 +2,none
+Darksteel Sollerets +1,59,WAR / PLD / DRK / BST / SAM / NIN,DEF: 15 +3,none
+Sipahi Boots,59,WAR / PLD / DRK / BST / SAM,DEF: 11 STR +1 AGI +1,none
+Tabin Boots,59,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 11 Accuracy +1 Evasion +1,none
+Tabin Boots +1,59,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 12 Accuracy +3 Evasion +3,none
+Vampire Boots,59,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 11 Nighttime:: Evasion +10,none
+Gilt Sabatons,60,WAR / PLD / DRK,DEF: 14 VIT +2 +4,none
+Gold Sabatons,60,WAR / PLD / DRK,DEF: 12 VIT +1 +3,none
+Hunter's Socks,60,RNG,"DEF: 12 HP +10 AGI +4 Evasion +5 Enhances ""Scavenge"" effect",none
+Rogue's Poulaines,60,THF,"DEF: 13 HP +12 DEX +3 Increases ""Flee"" duration ""Steal"" +2",???
+Silk Pumps,61,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 9 HP +5 +3 -3,none
+Silk Pumps +1,61,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 10 HP +6 +4 -2,none
+Templar Sabatons,61,WHM / PLD,"DEF: 11 Divine magic skill +5 ""Magic Atk. Bonus"" +2",none
+Creek F Clomps,62,All Jobs,DEF: 9 HP +35 MP -35 STR +4 VIT +4 INT -3,none
+Creek M Clomps,62,All Jobs,DEF: 9 HP +35 MP -35 STR +4 VIT +4 INT -3,none
+Desert Boots,62,All Jobs,DEF: 11 HP +10 AGI +1 In sandstorms: Movement speed +12%,none
+Desert Boots +1,62,All Jobs,DEF: 12 HP +12 AGI +2 In sandstorms: Movement speed +12%,none
+Marine F Boots,62,All Jobs,DEF: 9 HP +60 STR +3 DEX +3 VIT +2 AGI +2 INT -3 MND -3 CHR -3,none
+Marine M Boots,62,All Jobs,DEF: 9 HP +60 STR +3 DEX +3 VIT +2 AGI +2 INT -3 MND -3 CHR -3,none
+River Gaiters,62,All Jobs,DEF: 9 MP +35 DEX -3 INT +4 MND +4,none
+Wood F Ledelsens,62,All Jobs,DEF: 9 MP +30 STR -3 AGI +6 INT +3,none
+Wood M Ledelsens,62,All Jobs,DEF: 9 MP +30 STR -3 AGI +6 INT +3,none
+Arhat's Sune-Ate,63,MNK / SAM / NIN,DEF: 10 Evasion +4 Enmity +1,none
+Arhat's Sune-Ate +1,63,MNK / SAM / NIN,DEF: 11 Evasion +5 Enmity +2,none
+Feral Ledelsens,63,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 12 -2 +4 Attack +4,none
+Tiger Ledelsens,63,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 11 -3 +3 Attack +3,none
+Coral Greaves,64,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 12 -3 +3 Magic damage taken -1%,none
+Coral Greaves +1,64,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 13 -2 +4 Magic damage taken -2%,none
+Caitiff's Socks,65,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,"DEF: 11 Latent effect: ""Flee""",none
+Darksteel Leggings,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 12 +1 +1 Physical damage taken -1%,none
+Darksteel Leggings +1,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 13 +2 +2 Physical damage taken -2%,none
+Marid Leggings,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 13 HP +20 +5 Ranged Accuracy +1,none
+Marid Leggings +1,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 14 HP +25 +6 Ranged Accuracy +2,none
+Coral Leggings,66,WAR / THF / BST,DEF: 12 STR +2 VIT +1 Magic damage taken -1% Converts 15 MP to HP,none
+Darksteel Sabatons,66,PLD / DRK,DEF: 15 MP +6 DEX +3 VIT -1 +2 +2,none
+Darksteel Sabatons +1,66,PLD / DRK,DEF: 16 MP +7 DEX +4 VIT -1 +3 +3,none
+Merman's Leggings,66,WAR / THF / BST,DEF: 13 STR +3 VIT +1 Magic damage taken -2% Converts 20 MP to HP,none
+Wulong Shoes,66,All Jobs,DEF: 9,none
+Wulong Shoes +1,66,All Jobs,DEF: 10,none
+Aristocrat's Pumps,67,WHM,DEF: 15 MP +13 AGI +3 CHR +2,none
+Noble's Pumps,67,WHM,DEF: 14 MP +12 AGI +2 CHR +1,none
+Rutter Sabatons,67,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 16 STR +3 VIT +2 Attack +5 ""Slow"" +2%",none
+Ataractic Solea,68,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,"DEF: 14 HP +22 MP +22 ""Magic Def. Bonus"" +4 Enhances ""Resist Silence"" effect",none
+Dragon Greaves,68,DRG,DEF: 13 HP +9  +10  +10 Breath damage taken -4%,none
+Dragon Greaves +1,68,DRG,DEF: 14 HP +11  +12  +12 Breath damage taken -5%,none
+Earth Greaves,68,DRG,"DEF: 13 HP +9  +10  +10 Breath damage taken -4% Enchantment: Wyvern gains effect of ""Stoneskin""",none
+Thick Sollerets,68,WAR / DRK / BST,DEF: 12 Accuracy +2 Attack +4 Evasion -2,
+Thick Sollerets +1,68,WAR / DRK / BST,DEF: 13 Accuracy +2 Attack +5 Evasion -2,
+Coeurl Ledelsens,69,THF / BST / RNG,DEF: 12 HP -1% STR -1 AGI +2 Evasion +2,none
+Root Sabots,69,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,"DEF: 18 HP +35 Bind Adds ""Regen"" effect Enchantment: ""Bind""",none
+Torama Ledelsens,69,RDM / THF / BST / RNG,DEF: 13 HP -1% STR -1 AGI +3 Evasion +3,none
+Barone Gambieras,70,WAR / DRG,DEF: 19 STR +2 Attack +5 Parrying Skill +3 Enmity +2,none
+Blessed Pumps,70,WHM,DEF: 14 MP +17 MND +3 Haste +2% Enmity -4,none
+Blessed Pumps +1,70,WHM,DEF: 15 MP +20 MND +4 Enmity -5,none
+Bowman's Ledelsens,70,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 13 +15 +15 +15 Accuracy +4 Ranged Accuracy +4 Set: Increases Ranged Attack,none
+Conte Gambieras,70,WAR / DRG,DEF: 20 STR +3 Attack +6 Parrying Skill +4 Enmity +3,none
+Dune Boots,70,MNK / WHM / RDM / THF / PLD / BST BRD / DRG / SMN / BLU / COR / PUP,DEF: 11,none
+Hachiman Sune-Ate,70,SAM,"DEF: 17 STR +2 ""Store TP"" +5 Weapon Skill Accuracy +2",none
+Hachiman Sune-Ate +1,70,SAM,"DEF: 18 STR +3 ""Store TP"" +6 Weapon Skill Accuracy +3",none
+Herald's Gaiters,70,MNK / WHM / BLM / SMN,DEF: 16 MP +12 Evasion +8 Movement speed +12%,
+Hydra Boots,70,All Jobs,DEF: 18 Fellow: HP +10 MP +10 AGI +2,none
+Hydra Gaiters,70,WHM / BLM / RDM / BRD / SMN,DEF: 14 Accuracy +6 Evasion +6 Enmity -5 MP recovered while healing +2,none
+Hydra Sollerets,70,WAR / PLD / DRK,DEF: 15 HP -35 MP +35 Accuracy +4 Enmity +4,none
+Hydra Spats,70,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 14 Enchantment: Evasion +15,none
+King's Sabatons,70,PLD,DEF: 17 HP +10 VIT +2 CHR +2  +3  +3 MP recovered while healing +4,none
+Lord's Sabatons,70,PLD,DEF: 16 VIT +1 CHR +1  +2  +2 Converts 10 MP to HP MP recovered while healing +3,none
+Mercenary's Boots,70,DRK / SAM / DRG,DEF: 20 Attack +5 'Besieged: Attack +10,none
+Nobushi Kyahan,70,MNK / SAM / NIN,"DEF: 18 Accuracy +4 ""Store TP"" +4 Enhances Effects of Rice Balls",none
+Numerist Pumps,70,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 14 Elemental Magic Skill +4 MP recovered while healing +3,none
+Ogre Ledelsens,70,RDM / BST,DEF: 13 MP +13 MND +3 Attack +10 Evasion -5,none
+Ogre Ledelsens +1,70,RDM / BST,DEF: 14 MP +15 MND +5 Attack +12 Evasion -7,none
+Skanda Boots,70,WAR / PLD / DRK / SAM / DRG,"DEF: 13  +8  +8 Enhances ""Jump"" effect Enhances ""Resist Gravity"" effect",none
+Vampiric Boots,70,BLM / DRK,"DEF: 11 STR +2 DEX +1 +15 +15 +15 Haste +1% Set: Enhances effect of ""Drain"" and ""Aspir""",none
+Volunteer's Nails,70,MNK / WHM / RDM / THF / PLD / BST / BRD / RNG / DRG / SMN / BLU / COR / PUP,DEF: 18 CHR +5 Besieged:: Song recast delay -4,none
+War Boots,70,THF / RNG / COR,DEF: 14 HP +12 VIT -1 Attack +5 Ranged Attack +5,none
+War Boots +1,70,THF / RNG / COR,DEF: 15 HP +14 VIT -2 Attack +6 Ranged Attack +6,none
+Abyss Sollerets,71,DRK,"DEF: 17 MP +12 Enfeebling Magic skill +5 Enhances ""Last Resort"" effect",none
+Bard's Slippers,71,BRD,DEF: 14 HP +12 Parrying skill +3 String instrument skill +3 Enmity -2,none
+Bison Gamashes,71,BST,"DEF: 13 MP +7 Attack +5 Enmity -1 Vs. Vermin: ""Charm"" +5",none
+Black Sollerets,71,DRK,"DEF: 13 STR +3 Attack +8 Damage taken +8% Enhances Effect of ""Absorb"" Spells",none
+Brave's Gamashes,71,BST,"DEF: 14 MP +8 Attack +6 Enmity -2 Vs. Vermin: ""Charm"" +6",none
+Cleric's Duckbills,71,WHM,DEF: 15 MP +18 MND +5 Enhancing magic skill +10 Enmity -1,none
+Duelist's Boots,71,RDM,"DEF: 15 MP +15 MND +4 Evasion skill +5 ""Magic Atk. Bonus"" +4",none
+Evoker's Boots,71,SMN,DEF: 11 MP +20 MND +2 Enmity -2,Summoning magic casting time -1 added as a hidden effect.
+Evokers Boots,71,SMN,MP +20 MND +2 Enmity -2,Evoker's Boots now have the Hidden Effect Summoning Magic Casting time -1.
+Hakke Habaki,71,MNK / SAM / NIN,"DEF: 12 HP -10 AGI +4 Evasion +4 Increases ""Kick Attacks"" damage",none
+Khimaira Gamashes,71,BST,"DEF: 14 HP +7 MP +7 Accuracy +5 Attack +5 Enmity -1 Vs. Vermin: ""Charm"" +5",none
+Melee Gaiters,71,MNK,"DEF: 15 HP +4% DEX +4 Guarding skill +12 Enhances ""Counterstance"" effect",none
+Mirage Charuqs,71,BLU,DEF: 16 MP +15 AGI +3 INT +3 Attack +5 Enmity -2,none
+Onyx Sollerets,71,DRK,DEF: 14 STR +4 Attack +10 Damage taken +9% Enhances effect of Absorb spells,none
+Saotome Sune-Ate,71,SAM,DEF:18 HP+23 DEX+5 Attack+8 Enmity+1,none
+Sorcerer's Sabots,71,BLM,"DEF: 14 MP +18 INT +2 Enmity -1 ""Conserve MP"" +5",none
+Stout Gamashes,71,BST,"DEF: 15 HP +8 MP +8 Accuracy +6 Attack +6 Enmity -2 Vs. Vermin: ""Charm"" +6",none
+Valor Leggings,71,PLD,"DEF: 19 HP +18 MND +3 Enmity +1 Enhances ""Sentinel"" effect",none
+Warrior's Calligae,71,WAR,"DEF: 19 HP +10 AGI +5 Enmity +1 Enhances ""Berserk"" effect",none
+Yasha Sune-Ate,71,NIN,DEF: 13 HP +10 INT +3 Spell interruption rate down 5% Enmity +2,none
+Yasha Sune-Ate +1,71,NIN,DEF: 14 HP +12 INT +4 Spell interruption rate down 6% Enmity +3,none
+Amir Boots,72,WAR / PLD / DRK / SAM / DRG,DEF: 16 Accuracy +6 Attack +5 HP recovered while healing +1 Set: Reduces magic and breath damage,none
+Arborist Nails,72,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 13 MP +18 Enmity -5 MP recovered while healing +1,none
+Aurum Sabatons,72,WAR / PLD / DRK / BST / DRG,DEF: 20 DEX +3 Accuracy +5 Attack +5 Evasion -5 Haste +2%,none
+Avocat Pigaches,72,WHM / BLM / RDM / BRD / SMN,DEF: 16 Enfeebling Magic skill +3 Enmity -3 MP recovered while healing +3,none
+Dance Shoes,72,MNK / WHM / BLM / RDM / THF / BST / BRD / RNG / NIN / SMN / BLU / PUP,DEF: 13 VIT -2 CHR +3 Evasion +6,none
+Dance Shoes +1,72,MNK / WHM / BLM / RDM / THF / BST / BRD / RNG / NIN / SMN / BLU / PUP,DEF: 14 VIT -3 CHR +4 Evasion +7,none
+Dusk Ledelsens,72,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 23 HP +25 Attack +4 Haste +2% Decreases movement speed,none
+Dusk Ledelsens +1,72,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 24 HP +27 Attack +5 Haste +3% Decreases movement speed,none
+Enkidu's Leggings,72,MNK / THF / RNG / SAM / NIN / BLU / COR / PUP,"DEF: 23 DEX +3 AGI +3 Attack +4 Ranged Attack +4 ""Subtle Blow"" +2 Haste +2%",none
+Errant Pigaches,72,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 18 HP -20 MP +20 MND +5 Enmity -2,none
+Fuma Sune-Ate,72,MNK / SAM / NIN,DEF: 21 HP +12 AGI +3 Haste +3%,none
+Gavial Greaves,72,SAM / DRG,DEF: 21 VIT +2 AGI +2 Attack +2 Physical damage taken -2%,none
+Gavial Greaves +1,72,SAM / DRG,DEF: 22 VIT +3 AGI +3 Attack +3 Physical damage taken -3%,none
+Hydra Greaves,72,SAM / DRG,DEF: 22 VIT +2 AGI +2 Accuracy +2 Attack +2 Evasion +2 Physical damage taken -2%,none
+Hydra Greaves +1,72,SAM / DRG,DEF: 23 VIT +3 AGI +3 Accuracy +3 Attack +3 Evasion +3 Physical damage taken -3%,none
+Koga Kyahan,72,NIN,DEF: 15 VIT +7 Ninjutsu skill +10 Nighttime: DEX +7,none
+Mahatma Pigaches,72,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 19 HP -25 MP +25 MND +6 Enmity -3,none
+Oracle's Pigaches,72,WHM / BLM / BRD / SMN,DEF: 13 HP +15 MP +25 Wind Instrument skill +5 MP recovered while healing +2,none
+Pahluwan Crackows,72,MNK / RDM / THF / BST / RNG / NIN / DRG / COR / PUP,"DEF: 13 DEX +4 Accuracy +3 Ranged Accuracy +3 Set: Enhances ""Subtle Blow"" effect",none
+Pantin Babouches,72,PUP,"DEF: 17 HP +14 INT +2 MND +2 Attack +5 Automaton: ""Magic Atk. Bonus"" +5",none
+Rasetsu Sune-Ate,72,MNK / SAM / NIN,"DEF: 23 Attack +5 Evasion +5 Latent effect: ""Counter"" +1",none
+Rasetsu Sune-Ate +1,72,MNK / SAM / NIN,"DEF: 24 Attack +6 Evasion +6 ""Counter"" +1",none
+Sha'ir Crackows,72,BRD,DEF: 18 MP +11 CHR +4 Haste +1%,none
+Sheikh Crackows,72,BRD,DEF: 19 MP +12 CHR +5 Haste +2%,none
+Wise Pigaches,72,RDM,DEF: 14 INT +4 Accuracy +2 Ranged Accuracy +3 Enmity -1,none
+Wise Pigaches +1,72,RDM,DEF: 15 INT +5 Accuracy +3 Ranged Accuracy +4 Enmity -2,none
+Wyrm Greaves,72,DRG,DEF: 16 HP +10 VIT +4 +10 Wyvern: HP recovered while healing +6,none
+Yigit Crackows,72,WHM / BLM / RDM / BRD / SMN / BLU,"DEF: 11 INT +3 MND +3 Evasion +5 ""Magic Atk. Bonus"" +2 Set: Adds ""Refresh"" effect",none
+Adaman Sabatons,73,WAR / PLD,DEF: 17 HP +15 VIT +1 AGI -1 Enmity +1,none
+Adaman Sollerets,73,WAR / DRK / BST,DEF: 18 MND -10 Haste +1% Accuracy +3 Attack +5 Evasion -5 HP -20,"New stats of Haste +1%, HP -20 and Evasion -5 added."
+Armada Sollerets,73,WAR / DRK / BST,DEF: 19 MND -11 Haste +2% Accuracy +4 Attack +6 Evasion -6 HP -21,"Added +2% Haste
+
+Added -2 Evasion"
+Assassin's Poulaines,73,THF,"DEF: 15 HP +15 CHR +5 ""Triple Attack"" +1% Enmity +2",none
+Blood Greaves,73,RDM / PLD / DRK / RNG / DRG / BLU / COR,DEF: 25 HP +17 MP +17 DEX +4 AGI +4 +4 +21+21+21+21,none
+Commodore Bottes,73,COR,DEF: 16 HP +12 DEX +3 INT +3 Accuracy +5 Enmity -3,none
+Crimson Greaves,73,RDM / PLD / DRK / RNG / DRG / BLU / COR,DEF: 24 HP +15 MP +15 DEX +3 AGI +3 +20+20 +20 +20,none
+Dragon Leggings,73,THF,DEF: 14 DEX +3 AGI +3 Attack +2 Enmity +1,none
+Dragon Leggings +1,73,THF,DEF: 15 DEX +4 AGI +4 Attack +3 Enmity +2,none
+Gem Sabatons,73,WAR / PLD,DEF: 18 HP +17 VIT +2 AGI -2 Enmity +2,none
+Genie Huaraches,73,BLM,"DEF: 16 Enhancing magic skill +9 Dark magic skill +5 Enmity +3 ""Conserve MP"" +5",none
+Hecatomb Leggings,73,WAR / THF / PLD / DRK / BST / BRD / DRG,"DEF: 22 HP +7 STR +6 DEX +3 ""Slow"" +4%",none
+Hecatomb Leggings +1,73,WAR / THF / PLD / DRK / BST / BRD / DRG,"DEF: 23 HP +9 STR +7 DEX +4 ""Slow"" +6%",none
+Igqira Huaraches,73,BLM,"DEF: 15 Enhancing magic skill +8 Dark Magic Skill +4 Enmity +2 ""Conserve MP"" +4",none
+Kaiser Schuhs,73,WAR / PLD,"DEF: 26 HP +22 STR -6 DEX -6 VIT +11 AGI +11 Enhances ""Resist Paralyze"" effect",AGI +11 instead of CHR +11
+Koenig Schuhs,73,WAR / PLD,"DEF: 25 HP +20 STR -5 DEX -5 VIT +10 AGI +10 Enhances ""Resist Paralyze"" effect",AGI +10 instead of CHR +10
+Shura Sune-Ate,73,MNK / SAM / NIN,"DEF: 16 HP -20 Accuracy +4 STR +2 DEX +2 Enhances ""Resist Gravity"" effect",added STR+2 and DEX+2
+Shura Sune-Ate +1,73,MNK / SAM / NIN,"DEF: 17 HP -25 Accuracy +5 STR +3 DEX +3 Enhances ""Resist Gravity"" effect",added STR+3 and DEX+3
+Summoner's Pigaches,73,SMN,"DEF: 14 MP +20 VIT +3 Enhances avatar attack ""Blood Pact"" ability delay -2",none
+Zenith Pumps,73,WHM / BLM / RDM / BRD / SMN,DEF: 20 INT +3 CHR +3 Converts 50 HP to MP,Added an additional +1 stat to both CHR and INT. This puts Zenith pumps at +3 INT and CHR instead of +2
+Zenith Pumps +1,73,WHM / BLM / RDM / BRD / SMN,DEF: 21 INT +4 CHR +4 Converts 55 HP to MP,#ERROR!
+Beast Gaiters +1,74,BST,"DEF: 10 HP +11 CHR +5 AGI +5 Enhances ""Reward"" effect ""Charm"" +2",
+Chaos Sollerets +1,74,DRK,"DEF: 17 HP +15 MP +15 STR +5 MND +5 Accuracy +3 Enhances ""Arcane Circle"" effect",Accuracy +3
+Choral Slippers +1,74,BRD,DEF: 14 HP +10 DEX +5 AGI +5 Evasion +5 HP recovered while healing +2 MP recovered while healing +2,none
+Corsair's Bottes +1,74,COR,DEF: 12 HP +15 STR +5 AGI +5 Ranged Accuracy +4 Accuracy +4,none
+Drachen Greaves +1,74,DRG,"DEF: 16 HP +12 DEX +5 AGI +5 Evasion Skill +10 Enhances ""Jump"" effects",None
+Evoker's Pigaches +1,74,SMN,DEF: 10 MP +25 Avatar perpetuation cost -1 Avatar: Enhances avatar evasion Avatar: Enmity -4,none
+Fighter's Calligae +1,74,WAR,"DEF: +19 HP +12 VIT +3 AGI +3 Enhances ""Double Attack"" effect Enmity +1",none
+Gallant Leggings +1,74,PLD,"DEF: 19 HP +20 CHR +5 DEX +2 Shield skill +12 Enhances ""Holy Circle"" effect",Now has DEX +2
+Healer's Duckbills +1,74,WHM,DEF: 12 MP +20  AGI +5 INT +5 Spell interruption rate down 25% MP recovered while healing +1,MP +20 instead of MP +15
+Heroic Boots,74,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 13 STR +2 CHR +3 Enmity +1,none
+Heroic Boots +1,74,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 14 STR +3 CHR +4 Enmity +2,none
+Hunter's Socks +1,74,RNG,"DEF: 16 HP +10 DEX +6 AGI +6 Evasion +5 Enhances ""Scavenge"" effect",none
+Magus Charuqs +1,74,BLU,DEF: 14 HP +18 MP +18 Accuracy +3 Evasion Skill +10 Enmity -5,none
+Monster Gaiters,74,BST,"DEF: 14 HP +13 VIT +4 Enhances ""Reward"" effect II ""Charm"" +3",
+Myochin Sune-Ate +1,74,SAM,"DEF: 18 HP +20 AGI +8 Attack +8 Enmity +5 Enhances ""Zanshin"" effect",AGI +8
+Ninja Kyahan +1,74,NIN,DEF: 15 HP +12 AGI +6 INT +6 Dusk to dawn: Movement speed +25%,none
+Puppetry Babouches +1,74,PUP,"DEF: 12 HP +19 STR +5 Accuracy +5 Evasion +5 Enhances ""Repair"" effect",none
+Rogue's Poulaines +1,74,THF,"DEF: 15 DEX +3 Ranged Accuracy +5 Extends duration of ""Flee"" """"Steal"" +2",none
+Scout's Socks,74,RNG,DEF: 16 HP +12 VIT +5 Ranged Attack +10 Enmity -3,none
+Spagyric Nails,74,MNK / WHM / BLM / RDM / THF / BST / BRD / RNG / NIN / SMN / BLU / PUP,"DEF: 14 CHR +4 +8 Enhances ""Resist Silence"" effect Enhances ""Resist Virus"" effect",none
+Temple Gaiters +1,74,MNK,"DEF: 15 HP +12 DEX +5 MND +5 Evasion +10 Enhances ""Dodge"" effect",???
+Unicorn Leggings,74,WAR,DEF: 24 HP +30 STR +3 Latent effect: Haste +3%,none
+Unicorn Leggings +1,74,WAR,DEF: 26 HP +34 STR +4 Latent effect: Haste +4%,none
+Warlock's Boots +1,74,RDM,DEF: 15 MP +16 AGI +3 INT +3 MND +3 Shield skill +10,none
+Wizard's Sabots +1,74,BLM,DEF: 11 MP +20 INT +1 AGI +5 MND +5 Spell interruption rate down 20% MP recovered while healing +1,"MP +20 instead of MP +15
+INT +1"
+Abyss Sollerets +1,75,DRK,"DEF: 18 MP +12 Accuracy +2 Enfeebling Magic skill +5 Enhances ""Last Resort"" effect",none
+Ares' Sollerets,75,WAR / PLD / DRK / DRG,"DEF: 20 HP +2% MP +2% VIT +3 AGI +3 Accuracy +7 Attack +7 Evasion -7 Set: Enhances ""Double Attack"" effect",none
+Askar Gambieras,75,WAR / PLD / DRK / BST / SAM / DRG,DEF: 17 MP +30 STR +3 AGI +3 Damage taken -2% Enmity +2 Set: Max HP Boost,none
+Assassin's Poulaines +1,75,THF,"DEF: 16 HP +15 CHR +6 ""Triple Attack"" +1% Enmity +3",none
+Bard's Slippers +1,75,BRD,DEF: 15 HP +12 Parrying Skill +4 String Instrument Skill +3 Enmity -3,none
+Cleric's Duckbills +1,75,WHM,DEF: 16 MP +18 MND +6 Enhancing magic skill +10 Enmity -2,none
+Commodore Bottes +1,75,COR,DEF: 17 HP +12 DEX +3 INT +3 Accuracy +7 Enmity -4,none
+Denali Gamashes,75,MNK / THF / RNG / NIN / BLU / COR,DEF: 15 STR +3 INT +3 MND +3 Accuracy +5 Magic Accuracy +3 Set: Increases Accuracy,none
+Duelist's Boots +1,75,RDM,"DEF: 16 MP +15 MND +5 Evasion skill +5 ""Magic Atk. Bonus"" +5",none
+Goliard Clogs,75,WHM / BLM / RDM / BRD / SMN / PUP,"DEF: 19 DEX +4 INT +4 MND +4 CHR +4 Evasion +5 MP recovered while healing +3 Magic Accuracy +2 Set: ""Magic Def. Bonus""",none
+Hachiryu Sune-Ate,75,WAR / MNK / RNG / SAM / NIN,"DEF: 30 AGI +10 Evasion +5 Enhances ""Zanshin"" effect Set: Enhances ""Store TP"" effect",none
+Homam Gambieras,75,THF / PLD / DRK / DRG / BLU,DEF: 16 HP +31 MP +31 Accuracy +6 Ranged Accuracy +6 Haste +3% Wyvern: HP +50,none
+Koga Kyahan +1,75,NIN,DEF: 16 VIT +8 Ninjutsu skill +12 Dusk to dawn: DEX +7,none
+Marduk's Crackows,75,WHM / BRD / SMN,"DEF: 20 MP +3% MND +10 Enfeebling Magic Skill +5 String Instrument Skill +5 Summoning Magic Skill +5 Enmity -4 Set: Enhances ""Fast Cast"" effect",none
+Melee Gaiters +1,75,MNK,"DEF: 16 HP +4% DEX +5 Guarding Skill +14 Enhances ""Counterstance"" effect",none
+Mirage Charuqs +1,75,BLU,DEF: 17 MP +15 AGI +4 INT +4 Attack +5 Enmity -2,none
+Monster Gaiters +1,75,BST,"DEF: 15 HP +13 VIT +5 Enhances ""Reward"" effect II ""Charm"" +3",
+Morrigan's Pigaches,75,BLM / RDM / BLU,"DEF: 18 MP +20 STR +3 INT +3 MND +3 Enmity -2 Set: Enhances ""Magic Attack Bonus"" effect",none
+Nashira Crackows,75,WHM / BLM / RDM / SMN / BLU,DEF: 13 Magic Accuracy +2 Elemental Magic Skill +5 Summoning Magic +5 Haste +1%,none
+Pantin Babouches +1,75,PUP,"DEF: 18 HP +22 INT +3 MND +3 Attack +5 Automaton: ""Magic Atk. Bonus"" +5",none
+Rostrum Pumps,75,WHM / BLM / BRD / SMN / PUP,"DEF: 20 HP -30 MP +30 INT +3 MND +3 Enhances ""Fast Cast"" effect",none
+Saotome Sune-Ate +1,75,SAM,DEF: 19 HP +23 DEX +6 Attack +10 Enmity +1,none
+Scout's Socks +1,75,RNG,DEF: 17 HP +12 VIT +5 Ranged Attack +12 Enmity -4,none
+Shadow Clogs,75,WHM / BLM / RDM / BRD / SMN,DEF: 11 MND +5 CHR +5 Magic Accuracy +2 Enmity -2 Physical damage taken +1%,none
+Shadow Sabatons,75,WAR / PLD / DRK,DEF: 20 HP +15 MP +15 AGI +4 Accuracy +1 Attack +8,none
+Skadi's Jambeaux,75,THF / BST / RNG / COR,DEF: 16 STR +3 VIT +3 Accuracy +5 Ranged Accuracy +5 Evasion -5 Increases movement speed Set: Increases rate of critical hits,none
+Sorcerer's Sabots +1,75,BLM,"DEF: 15 MP +18 INT +3 Enmity -2 ""Conserve MP"" +5",none
+Summoner's Pigaches +1,75,SMN,DEF: 15 MP +25 Enhances avatar attack Avatar: Enmity +2 Blood Pact ability delay -2,none
+Suzaku's Sune-Ate,75,WAR / MNK / BST / BRD / RNG / SAM / NIN,"DEF: 30 MND +15 +50 Physical damage: ""Blaze Spikes"" effect",none
+Usukane Sune-Ate,75,MNK / SAM / NIN / PUP,"DEF: 22 Accuracy +7 Attack +7 ""Store TP"" +7 Haste +2% Enmity +5 Set: Enhances ""Haste"" effect",none
+Valkyrie's Clogs,75,WHM / BLM / RDM / BRD / SMN,DEF: 12 MND +6 CHR +6 Magic Accuracy +3 Enmity -3 Physical damage taken +2%,none
+Valkyrie's Sabatons,75,WAR / PLD / DRK,DEF: 21 HP +17 MP +17 AGI +5 Accuracy +2 Attack +9,none
+Valor Leggings +1,75,PLD,"DEF: 20 HP +18 MND +4 Enmity +2 Enhances ""Sentinel"" effect",none
+Warrior's Calligae +1,75,WAR,"DEF: 20 HP +15 AGI +5 Enmity +1 Enhances ""Berserk"" effect",none
+Wyrm Greaves +1,75,DRG,DEF: 17 HP +10 VIT +5 +10 Wyvern: HP recovered while healing +7,none

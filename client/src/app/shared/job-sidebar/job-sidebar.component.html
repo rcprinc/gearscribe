@@ -1,0 +1,71 @@
+<ul class="job-sidebar">
+  <li *ngFor="let job of visibleJobs()" class="job-sidebar__item">
+    <div
+      class="job-sidebar__header"
+      (click)="toggle(job)"
+      (keydown.enter)="toggle(job)"
+      (keydown.space)="toggle(job)"
+      role="button"
+      tabindex="0"
+    >
+      <span class="job-sidebar__icon">{{ isExpanded(job) ? '−' : '+' }}</span>
+      <span
+        class="job-sidebar__job"
+        [class.job-sidebar__job--selectable]="jobSelectable"
+        (click)="onJobNameClick(job, $event)"
+      >{{ job }}</span>
+      <span class="job-sidebar__level-slot">
+        <span class="job-sidebar__level" *ngIf="levelFor(job) > 0">{{ levelFor(job) }}</span>
+        <button
+          type="button"
+          class="job-sidebar__hide-link"
+          (click)="hideJob(job, $event)"
+        >
+          Hide
+        </button>
+      </span>
+    </div>
+
+    <ul class="job-sidebar__children" *ngIf="isExpanded(job)">
+      <li *ngFor="let name of itemsFor(job)">
+        <button
+          type="button"
+          class="job-sidebar__entry"
+          (click)="onItemClick(job, name)"
+        >
+          {{ name }}
+        </button>
+      </li>
+      <li>
+        <button
+          type="button"
+          class="job-sidebar__add"
+          (click)="onAdd(job)"
+        >
+          {{ addLabel }}
+        </button>
+      </li>
+    </ul>
+  </li>
+
+  <li class="job-sidebar__item" *ngIf="hiddenJobsList().length > 0">
+    <div
+      class="job-sidebar__header"
+      (click)="toggleHiddenSection()"
+      (keydown.enter)="toggleHiddenSection()"
+      (keydown.space)="toggleHiddenSection()"
+      role="button"
+      tabindex="0"
+    >
+      <span class="job-sidebar__icon">{{ isHiddenSectionExpanded() ? '−' : '+' }}</span>
+      <span class="job-sidebar__job">Hidden</span>
+    </div>
+
+    <ul class="job-sidebar__children" *ngIf="isHiddenSectionExpanded()">
+      <li *ngFor="let job of hiddenJobsList()" class="job-sidebar__hidden-entry">
+        <span>{{ job }}</span>
+        <button type="button" class="job-sidebar__show-link" (click)="showJob(job)">Show</button>
+      </li>
+    </ul>
+  </li>
+</ul>

@@ -1,0 +1,513 @@
+Name,Level,Jobs,Stats,Horizon Changes
+Swellers Harness,,All Jobs,None,
+Chocobo Jack Coat,1,All Jobs,DEF: 2 Chocobo riding time +5,none
+Field Tunica,1,All Jobs,"DEF: 2 Improves Mining, Logging and Harvesting results",none
+Fisherman's Tunica,1,All Jobs,DEF: 2 Fishing skill +1,none
+Fisherman's Apron,1,All Jobs,DEF: 4  +1  +1 Reduces chances of fishing up items,
+Mithra Top +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Reduces clamming ""incidents""",
+Custom Gilet +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Enchantment: ""Teleport"" (Purgonorgo Isle)",Can be stored in Mog Wardrobe 8.
+Magna Top +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Enchantment: ""Teleport"" (Purgonorgo Isle)",
+Wonder Top +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Enchantment: ""Teleport"" (Purgonorgo Isle)",Can be stored in Mog Wardrobe 8.
+Savage Top +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Enchantment: ""Teleport"" (Purgonorgo Isle)",Can be stored in Mog Wardrobe 8.
+Custom Top +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Enchantment: ""Teleport"" (Purgonorgo Isle)",Can be stored in Mog Wardrobe 8.
+Hume Top,1,All Jobs,Cannot Equip Handgear DEF: 1,Can be stored in Mog Wardrobe 8.
+Omina Yukata,1,All Jobs,DEF: 1,Can be stored in Mog Wardrobe 8.
+Lady's Yukata,1,All Jobs,DEF: 2 Improves Goldfish-scooping ability,none
+Hume Top +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Reduces clamming ""incidents""",Can be stored in Mog Wardrobe 8.
+Onoko Yukata,1,All Jobs,DEF: 1,Can be stored in Mog Wardrobe 8.
+Lord's Yukata,1,All Jobs,DEF: 2 Improves Goldfish-scooping ability,Can be stored in Mog Wardrobe 8.
+Elder Gilet +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Enchantment: ""Teleport"" (Purgonorgo Isle)",Can be stored in Mog Wardrobe 8.
+Elvaan Gilet,1,All Jobs,Cannot Equip Handgear DEF: 1,Can be stored in Mog Wardrobe 8.
+Magna Gilet +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Enchantment: ""Teleport"" (Purgonorgo Isle)",Can be stored in Mog Wardrobe 8.
+Wonder Maillot +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Enchantment: ""Teleport"" (Purgonorgo Isle)",Can be stored in Mog Wardrobe 8.
+Tarutaru Maillot,1,All Jobs,Cannot Equip Handgear DEF: 1,Can be stored in Mog Wardrobe 8.
+Tarutaru Maillot +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Reduces clamming ""incidents""",
+Hardcore Shirt,1,All Jobs,DEF: 1,Cosmetic item received for achievemnts in Hardcore mode - details below.
+Tarutaru Top +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Reduces clamming ""incidents""",none
+Republic Aketon,1,All Jobs,DEF: 1 Increases chances of obtaining crystals In Bastok: Movement speed +12%,none
+Federation Aketon,1,All Jobs,DEF: 1 Increases chances of obtaining crystals In Windurst: Movement speed +12%,Is a required item in the quest Omni Aketon.
+Kingdom Aketon,1,All Jobs,DEF: 1 Increases chances of obtaining crystals In San d'Oria: Movement speed +12%,Is a required item in the quest Omni Aketon.
+Dream Robe,1,All Jobs,DEF: 2,
+Dream Robe +1,1,All Jobs,DEF: 3 Enhances the effect of Selbina milk,
+Mandragora Suit,1,All Jobs,"Cannot Equip Leggear DEF: 1 Enchantment: ""Teleport"" (Home Nation)",
+HorizonXI Shirt,1,All Jobs,DEF: 1,
+Culinarian's Apron,1,All Jobs,DEF: 2 +1 +1 Cooking Skill +1,
+Hume Gilet,1,All Jobs,Cannot Equip Handgear DEF: 1,Can be stored in Mog Wardrobe 8.
+Hume Gilet +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Reduces clamming ""incidents""",Can be stored in Mog Wardrobe 8.
+Mithra Top,1,All Jobs,Cannot Equip Handgear DEF: 1,Can be stored in Mog Wardrobe 8.
+Elvaan Top,1,All Jobs,Cannot Equip Handgear DEF: 1,Can be stored in Mog Wardrobe 8.
+Galka Gilet,1,All Jobs,Cannot Equip Handgear DEF: 1,Can be stored in Mog Wardrobe 8.
+Elvaan Top +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Reduces clamming ""incidents""",Can be stored in Mog Wardrobe 8.
+Galka Gilet +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Reduces clamming ""incidents""",Can be stored in Mog Wardrobe 8.
+Tarutaru Top,1,All Jobs,Cannot Equip Handgear DEF: 1,Can be stored in Mog Wardrobe 8.
+Elvaan Gilet +1,1,All Jobs,"Cannot Equip Handgear DEF: 2 Reduces clamming ""incidents""",Can be stored in Mog Wardrobe 8.
+Tartarus Platemail,1,All Jobs,DEF: 1,
+Hardcore Harness,1,All Jobs,DEF: 1,Cosmetic item received for achievemnts in Hardcore mode - details below.
+Bugsquasher Shirt,1,All Jobs,None,This is a custom Horizon item.
+Ducal Aketon,1,All Jobs,None,This is a custom Horizon item.
+Alchemist's Apron,1,All Jobs,DEF: 3 +1 +1 Alchemy skill +1,none
+Blacksmith's Apron,1,All Jobs,DEF: 4 +2 Smithing skill +1,none
+Boneworker's Apron,1,All Jobs,DEF: 3 +1+1 Bonecraft skill +1,none
+Bronze Harness,1,WAR / MNK / RDM / THF / PLD / DRK / BST BRD / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Bronze Harness +1,1,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 5,none
+Carpenter's Apron,1,All Jobs,DEF: 3 +1 +1 Woodworking skill +1,none
+Custom Gilet,1,All Jobs,Cannot Equip Handgear DEF: 1,none
+Custom Top,1,All Jobs,Cannot Equip Handgear DEF: 1,none
+Elvaan Bodice,1,All Jobs,DEF: 2,none
+Elvaan Jerkin,1,All Jobs,DEF: 2,none
+Galkan Surcoat,1,All Jobs,DEF: 2,none
+Goldsmith's Apron,1,All Jobs,DEF: 3 +1 +1 Goldsmithing skill +1,none
+Hume Tunic,1,All Jobs,DEF: 2,none
+Hume Vest,1,All Jobs,DEF: 2,none
+Magna Gilet,1,All Jobs,Cannot Equip Handgear DEF: 1,
+Magna Top,1,All Jobs,Cannot Equip Handgear DEF: 1,
+Mithran Separates,1,All Jobs,DEF: 2,none
+Robe,1,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 3,none
+Robe +1,1,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 4,none
+Savage Top,1,All Jobs,Cannot Equip Handgear DEF: 1,none
+Tanner's Apron,1,All Jobs,DEF: 3 +1 +1 Leathercraft skill +1,none
+Tarutaru Kaftan,1,All Jobs,DEF: 2,none
+Vagabond's Tunica,1,All Jobs,DEF: 2 HP recovered while healing +1,none
+Leather Vest,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7,none
+Leather Vest +1,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 9,none
+Tunic,8,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 9,none
+Kenpogi,8,MNK / SAM / NIN,DEF: 8,none
+Kenpogi +1,8,MNK / SAM / NIN,DEF: 9 DEX +1,none
+Mana Tunic,8,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 9 Enchantment: Recover MP,none
+Taikyoku Kenpogi,8,MNK / SAM / NIN,DEF: 8 Enchantment: Evasion +3,none
+Tunic +1,8,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,None,none
+Royal Footman's Tunic,10,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 12 AGI +1 INT +1,none
+Royal Footman's Vest,10,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 10 +5,none
+Legionnaire's Harness,10,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 10 +5,none
+Scale Mail,10,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 11,none
+Solid Mail,10,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 12,none
+Brass Harness,11,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 10,none
+Brass Harness +1,11,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 11,none
+Doublet,11,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 10,none
+Doublet +1,11,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 11,none
+Linen Robe,12,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 10,none
+Linen Robe +1,12,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 11,none
+Power Gi,13,MNK / SAM / NIN,DEF: 12 STR +1,none
+Rider's Jack Coat,15,All Jobs,DEF: 12 Chocobo riding time +5,none
+Angler's Tunica,15,All Jobs,DEF: 12 Fishing skill +1,Hidden Effect: Full set supposed to give a small bonus to number of gold arrows seen while fishing
+Anu's Doublet,15,WHM / BRD / SMN,DEF: 10 MND +1,none
+Bastokan Harness,15,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 11 HP +2 MP +2 +5,none
+Enyo's Breastplate,15,WAR / PLD / DRK / DRG,DEF: 12 HP +1%,none
+Hoshikazu Gi,15,MNK / SAM / NIN / PUP,DEF: 11 DEX +1,none
+Kingdom Tunic,15,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot equip Headgear DEF: 14 MP +6 AGI +1 INT +1,none
+Kingdom Vest,15,WAR / RDM / THF / PLD / DRK / BST BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 12 HP +6  +5,none
+Nemain's Robe,15,BLM / RDM / BLU,DEF: 10 STR +1,none
+Njord's Jerkin,15,THF / BST / RNG / COR,DEF: 11 Ranged Accuracy +1,none
+Nomad's Tunica,15,All Jobs,DEF: 12 HP recovered while healing +1,none
+Republic Harness,15,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 12 HP +3 MP +3 +5,none
+San d'Orian Tunic,15,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 13 MP +4 AGI +1 INT +1,none
+Bone Harness,16,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 14,none
+Bone Harness +1,16,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 15 -3 Evasion +1,none
+Healing Harness,16,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 14 Enchantment: Recover HP,none
+Trailer's Tunica,16,RNG,DEF: 14 AGI +1  +5  +5,none
+Fine Jerkin,17,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 16,none
+Lizard Jerkin,17,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 15,none
+Cotton Dogi,18,MNK / SAM / NIN,DEF: 14,none
+Cotton Dogi +1,18,MNK / SAM / NIN,DEF: 15,none
+Garrison Tunica,18,All Jobs,DEF: 15 DEX +1 CHR +1,none
+Priest's Robe,19,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 14 MND +1 +2,none
+Baron's Saio,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 15 INT +1 MND +1,none
+Black Tunic,20,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 18 INT +1 +2,none
+Mage's Tunic,20,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 19 INT +2  +3,none
+Mercenary's Gi,20,MNK / SAM / NIN,DEF: 15 VIT +1,none
+Trader's Saio,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 14,none
+Beetle Harness,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 17,none
+Beetle Harness +1,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 18 -3 Evasion +1,none
+Cotton Doublet,23,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 17,none
+Great Doublet,23,MNK / WHM / RDM / THF / PLD / BST / BRD / SMN / DRG / BLU / COR / PUP,DEF: 18,none
+Bannaret Mail,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 21 Enchantment: HP +15 Enmity +2,none
+Chainmail,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 21,none
+Chainmail +1,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 22,none
+Bodb's Robe,25,BLM / RDM / BLU,DEF: 16 STR +1 INT +1,none
+Ea's Doublet,25,WHM / BRD / SMN,DEF: 17 MND +1 CHR +1,none
+Federation Gi,25,MNK / SAM / NIN,DEF: 17 VIT +1 Evasion +3,none
+Freyr's Jerkin,25,THF / BST / RNG / COR,DEF: 19 CHR +1 Ranged Accuracy +1,none
+Phobos's Cuirass,25,WAR / PLD / DRK / DRG,DEF: 21 HP +1% STR +1,none
+Shade Harness,25,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,"DEF: 19 ""Empty Killer""",none
+Shade Harness +1,25,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,"DEF: 20 Evasion +1 ""Empty Killer""",none
+Tsukikazu Togi,25,MNK / SAM / NIN / PUP,DEF: 20 DEX +1 Accuracy +1,none
+Brass Scale Mail,27,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 21,none
+Brass Scale Mail +1,27,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 22,none
+Faerie Tunic,27,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 22 HP +6 +2 +2 +2 +2 +2 +2 +2 +2,none
+Steam Scale Mail,27,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 23 +3 +3 +3,none
+Eisenbrust,29,WAR / PLD,DEF: 24 AGI +2,none
+Kampfbrust,29,WAR / PLD,DEF: 25 AGI +3,none
+Seer's Tunic,29,WHM / BLM / SMN / PUP,DEF: 18 MP +8 MP recovered while healing +1,none
+Seer's Tunic +1,29,WHM / BLM / SMN / PUP,DEF: 19 MP +9 MP recovered while healing +1,none
+Soil Gi,29,MNK / SAM / NIN,DEF: 20 +1 +1,none
+Soil Gi +1,29,MNK / SAM / NIN,DEF: 21 +2 +2,none
+Centurion's Scale Mail,30,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 23 VIT +1,none
+Nanban Kariginu,30,NIN,DEF: 21 Attack +3,none
+Garish Tunic,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 19 On Earthsday: Evasion +2,none
+Healing Vest,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 22 Enchantment: Recover HP,none
+Mercenary Captain's Doublet,30,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 20 DEX +1 AGI +1,none
+Mist Tunic,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 19 On Earthsday: Evasion +2 Enchantment: Evasion Boost,none
+Noct Doublet,30,THF / RNG / COR,DEF: 18  +1 Ranged Accuracy +2,none
+Noct Doublet +1,30,THF / RNG / COR,DEF: 19  +2 Ranged Accuracy +3,none
+Rubious Tunic,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 20 On Earthsdays or Windsdays: Evasion +2,none
+Strong Vest,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 23,none
+Studded Vest,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 22,none
+Magna Jerkin,33,All Jobs,DEF: 18 HP +24 MP +4 DEX +1 INT +1,none
+Frost Robe,33,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 21 MP +6 +2,none
+Linen Doublet,33,MNK / WHM / RDM / THF / PLD / BST / BRD / RNG / DRG / SMN / BLU / COR / PUP,DEF: 22,none
+Linen Doublet +1,33,MNK / WHM / RDM / THF / PLD / BST / BRD / RNG / DRG / SMN / BLU / COR / PUP,DEF: 23 Evasion +5,none
+Magna Bodice,33,All Jobs,DEF: 18 HP +24 MP +4 DEX +1 INT +1,none
+Savage Separates,33,All Jobs,DEF: 18 HP +32 STR +1 CHR +1,none
+Bastokan Scale Mail,34,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 24 VIT +1 In areas under own nation's control: Evasion +3,none
+Cloak,34,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 27,none
+Cloak +1,34,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 28,none
+Federation Doublet,34,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 22 DEX +1 AGI +1 In areas under own nation's control: CHR +2,none
+Mana Cloak,34,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 27 Enchantment: Recover MP,none
+Republic Scale Mail,34,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 25 VIT +1 In areas under own nation's control: Evasion +4,none
+Bishop's Robe,35,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 22 MP +3 MND +2 +3,none
+Bishop's Robe +1,35,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 23 MP +4 MND +3 +4,none
+Deimos's Cuirass,35,WAR / PLD / DRK / DRG,DEF: 27 HP +1% STR +1 VIT +1,none
+Enlil's Gambison,35,WHM / BRD / SMN,DEF: 22 MND +1 CHR +1 Enmity -1,none
+Freya's Jerkin,35,THF / BST / RNG / COR,DEF: 24 DEX +1 CHR +1 Ranged Accuracy +1,none
+Hikazu Hara-Ate,35,MNK / SAM / NIN / PUP,"DEF: 25 DEX +1 Accuracy +1 ""Store TP"" +1",none
+Macha's Coat,35,BLM / RDM / BLU,DEF: 21 STR +1 INT +1 MND +1,none
+Padded Armor,35,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 24,none
+Strong Harness,35,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 25,none
+Gambison,36,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 23,none
+Gambison +1,36,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 24,none
+Silver Mail,36,WAR / PLD / DRK / BST / SAM / NIN,DEF: 28,none
+Silver Mail +1,36,WAR / PLD / DRK / BST / SAM / NIN,DEF: 29,none
+Iron Scale Mail,37,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 28,none
+Iron Scale Mail +1,37,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 29,none
+Cuir Bouilli,38,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 28,none
+Cuir Bouilli +1,38,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 29,none
+Mage's Robe,38,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 25 MP +3 INT +1,none
+Velvet Robe,38,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 24,none
+Shepherd's Doublet,39,BST / DRG / SMN / PUP,"DEF: 23 Accuracy +3 Pet: Attack +5 ""Magic Atk. Bonus"" +3",This is a custom Horizon item.
+Royal Squire's Robe,40,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP / DNC / SCH / GEO / RUN,DEF: 26 MP +10 INT +1 MND +1,New stats of INT +1 and MND +1.
+Royal Squire's Chainmail,40,WAR / PLD / DRK / BST / SAM / NIN,DEF: 31 DEX +1,none
+Iron Musketeer's Gambison,40,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 27 Ranged Accuracy +3 Ranged Attack +3,none
+Argent Coat,40,All Jobs,Cannot Equip Handgear DEF: 5 CHR +1,none
+Breastplate,40,WAR / PLD / DRK,DEF: 32,none
+Breastplate +1,40,WAR / PLD / DRK,DEF: 33,none
+Combat Caster's Cloak,40,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 32 STR +2 INT +2 MND -2,none
+Divine Breastplate,40,WHM,DEF: 50,none
+Fomor Tunic,40,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,None,none
+Holy Breastplate,40,WHM,DEF: 45,none
+Jujitsu Gi,40,MNK / SAM / NIN,DEF: 27 Accuracy +4,none
+Opaline Dress,40,All Jobs,Cannot Equip Handgear DEF: 3 CHR +1,none
+Platino Coat,40,All Jobs,Cannot Equip Handgear DEF: 5 CHR +3,none
+Earth Doublet,42,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 17 VIT +4 +5,none
+Combat Caster's Cloak +1,43,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 33 STR +2 INT +2 MND -2 In areas under own nation's control: Evasion +4,none
+Combat Caster's Cloak +2,43,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 34 STR +2 INT +2 MND -2 In areas under own nation's control: Evasion +6,none
+Iron Musketeer's Gambison +1,43,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 28 Ranged Accuracy +3 Ranged Attack +3 In areas under own nation's control: DEF: +6,none
+Iron Musketeer's Gambison +2,43,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 29 Ranged Accuracy +3 Ranged Attack +3 In areas under own nation's control: DEF: +8,none
+Royal Squire's Chainmail +1,43,WAR / PLD / DRK / BST / SAM / NIN,DEF: 32 DEX +1 In areas under own nation's control: Attack +6 Ranged Attack +6,none
+Royal Squire's Chainmail +2,43,WAR / PLD / DRK / BST / SAM / NIN,DEF: 33 DEX +1 In areas under own nation's control: Attack +8 Ranged Attack +8,none
+Royal Squire's Robe +1,43,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 27 MP +10 In areas under own nation's control: INT +2,none
+Royal Squire's Robe +2,43,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 28 MP +10 In areas under own nation's control: INT +3,none
+Alumine Haubert,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 30 STR +1 DEX +1 Attack +2 Accuracy +2 Evasion -10,"STR +1 added
+DEX +1 added
+Attack +2 added
+Accuracy +2 added
+Evasion -10 added"
+Luisant Haubert,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 30 STR +2 DEX +2 Attack +3 Accuracy +3 Evasion -12,none
+Brigandine,45,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 32 HP +10 DEX +2 VIT +2,none
+Brigandine +1,45,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 33 HP +15 STR +1 DEX +3 VIT +3 AGI +1 INT +1 MND +1 CHR +1,none
+Carapace Harness,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 31,none
+Carapace Harness +1,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 32 -3 Evasion +1,none
+High Healing Harness,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 31 Enchantment: Recover HP,none
+Pyro Robe,45,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 29 MP +8 +4,none
+Banded Mail,46,WAR / PLD / DRK / BST / SAM / NIN,DEF: 36,none
+Banded Mail +1,46,WAR / PLD / DRK / BST / SAM / NIN,DEF: 37,none
+Hara-Ate,46,SAM,DEF: 31,none
+Hara-Ate +1,46,SAM,DEF: 32,none
+Dino Jerkin,48,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 36 +4 -1,none
+Raptor Jerkin,48,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 35 +3 -1,none
+Steel Scale Mail,48,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 36,none
+Steel Scale Mail +1,48,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 37,none
+Mythril Breastplate,49,WAR / PLD / DRK,DEF: 39,none
+Mythril Breastplate +1,49,WAR / PLD / DRK,DEF: 40 INT +1  +4  +3,none
+Shinobi Gi,49,MNK / SAM / NIN,DEF: 33,none
+Shinobi Gi +1,49,MNK / SAM / NIN,DEF: 34 Evasion +3,none
+Royal Knight's Cloak,50,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 40 INT +1 +12 +12,New stat of INT +1.
+Iron Musketeer's Cuirass,50,WAR / PLD / DRK,DEF: 40 VIT +1,none
+Parade Cuirass,50,WAR / PLD,DEF: 38 HP +28 Enmity +2,none
+Duende Cotehardie,50,BLM / SMN,"DEF: 26 ""Conserve MP"" +4 Dark Spirit perpetuation cost -1",none
+Aikido Gi,50,MNK,DEF: 33 VIT +4 AGI +2,none
+Cerise Doublet,50,RDM / BRD / BLU / PUP,DEF: 28 Accuracy +3 Attack +3,none
+Gaudy Harness,50,BST / BRD,"DEF: 27 CHR +3 Latent effect: Adds ""Refresh"" effect",none
+Glamor Jupon,50,RDM,DEF: 27 Enhancing magic skill +3 Enfeebling magic skill +3 Elemental magic skill +3 Dark magic skill +3,none
+Gloom Breastplate,50,DRK,"DEF: 33 Enhances ""Souleater"" effect",none
+Nimbus Doublet,50,WHM / SMN,"DEF: 26 Adds ""Regen"" effect Light Spirit perpetuation cost -1",none
+Nokizaru Gi,50,NIN,DEF: 31 AGI +4 Enmity +1,none
+Rapparee Harness,50,THF,DEF: 32 Ranged Accuracy +2 Haste +4%,
+Shikaree Aketon,50,RNG/ COR,DEF: 29 Ranged Attack +7 Enmity -1,none
+Shinimusha Hara-Ate,50,SAM,"DEF: 37 ""Store TP"" +9",none
+Wyvern Mail,50,DRG,DEF: 36 Wyvern: HP +65 HP recovered while healing +1,none
+Crow Jupon,50,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 28 Evasion +8 Enmity -8,
+Austere Robe,50,SMN,DEF: 29 CHR -2 Avatar perpetuation cost -1 Blood Pact ability delay -3,none
+High Mana Cloak,50,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 39 MND +2 +4 Enchantment: Recover MP,none
+Penance Robe,50,SMN,DEF: 30 CHR -3 Avatar perpetuation cost -2 Blood Pact ability delay -4,none
+Raven Jupon,50,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 29 Evasion +9 Enmity -9,none
+Tactician Magician's Coat,50,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 31 INT +1 MND +1 CHR +1 +3 +3,none
+Gaia Doublet,52,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 35 VIT +4 +10,none
+Gaia Doublet +1,52,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 36 VIT +5 +12,none
+Iron Musketeer's Cuirass +1,52,WAR / PLD / DRK,DEF: 41 VIT +1 In areas under own nation's control: Evasion +6,none
+Iron Musketeer's Cuirass +2,52,WAR / PLD / DRK,DEF: 42 VIT +1 In areas under own nation's control: Evasion +7,none
+Royal Knight's Cloak +1,52,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 41 +13 +13 In areas under own nation's control: AGI +3,none
+Royal Knight's Cloak +2,52,MNK / WHM / BLM / RDM / PLD / BRD RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 42 +14 +14 In areas under own nation's control: AGI +4,none
+Tactician Magician's Coat +1,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 32 INT +1 MND +1 CHR +1 +3 +3 In areas under own nation's control: MP +18,none
+Tactician Magician's Coat +2,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 33 INT +1 MND +1 CHR +1 +3 +3 In areas under own nation's control: MP +20,none
+Magi Coat,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 34 HP +22 MP +22,none
+Silk Coat,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 33,none
+Silk Coat +1,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 34,none
+Silken Coat,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 33 HP +21 MP +21,none
+Akinji Peti,55,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 43 HP -25 Accuracy +6 Attack +6 Ranged Accuracy +6,none
+Jaridah Peti,55,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 42 HP -25 Accuracy +5 Attack +5 Ranged Accuracy +5,none
+Master's Gi,55,MNK / SAM / NIN,DEF: 36 AGI +1 Accuracy +4,none
+Master's Gi +1,55,MNK / SAM / NIN,DEF: 37 AGI +2 Accuracy +4,none
+Royal Knight's Aketon,55,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 36 +12 Evasion +5,none
+Royal Knight's Chainmail,55,WAR / PLD / DRK / BST / SAM / NIN,DEF: 43 STR +2 DEX +2 Attack +3,none
+Shaman's Cloak,56,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 43 MP +25 INT +4 Enfeebling Magic skill +5 Elemental Magic skill +5,none
+Scorpion Harness,57,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR / DNC,DEF: 40 HP +15 -20 +15 +15 Accuracy +10 Evasion +10,none
+Scorpion Harness +1,57,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 41 HP +20 -20 +20 +20 Accuracy +12 Evasion +12,none
+Beast Jackcoat,58,BST,"DEF: 44 HP +20 VIT +3 Accuracy +3 Augments ""Reward"" ""Charm"" +5",Accuracy +3
+Chaos Cuirass,58,DRK,DEF: 46 HP +20 STR +3 Attack +5 Enfeebling Magic Skill +5,STR +3 instead of VIT +3
+Temple Cyclas,58,MNK,"DEF: 41 HP +20 VIT +3 Accuracy +5 Enhances ""Chakra"" effect",none
+Warlock's Tabard,58,RDM,DEF: 44 MP +14 CHR +5 Spell interruption rate down 10% Enfeebling Magic Skill +15,none
+Drachen Mail,58,DRG,"DEF: 38 HP +15 STR +3 Attack +3  +10 Adds ""Regen"" effect to wyvern","STR +3 instead of VIT +4
+Attack +3"
+Rogue's Vest,58,THF,"DEF: 44 HP +20 STR +3 Accuracy +3  +10 Increases ""Hide"" duration",Accuracy +3
+Wizard's Coat,58,BLM,DEF: 38 MP +16 VIT +5 Enfeebling Magic skill +10 Enmity -3,none
+Healer's Bliaut,58,WHM,DEF: 40 MP +25 +10 Enfeebling Magic skill +10 Enmity -4,MP +25 instead of MP +15.
+Ninja Chainmail,58,NIN,"DEF: 41 HP +15 DEX +3 Enhances ""Dual Wield"" effect Physical damage: ""Blaze Spikes"" effect",DEX +3 instead of VIT +3
+Evoker's Doublet,58,SMN,"DEF: 35 MP +15 MND +3 ""Blood Pact"" ability delay -1 Resistance to Current Avatar's Element +20 Avatar: Enmity -2","""Blood Pact"" ability delay -1
+Description reads Resistance to Current Avatar's Element +20 instead of Avatar Elemental Resistance +20 but has the same effect"
+Hunter's Jerkin,58,RNG,"DEF: 41 HP +20 VIT +3 Ranged Accuracy +10 Enhances ""Camouflage"" effect",none
+Myochin Domaru,58,SAM,DEF: 41 HP +10 VIT +3 Accuracy +3  +15 Occasionally boosts TP when damaged,Accuracy +3
+Choral Justaucorps,58,BRD,DEF: 38 HP +13 VIT +3 String Instrument skill +3 Enmity -1,none
+Beak Jerkin,58,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 42 VIT +1 +5,none
+Beak Jerkin +1,58,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 43 VIT +2 +7,none
+Corsair's Frac,58,COR,DEF: 42 HP +15 DEX +2 AGI +2 Ranged Accuracy +8,none
+Healing Justaucorps,58,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 36 HP +10 STR -1 DEX -1 VIT -1 AGI -1 INT +2 MND +2 CHR +2 Enchantment: Recover HP,none
+Justaucorps,58,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 36 HP +10 STR -1 DEX -1 VIT -1 AGI -1 INT +2 MND +2 CHR +2,none
+Justaucorps +1,58,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 37 HP +15 STR -1 DEX -1 VIT -1 AGI -1 INT +3 MND +3 CHR +3,none
+Magus Jubbah,58,BLU,DEF: 44 HP +12 MP +12 STR +3 DEX +3 Blue Magic Skill +15,none
+Puppetry Tobe,58,PUP,DEF: 36 HP +12 Accuracy +5 Automaton: Max HP Boost Max MP Boost,none
+Vermillion Cloak,59,MNK / WHM / BLM / RDM / PLD / BRD /RNG / SMN / BLU / PUP,None,none
+Haubergeon,59,WAR / PLD / DRK / BST / SAM / NIN,DEF: 45 STR +5 DEX +5 AGI -5 Accuracy +10 Attack +10 Evasion -20,none
+Haubergeon +1,59,WAR / PLD / DRK / BST / SAM / NIN,DEF: 46 STR +6 DEX +6 AGI -5 Accuracy +12 Attack +12 Evasion -20,none
+Black Cotehardie,59,MNK / WHM / BLM / RDM / THF / BST / BRD / RNG / NIN / SMN / COR / BLU / PUP,"DEF: 39 STR +3 DEX +2 VIT -2 AGI +3 INT +2 MND -3 CHR -3 -30 +3 +3 +3 +3 +3 +3 +3 Converts 25 HP to MP Latent effect: Adds ""Refresh"" effect",MP Refresh while below 26 MP
+Abtal Jawshan,59,WAR / PLD / DRK / BST / SAM,DEF: 44 HP +18 STR +6 AGI +6 Increases rate of critical hits,none
+Flora Cotehardie,59,MNK / WHM / BLM / RDM / THF / BST / BRD / RNG / NIN / SMN / BLU / PUP,"DEF: 40 STR +4 DEX +3 VIT -2 AGI +4 INT +3 MND -3 CHR -3 -25 +5 +5 +5 +5 +5 +5 +5 Converts 30 HP to MP Latent effect: Adds ""Refresh"" effect",none
+Royal Cloak,59,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,None,none
+Sipahi Jawshan,59,WAR / PLD / DRK / BST / SAM,DEF: 43 HP +16 STR +5 AGI +5 Increases rate of critical hits,none
+Byrnie +1,60,WAR / PLD / DRK / BST / SAM / NIN,DEF: 47 HP +30 STR +5 DEX -3 VIT +5 AGI -3 INT -3 MND -3 CHR -3 Attack +25,none
+Gallant Surcoat,60,PLD,DEF: 47 HP +20 VIT +4 Accuracy +3 Divine magic skill +5 Enmity +2,Accuracy +3
+Fighter's Lorica,60,WAR,DEF: 47 HP +20 VIT +5 Accuracy +3  +10 Enmity +8,Accuracy +3
+Aketon,60,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 39 HP +10 AGI +5 +1 +1 +1 +1 +1 +1 Evasion +5,none
+Aketon +1,60,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 40 HP +15 AGI +6 +3 +3 +3 +3 +3 +3 Evasion +7,none
+Byrnie,60,WAR / PLD / DRK / BST / SAM / NIN,DEF: 46 HP +25 STR +3 DEX -3 VIT +3 AGI -3 INT -3 MND -3 CHR -3 Attack +20,none
+Gilt Cuirass,60,WAR / PLD / DRK,DEF: 49 STR +1 VIT +3  +7,none
+Gold Cuirass,60,WAR / PLD / DRK,DEF: 44 VIT +2  +5,none
+Carapace Breastplate,61,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,DEF: 44 +9 Latent effect: Attack +12 DEF: +44,none
+Carapace Breastplate +1,61,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,DEF: 45 +10 Latent effect: Attack +13 DEF: +45,none
+Minstrel's Coat,62,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 40 HP +15 Evasion +3 Wind Instrument skill +3 String Instrument skill +3,none
+Arhat's Gi,64,MNK / SAM / NIN,DEF: 38 Physical damage taken -6% Enmity +3,none
+Arhat's Gi +1,64,MNK / SAM / NIN,DEF: 39 Physical damage taken -9% Enmity +4,none
+Silk Cloak,64,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,None,none
+Silk Cloak +1,64,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,Cannot Equip Headgear DEF: 45 HP +14 +10 -8,none
+Battle Jupon,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 36 DEX +1,none
+Battle Jupon +1,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 37 DEX +2,none
+Coral Scale Mail,65,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 42 -5 +5 Magic damage taken -3%,none
+Coral Scale Mail +1,65,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 43 -4 +6 Magic damage taken -4%,none
+Darksteel Harness,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 39 +2 +2 Physical damage taken -3%,none
+Darksteel Harness +1,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 40 +3 +3 Physical damage taken -4%,none
+Feral Jerkin,65,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 42 -4 +6 Attack +6,none
+Tabin Jupon,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 36 STR +1 DEX +1 Accuracy +5,none
+Tabin Jupon +1,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 37 STR +2 DEX +2 Accuracy +7,none
+Tiger Jerkin,65,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 41 -5 +5 Attack +5,none
+Darksteel Cuirass,66,PLD / DRK,DEF: 48 MP +10 VIT +3 AGI -1 +2 +2,none
+Darksteel Cuirass +1,66,PLD / DRK,DEF: 49 MP +11 VIT +4 AGI -1 +3 +3,none
+Scorpion Breastplate,66,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,"DEF: 45 +9 Enhances ""Resist Poison"" effect Poison: Adds ""Regen"" effect",none
+Scorpion Breastplate +1,66,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,"DEF: 46 +10 Enhances ""Resist Poison"" effect Poison: Adds ""Regen"" effect",none
+Assault Jerkin,67,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 42 HP -1% Accuracy +3 Attack +18,none
+Arakan Samue,67,MNK,"DEF: 50 AGI +4 Attack +5 Evasion +10 ""Subtle Blow"" +3",none
+Coral Harness,67,WAR / THF / BST,DEF: 41 VIT +2 AGI +1 Magic damage taken -3% Converts 15 MP to HP,none
+Merman's Harness,67,WAR / THF / BST,DEF: 42 VIT +3 AGI +1 Magic damage taken -4% Converts 20 MP to HP,none
+Northern Jerkin,67,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 42 -4 +6 +6 Attack +6,none
+Tundra Jerkin,67,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 43 -3 +7 +7 Attack +7,none
+Aristocrat's Coat,68,WHM,"DEF: 41 MP +18 Adds ""Refresh"" effect ""Cure"" potency +12%",none
+Black Cloak,68,BLM,"Cannot Equip Headgear DEF: 60 INT +4 Adds ""Refresh"" effect Elemental Magic Skill +8",none
+Demon's Cloak,68,BLM,None,none
+Noble's Tunic,68,WHM,"DEF: 40 MP +17 Adds ""Refresh"" effect ""Cure"" potency +10%",none
+Blue Cotehardie,69,RDM / THF / RNG / NIN / COR,DEF: 43 STR +4 DEX +3 VIT -3 AGI +4 INT +3 MND -4 CHR -4 -30 +5 +5 +5 -30 +5 +5 +5 Converts 40 HP to MP,"When under 41MP, gain 1 tic of refresh."
+Hauberk,69,WAR / DRK / BST,DEF: 47 STR +5 DEX +5 Accuracy +10 Attack +10 Evasion -10,none
+Hauberk +1,69,WAR / DRK / BST,DEF: 48 STR +6 DEX +6 Accuracy +12 Attack +12 Evasion -10,none
+Blue Cotehardie +1,69,RDM / THF / RNG / NIN / COR,DEF: 44 STR +5 DEX +4 VIT -3 AGI +5 INT +4 MND -4 CHR -4 -25 +7 +7 +7 -25 +7 +7 +7 Converts 50 HP to MP,"When under 51MP, gain 1 tic of refresh."
+Blessed Bliaut,70,WHM,DEF: 41 MP +7% MND +5 Enhances elemental resistance spells Enmity -5,none
+Blessed Bliaut +1,70,WHM,DEF: 42 MP +8% MND +6 Enhances elemental resistance spells Enmity -6,none
+Heavy Cuirass,70,WAR / PLD / DRK,DEF: 60AGI -5-20,
+Hydra Haubert,70,WAR / PLD / DRK,"DEF: 45 HP -20 MP +20 Accuracy +10 Enmity +9 Enchantment: Adds ""Refresh"" effect",none
+Hydra Jupon,70,All Jobs,DEF: 42 Fellow: HP +20 MP +20 VIT +2,none
+Hydra Doublet,70,WHM / BLM / RDM / BRD / SMN,"DEF: 43 MP +40 Accuracy +10 Evasion +10 Enmity -9 Enchantment: Adds ""Refresh"" effect",none
+Hydra Harness,70,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG,DEF: 44 Enchantment: Attack +25 Ranged Attack +25,none
+Barone Corazza,70,WAR / DRG,"DEF: 45 Attack +13 Adds ""Regen"" effect Enmity +2 ""Jump"" TP Bonus",none
+Bloody Aketon,70,MNK / RDM / THF / BST / RNG / DRG,DEF: 40 HP +20 AGI +6 +1 +1 +1 +1 +1 +1 Converts 50 MP to HP,none
+Carnage Aketon,70,MNK / RDM / THF / BST / RNG / DRG,DEF: 41 HP +25 AGI +7 +3 +3 +3 +3 +3 +3 Converts 60 MP to HP,none
+Coeurl Jerkin,70,THF / BST / RNG,DEF: 42 HP -1% Accuracy +3 Evasion +2,none
+Conte Corazza,70,WAR / DRG,"DEF: 46 Attack +14 Adds ""Regen"" effect Enmity +3 ""Jump"" TP Bonus",none
+Demon's Harness,70,DRK,DEF: 41 Attack +6 Evasion +6 Dark Magic skill +5 Converts 15 HP to MP,none
+Demon's Harness +1,70,DRK,DEF: 43 Attack +7 Evasion +7 Dark Magic skill +5 Converts 20 HP to MP,none
+Dragon Mail,70,DRG,DEF: 47 HP +12 +10 +10 +10 +10 +10 +10 +10 +10 Breath damage taken -9%,none
+Dragon Mail +1,70,DRG,DEF: 48 HP +14 +12 +12 +12 +12 +12 +12 +12 +12 Breath damage taken -10%,none
+Hachiman Domaru,70,SAM,"DEF: 47 STR +8 ""Store TP"" +6 Weapon Skill Accuracy +8",none
+Hachiman Domaru +1,70,SAM,"DEF: 48 STR +9 ""Store TP"" +7 Weapon Skill Accuracy +10",none
+Healing Mail,70,DRG,DEF: 47 HP +12 +10 +10 +10 +10 +10 +10 +10 +10 Breath damage taken -9% Enchantment: Recover Wyvern HP,none
+King's Cuirass,70,PLD,DEF: 50 VIT +6 CHR +1  +3  +3 Converts 30 MP to HP,none
+Kyudogi,70,RNG / SAM,"DEF: 42 Ranged Accuracy +7 Ranged Attack +7 Evasion +7 Enhances ""Resist Blind"" effect Magic damage taken -2%",none
+Kyudogi +1,70,RNG / SAM,"DEF: 43 Ranged Accuracy +9 Ranged Attack +9 Evasion +9 Enhances ""Resist Blind"" effect Magic damage taken -3%",none
+Lord's Cuirass,70,PLD,DEF: 49 VIT +5 CHR +1  +2  +2 Converts 25 MP to HP,none
+Ogre Jerkin,70,RDM / BST,DEF: 43 HP +40 VIT +6 Accuracy -3 Physical damage: Ice Spikes effect,none
+Ogre Jerkin +1,70,RDM / BST,DEF: 44 HP +42 VIT +7 Accuracy -5 Physical damage: Ice Spikes effect,none
+Regen Cuirass,70,PLD,"DEF: 49 VIT +5 CHR +1  +2  +2 Converts 25 MP to HP Enchantment: Adds ""Regen"" effect",none
+Torama Jerkin,70,RDM / THF / BST / RNG,DEF: 43 HP -1% Accuracy +4 Evasion +3,none
+Vampire Cloak,70,DRK,None,none
+War Aketon,70,THF / RNG / COR,"DEF: 38 HP +25 DEX +4 Physical damage: ""Blaze Spikes"" effect",none
+War Aketon +1,70,THF / RNG / COR,"DEF: 39 HP +27 DEX +5 Physical damage: ""Blaze Spikes"" effect",none
+War Shinobi Gi,70,NIN,"DEF: 43 STR -2 AGI +2 Throwing Skill +10 Adds ""Regen"" effect",none
+War Shinobi Gi +1,70,NIN,"DEF: 44 STR -1 AGI +3 Throwing Skill +12 Adds ""Regen"" effect",none
+Yinyang Robe,71,SMN,"DEF: 43 MP +25 Adds ""Refresh"" effect ""Blood Pact"" ability delay -5 Avatar: Enmity +5",also drops from Waking the Beast
+Archer's Jupon,71,RNG,DEF: 40 STR +5 Ranged Accuracy -10 Ranged Attack +10,none
+Bison Jacket,71,BST,"DEF: 44 MP +21 CHR +4 Enmity -2 Vs. plantoids: ""Charm"" +5",none
+Brave's Jacket,71,BST,"DEF: 45 MP +22 CHR +5 Enmity -3 Vs. Plantoids: ""Charm"" +6",none
+Corselet,71,PLD / DRK,"DEF: 44 Accuracy +6 Attack +6 Magic Accuracy +7 ""Magic Atk. Bonus"" +7 Enhances ""Resist Silence"" effect",none
+Corselet +1,71,PLD / DRK,"DEF: 45 Accuracy +8 Attack +8 Enhances ""Resist Silence"" effect ""Magic Atk. Bonus"" +9 Magic Accuracy +9",none
+Khimaira Jacket,71,BST,"DEF: 45 HP +21 MP +21 DEX +4 VIT +4 CHR +4 Enmity -2 Vs. Plantoids: ""Charm"" +5",none
+Plastron,71,DRK,"DEF: 40 STR +8 Attack +16 Damage taken +14% Adds ""Refresh"" effect",none
+Plastron +1,71,DRK,"STR +9 Attack +18 Damage taken +15% Adds ""Refresh"" effect",none
+Stout Jacket,71,BST,"DEF: 47 HP +22 MP +22 DEX +5 VIT +5 CHR +5 Enmity -3 Vs. Plantoids: ""Charm"" +6",none
+Sha'ir Manteel,72,BRD,DEF: 42 MP +14 CHR +7 Haste +2% Song spellcasting time -12%,none
+Assassin's Vest,72,THF,DEF: 45 HP +22 AGI +4 Enmity +3 Increases rate of critical hits,none
+Monster Jackcoat,72,BST,"DEF: 49 HP +21 INT +6 Augments ""Reward"" II ""Charm"" +6",none
+Amir Korazin,72,WAR / PLD / DRK / SAM / DRG,"DEF: 44 Attack +12 Evasion +12 Enhances ""Zanshin"" effect Set: Reduces magic and breath damage",none
+Aurum Cuirass,72,WAR / PLD / DRK / BST / DRG,"DEF: 55 STR +8 DEX +8 VIT -8 AGI -8 Attack +15 ""Store TP"" +7",none
+Chasuble,72,RDM,DEF: 43 MP +20 Accuracy +5 Magic Accuracy +5 Enmity -2,none
+Chasuble +1,72,RDM,DEF: 44 MP +25 Accuracy +6 Magic Accuracy +6 Enmity -3,none
+Dusk Jerkin,72,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 50 HP +40 Accuracy +2 Adds ""Regen"" effect Decreases movement speed",none
+Dusk Jerkin +1,72,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 15 HP +42 Accuracy +3 Adds ""Regen"" effect Decreases movement speed",none
+Enkidu's Harness,72,MNK / THF / RNG / SAM / NIN / BLU / COR / PUP,"DEF: 50 STR +5 AGI +5 Accuracy +10 Attack +10 Evasion +5 ""Subtle Blow"" +5",none
+Errant Houppelande,72,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 42 STR -7 DEX -7 VIT -7 AGI -7 INT +10 MND +10 CHR +10 Enmity -3 MP recovered while healing +5,none
+Gavial Mail,72,SAM / DRG,DEF: 48 DEX +3 AGI +3 Physical damage taken -3% Magic damage taken -3%,none
+Gavial Mail +1,72,SAM / DRG,DEF: 49 DEX +4 AGI +4 Physical damage taken -4% Magic damage taken -4%,none
+Hydra Mail,72,SAM / DRG,DEF: 49 DEX +3 AGI +3 Accuracy +9 Evasion +9 Physical damage taken -3% Magic damage taken -3%,none
+Hydra Mail +1,72,SAM / DRG,DEF: 50 DEX +4 AGI +4 Accuracy +10 Evasion +10 Physical damage taken -4% Magic damage taken -4%,none
+Mahatma Houppelande,72,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 43 STR -8 DEX -8 VIT -8 AGI -8 INT +11 MND +11 CHR +11 Enmity -4 MP recovered while healing +6,none
+Oracle's Robe,72,WHM / BLM / BRD / SMN,"DEF: 41 HP +20 MP +20 ""Magic Atk. Bonus"" +6 Magic Accuracy +6 MP recovered while healing +6",none
+Pahluwan Khazagand,72,MNK / RDM / THF / BST / RNG / NIN / DRG / COR / PUP,"DEF: 42 HP +20 Accuracy +10 Ranged Accuracy +10 Increases rate of critical hits HP recovered while healing +2 Set: Enhances ""Subtle Blow"" effect",none
+Rasetsu Samue,72,MNK / SAM / NIN,"DEF: 50 Attack +2 Physical damage: ""Shock Spikes"" effect Latent effect: ""Counter"" +1",none
+Rasetsu Samue +1,72,MNK / SAM / NIN,"DEF: 51 Attack +3 ""Counter"" +1 Physical damage: ""Shock Spikes"" effect",none
+Sheikh Manteel,72,BRD,DEF: 43 MP +16 CHR +8 Haste +3% Song spellcasting time -13%,none
+Armada Hauberk,73,WAR / DRK / BST,DEF: 54 STR +11 DEX +11 Accuracy +16 Attack +16 Evasion -11,none
+Hecatomb Harness +1,73,WAR / THF / PLD / DRK / BST / BRD / DRG,"DEF: 51 HP +18 STR +13 Accuracy +11 ""Slow"" +15%",none
+Koenig Cuirass,73,WAR / PLD,"DEF: 65 HP +60 STR -10 DEX -10 VIT +20 AGI +20 Enhances ""Defender"" effect","AGI +20 instead of CHR +20
+
+enhances Defender added"
+Dalmatica,73,WHM / BLM / RDM / BRD / SMN / GEO,"DEF: 45 ""Magic Def. Bonus"" +5 Adds ""Refresh"" effect Enhances ""Resist Paralyze"" effect Converts 50 HP to MP",
+Dalmatica +1,73,WHM / BLM / RDM / BRD / SMN,"DEF: 46 ""Magic Def. Bonus"" +6 Adds ""Refresh"" effect Enhances ""Resist Paralyze"" effect Converts 55 HP to MP",none
+Crimson Scale Mail,73,RDM / PLD / DRK / RNG / DRG / BLU / COR,DEF: 52 HP +40 MP +40 INT +11  MND +11  AGI +11  Breath damage taken -10%,"New stat of AGI +11.
+INT has been increased from 10 to 11.
+MND has been increased from 10 to 11."
+Adaman Hauberk,73,WAR / DRK / BST,DEF: 53 STR +10 DEX +10 Accuracy +15 Attack +15 Evasion -10,none
+Adaman Cuirass,73,WAR / PLD,DEF: 52 MP +8 VIT +4 MND +4 Enmity +3,none
+Bachelor Vest,73,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 45 VIT +4 Accuracy +5 Evasion +5,none
+Blood Scale Mail,73,RDM / PLD / DRK / RNG / DRG / BLU / COR,DEF: 53 HP +42 MP +42 INT +12  MND +12  AGI +12  Breath damage taken -11%,"MND increased from 11 to 12.
+INT increased from 11 to 12.
+New stat of AGI +12."
+Cardinal Vest,73,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 44 VIT +3 Accuracy +4 Evasion +4,none
+Dragon Harness,73,THF,"DEF: 44 DEX +6 AGI +6 Attack +10 ""Subtle Blow"" +10 Breath damage taken -10%",none
+Dragon Harness +1,73,THF,"DEF: 45 DEX +7 AGI +7 Attack +12 ""Subtle Blow"" +12 Breath damage taken -12%",none
+Gem Cuirass,73,WAR / PLD,DEF: 53 MP +10 VIT +5 MND +5 Enmity +4,none
+Genie Weskit,73,BLM,"DEF: 36 Elemental Magic Skill +6 ""Magic Atk. Bonus"" +7 ""Conserve MP"" +2 Physical damage: ""Curse"" effect on opponent",none
+Hecatomb Harness,73,WAR / THF / PLD / DRK / BST / BRD / DRG,"DEF: 50 HP +16 STR +12 Accuracy +10 ""Slow"" +13%",none
+Igqira Weskit,73,BLM,"DEF: 35 Elemental Magic Skill +5 ""Magic Atk. Bonus"" +6 ""Conserve MP"" +2 Physical damage: ""Curse"" effect on opponent",none
+Kaiser Cuirass,73,WAR / PLD,DEF: 66 HP +62 STR -11 DEX -11 VIT +21 AGI +21,AGI +21 instead of CHR +21
+Shura Togi,73,MNK / SAM / NIN,DEF: 40 HP -50 Accuracy +10 Attack +20,none
+Shura Togi +1,73,MNK / SAM / NIN,DEF: 41 HP -55 Accuracy +11 Attack +22,none
+Melee Cyclas,74,MNK,"DEF: 44 HP +5% VIT +5 Adds ""Regen"" effect HP recovered while healing +6",
+Healer's Bliaut +1,74,WHM,DEF: 40 MP +35 Enfeebling Magic skill +12 Enmity -4 MP recovered while healing +5,none
+Wyrm Mail,74,DRG,"DEF: 49 HP +24 Parrying skill +15 Enhances ""Resist Blind"" effect Adds support job abilities to wyvern",none
+Temple Cyclas +1,74,MNK,"DEF: 44 HP +20 STR +6 VIT +6 Accuracy +5 Enhances ""Chakra"" effect",???
+Warlock's Tabard +1,74,RDM,DEF: 44 MP +34 Spell interruption rate down 12% Enfeebling Magic skill +15 MP recovered while healing +5,none
+Wizard's Coat +1,74,BLM,DEF: 38 MP +36 Enfeebling Magic skill +12 Enmity -5 MP recovered while healing +5,none
+Duelist's Tabard,74,RDM,"DEF: 45 MP +24 AGI +4 Healing Magic skill +10 Enhances ""Fast Cast"" effect",None
+Sorcerer's Coat,74,BLM,"DEF: 41 MP +12 Elemental Magic skill +5 Enmity -2 Adds ""Refresh"" effect",none
+Abyss Cuirass,74,DRK,"DEF: 49 HP +20 MND +4 Accuracy +10 ""Magic Atk. Bonus"" +10",none
+Chaos Cuirass +1,74,DRK,DEF: 49 HP +20 MP +20 STR +7 VIT +7 Attack +10 Enfeebling Magic skill +5,none
+Gallant Surcoat +1,74,PLD,DEF: 55 HP +20 VIT +6 Accuracy +3 Divine magic skill +8 Enmity +2,Accuracy +3
+Cleric's Bliaut,74,WHM,"DEF: 42 MP +24 Enmity -2 Adds ""Refresh"" effect Enhances potency of ""Regen""",none
+Saotome Domaru,74,SAM,"DEF: 50 HP +34 VIT +6 ""Store TP"" +3 Enmity +1",none
+Hunter's Jerkin +1,74,RNG,"DEF: 45 HP +20 VIT +4 AGI +4 Ranged Accuracy +10 Enhances ""Camouflage"" effect",none
+Summoner's Doublet,74,SMN,"DEF: 38 MP +20 ""Blood Pact"" ability delay -3 Avatar's Critical hit rate +3% Depending on day: Avatar perpetuation cost -3",none
+Beast Jackcoat +1,74,BST,"DEF: 49 HP +20 VIT +6 Accuracy +3 Augments ""Reward"" ""Charm"" +6",
+Bard's Justaucorps,74,BRD,"DEF: 45 HP +19 Attack +18 ""Military Parade""",none
+Choral Justaucorps +1,74,BRD,DEF: 45 HP +20 VIT +10 CHR +10 String Instrument skill +6 Enmity -3,none
+Commodore Frac,74,COR,"DEF: 45 STR +3 Accuracy +8 Ranged Attack +8 Enhances ""Random Deal"" effect",none
+Corsair's Frac +1,74,COR,DEF: 43 HP +20 DEX +5 AGI +5 Ranged Accuracy +10 Ranged Attack +5,none
+Drachen Mail +1,74,DRG,"DEF: 49 HP +15 STR +6 VIT +6 Attack +7 Wyvern: Adds ""Regen"" effect",none
+Evoker's Doublet +1,74,SMN,"DEF: 35 MP +45 Avatar elemental resistance +25 ""Blood Pact"" ability delay -4 MP recovered while healing +5",none
+Fighter's Lorica +1,74,WAR,DEF: 50 HP +20 VIT +7 Attack +10 Enmity +8,none
+Koga Chainmail,74,NIN,DEF: 46 Accuracy +12 Attack +16 Ranged Accuracy +8 Ranged Attack +8,none
+Magus Jubbah +1,74,BLU,DEF: 45 HP +17 MP +17 STR +5 DEX +5 Blue Magic Skill +15 HP recovered while healing +1 MP recovered while healing +1,none
+Ninja Chainmail +1,74,NIN,"DEF: 46 HP +15 DEX +5 VIT +5 Enhances ""Dual Wield"" effect Physical damage: ""Shock Spikes"" effect",none
+Mirage Jubbah,74,BLU,"DEF: 45 MP +20 Accuracy +10 Enmity -2 Adds ""Refresh"" effect",none
+Myochin Domaru +1,74,SAM,DEF: 50 HP +10 STR +6 VIT +6 Accuracy +12 Occasionally increases TP gained when taking damage,none
+Narasimha's Vest,74,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 46 STR +3 VIT +3 Accuracy +4 Evasion +4,none
+Pantin Tobe,74,PUP,"DEF: 45 HP +15 Accuracy +10 ""Subtle Blow"" +5 Automaton: Accuracy +10",none
+Rogue's Vest +1,74,THF,"DEF: 45 HP +20 STR +6 Accuracy +10 Extends duration of ""Hide""",none
+Puppetry Tobe +1,74,PUP,DEF: 37 HP+17 Accuracy +5 Attack +5 Automaton: Max HP Boost Max MP Boost,none
+Unicorn Harness,74,WAR,"DEF: 56 HP +48 Adds ""Regen"" effect Latent effect: VIT +6",none
+Unicorn Harness +1,74,WAR,"DEF: 59 HP +52 Adds ""Regen"" effect Latent effect: VIT +7",none
+Vishnu's Vest,74,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 47 STR +4 VIT +4 Accuracy +5 Evasion +5,none
+Assault Breastplate,75,WAR / PLD / DRK / BST / SAM,DEF: 65 +15 +15 +15 +15 +15 +15 +15 +15,none
+Reverend Mail,75,WHM,DEF: 50 MP -25 MND -5 Accuracy +10 Evasion +10,none
+Abyss Cuirass +1,75,DRK,"DEF: 50 MP +27 MND +4 Accuracy +12 ""Magic Atk. Bonus"" +10",none
+Scout's Jerkin,75,RNG,DEF: 45 HP +23 DEX 4 Rapid Shot +5 Enmity -3,none
+Homam Corazza,75,THF / PLD / DRK / DRG / BLU,"DEF: 49 HP +28 MP +28Accuracy +15 Enhances ""Triple Attack"" effect",none
+Duelist's Tabard +1,75,RDM,"DEF: 46 MP +30 AGI +4 Healing Magic skill +12 Enhances ""Fast Cast"" effect",None
+Wyrm Mail +1,75,DRG,DEF: 50 HP +33 Parrying skill +15 Haste +2% Adds support job abilities to wyvern,none
+Cleric's Bliaut +1,75,WHM,"DEF: 43 MP +29 Enmity -3 Adds ""Refresh effect Enchances potency of ""Regen""",none
+Melee Cyclas +1,75,MNK,"DEF: 45 HP +6% VIT +6 Adds ""Regen"" effect HP recovered while healing +6",none
+Warrior's Lorica +1,75,WAR,"DEF: 51 HP +30 Attack +12 Enmity +4 Enhances ""Aggressor"" effect",none
+Sorcerer's Coat +1,75,BLM,"DEF: 42 HP +12 MP +12 Elemental Magic Skill +7 Enmity -2 Adds ""Refresh"" effect",none
+Assassin's Vest +1,75,THF,DEF: 46 HP +22 AGI +5 Enmity +5 Increases rate of critical hits,none
+Kirin's Osode,75,WAR / MNK / BST / BRD / RNG / SAM / NIN,DEF: 52 MP +30 STR +10 DEX +10 VIT +10 AGI +10 INT +10 MND +10 CHR +10 +50,none
+Valor Surcoat +1,75,PLD,"DEF: 56 HP +30 DEX +3 Enmity +5 Augments ""Cover""",none
+Monster Jackcoat +1,75,BST,"DEF: 50 HP +21 INT +7 Augments ""Reward"" II ""Charm"" +7",none
+Ares' Cuirass,75,WAR / PLD / DRK / DRG,"DEF: 55 HP +3% MP +3% STR +12 VIT +12 Attack +24 Adds ""Refresh"" effect Set: Enhances ""Double Attack"" effect",none
+Askar Korazin,75,WAR / PLD / DRK / BST / SAM / DRG,"DEF: 49 STR +5 Attack +12 Evasion +12 ""Double Attack"" +2% ""Store TP"" +5 Set: Max HP Boost",none
+Bard's Justaucorps +1,75,BRD,"DEF: 46 HP +19 Attack +20 ""Military Parade""",none
+Commodore Frac +1,75,COR,"DEF: 46 STR +3 Accuracy +10 Ranged Attack +10 Enhances ""Random Deal"" effect",none
+Denali Jacket,75,MNK / THF / RNG / NIN / BLU / COR,"DEF: 43 HP +25 AGI +10 Attack +9 Ranged Attack +9 ""Subtle Blow"" +3 Set: Increases Accuracy",none
+Goliard Saio,75,WHM / BLM / RDM / BRD / SMN / PUP,"DEF: 42 HP +42 MP +42 ""Conserve MP"" +5 Enmity -5 Haste +4% Set: ""Magic Def. Bonus""",none
+Hachiryu Haramaki,75,WAR / MNK / RNG / SAM / NIN,"Accuracy +20 Attack +20 Critical hit rate +5% Enhances ""Zanshin"" effect Set: Enhances ""Store TP"" effect",none
+Koga Chainmail +1,75,NIN,DEF: 47 Accuracy +12 Attack +16 Ranged Accuracy +10 Ranged Attack +10,none
+Marduk's Jubbah,75,WHM / BRD / SMN,"DEF: 40 HP +3% MP +3% MND +12 CHR +12 Enhances ""Fast Cast"" effect Adds ""Refresh"" effect Set: Enhances ""Fast Cast"" effect",none
+Nashira Manteel,75,WHM / BLM / RDM / SMN / BLU,DEF: 41 Healing Magic Skill +5 Dark Magic Skill +5 Magic Accuracy +5 Haste +3%,none
+Mirage Jubbah +1,75,BLU,"DEF: 46 MP +20 Accuracy +12 Enmity -3 Adds ""Refresh"" effect",none
+Morrigan's Robe,75,BLM / RDM / BLU,"DEF: 38 STR +8 INT +8 MND +8 Accuracy +5 Attack +5 ""Magic Atk. Bonus"" +5 Adds ""Refresh"" effect Set: Enhances ""Magic Attack Bonus"" effect",none
+Pantin Tobe +1,75,PUP,"DEF: 46 HP +15 Accuracy +12 ""Subtle Blow"" +5 Automaton: Accuracy +12",none
+Saotome Domaru +1,75,SAM,"DEF: 51 HP +34 VIT +7 ""Store TP"" +5 Enmity +1",none
+Scout's Jerkin +1,75,RNG,DEF: 46 HP +23 DEX +5 Rapid Shot +5 Enmity -4,none
+Shadow Breastplate,75,WAR / PLD / DRK,"DEF: 55 STR +10 DEX -3 VIT +10 AGI -3 INT -3 MND -3 CHR -3 Accuracy +5 Attack +25 Adds ""Regen"" effect",none
+Shadow Coat,75,WHM / BLM / RDM / BRD / SMN,DEF: 38 Magic Accuracy +10 Enmity -4 Physical damage taken +6% Magic damage taken -3%,none
+Skadi's Cuirie,75,THF / BST / RNG / COR,DEF: 40 DEX +8 AGI +8 CHR +8 Accuracy +10 Attack +5 Ranged Accuracy +10 Ranged Attack +5 Evasion -10 Increases rate of critical hits,none
+Summoner's Doublet +1,75,SMN,"DEF: 39 MP +20 ""Blood Pact"" ability delay -4 Avatar: Critical hit rate +4% Depending on day: Avatar perpetuation cost -3",none
+Valor Surcoat,75,PLD,"DEF: 55 HP +23 DEX +3 Enmity +4 Augments ""Cover""",none
+Usukane Haramaki,75,MNK / SAM / NIN / PUP,"DEF: 40 STR +8 DEX +8 INT +8 Accuracy +12 Evasion +12 ""Store TP"" +6 Set: Enhances ""Haste"" effect",none
+Valhalla Breastplate,75,WAR / PLD / DRK,"DEF: 60 HP +50 Damage taken -5% Enmity +4 ""Slow"" +5%",none
+Valkyrie's Breastplate,75,WAR / PLD / DRK,"DEF: 56 STR +11 DEX -4 VIT +11 AGI -4 INT -4 MND -4 CHR -4 Accuracy +6 Attack +26 Adds ""Regen"" effect",none
+Valkyrie's Coat,75,WHM / BLM / RDM / BRD / SMN,DEF: 39 Magic Accuracy +11 Enmity -5 Physical damage taken +7% Magic damage taken -4%,none
+Warrior's Lorica,75,WAR,"DEF: 50 HP +10 Attack +10 Enmity +4 Enhances ""Aggressor"" effect",none
+Sushomi's Beginners Guide to Healing,{{{level}}},All Jobs,None,

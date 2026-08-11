@@ -1,0 +1,409 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Aern Staff,1,1,366,0.16,,All Jobs
+Aern Staff II,1,1,366,0.16,,All Jobs
+Ash Staff,1,5,366,0.82,HP+2 MP+2,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Ash Staff +1,1,6,356,1.01,HP+3 MP+3,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Caver's Shovel,1,1,402,0.15,2,All Jobs
+Cobra Staff,1,1,366,0.16,"Enchantment: ""Retrace"" (Windurst)
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Fed. Signet Staff,1,1,366,0.16,"Enchantment: ""Signet""
+<25/25 0:30/[0:10, 0:30]>",All Jobs
+Fourth Staff,1,1,366,0.16,"Enchantment: ""Retrace"" (Bastok)
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Hapy Staff,1,1,366,0.16,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Kgd. Signet Staff,1,1,366,0.16,"Enchantment: ""Signet""
+<25/25 0:30/[0:10, 0:30]>",All Jobs
+Lamia Staff,1,1,366,0.16,,All Jobs
+Levin,1,1,366,0.16,,All Jobs
+Malice Masher,1,1,366,0.16,,All Jobs
+Malice Masher +1,1,2,356,0.34,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Onion Staff,1,4,366,0.66,,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Profane Staff,1,1,366,0.16,,All Jobs
+Ram Staff,1,1,366,0.16,"Enchantment: ""Retrace"" (San d'Oria)
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Ranine Staff,1,1,366,0.16,,All Jobs
+Rep. Signet Staff,1,1,366,0.16,"Enchantment: ""Signet""
+<25/25 0:30/[0:10, 0:30]>",All Jobs
+Savage. Pole,1,1,366,0.16,,All Jobs
+Sophistry,1,1,366,0.16,,All Jobs
+Treat Staff,1,1,356,0.17,"HP+5 MP+5
+Latent effect: ""Warp""",All Jobs
+Trick Staff,1,1,356,0.17,HP+1 MP+1,All Jobs
+Treat Staff II,2,2,356,0.34,"HP+5 MP+5
+Enchantment: ""Warp""
+<1/1 0:30/[20:00:00, 0:30]>",All Jobs
+Trick Staff II,2,2,356,0.34,"HP+1 MP+1
+Enchantment: ""Warp""
+<10/10 0:30/[1:00:00, 0:30]>",All Jobs
+Ash Pole,5,11,402,1.64,,MNK / WHM / BLM / SMN
+Ash Pole +1,5,12,390,1.85,,MNK / WHM / BLM / SMN
+Freesword's Staff,10,9,346,1.56,HP+6 MP+6,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Gelong Staff,10,14,390,2.15,HP recovered while healing +4,All Jobs
+Lgn. Staff,10,12,376,1.91,HP+6 MP+6,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Holly Staff,11,10,366,1.64,HP+4 MP+4,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Holly Staff +1,11,11,356,1.85,HP+5 MP+5,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Bastokan Staff,15,13,366,2.13,"HP+6 MP+6
+Accuracy+1","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Federation Staff,15,11,326,2.02,"HP+6 MP+6
+Attack+3","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Pestle,15,11,366,1.8,"MP+10
+Additional effect: MP Drain","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Republic Staff,15,14,356,2.36,"HP+6 MP+6
+Accuracy+2","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Windurstian Staff,15,10,336,1.79,"HP+6 MP+6
+Attack+2","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Flexible Pole,16,20,402,2.99,"Enchantment: Attack+3
+<50/50 0:30/[30:00, 0:30]>",MNK / WHM / BLM / SMN
+Holly Pole,16,20,402,2.99,,MNK / WHM / BLM / SMN
+Holly Pole +1,16,21,390,3.23,,MNK / WHM / BLM / SMN
+Monster Signa,17,12,366,1.97,"HP+5 MP+5 VIT-5
+CHR+8","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Mercenary's Pole,18,22,402,3.28,,MNK / WHM / BLM / SMN
+Misery Staff,20,14,366,2.3,Additional effect: Curse,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Platoon Pole,20,13,366,2.13,,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Elm Staff,23,15,366,2.46,HP+6 MP+6,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Elm Staff +1,23,16,356,2.7,HP+7 MP+7,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Federation Pole,23,24,378,3.81,Attack+5,MNK / WHM / BLM / SMN
+Windurstian Pole,23,23,390,3.54,Attack+3,MNK / WHM / BLM / SMN
+Spiked Club,25,26,402,3.88,Attack+3,MNK / WHM / PLD / DRG
+Spiked Club +1,25,27,390,4.15,Attack+5,MNK / WHM / PLD / DRG
+Astaroth Cane,27,14,366,2.3,"INT+2
+Magic Accuracy+3","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Dolphin Staff,27,16,366,2.62,"HP+7 MP+7 +6
+Additional effect: Water damage","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Melampus Staff,29,16,366,2.62,"INT-2 MND+2
+""Cure"" potency +3%","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Spiro Staff,29,9,366,1.48,MP recovered while healing +4,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Elm Pole,30,29,402,4.33,,MNK / WHM / BLM / SMN
+Elm Pole +1,30,30,390,4.62,,MNK / WHM / BLM / SMN
+Hypno Staff,30,17,366,2.79,Additional effect: Sleep,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Whale Staff,32,18,366,2.95,"HP+14 MP+7 +7
+Additional effect: Water damage","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Whale Staff +1,32,19,356,3.2,"HP+15 MP+7 +8
+Additional effect: Water damage","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Military Pole,33,29,378,4.6,INT+1,"MNK / WHM / BLM / RDM / PLD / BRD /
+RNG / SMN / BLU / PUP"
+Oak Staff,39,21,366,3.44,HP+8 MP+8,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Oak Staff +1,39,22,356,3.71,HP+9 MP+9,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Passaddhi Staff,39,15,366,2.46,"MND+1
+Magic Accuracy+3","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Passaddhi Staff +1,39,16,356,2.7,"MND+2
+Magic Accuracy+4","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Chanter's Staff,40,20,366,3.28,"INT-6 MND+6 CHR+6
+Singing skill +4","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Dragon Staff,40,18,366,2.95,"MP+20
+Avatar perpetuation cost -1",SMN
+Dusky Staff,40,20,366,3.28,"MP+22
+Dark magic skill +3",BLM
+Himmel Stock,40,19,366,3.11,"MP+63
+""Blood Pact"" ability delay +3",SMN
+Kukulcan's Staff,40,22,366,3.61,"MP+30
+MP recovered while healing +3",SMN
+Oak Pole,40,37,402,5.52,,MNK / WHM / BLM / SMN
+Oak Pole +1,40,38,390,5.85,,MNK / WHM / BLM / SMN
+Ceres' Spica,43,20,366,3.28,"MP+8
+""Cure"" potency +6%",WHM
+Qi Staff,43,16,412,2.33,"""Magic Atk. Bonus""+3","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Qi Staff +1,43,17,399,2.56,"""Magic Atk. Bonus""+4","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Footman's Staff,45,41,390,6.31,Attack+7,MNK / WHM / PLD / DRG
+Pastoral Staff,45,40,402,5.97,"Attack+4
+Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>",MNK / WHM / PLD / DRG
+Quarterstaff,45,40,402,5.97,Attack+4,MNK / WHM / PLD / DRG
+Musketeer's Pole,50,45,390,6.92,"Accuracy+3
+Attack+3",MNK / WHM / BLM / SMN
+Walrus Staff,50,26,366,4.26,"HP+9 MP+9 +10
+Additional effect: Ice damage","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Apollo's Staff,51,35,356,5.9,"STR+2 DEX+2 VIT+2
+AGI+2 INT+2 MND+2 CHR+2 +20
+""Cure"" potency +10%
+Additional effect: Light damage",All Jobs
+Aquilo's Staff,51,35,356,5.9,"INT+5 +20
+Elemental magic skill +10
+Additional effect: Ice damage",All Jobs
+Auster's Staff,51,35,356,5.9,"AGI+5 +20
+Evasion+10
+Additional effect: Wind damage",All Jobs
+Chatoyant Staff,51,35,356,5.9,"STR+5 DEX+5 VIT+5
+AGI+5 INT+5 MND+5 CHR+5
+All elemental resistances +20
+""Cure"" potency +10%
+MP recovered while healing +10
+""Iridescence""",All Jobs
+Dark Staff,51,30,366,4.92,"STR+1 DEX+1 VIT+1
+AGI+1 INT+1 MND+1 CHR+1 +15
+MP recovered while healing +10
+Additional effect: Darkness damage",All Jobs
+Earth Staff,51,30,366,4.92,"VIT+4 +15
+Physical damage taken -20%
+Additional effect: Earth damage",All Jobs
+Fire Staff,51,30,366,4.92,"STR+4 +15
+Attack+10 Ranged Attack+10
+Additional effect: Fire damage",All Jobs
+Ice Staff,51,30,366,4.92,"INT+4 +15
+Elemental magic skill +10
+Additional effect: Ice damage",All Jobs
+Iridal Staff,51,30,366,4.92,"STR+4 DEX+4 VIT+4
+AGI+4 INT+4 MND+4 CHR+4
+All elemental resistances +15
+""Cure"" potency +10%
+MP recovered while healing +10
+""Iridescence""",All Jobs
+Jupiter's Staff,51,35,356,5.9,"DEX+5 +20
+Critical hit rate +15%
+Additional effect: Lightning damage",All Jobs
+Light Staff,51,30,366,4.92,"STR+1 DEX+1 VIT+1
+AGI+1 INT+1 MND+1 CHR+1 +15
+""Cure"" potency +10%
+Additional effect: Light damage",All Jobs
+Neptune's Staff,51,35,356,5.9,"MND+5 +20
+Divine magic skill +10
+Additional effect: Water damage",All Jobs
+Pluto's Staff,51,35,356,5.9,"STR+2 DEX+2 VIT+2
+AGI+2 INT+2 MND+2 CHR+2 +20
+MP recovered while healing +10
+Additional effect: Darkness damage",All Jobs
+Terra's Staff,51,35,356,5.9,"VIT+5 +20
+Physical damage taken -20%
+Additional effect: Earth damage",All Jobs
+Thunder Staff,51,30,366,4.92,"DEX+4 +15
+Critical hit rate +15%
+Additional effect: Lightning damage",All Jobs
+Vulcan's Staff,51,35,356,5.9,"STR+5 +20
+Attack+10 Ranged Attack+10
+Additional effect: Fire damage",All Jobs
+Water Staff,51,30,366,4.92,"MND+4 +15
+Divine magic skill +10
+Additional effect: Water damage",All Jobs
+Wind Staff,51,30,366,4.92,"AGI+4 +15
+Evasion+10
+Additional effect: Wind damage",All Jobs
+Msk. Pole +1,52,46,378,7.3,"Accuracy+3 Attack+3
+In areas outside own nation's control:
+HP+10 MP+10",MNK / WHM / BLM / SMN
+Msk. Pole +2,52,47,366,7.7,"Accuracy+3 Attack+3
+In areas outside own nation's control:
+HP+12 MP+12",MNK / WHM / BLM / SMN
+Sunlight Pole,52,46,402,6.87,"Sunny weather: Adds ""Regen"" effect",MNK / WHM / BLM / SMN
+Pride Staff,53,30,402,4.48,"STR-1 DEX-1 VIT-1
+AGI-1 INT-1 MND+7 CHR-1","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Dryad Staff,55,29,366,4.75,"MP+50
+""Cure"" potency +10%",WHM
+Healing Staff,55,29,366,4.75,"MP+50
+""Cure"" potency +10%",WHM
+Wise Wizard's Staff,55,28,366,4.59,"HP+10 MP+10
+MP Recovered while healing +4","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Rockmasher,56,48,402,7.16,Additional effect: Weakens defense,MNK / WHM / BLM / SMN
+Revenging Staff,57,28,366,4.59,"HP+9 MP+9
+Additional effect: HP drain","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Rvg. Staff +1,57,29,356,4.89,"HP+10 MP+10
+Additional effect: HP drain","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Heavy Staff,59,31,356,5.22,HP+12 MP+12,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Mahogany Pole,59,51,402,7.61,,MNK / WHM / BLM / SMN
+Mahogany Pole +1,59,52,390,8,,MNK / WHM / BLM / SMN
+Mahogany Staff,59,30,366,4.92,HP+10 MP+10,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Archalaus's Pole,60,48,402,7.16,"INT+4 MND+4
+Additional effect: MP drain",SMN
+Battle Staff,60,49,402,7.31,"Accuracy+3
+Attack+10",MNK / WHM / PLD / DRG
+Battle Staff +1,60,50,390,7.69,"Accuracy+4
+Attack+12",MNK / WHM / PLD / DRG
+Ebony Pole,65,53,402,7.91,,MNK / WHM / BLM / SMN
+Ebony Pole +1,65,54,390,8.31,,MNK / WHM / BLM / SMN
+Ramuh's Staff,65,29,366,4.75,"DEX+3
+Additional effect: Lightning damage","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Power Staff,66,31,356,5.22,"HP+13 MP+13 STR+7
+Additional effect: STR boost","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Kinnara Pole,68,30,366,4.92,"HP+25 MP+25
+HP recovered while healing +2
+MP recovered while healing +2","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Catalyst,69,60,402,8.96,"Bonus damage added to magic burst
+Set: Increases STR, Attack,
+Ranged Attack, ""Magic Atk. Bonus""","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Cocytus Pole,69,52,402,7.76,"HP+13 +20
+Additional effect: ""Ice Spikes""",MNK / WHM / PLD / DRG
+Kebbie,69,56,366,9.18,"""Magic Def. Bonus""+5
+Set: Increases HP, VIT,
+Accuracy, Ranged Accuracy","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Astral Signa,70,32,366,5.25,"HP+18 MP+18
+Avatar perpetuation cost -2",SMN
+Mercurial Pole,70,4,366,0.66,"MP+30
+Occasionally attacks 2 to 5 times","MNK / WHM / BLM / PLD / BRD / DRG /
+SMN"
+Mythic Pole,70,55,402,8.21,15,MNK / WHM / BLM / SMN
+Mythic Pole +1,70,56,390,8.62,20,MNK / WHM / BLM / SMN
+Rune Staff,70,32,366,5.25,"Latent effect:
+INT+2 MND+2 CHR+2
+""Magic Atk. Bonus""","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Yigit Staff,70,56,360,9.33,Assault: DMG:57 MP+2%,"WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Astral Staff,71,40,366,6.56,"MP recovered while healing +9
+Avatar: Defense Bonus","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Atesh Pole,71,35,402,5.22,"HP+5
+Ranged Attack+14 Enmity-1",All Jobs
+Grim Staff,71,60,390,9.23,"STR+5 MND+6
+Additional effect: HP drain",SMN
+Imperial Pole,71,60,402,8.96,"Depending on day: Increases elemental
+weapon skill damage",MNK / WHM / BLM / SMN
+Mst.Cst. Pole,71,34,366,5.57,"HP+20 MP+10
+Citizens of Windurst: MP recovered
+while healing +8","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Pole of Trials,71,55,402,8.21,"Latent effect: HP+10 MP+10 +10
++10","WAR / MNK / WHM / BLM / PLD / BRD /
+DRG / SMN"
+Prelatic Pole,71,55,402,8.21,"INT-4 MND+4
++6 +6 +6 +6
++6 +6 +6 +6
+Healing magic skill +10",All Jobs
+Prester,71,58,366,9.51,"Latent effect: Increases weapon
+skill accuracy and damage
+Additional effect: Wind damage",All Jobs
+Carbuncle's Pole,72,55,402,8.21,"CHR+4 TP Bonus
+Latent effect: Light damage
+Enchantment: Recover HP
+<30/30 0:30/[10:00, 0:30]>","MNK / WHM / BLM / RDM / PLD / BRD /
+RNG / SMN / BLU / PUP"
+Iron-splitter,72,64,412,9.32,"DEX+2
+HP recovered while healing +3",MNK / WHM / PLD / DRG
+Iron-splitter +1,72,65,399,9.77,"DEX+3
+HP recovered while healing +4",MNK / WHM / PLD / DRG
+Martial Staff,72,56,390,8.62,TP Bonus,MNK / WHM / BLM / PLD / DRG / SMN
+Mighty Pole,72,56,402,8.36,"On Windsdays: +15
+Divine magic skill +13
+Elemental magic skill +13","WAR / MNK / WHM / BLM / PLD / BRD /
+DRG / SMN"
+Somnus Signa,72,62,402,9.25,"STR+6 MND+5 CHR-1
+Additional effect: Sleep",BLM
+Steel-splitter,72,64,412,9.32,"DEX+2
+HP recovered while healing +3
+Enchantment: ""Stone""
+<50/50 0:30/[10:00, 0:30]>",MNK / WHM / PLD / DRG
+Zen Pole,72,55,402,8.21,"MP+24
+MP recovered while healing +2","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Alkalurops,73,49,366,8.03,"HP-10
+INT+10 MND+10 CHR+10
+Magic Accuracy+20",WHM / BLM / RDM / BRD / SMN
+Hope Staff,73,40,366,6.56,"AGI+7
+Virtue stone equipped:
+Occasionally attacks twice",BRD / SMN / PUP
+Kinkobo,73,68,412,9.9,"Critical hit rate +5%
+Latent effect: Delay:329 Accuracy+10
+Enchantment: ""Subtle Blow""
+<20/20 0:30/[30:00, 0:30]>",MNK / WHM / PLD / DRG
+Lyft Pole,73,69,412,10.05,,MNK / WHM / PLD / DRG
+Mekki Shakki,73,70,412,10.19,"STR+5
+Accuracy-4 Attack+12 ""Store TP""+5",All Jobs
+Perdu Staff,73,60,399,9.02,Latent effect: DMG:66,MNK / WHM / PLD / DRG
+Primate Staff,73,68,412,9.9,"Critical hit rate +5%
+Latent effect: Delay:329 Accuracy+10",MNK / WHM / PLD / DRG
+Primate Staff +1,73,69,399,10.38,"Critical hit rate +7%
+Latent effect: Delay:319 Accuracy+12",MNK / WHM / PLD / DRG
+Samudra,73,55,360,9.17,"Campaign:
+Accuracy+30 ""Tartarus Torpor""","MNK / WHM / BLM / RDM / PLD / BRD /
+RNG / SMN / BLU / PUP"
+Thyrsusstab,73,52,402,7.76,"Latent effect: DMG:65
+Critical hit rate +6%","WAR / MNK / WHM / BLM / PLD / BRD /
+DRG / SMN"
+Wyvern Perch,73,57,402,8.51,Wyvern: HP+50,"WAR / MNK / WHM / BLM / PLD / BRD /
+DRG / SMN"
+Capricorn Staff,74,43,366,7.05,Haste+5%,MNK / WHM / PLD / DRG
+Bahamut's Staff,75,55,366,9.02,"MP+30
+Summoning magic skill +5
+Avatar perpetuation cost -3",SMN
+Claustrum,75,275,390,42.31,"INT+ 10
+Magic Accuracy+20
+Magic Damage+20
+""Iridescence +1""
+""Gate of Tartarus""
+Additional effect: Dispel",BLM / SMN
+Claustrum,75,72,390,11.08,"Accuracy+20
+""Gate of Tartarus""
+Additional effect: ""Dispel""",BLM / SMN
+Cracked Staff,75,1,366,0.16,,MNK / WHM / BLM / RDM / BRD / SMN
+Crook,75,35,402,5.22,,WHM / BLM / RDM / BRD / SMN
+Danda,75,18,399,2.71,,BLM / SMN
+Diabolos's Pole,75,57,402,8.51,"Dark weather: Enhances effect
+of ""Drain"" and ""Aspir""
+Additional effect: ""Slow""",All Jobs
+Dorje,75,42,402,6.27,"MP+20
+""Magic Atk. Bonus""+25
+MP recovered while healing +10",WHM / BLM / RDM / BRD / SMN
+Dynamis Staff,75,55,402,8.21,In Dynamis: +9,BLM / SMN
+Eight-Sd. Pole +1,75,58,390,8.92,Accuracy+5 Attack+9,MNK / WHM / PLD / DRG
+Eight-Sided Pole,75,57,402,8.51,Accuracy+4 Attack+8,MNK / WHM / PLD / DRG
+Fay Crozier,75,50,366,8.2,,SMN
+Kirin's Pole,75,60,402,8.96,"HP+20 MP+20 INT+10
+MND+10 +15 +15 +15 +15
++15 +15 +15 +15",MNK / WHM / BLM / PLD / DRG / SMN
+Laevateinn,75,62,402,9.25,,BLM
+Laevateinn,75,62,402,9.25,"Accuracy+30 Magic Accuracy+10
+""Magic Atk. Bonus""+20
+Enhances ""Elemental Seal"" effect
+""Vidohunir""
+Aftermath: Inc. Mag. Acc./Mag. Atk.
+Occasionally attacks twice",BLM
+Mage's Staff,75,55,402,8.21,,BLM
+Majestas,75,42,412,6.12,,MNK / WHM / BLM / RDM / BRD / SMN
+Nirvana,75,62,402,9.25,,SMN
+Nirvana,75,62,402,9.25,"Accuracy+30
+Avatar perpetuation cost -4
+Avatar: ""Magic Atk. Bonus""+20
+""Garland of Bliss""
+Aftermath (Incl. Avatars):
+Inc. Acc./Atk., Occ. attacks twice",SMN
+Relic Staff,75,1,999,0.06,,BLM / SMN
+Sage's Staff,75,1,402,0.15,In Dynamis: +7,BLM / SMN
+Scepter Staff,75,55,402,8.21,,SMN
+Shillelagh,75,49,402,7.31,,BLM / SMN
+Slaine,75,60,402,8.96,,BLM / SMN
+Teiwaz,75,41,366,6.72,,WHM / BLM / RDM / BRD / SMN
+Thyrus,75,72,402,10.75,"In Dynamis: ""Gate of Tartarus""",BLM / SMN

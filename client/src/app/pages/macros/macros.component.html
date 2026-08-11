@@ -1,0 +1,94 @@
+<div class="tab-layout">
+  <aside class="tab-layout__sidebar">
+    <app-job-sidebar
+      [items]="savedMacros"
+      (addClicked)="onAdd($event)"
+      (itemClicked)="onSelectExisting($event)"
+    ></app-job-sidebar>
+  </aside>
+
+  <div class="tab-layout__content page">
+    <h1 *ngIf="!selectedJob">Macros</h1>
+
+    <p *ngIf="!selectedJob">Expand a job on the left and select "+ Add" to get started.</p>
+
+    <div *ngIf="selectedJob" class="macro-form">
+      <h2>{{ selectedJob }} — {{ selectedMacroName ? 'Edit' : 'Add' }} Macro</h2>
+
+      <label class="macro-form__name">
+        <span>Name</span>
+        <input type="text" [(ngModel)]="nameInput" placeholder="Macro name" />
+      </label>
+
+      <div *ngIf="selectedMacroName" class="macro-run-panel">
+        <span class="macro-run-panel__label">Run macro</span>
+        <code class="macro-run-panel__command">/exec {{ selectedJob }}-{{ selectedMacroName }}.txt</code>
+      </div>
+
+      <div class="macro-editor">
+        <div class="macro-lines-panel">
+          <h3>Macro</h3>
+
+          <div class="macro-lines-panel__grid">
+            <span></span>
+            <span class="macro-lines-panel__wait-header">Wait</span>
+            <span></span>
+
+            <ng-container *ngFor="let line of lines; let i = index">
+              <input
+                type="text"
+                class="macro-lines-panel__text"
+                [(ngModel)]="line.text"
+                [placeholder]="'Line #' + (i + 1)"
+              />
+              <input
+                type="text"
+                class="macro-lines-panel__wait"
+                inputmode="numeric"
+                maxlength="2"
+                [(ngModel)]="line.wait"
+              />
+              <button
+                type="button"
+                class="macro-lines-panel__remove"
+                (click)="removeLine(i)"
+                title="Remove line"
+              >
+                ×
+              </button>
+            </ng-container>
+          </div>
+
+          <button type="button" class="macro-lines-panel__add" (click)="addLine()">+ Add</button>
+        </div>
+
+        <div class="macro-prefill-panel">
+          <h3>Prefill Macro</h3>
+          <div class="macro-prefill-panel__buttons">
+            <button type="button" *ngFor="let option of prefillOptions">{{ option }}</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="macro-form__actions">
+        <button
+          type="button"
+          class="macro-form__save"
+          [disabled]="!nameInput.trim()"
+          (click)="save()"
+        >
+          Save
+        </button>
+
+        <button
+          type="button"
+          class="macro-form__delete"
+          *ngIf="selectedMacroName"
+          (click)="delete()"
+        >
+          Delete
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

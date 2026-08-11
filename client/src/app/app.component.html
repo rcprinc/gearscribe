@@ -1,0 +1,153 @@
+<div class="app-shell">
+  <nav class="app-nav">
+    <div class="app-nav__brand">Gearscribe</div>
+    <a class="app-nav__tab" routerLink="/macros" routerLinkActive="active">Macros</a>
+    <a class="app-nav__tab" routerLink="/luas" routerLinkActive="active">Luas</a>
+    <a class="app-nav__tab" routerLink="/equipment-sets" routerLinkActive="active">Equipment Sets</a>
+    <a class="app-nav__tab" routerLink="/settings" routerLinkActive="active">Settings</a>
+
+    <div class="app-nav__session" *ngIf="(session$ | async) as session">
+      <ng-container *ngIf="session.signedIn">
+        <span
+          class="app-nav__status-dot"
+          [class.app-nav__status-dot--error]="session.authStatus === 'error'"
+        ></span>
+        <span class="app-nav__username">{{ session.name }}</span>
+      </ng-container>
+    </div>
+  </nav>
+
+  <main class="app-content">
+    <router-outlet></router-outlet>
+  </main>
+
+  <div class="toast" *ngIf="toastMessage">
+    <svg class="toast__icon" viewBox="0 0 24 24" width="18" height="18">
+      <circle cx="12" cy="12" r="11" fill="#3ec97a" />
+      <path d="M7 12.5l3 3 7-7" fill="none" stroke="#0a1410" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
+    <span>{{ toastMessage }}</span>
+  </div>
+</div>
+
+<div class="setup-overlay" *ngIf="setupWizardOpen">
+  <div class="setup-modal">
+    <div class="setup-modal__header">
+      <h2>Setup</h2>
+      <button type="button" class="setup-modal__close" (click)="skipSetup()">×</button>
+    </div>
+
+    <div class="setup-modal__tabs">
+      <button
+        type="button"
+        class="setup-modal__tab"
+        *ngFor="let tab of setupTabs"
+        [class.setup-modal__tab--active]="setupTab === tab"
+        (click)="selectSetupTab(tab)"
+      >
+        {{ tab }}
+      </button>
+    </div>
+
+    <div class="setup-modal__body">
+      <ng-container *ngIf="setupTab === 'Game File Path'">
+        <div class="setup-instructions">
+          <p>Here's how to find it:</p>
+          <ol>
+            <li>Open the HorizonXI Launcher.</li>
+            <li>Go to the <strong>Extensions</strong> tab.</li>
+            <li>Click <strong>Open Folder</strong> next to Addons.</li>
+            <li>Copy the folder path from the window that opens and paste it below.</li>
+          </ol>
+          <p class="setup-instructions__note">
+            Note: that button opens the Addons folder, not the game folder itself — if the path you paste ends in
+            "addons" (e.g. F:\HorizonXI\Game\addons), we'll automatically strip that off so it still points to the
+            right place.
+          </p>
+        </div>
+
+        <label class="setup-field">
+          <span>Game Filepath</span>
+          <input type="text" [(ngModel)]="setupGamePath" placeholder="C:\Program Files\HorizonXI\Game\" />
+        </label>
+      </ng-container>
+
+      <ng-container *ngIf="setupTab === 'Setup Profile'">
+        <label class="setup-field">
+          <span>Username</span>
+          <input type="text" [(ngModel)]="setupUsername" placeholder="Username" />
+        </label>
+
+        <ng-container *ngIf="setupUsername.trim() as username">
+          <div class="setup-instructions">
+            <p>Now let's grab your profile info:</p>
+            <ol>
+              <li>Open <code>https://horizonxi.com/players/{{ username }}</code> in your browser.</li>
+              <li>Open Developer Tools (press F12, or right-click the page and choose Inspect) and switch to the <strong>Network</strong> tab.</li>
+              <li>Refresh the page.</li>
+              <li>Find the request named <strong>{{ username }}</strong> in the list — its URL looks like <code>https://api.horizonxi.com/api/v1/chars/{{ username }}</code>.</li>
+              <li>Click it, open the <strong>Response</strong> tab, and copy everything shown there.</li>
+              <li>Paste it into the box below.</li>
+            </ol>
+            <p class="setup-instructions__note">
+              Stay on this page with Developer Tools open — you'll need one more response for the Inventory step next.
+            </p>
+          </div>
+
+          <textarea
+            class="setup-paste"
+            [(ngModel)]="setupProfileRaw"
+            spellcheck="false"
+            placeholder="Paste JSON here"
+          ></textarea>
+        </ng-container>
+      </ng-container>
+
+      <ng-container *ngIf="setupTab === 'Setup Inventory'">
+        <div class="setup-instructions">
+          <p>Using the same page and Network tab from the last step:</p>
+          <ol>
+            <li>Find the request named <strong>inventory</strong> in the list — its URL looks like <code>https://api.horizonxi.com/api/v1/chars/{{ setupUsername.trim() }}/inventory</code>.</li>
+            <li>Click it, open the <strong>Response</strong> tab, and copy everything shown there.</li>
+            <li>Paste it into the box below.</li>
+          </ol>
+        </div>
+
+        <textarea
+          class="setup-paste"
+          [(ngModel)]="setupInventoryRaw"
+          spellcheck="false"
+          placeholder="Paste JSON here"
+        ></textarea>
+      </ng-container>
+    </div>
+
+    <div class="setup-modal__footer">
+      <button type="button" class="setup-modal__skip" (click)="skipSetup()">Skip</button>
+      <button
+        type="button"
+        class="setup-modal__next"
+        *ngIf="setupTab === 'Game File Path'"
+        (click)="saveGamePathAndAdvance()"
+      >
+        Next
+      </button>
+      <button
+        type="button"
+        class="setup-modal__next"
+        *ngIf="setupTab === 'Setup Profile'"
+        (click)="saveProfileAndAdvance()"
+      >
+        Next
+      </button>
+      <button
+        type="button"
+        class="setup-modal__next"
+        *ngIf="setupTab === 'Setup Inventory'"
+        (click)="saveInventoryAndFinish()"
+      >
+        Save
+      </button>
+    </div>
+  </div>
+</div>

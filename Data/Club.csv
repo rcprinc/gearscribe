@@ -1,0 +1,391 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Ash Club,1,4,264,0.91,,All Jobs
+Ash Club +1,1,5,257,1.17,,All Jobs
+Caduceus,1,3,216,0.83,"Alchemy skill +1
+Additional effect vs. arcana: ""Bind""",All Jobs
+Charm Wand,1,2,264,0.45,"Enchantment:
+""Reraise"" on party member
+(Cannot target self)
+<10/10 0:30/[:00:00, 0:30]>",All Jobs
+Charm Wand +1,1,3,264,0.68,"Enchantment:
+""Reraise"" on party member
+(Cannot target self)
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Chocobo Wand,1,3,216,0.83,Extends chocobo riding time,All Jobs
+Citrullus Mallet,1,1,288,0.21,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Club Hammer,1,1,300,0.2,VIT-1,All Jobs
+Dream Bell,1,1,216,0.28,,All Jobs
+Dream Bell +1,1,2,210,0.57,Singing skill +1,All Jobs
+Feline Hagoita,1,2,264,0.45,,All Jobs
+Feline Hagoita +1,1,3,257,0.7,"""Double Attack""+5%
+Additional effect: Flash",All Jobs
+Floral Hagoita,1,2,264,0.45,,All Jobs
+G. Spriggan Club,1,1,288,0.21,,All Jobs
+Gobbie Gavel,1,1,288,0.21,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Hagoita,1,2,264,0.45,"Dispense: Ichinintousen Koma
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Heartbeater,1,1,264,0.23,,All Jobs
+Heartbeater +1,1,2,257,0.47,"Enchantment:
+""Synthesis Support""
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Heartstopper,1,1,288,0.21,,All Jobs
+Heartstopper +1,1,2,280,0.43,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Jingly Rod,1,1,216,0.28,,All Jobs
+Jingly Rod +1,1,2,210,0.57,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Kitty Rod,1,1,288,0.21,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Korrigan Mallet,1,1,288,0.21,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Kupo Rod,1,1,288,0.21,"Enchantment: Moogle Blessing
+<1/1 0:30/[20:00:00, 0:30]>",All Jobs
+Kyuka Uchiwa,1,1,216,0.28,,All Jobs
+Kyuka Uchiwa +1,1,2,210,0.57,"Fire weather:
+Occasionally attacks twice or thrice",All Jobs
+Lady Bell,1,1,216,0.28,,All Jobs
+Lady Bell +1,1,2,210,0.57,,All Jobs
+Leafkin Bopper,1,1,288,0.21,,All Jobs
+Leafkin Bopper +1,1,2,280,0.43,"Dispense: Leafkin Grenade
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Maestro's Baton,1,1,288,0.21,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Maple Wand,1,3,216,0.83,INT+1 MND+1,WHM / BLM / RDM / SMN / BLU
+Maple Wand +1,1,4,210,1.14,INT+2 MND+2,WHM / BLM / RDM / SMN / BLU
+Melomane Mallet,1,1,288,0.21,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Miracle Wand,1,2,264,0.45,"Enchantment:
+Adds ""Regen"" effect to party member
+<10/10 0:30/[2:00:00, 0:30]>",All Jobs
+Miracle Wand +1,1,3,264,0.68,"Enchantment:
+Adds ""Regen"" effect to party member
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Moogle Rod,1,1,288,0.21,"Enchantment:
+Give gift to party member
+(Cannot target self)
+<1/1 0:30/[20:00:00, 0:30]>",All Jobs
+Nmd. Moogle Rod,1,1,288,0.21,"Enchantment:
+Give gift to party member
+(Cannot target self)
+<50/50 0:30/[20:00:00, 0:30]>",All Jobs
+Onion Rod,1,3,288,0.63,,WHM / BLM / SMN
+P. Sprig. Club,1,1,288,0.21,,All Jobs
+R. Sprig. Club,1,1,288,0.21,,All Jobs
+Seika Uchiwa,1,1,216,0.28,,All Jobs
+Seika Uchiwa +1,1,2,210,0.57,"Additional effect: Soothing Breeze
+Enchantment: Cool Breeze
+<1/1 0:30/[5:00, 0:30]>",All Jobs
+Shell Scepter,1,1,288,0.21,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Soulflayer's Wand,1,1,264,0.23,,All Jobs
+Tengu War Fan,1,1,216,0.28,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Thunder Hammer,1,1,216,0.28,"Enchantment: ""Thunder""
+<1/1 0:30/[10:00, 0:30]>",All Jobs
+Trainee Hammer,1,1,324,0.19,Latent effect: Smithing skill +1,All Jobs
+Bronze Mace,4,7,300,1.4,,WAR / WHM / PLD
+Bronze Mace +1,4,8,292,1.64,,WAR / WHM / PLD
+Bronze Hammer,5,9,324,1.67,,WHM / PLD
+Bronze Hammer +1,5,10,315,1.9,,WHM / PLD
+Bronze Rod,5,5,288,1.04,HP+3,WHM / BLM / SMN
+Bronze Rod +1,5,6,280,1.29,HP+4,WHM / BLM / SMN
+Rabbit Stick,5,5,264,1.14,"HP+1% MP+1%
+Damage varies by moon phase",All Jobs
+Mana Wand,9,5,216,1.39,"INT+2 MND+2
+Enchantment:
+MP recovered while healing +2
+<50/50 0:30/[30:00, 0:30]>",WHM / BLM / RDM / SMN / BLU
+Willow Wand,9,5,216,1.39,INT+2 MND+2,WHM / BLM / RDM / SMN / BLU
+Willow Wand +1,9,6,210,1.71,INT+3 MND+3,WHM / BLM / RDM / SMN / BLU
+Freesword's Club,10,7,264,1.59,,All Jobs
+Pilgrim's Wand,10,6,216,1.67,MP recovered while healing +2,WHM / BLM / RDM / SMN / BLU
+Wild Cudgel,11,7,264,1.59,HP+20 MP-20,All Jobs
+Brass Hammer,12,15,324,2.78,,WHM / PLD
+Brass Hammer +1,12,16,315,3.05,,WHM / PLD
+Brass Rod,12,8,288,1.67,HP+3 INT+1,WHM / BLM / SMN
+Brass Rod +1,12,9,280,1.93,HP+4 INT+1,WHM / BLM / SMN
+Hermit's Wand,13,6,216,1.67,"INT+2 MND+2
+Spell interruption rate down 25%",WHM / BLM / RDM / SMN / BLU
+Federation Club,15,9,250,2.16,HP+3 MP+3,All Jobs
+Moonlight Wand,15,8,264,1.82,"HP+1% MP+1%
+Damage varies by moon phase",All Jobs
+Windurstian Club,15,8,257,1.87,HP+2 MP+2,All Jobs
+Chestnut Club,16,9,264,2.05,,All Jobs
+Solid Club,16,10,257,2.33,,All Jobs
+Decurion's Hammer,18,19,324,3.52,,WHM / PLD
+Yew Wand,18,7,216,1.94,INT+3 MND+3,WHM / BLM / RDM / SMN / BLU
+Yew Wand +1,18,8,210,2.29,INT+4 MND+4,WHM / BLM / RDM / SMN / BLU
+Mace,19,16,300,2.8,,WAR / WHM / PLD
+Mace +1,19,18,291,3.71,,WAR / WHM / PLD
+Bouncer Club,20,10,264,2.27,,All Jobs
+Platoon Mace,20,16,300,2.8,,WHM / BLM / SMN
+Warhammer,20,20,324,3.7,,WHM / PLD
+Warhammer +1,20,21,315,4,,WHM / PLD
+Earth Wand,21,8,216,2.22,Additional effect: Earth damage,WHM / BLM / RDM / SMN / BLU
+Rod,22,11,288,2.29,HP+6,WHM / BLM / SMN
+Rod +1,22,12,280,2.57,HP+7,WHM / BLM / SMN
+Bastokan Hammer,23,20,315,3.81,Accuracy+2,WHM / PLD
+Republic Hammer,23,21,306,3.53,Accuracy+3,WHM / PLD
+Pixie Mace,24,19,300,3.2,#ERROR!,WAR / WHM / PLD
+Artemis's Wand,25,11,264,2.5,"HP+1% MP+1%
+Damage varies by moon phase",All Jobs
+Raise Rod,25,10,288,2.08,"MND+2
+Enchantment: ""Raise""
+<20/20 0:30/[1:00, 0:30]>",WHM
+Bone Cudgel,27,12,264,2.73,,All Jobs
+Bone Cudgel +1,27,13,257,3.04,,All Jobs
+Heat Rod,27,12,288,2.5,Additional effect: Lightning damage,WHM / BLM / SMN
+Eremite's Wand,28,9,216,2.5,"MP+5 INT+2 MND+2
+Spell interruption rate down 25%",WHM / BLM / RDM / SMN / BLU
+Eremite's Wand +1,28,10,210,2.86,"MP+6 INT+2 MND+2
+Spell interruption rate down 25%",WHM / BLM / RDM / SMN / BLU
+Rounsey Wand,30,1,216,0.28,"Enchantment:
+""Teleport"" (Chocobo Circuit)
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Royal Squire's Mace,30,21,291,3.71,Attack+5,WAR / WHM / PLD
+Maul,31,26,324,4.81,,WHM / PLD
+Maul +1,31,27,315,5.14,,WHM / PLD
+Replica Maul,31,5,324,0.93,,All Jobs
+Chestnut Wand,32,10,216,2.78,INT+4 MND+4,WHM / BLM / RDM / SMN / BLU
+High Mana Wand,32,10,216,2.78,"INT+4 MND+4
+Enchantment:
+MP recovered while healing +4
+<50/50 0:30/[30:00, 0:30]>",WHM / BLM / RDM / SMN / BLU
+Solid Wand,32,11,210,3.14,INT+5 MND+5,WHM / BLM / RDM / SMN / BLU
+Kingdom Mace,34,23,273,5.05,"Attack+5
+In areas outside own nation's control:
+MND+2",WAR / WHM / PLD
+Mythril Rod,34,14,288,2.92,HP+9,WHM / BLM / SMN
+Mythril Rod +1,34,15,280,3.21,HP+10,WHM / BLM / SMN
+San d'Orian Mace,34,22,282,4.04,"Attack+5
+In areas outside own nation's control:
+MND+1",WAR / WHM / PLD
+Mythril Mace,35,24,300,4,,WAR / WHM / PLD
+Mythril Mace +1,35,25,291,5.15,,WAR / WHM / PLD
+Selene's Wand,35,14,264,3.18,"HP+1% MP+1%
+Damage varies by moon phase",All Jobs
+Oak Cudgel,36,15,264,3.41,,All Jobs
+Oak Cudgel +1,36,16,257,3.74,,All Jobs
+Warp Cudgel,36,15,264,3.41,"Enchantment: ""Warp""
+<30/30 0:03/[1:00, 0:03]>",All Jobs
+Holy Maul,38,31,324,5.74,"MND+2 +3
+Additional effect: Light damage",WHM / PLD
+Holy Maul +1,38,32,315,6.1,"MND+3 +4
+Additional effect: Light damage",WHM / PLD
+Sacred Maul,38,26,324,4.81,"MND+2 +3
+Additional effect: Light damage
+Enchantment: ""Enlight""
+<30/30 0:30/[5:00, 0:30]>",WHM / PLD
+Spirit Maul,38,26,324,4.81,"MND+2 +3
+Additional effect: Light damage
+Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>",WHM
+Great Club,39,19,267,4.27,,WAR / PLD / DRK / BST / SAM
+Great Club +1,39,20,259,4.63,,WAR / PLD / DRK / BST / SAM
+Sealed Mace,39,25,300,4.2,"MND+2
+Divine magic skill +1",WHM
+Blessed Hammer,40,31,324,5.74,"MP+10 MND+2
+MP recovered while healing +3",WHM
+Casting Wand,40,12,216,3.33,MP+20 INT+5,BLM
+Dia Wand,40,11,216,3.06,"Enhances ""Cure"" potency
+Enhances ""Dia"" effect",WHM
+Bone Rod,43,17,288,3.54,HP+12,WHM / BLM / SMN
+Bone Rod +1,43,18,280,3.86,HP+13 +3,WHM / BLM / SMN
+Holy Mace,43,28,300,5.6,Additional effect: Light damage,WAR / WHM / PLD
+Holy Mace +1,43,30,291,6.19,Additional effect: Light damage,WAR / WHM / PLD
+Sacred Mace,43,24,300,4.8,"Additional effect: Light damage
+Enchantment: ""Enlight""
+<30/30 0:30/[5:00, 0:30]>",WAR / WHM / PLD
+Moonwatch Wand,45,17,264,3.86,"HP+1% MP+1%
+Damage varies by moon phase",All Jobs
+Time Hammer,47,37,324,6.85,"Additional effect: ""Slow""",WHM / PLD
+Rose Wand,48,14,216,3.89,INT+5 MND+5,WHM / BLM / RDM / SMN / BLU
+Rose Wand +1,48,15,210,4.29,INT+6 MND+6,WHM / BLM / RDM / SMN / BLU
+Shellbuster,48,18,264,4.09,"HP+7 CHR+4
+Additional effect vs. Quadav:
+Lightning damage",All Jobs
+Lilith's Rod,50,19,288,3.96,"MP+10 INT+5
+Additional effect: MP Drain",WHM / BLM / SMN
+Tct.Mag. Wand,50,15,210,4.29,MP+5 INT+5 MND+5,WHM / BLM / RDM / SMN / BLU
+Healing Mace,52,31,300,5.2,Healing magic skill +7,WHM / PLD
+Sloth Wand,52,17,237,4.3,"STR-1 DEX-1 VIT-1
+AGI-1 INT+7 MND-1 CHR-1",WHM / BLM / RDM / SMN / BLU
+T.M. Wand +1,52,16,203,4.73,"MP+5 INT+5 MND+5
+In areas outside own nation's control:
+MP+18",WHM / BLM / RDM / SMN / BLU
+T.M. Wand +2,52,17,197,5.18,"MP+5 INT+5 MND+5
+In areas outside own nation's control:
+MP+20",WHM / BLM / RDM / SMN / BLU
+Arcana Breaker,54,40,324,7.41,"Additional effect vs. arcana:
+Weakens defense",WHM / PLD
+Musketeer Commander's Rod,55,22,280,4.71,"HP+19
+MP recovered while healing +4",WHM / BLM / SMN
+Ryl. Guard's Rod,55,21,288,4.38,HP+18 MND+1 CHR+1,WHM / BLM / SMN
+Thoth's Wand,55,21,264,4.77,"HP+1% MP+1%
+Moon phase affects additional damage",All Jobs
+Raise II Rod,56,20,288,4.17,"MND+4
+Enchantment: ""Raise II""
+<20/20 0:30/[1:00, 0:30]>",WHM
+Darksteel Mace,57,38,315,7.24,,WAR / WHM / PLD
+Darksteel Mace +1,57,39,306,7.65,,WAR / WHM / PLD
+Fey Wand,58,15,216,4.17,"INT+7
+Additional effect: MP Drain",BLM
+Dominion Mace,59,34,300,5.8,"MND+7
+Additional effect: Restores HP",WHM / PLD
+Ebony Wand,60,17,216,4.72,INT+6 MND+6,WHM / BLM / RDM / SMN / BLU
+Ebony Wand +1,60,18,210,5.14,INT+7 MND+7,WHM / BLM / RDM / SMN / BLU
+Darksteel Rod,61,22,302,4.37,HP+15,WHM / BLM / SMN
+Darksteel Rod +1,61,23,297,4.65,HP+16,WHM / BLM / SMN
+Asklepios,62,21,288,4.38,"""Cure"" potency +5%
+Converts 30 HP to MP",WHM / BLM / SMN
+Daedalus Hammer,62,31,300,6.2,"MP+15 Accuracy+4
+Enchantment: Adds ""Refresh"" effect
+<50/50 0:30/[30:00, 0:30]>",WAR / WHM / PLD
+Kraken Club,63,11,264,2.5,Occasionally attacks 2 to 8 times,"WAR / MNK / WHM / BLM / RDM / THF /
+PLD / DRK / BST / BRD / RNG / SAM /
+NIN / DRG / SMN"
+Octave Club,63,11,264,2.5,,"WAR / MNK / WHM / BLM / RDM / THF /
+PLD / DRK / BST / BRD / RNG / SAM /
+NIN / DRG / SMN"
+Curse Wand,64,22,288,4.58,"HP+9 STR-3 DEX-3
+VIT-3 AGI-3 INT+5 MND+5 CHR+5",WHM / BLM / SMN
+Darksteel Maul,65,46,340,8.12,Attack+10,WHM / PLD
+Darksteel Maul +1,65,48,334,7.19,Attack+12,WHM / PLD
+Leviathan's Rod,65,22,288,4.58,"MND+3
+Additional effect: Water damage",WHM / BLM / SMN
+Mythic Wand,65,17,216,4.72,INT+8 MND+8 +15,WHM / BLM / RDM / SMN / BLU
+Mythic Wand +1,65,18,210,5.14,INT+9 MND+9 +20,WHM / BLM / RDM / SMN / BLU
+Titan's Cudgel,65,22,278,4.75,"VIT+3
+Additional effect: Earth damage",All Jobs
+Holy Wand,67,18,216,5,"Divine magic skill +4
+Additional effect: Light damage",WHM / BLM / RDM / SMN / BLU
+Holy Wand +1,67,19,210,5.43,"Divine magic skill +5
+Additional effect: Light damage",WHM / BLM / RDM / SMN / BLU
+Living Rod,67,24,288,5,HP+21,WHM / BLM / SMN
+Platinum Mace,67,34,300,6.8,VIT+1,WAR / WHM / PLD
+Platinum Mace +1,67,35,291,7.22,VIT+2,WAR / WHM / PLD
+Sacred Wand,67,18,216,5,"Divine magic skill +4
+Additional effect: Light damage
+Enchantment: ""Enlight""
+<30/30 0:30/[5:00, 0:30]>",WHM / BLM / RDM / SMN / BLU
+Flan Smasher,68,30,291,6.19,"Accuracy+9 Attack+9
+""Magic Atk. Bonus""+5","WAR / MNK / WHM / BLM / PLD / SMN /
+BLU"
+Sea Rob. Cudgel,68,42,340,7.41,"MND+5 Accuracy-5
+Attack+15",WHM
+Seawolf Cudgel,68,40,340,7.06,"STR+5 Accuracy+15
+Attack-5",WHM
+Skirnir's Wand,68,17,216,4.72,"INT+7 MND+7 CHR+7
++15 Divine magic skill +3",WHM / BLM / RDM / SMN / BLU
+Clearpath,69,27,288,5.63,"Accuracy+5 Magic Accuracy+5
+Set: Increases Evasion and
+HP recovered while healing
+Reduces Enmity",WHM / PLD
+Flanged Mace,69,25,300,5,"Adds ""Regen"" effect
+HP recovered while healing +2",WAR / WHM / PLD
+Flanged Mace +1,69,26,292,5.34,"Adds ""Regen"" effect
+HP recovered while healing +3",WAR / WHM / PLD
+Grandeur,69,34,310,6.58,"Attack+5 ""Magic Atk. Bonus""+5
+Set: Increases Evasion and
+HP recovered while healing
+Reduces Enmity",BLM / RDM / SMN / BLU
+Jadagna,69,39,340,6.88,HP+29 MP-29 VIT+5,WAR / WHM / PLD
+Jadagna -1,69,10,340,1.76,MP-58,WAR / WHM / PLD
+Jadagna +1,69,40,334,7.19,HP+31 MP-31 VIT+6,WAR / WHM / PLD
+Templar Hammer,69,27,310,5.23,"Latent effect: ""Magic Atk. Bonus""+2",WAR / WHM / PLD
+Horrent Mace,70,40,340,7.06,Latent effect: Accuracy+10 Attack+10,WAR / DRK
+Imperial Wand,70,23,216,6.39,Assault: DMG:25 MP+20 Enmity-3,WHM / BLM / RDM / SMN / BLU
+Mighty Cudgel,70,30,288,6.25,"INT+1 MND+1
+On Firesdays: INT+9 MND+9 +15","WAR / MNK / WHM / BLM / PLD / SMN /
+BLU"
+Mistilteinn,70,22,216,6.11,"INT+10 MND+10
+Latent effect: Adds ""Refresh"" effect",WHM / BLM / RDM / SMN / BLU
+Platinum Rod,70,23,288,4.79,HP+18,WHM / BLM / SMN
+Platinum Rod +1,70,24,280,5.14,HP+19,WHM / BLM / SMN
+Purgatory Mace,70,49,324,7.59,"STR+3 MND+3
+Additional effect: ""Stun""",WHM
+Rune Rod,70,26,288,5.42,"Latent effect:
+Attack+10 Healing magic skill +6",WHM / BLM / SMN
+Brass Jadagna,71,45,340,7.94,HP+29 MP-29 VIT+5,WAR / WHM / PLD
+Brass Jadagna +1,71,46,334,8.26,HP+31 MP-31 VIT+6,WAR / WHM / PLD
+Buzdygan,71,34,300,6.8,MP+10 DEX+2 VIT+2,WAR / WHM / PLD
+Buzdygan +1,71,35,291,7.22,MP+11 DEX+3 VIT+3,WAR / WHM / PLD
+Club of Trials,71,29,267,6.52,"Latent effect: HP+10 MP+10 +10
++10","WAR / MNK / WHM / BLM / PLD / SMN /
+BLU"
+Fourth Mace,71,25,288,5.21,"HP+30 MP+30
+""Magic Atk. Bonus""+4
+""Conserve MP""+4","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Kerykeion,71,29,216,8.06,"Latent effect: Adds ""Regen"" effect
+Additional effect: HP drain",WHM / BLM / RDM / SMN / BLU
+Pealing Buzdygan,71,34,300,6.8,"MP+10 DEX+2 VIT+2
+Enchantment: ""Thunder""
+<50/50 0:30/[10:00, 0:30]>",WAR / WHM / PLD
+Rsv.Cpt. Mace,71,25,288,5.21,"HP+30 Accuracy+6
+Citizens of San d'Oria: MP recovered
+while healing +7","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Seveneyes,71,27,217,7.47,"HP+27 MP+27
++7 +7 +7
+""Conserve MP""+7
+Elemental magic skill +7",WHM / BLM / RDM / SMN / BLU
+Senior Gold Musketeer's Rod,71,25,288,5.21,"HP+30 Attack+6
+Citizens of Bastok: MP recovered
+while healing +7","WAR / MNK / WHM / BLM / RDM / BST /
+BRD / SMN"
+Templar Mace,71,29,267,6.52,"MND+5
+""Cure"" potency +10%
+Enhances ""Undead Killer"" effect",WHM / PLD
+Yigit Bulawa,71,36,310,6.97,"Depending on day: Increases elemental
+weapon skill damage",WHM / PLD
+Antares,72,31,217,8.57,"HP-20 MP+20
+Magic Accuracy+10
+""Magic Atk. Bonus""+10",WHM / BLM / RDM / BRD / SMN
+Martial Wand,72,35,290,7.24,TP Bonus,WHM / BLM / PLD / SMN
+Morgenstern,72,32,310,6.19,"Latent effect: DMG:46
+Critical hit rate +6%",WHM / PLD
+Ramuh's Mace,72,36,310,6.97,"DEX+5 Attack+5
+Latent effect: Lightning damage",WHM / PLD
+Scepter,72,26,288,5.42,HP+24 DEX+2 VIT+2,WHM / BLM / SMN
+Scepter +1,72,27,280,5.79,HP+25 DEX+3 VIT+3,WHM / BLM / SMN
+Zonure,72,39,324,7.22,"STR+3 Attack+8
+Enhances ""Vermin Killer"" effect
+Vs. vermin: Critical hit rate +7%",WAR / WHM / PLD
+Lyft Ferule,73,34,216,9.44,,WHM / BLM / RDM / SMN / BLU
+Perdu Wand,73,34,216,9.44,Latent effect: DMG:39,WHM / BLM / RDM / SMN / BLU
+Prudence Rod,73,22,288,4.58,"INT+7
+Virtue stone equipped:
+Occasionally attacks twice",WHM / BLM
+Brise-os,74,47,340,8.29,HP+36 STR+3 VIT+3,WHM / PLD
+Brise-os +1,74,48,334,8.62,HP+38 STR+4 VIT+4,WHM / PLD
+Deae Gratia,74,35,300,7,"MP+30
+Accuracy+9 Attack+9
+""Counter""+1
+Additional effect: HP drain","WAR / MNK / WHM / BLM / RDM / THF /
+PLD / DRK / BST / BRD / RNG / SAM /
+NIN / DRG / SMN"
+Battering Maul,75,1,340,0.18,In Dynamis: +7,WHM
+Culacula,75,42,310,8.13,,WHM
+Dweomer Maul,75,35,340,6.18,Main hand: DMG:38,WHM
+Dynamis Maul,75,30,340,5.29,In Dynamis: +9,WHM
+Goedendag,75,29,300,5.8,,WHM
+Gullintani,75,57,340,10.06,"In Dynamis: ""Randgrith""",WHM
+Ingrimm,75,20,216,5.56,,WHM
+Mjollnir,75,58,308,11.3,"Attack+20 ""Randgrith""
+Adds ""Refresh"" effect",WHM
+Rageblow,75,35,310,6.77,,WHM
+Raphael's Rod,75,40,320,7.5,"Enchantment: ""Reraise III""
+<8/8 0:30/[2:00, 0:30]>",All Jobs
+Relic Maul,75,1,999,0.06,,WHM
+Star Rod,75,25,288,5.21,HP+27,WHM / BLM / SMN
+Stenz,75,28,310,5.42,,WHM
+Werebuster,75,29,267,6.52,,WHM
+Yagrush,75,43,267,9.66,,WHM
+Yagrush,75,43,267,9.66,"Magic Accuracy+10
+Enhances ""Divine Veil"" effect
+""Mystic Boon""
+Aftermath: Increases Magic Acc./Acc.
+Occasionally attacks twice",WHM

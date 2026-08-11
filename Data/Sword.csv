@@ -1,0 +1,449 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Aern Sword,1,1,240,0.25,,All Jobs
+Aern Sword II,1,1,240,0.25,,All Jobs
+Bronze Sword,1,6,231,1.56,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Bronze Sword +1,1,7,225,1.87,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Onion Sword,1,5,228,1.32,,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Wax Sword,1,6,225,1.6,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Wax Sword +1,1,7,218,1.93,Accuracy+2,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Sapara,7,9,236,2.29,,WAR / THF / DRK / SAM / BLU
+Sapara +1,7,10,230,2.61,,WAR / THF / DRK / SAM / BLU
+Xiphos,7,8,228,2.11,,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Xiphos +1,7,9,222,2.43,,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Spatha,9,11,240,2.75,,WAR / RDM / PLD / DRK
+Spatha +1,9,12,233,3.09,,WAR / RDM / PLD / DRK
+Royal Archer's Sword,10,10,228,2.63,,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Bee Spatha,11,13,233,3.35,,WAR / RDM / PLD / DRK
+Bee Spatha +1,11,14,227,3.7,Accuracy+2,WAR / RDM / PLD / DRK
+Bilbo,13,11,226,2.92,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Bilbo +1,13,12,220,3.27,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Brass Xiphos,13,12,228,3.16,,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Brass Xiphos +1,13,13,222,3.51,,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Scimitar,13,13,236,3.31,,WAR / THF / DRK / SAM / BLU
+Scimitar +1,13,14,230,3.65,,WAR / THF / DRK / SAM / BLU
+Spark Bilbo,13,11,226,2.92,"Additional effect with battery
+equipped: Lightning damage","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Spark Bilbo +1,13,12,220,3.27,"Additional effect with battery
+equipped: Lightning damage","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Kingdom Sword,15,12,216,3.33,HP+6,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+San d'Orian Sword,15,11,222,2.97,HP+4,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Fire Sword,18,15,225,4,Additional effect: Fire damage,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Flame Sword,18,16,218,4.4,Additional effect: Fire damage,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Iron Sword,18,14,231,3.64,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Iron Sword +1,18,15,225,4,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Longsword,18,16,240,4,,WAR / RDM / PLD / DRK
+Longsword +1,18,17,233,4.38,,WAR / RDM / PLD / DRK
+Vulcan Sword,18,15,225,4,"Additional effect: Fire damage
+Enchantment: ""Enfire""
+<30/30 0:30/[5:00, 0:30]>","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Auriga Xiphos,19,17,224,4.55,Accuracy+2,WAR / RDM / PLD / DRK
+Small Sword,19,13,226,3.45,DEX+2,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Degen,20,14,224,3.75,,WAR / RDM / PLD / BRD / DRG / COR
+Degen +1,20,15,218,4.13,,WAR / RDM / PLD / BRD / DRG / COR
+Platoon Spatha,20,15,231,3.9,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Kaiser Sword,22,15,228,3.95,,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Tuck,23,15,226,3.98,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Tuck +1,23,16,220,4.36,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Nadrs,24,18,236,4.58,#ERROR!,WAR / THF / DRK / SAM / BLU
+San d'Orian Sword,24,20,250,4.8,Attack+5,WAR / RDM / PLD / DRK
+Gladiator,27,18,222,4.86,,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Gladius,27,17,228,4.47,,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Mithran Scimitar,28,19,236,4.83,DEX+3,WAR / THF / DRK / SAM / BLU
+Broadsword,30,19,233,4.89,,WAR / RDM / PLD / DRK / BLU / COR
+Broadsword +1,30,20,227,5.29,,WAR / RDM / PLD / DRK / BLU / COR
+Centurion's Sword,30,19,225,5.07,"Accuracy+3
+Attack+4","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Fleuret,30,18,221,4.89,,RDM / DRG
+Fleuret +1,30,19,215,5.3,,RDM / DRG
+Steel Kilij,30,21,236,5.34,MP+10,BLU
+Steel Kilij +1,30,22,229,5.76,MP+15,BLU
+Strider Sword,32,19,231,4.94,AGI+3,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Bastokan Sword,34,20,219,5.48,"Accuracy+3 Attack+4
+In areas outside own nation's control:
+HP+5 MP+5","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Hunting Sword,34,27,264,6.14,,WAR / PLD / DRK
+Republic Sword,34,21,213,5.92,"Accuracy+3 Attack+4
+In areas outside own nation's control:
+HP+6 MP+6","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+War Sword,34,28,257,6.54,,WAR / PLD / DRK
+Holy Sword,36,22,225,5.87,Additional effect: Light damage,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Holy Sword +1,36,23,219,6.3,Additional effect: Light damage,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Mythril Degen,36,20,224,5.36,,WAR / RDM / PLD / BRD / DRG / COR
+Mythril Degen +1,36,21,218,5.78,,WAR / RDM / PLD / BRD / DRG / COR
+Mythril Sword,36,21,231,5.45,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Mythril Sword +1,36,22,225,5.87,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Sacred Sword,36,22,225,5.87,"Additional effect: Light damage
+Enchantment: ""Enlight""
+<30/30 0:30/[5:00, 0:30]>","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Spark Degen,36,20,224,5.36,"Additional effect with battery
+equipped: Lightning damage",WAR / RDM / PLD / BRD / DRG / COR
+Spark Degen +1,36,21,218,5.78,"Additional effect with battery
+equipped: Lightning damage",WAR / RDM / PLD / BRD / DRG / COR
+Spirit Sword,36,22,225,5.87,"Additional effect: Light damage
+Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Tulwar,36,23,236,5.85,,WAR / THF / DRK / SAM / BLU
+Tulwar +1,36,24,230,6.26,,WAR / THF / DRK / SAM / BLU
+Divine Sword,38,23,233,5.92,Additional effect: Light damage,WAR / RDM / PLD / DRK / BLU / COR
+Divine Sword +1,38,24,227,6.34,Additional effect: Light damage,WAR / RDM / PLD / DRK / BLU / COR
+Hallowed Sword,38,23,233,5.92,"Additional effect: Light damage
+Enchantment: ""Enlight""
+<30/30 0:30/[5:00, 0:30]>",WAR / RDM / PLD / DRK / BLU / COR
+Grudge Sword,39,26,240,6.5,Enmity+1,PLD
+Buzzard Tuck,40,23,224,6.16,"DEX+1
+Sword enhancement spell damage +2
+Sword enhancement spell duration +5",RDM
+Combat Caster's Scimitar,40,26,229,6.81,"Accuracy+3
+Attack+5",WAR / THF / DRK / SAM / BLU
+Fencing Degen,40,22,224,5.89,"MP+10 INT+3 MND+3
+Enfeebling magic skill +3",RDM
+Flame Degen,40,22,224,5.89,Additional effect: Fire damage,WAR / RDM / PLD / BRD / DRG / COR
+Flame Degen +1,40,23,218,6.33,Additional effect: Fire damage,WAR / RDM / PLD / BRD / DRG / COR
+Honor Sword,40,28,240,7,"HP+10 MP+10
+VIT+2 MND+2",PLD
+Immortal's Scimitar,40,26,236,6.61,MP+10 STR+1 INT+1,BLU
+Junior Musketeer's Tuck,40,21,226,5.58,MP+5,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Vulcan Degen,40,22,224,5.89,"Additional effect: Fire damage
+Enchantment: ""Enfire""
+<30/30 0:30/[5:00, 0:30]>",WAR / RDM / PLD / BRD / DRG / COR
+Shotel,42,30,288,6.25,"Accuracy+2
+Shield skill -5","WAR / THF / PLD / DRK / SAM / DRG /
+BLU"
+Shotel +1,42,31,280,6.64,"Accuracy+3
+Shield skill -3","WAR / THF / PLD / DRK / SAM / DRG /
+BLU"
+Combat Caster's Scimitar +1,43,27,223,7.26,"Accuracy+3 Attack+5
+In areas outside own nation's control:
+MP+14",WAR / THF / DRK / SAM / BLU
+Combat Caster's Scimitar +2,43,28,217,7.74,"Accuracy+3 Attack+5
+In areas outside own nation's control:
+MP+16",WAR / THF / DRK / SAM / BLU
+Duel Rapier,43,23,224,6.16,Parrying skill +10,WAR / RDM / PLD / BRD / DRG / COR
+Junior Musketeer's Tuck +1,43,22,220,6,"MP+5
+In areas outside own nation's control:
+Ranged Accuracy+4 Ranged Attack+4","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Junior Musketeer's Tuck +2,43,23,214,6.45,"MP+5
+In areas outside own nation's control:
+Ranged Accuracy+5 Ranged Attack+5","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Falchion,44,28,236,7.12,,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Falchion +1,44,29,229,7.6,,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Ancient Sword,45,25,228,6.58,Additional effect: Curse,"WAR / RDM / THF / PLD / DRK / BST /
+BRD / RNG / NIN / DRG / BLU / COR"
+Holy Degen,45,24,224,6.43,Additional effect: Light damage,WAR / RDM / PLD / BRD / DRG / COR
+Holy Degen +1,45,25,218,6.88,Additional effect: Light damage,WAR / RDM / PLD / BRD / DRG / COR
+Sacred Degen,45,24,224,6.43,"Additional effect: Light damage
+Enchantment: ""Enlight""
+<30/30 0:30/[5:00, 0:30]>",WAR / RDM / PLD / BRD / DRG / COR
+Flame Blade,47,30,236,7.63,Additional effect: Fire damage,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Flame Blade +1,47,31,230,8.09,Additional effect: Fire damage,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Knight's Sword,47,31,240,7.75,,WAR / RDM / PLD / DRK
+Knight's Sword +1,47,32,233,8.24,,WAR / RDM / PLD / DRK
+Vulcan Blade,47,30,236,7.63,"Additional effect: Fire damage
+Enchantment: ""Enfire""
+<30/30 0:30/[5:00, 0:30]>","WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Crimson Blade,49,28,231,7.27,MP+10 INT+5,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Immortal's Shotel,50,32,236,8.14,"HP+10
+MP+10 Accuracy+5",WAR / THF / DRK / SAM / BLU
+Temple Knight Army Sword,50,32,240,8,INT+2 MND+2 VIT+2,WAR / RDM / PLD / DRK
+Tactician Magician's Espadon,50,38,257,8.87,Attack+12,WAR / PLD / DRK
+Darksteel Sword,51,31,254,7.32,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Darksteel Sword +1,51,32,242,7.93,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Temple Knight Sword +1,52,33,233,8.5,"INT+2 MND+2 VIT+2
+In areas outside own nation's control:
+DEX+3",WAR / RDM / PLD / DRK
+Temple Knight Sword +2,52,34,225,9.07,"INT+2 MND+2 VIT+2
+In areas outside own nation's control:
+DEX+4",WAR / RDM / PLD / DRK
+Tactician Magician's Espadon +1,52,38,249,9.16,"Attack+12
+In areas outside own nation's control:
+HP+18",WAR / PLD / DRK
+Tactician Magician's Espadon +2,52,39,241,9.71,"Attack+12
+In areas outside own nation's control:
+HP+20",WAR / PLD / DRK
+Crescent Sword,53,37,248,8.95,,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Darksteel Falchion,53,36,260,8.31,,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Bloodsword,55,44,290,9.1,"STR+4 DEX+4 VIT-8
+AGI+4 INT+4 MND-8 CHR-8
+Additional effect: HP Drain",WAR / DRK
+Bloody Rapier,55,28,224,7.5,Additional effect: HP Drain,WAR / RDM / PLD / BRD / DRG / COR
+Carnage Rapier,55,29,218,7.98,Additional effect: HP Drain,WAR / RDM / PLD / BRD / DRG / COR
+Kilij,55,31,236,7.88,MP+15,BLU
+Kilij +1,55,32,229,8.38,MP+20,BLU
+Musketeer Commander's Falchion,55,36,236,9.15,"Accuracy+3
+Attack+6","WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Royal Guard's Fleuret,55,33,215,9.21,"Accuracy+6
+Parrying skill +5",RDM / DRG
+Schlaeger,55,32,247,7.77,,WAR / RDM / PLD / BRD / DRG / COR
+Schlaeger +1,55,33,235,8.43,,WAR / RDM / PLD / BRD / DRG / COR
+Wise Wizard's Anelace,55,34,226,9.03,Attack+14,WAR / RDM / PLD / DRK / BLU / COR
+Wise Wizard's Bilbo,55,28,226,7.43,Evasion+3 DEF+3,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Cermet Kilij,56,30,236,7.63,MP+14,BLU
+Cermet Kilij +1,56,31,229,8.12,MP+16,BLU
+Saber,56,36,240,9,,WAR / RDM / PLD / DRK
+Saber +1,56,37,233,9.53,,WAR / RDM / PLD / DRK
+Gluttony Sword,57,44,295,8.95,"STR-1 DEX-1 VIT+7
+AGI-1 INT-1 MND-1 CHR-1",WAR / PLD / DRK
+Hanger,57,34,225,9.07,,WAR / THF / DRK / SAM / BLU
+Hanger +1,57,35,218,9.63,,WAR / THF / DRK / SAM / BLU
+Bloody Blade,58,35,247,8.5,Additional effect: HP Drain,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Carnage Blade,58,36,236,9.15,Additional effect: HP Drain,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Aramis's Rapier,59,30,202,8.91,"Accuracy+3
+Parrying skill +5",RDM
+Cermet Sword,59,32,220,8.73,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Cermet Sword +1,59,33,213,9.3,,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Dragvandil,59,40,264,9.09,"MND+1
+Additional effect: Paralysis",PLD
+Bastard Sword,60,43,264,9.77,,WAR / PLD / DRK
+Bastard Sword +1,60,44,258,10.23,,WAR / PLD / DRK
+Greed Scimitar,60,38,260,8.77,"STR-1 DEX+7 VIT-1
+AGI-1 INT-1 MND-1 CHR-1","WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Leech Scimitar,60,38,236,9.66,"MP+12
+Additional effect: MP drain","WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Mailbreaker,60,30,226,7.96,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Mailbreaker +1,60,31,220,8.45,,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Singh Kilij,60,37,236,9.41,"MP+20
+Besieged: HP+20",BLU
+Swan Bilbo,60,36,240,9,"AGI-4 CHR+4
+Accuracy+4",BRD
+Hornet Fleuret,61,34,227,8.99,Additional effect: Poison,RDM / DRG
+Wasp Fleuret,61,35,221,9.5,Additional effect: Poison,RDM / DRG
+Cutlass,62,37,236,9.41,,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Cutlass +1,62,38,230,9.91,,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Gold Sword,62,38,240,9.5,,WAR / RDM / PLD / DRK
+Gold Sword +1,62,39,233,10.04,,WAR / RDM / PLD / DRK
+Katzbalger,62,34,233,8.76,,WAR / RDM / PLD / DRK / BLU / COR
+Katzbalger +1,62,35,227,9.25,,WAR / RDM / PLD / DRK / BLU / COR
+Bloody Sword,63,42,272,9.26,Additional effect: HP Drain,WAR / PLD / DRK
+Carnage Sword,63,43,264,9.77,Additional effect: HP Drain,WAR / PLD / DRK
+Jagdplaute,64,34,231,8.83,STR+2 VIT+2 AGI+2,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Jagdplaute +1,64,35,225,9.33,STR+3 VIT+3 AGI+3,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Rapier,64,33,224,8.84,Parrying skill +5,WAR / RDM / PLD / BRD / DRG / COR
+Rapier +1,64,34,218,9.36,Parrying skill +6,WAR / RDM / PLD / BRD / DRG / COR
+Spark Rapier,64,33,224,8.84,"Parrying skill +5
+Additional effect with battery
+equipped: Lightning damage",WAR / RDM / PLD / BRD / DRG / COR
+Spark Rapier +1,64,34,218,9.36,"Parrying skill +6
+Additional effect with battery
+equipped: Lightning damage",WAR / RDM / PLD / BRD / DRG / COR
+Aquan Slayer,65,35,259,8.11,"MP+15
+Enhances ""Aquan Killer"" effect",BLU
+Colichemarde,65,31,226,8.23,Additional effect: Darkness damage,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Colichemarde +1,65,32,220,8.73,Additional effect: Darkness damage,"WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Company Fleuret,65,36,224,9.64,,WAR / RDM / PLD / BRD / DRG / COR
+Darksteel Kilij,65,35,259,8.11,MP+15,BLU
+Darksteel Kilij +1,65,36,251,8.61,MP+20,BLU
+Ifrit's Blade,65,36,236,9.15,"STR+3 Attack+10
+Additional effect: Fire damage","WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Insect Slayer,65,36,251,8.61,"MP+20
+Enhances ""Vermin Killer"" effect",BLU
+Macuahuitl,65,36,233,9.27,Accuracy-3 Attack+9,WAR / RDM / PLD / DRK / BLU / COR
+Macuahuitl -1,65,10,233,2.58,Accuracy-8,WAR / RDM / PLD / DRK / BLU / COR
+Macuahuitl +1,65,37,227,9.78,"Accuracy-4
+Attack+11 Enmity+4",WAR / RDM / PLD / DRK / BLU / COR
+Marine Slayer,65,36,251,8.61,"MP+20
+Enhances ""Aquan Killer"" effect",BLU
+Phantom Fleuret,65,36,224,9.64,"Ranged Accuracy+5
+Ranged Attack+5 Parrying skill +5",WAR / RDM / PLD / BRD / DRG / COR
+Save the Queen,65,40,240,10,"""Cover""+5
+Latent effect: Accuracy+20",PLD
+Vermin Slayer,65,35,259,8.11,"MP+15
+Enhances ""Vermin Killer"" effect",BLU
+Coral Sword,66,36,233,9.27,#ERROR!,WAR / RDM / PLD / DRK / BLU / COR
+Espadon,66,43,264,9.77,"VIT+2 MND+2
+Attack+5",WAR / PLD / DRK
+Espadon +1,66,44,257,10.27,"VIT+3 MND+3
+Attack+7",WAR / PLD / DRK
+Merman's Sword,66,37,227,9.78,#ERROR!,WAR / RDM / PLD / DRK / BLU / COR
+Schwert,66,32,221,8.69,,RDM / DRG
+Schwert +1,66,33,215,9.21,,RDM / DRG
+Dainslaif,67,43,264,9.77,Additional effect: HP drain,WAR / PLD / DRK
+Platinum Cutlass,67,37,236,9.41,DEX+1,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Platinum Cutlass +1,67,38,230,9.91,DEX+2,"WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Enhancing Sword,68,40,240,10,"Sword enhancement spell damage +5
+Latent effects: Accuracy+8 Attack+16",RDM
+Epee,68,35,221,9.5,Accuracy+2,RDM / DRG
+Epee +1,68,36,215,10.05,Accuracy+3,RDM / DRG
+Tutelary,68,35,226,9.29,"HP+30
+Attack-10 DEF+14","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / NIN / DRG / COR"
+Corsair's Scimitar,69,38,224,10.18,"Additional effect: Paralysis
+Besieged: Attack+10 Ranged Attack+10",COR
+Wing Sword,69,35,220,9.55,"STR+2 VIT+2 AGI+2
+Additional effect: Wind damage","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Wing Sword +1,69,36,213,10.14,"STR+3 VIT+3 AGI+3
+Additional effect: Wind damage","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Company Sword,70,46,264,10.45,,WAR / PLD / DRK
+Hrotti,70,48,277,10.4,#ERROR!,WAR / PLD / DRK
+Joyeuse,70,35,224,9.38,#ERROR!,WAR / RDM / PLD / BRD / DRG / COR
+Nightmare Sword,70,36,231,9.35,Nighttime: Accuracy+12,"WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Ridill,70,40,236,10.17,Occasionally attacks 2 to 3 times,WAR / THF / DRK / BST / RNG / SAM
+Rune Blade,70,39,236,9.92,"Latent effect:
+DMG:43 DEX+5","WAR / BLM / RDM / THF / PLD / DRK /
+BRD / RNG / SAM / SMN / BLU / COR"
+Storm Scimitar,70,39,236,9.92,Assault: DMG:43 Enmity+5,WAR / THF / DRK / SAM / BLU
+Durandal,71,40,240,10,VIT+7 Enmity+1,PLD
+Hauteclaire,71,46,240,11.5,"Accuracy+7
+Divine magic skill +8
+Physical damage taken -7%
+Additional effect: Light damage",PLD / DRK
+Kaskara,71,44,264,10,HP+10 DEX+2 VIT+2,WAR / PLD / DRK
+Kaskara +1,71,45,257,10.51,HP+11 DEX+3 VIT+3,WAR / PLD / DRK
+Sapara of Trials,71,38,236,9.66,Latent effect: HP+20 +10 +10,WAR / RDM / PLD / DRK / BLU / COR
+Senior Gold Musketeer's Scimitar,71,39,218,10.73,"Enhances ""Resist Poison"" effect
+Citizens of Bastok: DEF+10","WAR / THF / DRK / BST / RNG / SAM /
+BLU"
+Storm Tulwar,71,40,236,10.17,"Depending on day: Increases elemental
+weapon skill damage",WAR / THF / DRK / SAM / BLU
+Anelace,72,39,233,10.04,HP+10 DEX+2 VIT+2,WAR / RDM / PLD / DRK / BLU / COR
+Anelace +1,72,40,227,10.57,HP+11 DEX+3 VIT+3,WAR / RDM / PLD / DRK / BLU / COR
+Dissector,72,23,231,5.97,"Latent effect: DMG:36
+Critical hit rate +6%","WAR / RDM / THF / PLD / DRK / BRD /
+RNG / NIN / DRG / BLU"
+Martial Anelace,72,39,240,9.75,TP Bonus,WAR / RDM / PLD / DRK / BLU / COR
+Mighty Talwar,72,40,240,10,"DEX+2
+On Windsdays: DMG:48 +15",WAR / RDM / PLD / DRK / BLU / COR
+Pealing Anelace,72,39,233,10.04,"HP+10 DEX+2 VIT+2
+Enchantment: ""Thunder""
+<50/50 0:30/[10:00, 0:30]>",WAR / RDM / PLD / DRK / BLU / COR
+Princely Sword,72,47,264,10.68,"STR+4 VIT-6 CHR-6
+Enmity-6",PLD
+Shiva's Shotel,72,45,288,9.38,"INT+4 Accuracy+8
+Shield skill -5
+Latent effect: Ice damage","WAR / THF / PLD / DRK / SAM / DRG /
+BLU"
+Sylphid Epee,72,39,224,10.45,0,WAR / RDM / PLD / BRD / DRG / COR
+Adaman Kilij,73,41,236,10.42,MP+15 DEX+2 VIT+2,BLU
+Adaman Kilij +1,73,42,229,11,MP+20 DEX+3 VIT+3,BLU
+Bayard's Sword,73,43,240,10.75,"STR+3 MND+3
+Additional effect: Impairs evasion",PLD
+Demon Slayer,73,41,236,10.42,"MP+15 DEX+2 VIT+2
+Enhances ""Demon Killer"" effect",BLU
+Devil Slayer,73,42,229,11,"MP+20 DEX+3 VIT+3
+Enhances ""Demon Killer"" effect",BLU
+Dragon Slayer,73,41,236,10.42,"MP+15 DEX+2 VIT+2
+Enhances ""Dragon Killer"" effect",BLU
+Guespiere,73,38,226,10.09,"STR+1 MND+6
+Additional effect: Weakens defense",RDM
+Justice Sword,73,34,236,8.64,"STR+7
+Virtue stone equipped:
+Occasionally attacks twice",RDM / THF / PLD
+Mensur Epee,73,39,224,10.45,,WAR / RDM / PLD / BRD / DRG / COR
+Perdu Hanger,73,38,225,10.13,Latent effect: DMG:44,WAR / THF / DRK / SAM / BLU
+Verdun,73,36,224,9.64,"MP+18
+Parrying skill +7",WAR / RDM / PLD / BRD / DRG / COR
+Verdun +1,73,37,218,10.18,"MP+20
+Parrying skill +8",WAR / RDM / PLD / BRD / DRG / COR
+Wyrm Slayer,73,42,229,11,"MP+20 DEX+3 VIT+3
+Enhances ""Dragon Killer"" effect",BLU
+Sanguine Sword,74,41,240,10.25,HP+20 MP+20 VIT+4,PLD
+Seiryu's Sword,74,45,240,11.25,#ERROR!,WAR / THF / DRK / BST / RNG / SAM
+Beast Slayer,75,42,236,10.68,"MP+20 DEX+3 VIT+3
+Enhances ""Beast Killer"" effect",BLU
+Brave Blade,75,44,264,10,,PLD
+Burtgang,75,46,264,10.45,,PLD
+Burtgang,75,46,264,10.45,"Enmity+10
+Physical damage taken II -10%
+Reduces Enmity decrease when
+taking damage. ""Atonement""
+Aftermath: Increases Acc./Atk.
+Occasionally attacks twice",PLD
+Caliburn,75,49,240,12.25,"In Dynamis: ""Knights of Round""",RDM / PLD
+Curtana,75,1,236,0.25,CHR+7,THF
+Dynamis Sword,75,40,240,10,In Dynamis: +9,RDM / PLD
+Excalibur,75,49,233,12.62,"Attack+20
+""Knights of Round""
+Additional effect:
+Damage varies with HP",RDM / PLD
+Glyptic Sword,75,1,240,0.25,In Dynamis: +7,RDM / PLD
+Hofud,75,42,236,10.68,"HP+3% MND+5 CHR+5
+Additional effect: HP or MP Drain",WAR / DRK / BLU
+Murgleis,75,40,224,10.71,,RDM
+Murgleis,75,40,224,10.71,"Magic Accuracy+10
+Augments ""Convert""
+""Death Blossom""
+Aftermath: Inc. Mag. Acc./Mag. Atk.
+Occasionally attacks twice",RDM
+Organics,75,48,264,10.91,"HP-55 STR+3
+Attack+10 Critical hit rate +3%",WAR / PLD / DRK
+Relic Sword,75,1,999,0.06,,RDM / PLD
+Tizona,75,42,236,10.68,,BLU
+Tizona,75,42,236,10.68,"Magic Accuracy+10
+Occ. converts damage dealt to MP
+""Expiacion""
+Aftermath: Increases Acc./Magic Acc.
+Occasionally attacks twice",BLU
+Vorpal Sword,75,39,224,10.45,,RDM
+Wightslayer,75,41,236,10.42,,BLU

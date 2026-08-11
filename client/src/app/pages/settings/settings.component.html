@@ -1,0 +1,104 @@
+<div class="page">
+  <h1>Settings</h1>
+
+  <label class="game-path-field">
+    <span>Game Filepath</span>
+    <input type="text" [(ngModel)]="gamePath" (blur)="saveGamePath()" placeholder="C:\Program Files\HorizonXI\Game\" />
+  </label>
+
+  <div class="quick-actions">
+    <button type="button" class="quick-actions__button" (click)="openAddInventoryModal()">
+      + Add Inventory
+    </button>
+    <button type="button" class="quick-actions__button" (click)="openAddProfileModal()">
+      + Add Profile Info
+    </button>
+  </div>
+
+  <button type="button" class="clear-preferences" (click)="clearEverything()">
+    Clear Everything
+  </button>
+
+  <div class="sign-in-section">
+    <h2>Sign In</h2>
+
+    <div class="sign-in-warning">
+      <strong>Warning:</strong> This requires Bearer token authentication. This product has
+      NO association with HorizonXI, and you should never trust or share your Bearer token
+      anywhere else. ONLY do this if you personally know me (the creator) and trust me — this
+      is genuinely bad practice, and I will look for a better way to handle this later on.
+    </div>
+
+    <label class="sign-in-field">
+      <span>Username</span>
+      <input type="text" [(ngModel)]="username" placeholder="Username" />
+    </label>
+
+    <label class="sign-in-field">
+      <span>Bearer Token</span>
+      <input type="password" [(ngModel)]="bearerToken" placeholder="Bearer token" />
+    </label>
+
+    <div class="sign-in-actions">
+      <button type="button" class="sign-in-login" (click)="login()">Login</button>
+      <button
+        type="button"
+        class="sign-in-logout"
+        *ngIf="(session$ | async)?.signedIn"
+        (click)="logout()"
+      >
+        Sign Out
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="settings-modal-overlay" *ngIf="addInventoryModalOpen" (click)="closeAddInventoryModal()">
+  <div class="settings-modal" (click)="$event.stopPropagation()">
+    <div class="settings-modal__header">
+      <h3>Add Inventory</h3>
+      <button type="button" class="settings-modal__close" (click)="closeAddInventoryModal()">×</button>
+    </div>
+
+    <div class="settings-modal__body">
+      <p class="settings-modal__hint">
+        Paste the HTTP response from the character inventory endpoint below.
+      </p>
+      <textarea
+        class="settings-modal__textarea"
+        [(ngModel)]="addInventoryRaw"
+        spellcheck="false"
+        placeholder="Paste JSON here"
+      ></textarea>
+    </div>
+
+    <div class="settings-modal__footer">
+      <button type="button" class="settings-modal__save" (click)="saveInventory()">Save</button>
+    </div>
+  </div>
+</div>
+
+<div class="settings-modal-overlay" *ngIf="addProfileModalOpen" (click)="closeAddProfileModal()">
+  <div class="settings-modal" (click)="$event.stopPropagation()">
+    <div class="settings-modal__header">
+      <h3>Add Profile Info</h3>
+      <button type="button" class="settings-modal__close" (click)="closeAddProfileModal()">×</button>
+    </div>
+
+    <div class="settings-modal__body">
+      <p class="settings-modal__hint">
+        Paste the HTTP response from the character info endpoint below.
+      </p>
+      <textarea
+        class="settings-modal__textarea"
+        [(ngModel)]="addProfileRaw"
+        spellcheck="false"
+        placeholder="Paste JSON here"
+      ></textarea>
+    </div>
+
+    <div class="settings-modal__footer">
+      <button type="button" class="settings-modal__save" (click)="saveProfile()">Save</button>
+    </div>
+  </div>
+</div>

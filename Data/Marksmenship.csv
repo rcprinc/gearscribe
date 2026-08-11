@@ -1,0 +1,110 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Light Crossbow,1,6,288,1.25,,WAR / DRK / RNG
+Light Crossbow +1,1,7,280,1.5,Ranged Attack+3,WAR / DRK / RNG
+Hakenbuechse,6,9,600,0.9,2,RNG
+Legionnaire's Crossbow,10,10,288,2.08,,WAR / THF / DRK / RNG
+Crossbow,12,12,288,2.5,,WAR / THF / DRK / RNG
+Crossbow +1,12,13,280,2.79,Ranged Attack+6,WAR / THF / DRK / RNG
+Bandit's Gun,15,14,600,1.4,,THF / RNG / NIN / COR
+Bandit's Gun +1,15,15,582,1.55,,THF / RNG / NIN / COR
+Bastokan Crossbow,15,11,280,2.36,HP+4,WAR / THF / DRK / RNG
+Republic Crossbow,15,12,272,2.65,HP+6,WAR / THF / DRK / RNG
+Tanegashima,19,15,600,1.5,,RNG / NIN
+Tanegashima +1,19,16,582,1.65,,RNG / NIN
+Almogavar Bow,20,15,288,3.13,Ranged Attack+4,WAR / THF / DRK / RNG
+Platoon Gun,20,15,600,1.5,,THF / RNG / NIN / COR
+Arquebus,22,18,600,1.8,,RNG
+Arquebus +1,22,19,582,1.96,,RNG
+Power Crossbow,25,17,288,3.54,AGI+1,WAR / THF / DRK / RNG
+Pirate's Gun,27,20,600,2,-3 +6,THF / RNG / NIN / COR
+Pirate's Gun +1,27,21,582,2.16,"-3 +3 +9
+Ranged Accuracy+5",THF / RNG / NIN / COR
+Military Gun,30,23,548,2.52,Ranged Attack+7,THF / RNG / NIN / COR
+Zamburak,30,19,288,3.96,,WAR / THF / DRK / RNG
+Zamburak +1,30,20,280,4.29,Ranged Attack+9,WAR / THF / DRK / RNG
+Serpentine Gun,34,25,660,2.27,"Ranged Accuracy+10
+Ranged Attack+10",RNG
+Darksteel Hexagun,36,25,480,3.13,Ranged Accuracy+4,COR
+Darksteel Hexagun +1,36,26,466,3.35,Ranged Accuracy+6,COR
+Rikonodo,37,24,288,5,"Ranged Accuracy+3
+Ranged Attack+3",WAR / THF / DRK / RNG
+Thug's Zamburak,40,24,288,5,"AGI+1
+Ranged Accuracy+2",WAR / THF / DRK / RNG
+Trump Gun,40,28,480,3.5,"AGI+2
+Ranged Accuracy+2",COR
+Negoroshiki,42,28,600,2.8,,RNG / NIN
+Negoroshiki +1,42,29,582,2.99,,RNG / NIN
+Deluxe Carbine,46,32,600,3.2,,THF / RNG / NIN / COR
+Arbalest,50,29,288,6.04,,WAR / THF / DRK / RNG
+Arbalest +1,50,30,280,6.43,Ranged Attack+12,WAR / THF / DRK / RNG
+Musketeer Gun,50,34,582,3.51,Ranged Accuracy+10,RNG
+Seadog Gun,50,25,600,2.5,,THF / RNG / NIN / COR
+Seadog Gun +1,50,26,582,2.68,Ranged Attack+10,THF / RNG / NIN / COR
+Musketeer Gun +1,52,35,565,3.72,"Ranged Accuracy+10
+In areas outside own nation's control:
+Ranged Attack+8",RNG
+Musketeer Gun +2,52,36,548,3.94,"Ranged Accuracy+10
+In areas outside own nation's control:
+Ranged Attack+9",RNG
+Leo Crossbow,54,27,232,6.98,,WAR / THF / DRK / RNG
+Leo Crossbow +1,54,27,204,7.94,,WAR / THF / DRK / RNG
+Lion Crossbow,54,27,260,6.23,,WAR / THF / DRK / RNG
+Matchlock Gun,56,36,600,3.6,,RNG / COR
+Matchlock Gun +1,56,37,582,3.81,,RNG / COR
+Armbrust,58,34,288,7.08,"Ranged Accuracy+3
+Ranged Attack+10",WAR / THF / DRK / RNG
+Heavy Crossbow,60,34,288,7.08,,WAR / THF / DRK / RNG
+Heavy Crossbow +1,60,35,280,7.5,Ranged Attack+15,WAR / THF / DRK / RNG
+Shark Gun,60,39,582,4.02,"Ranged Accuracy+5
+Besieged: Ranged Attack+5",THF / RNG / NIN / COR
+Velocity Bow,63,26,216,7.22,AGI+1,WAR / THF / DRK / RNG
+Velocity Bow +1,63,27,210,7.71,"AGI+2
+Ranged Attack+16",WAR / THF / DRK / RNG
+Hexagun,65,30,480,3.75,Ranged Accuracy+5,COR
+Hexagun +1,65,31,466,3.99,Ranged Accuracy+7,COR
+Othinus' Bow,67,54,432,7.5,Ranged Attack+18,RNG
+Flagellant's Crossbow,68,34,288,7.08,,WAR / THF / DRK / RNG
+Machine Crossbow,69,18,130,8.31,Ranged Attack+18,RNG
+Repeating Crossbow,69,17,144,7.08,,RNG
+Grosveneur's Bow,70,40,320,7.5,"AGI+4
+Ranged Accuracy+12
+Ranged Attack+3",RNG
+Hellfire,70,41,660,3.73,"Ranged Accuracy+5
+Ranged Attack+15",RNG
+Hellfire +1,70,42,640,3.94,"Ranged Accuracy+7
+Ranged Attack+17",RNG
+Storm Zamburak,70,36,288,7.5,Assault: DMG:38 Ranged Attack+10,WAR / THF / DRK / RNG
+Gun of Trials,71,39,600,3.9,Latent effect: HP+20 +10 +10,RNG / COR
+Imperial Gun,71,40,600,4,"Depending on day: Increases elemental
+weapon skill damage",RNG
+Octant,71,24,194,7.42,Ranged Accuracy+3,THF / RNG
+Ziska's Crossbow,71,28,216,7.78,Ranged Accuracy+8,THF / RNG
+Coffinmaker,72,27,600,2.7,"Ranged Accuracy+9
+Latent effect: DMG:40",THF / RNG / NIN / COR
+Martial Gun,72,39,612,3.82,TP Bonus,RNG / COR
+Peacemaker,72,13,270,2.89,AGI+5 Enmity-2,COR
+Culverin,73,50,760,3.95,"Ranged Accuracy-10
+Ranged Attack+18",THF / RNG
+Culverin +1,73,51,737,4.15,"Ranged Accuracy-12
+Ranged Attack+20",THF / RNG
+Perdu Crossbow,73,35,288,7.29,Latent effect: DMG:39,WAR / THF / DRK / RNG
+Staurobow,74,36,288,7.5,"AGI+4
+Enhances ""Demon Killer"" effect",WAR / THF / DRK / RNG
+Staurobow +1,74,37,280,7.93,"AGI+4
+Ranged Attack+18
+Enhances ""Demon Killer"" effect",WAR / THF / DRK / RNG
+Veuglaire,74,35,480,4.38,"Ranged Accuracy-20 Ranged Attack-20
+Magic Accuracy+5
+""Magic Atk. Bonus""+5",COR
+Annihilator,75,47,582,4.85,"Ranged Accuracy+20
+Ranged Attack+10
+""Coronach""",RNG
+Corsair's Gun,75,41,600,4.1,,RNG / COR
+Corsair's Gun +1,75,42,582,4.33,,RNG / COR
+Dynamis Gun,75,39,600,3.9,In Dynamis: +9,RNG
+Fane Hexagun,75,28,480,3.5,,COR
+Ferdinand,75,47,600,4.7,"In Dynamis: ""Coronach""",RNG
+Killer Bow,75,36,288,7.5,,RNG
+Marksman Gun,75,1,600,0.1,In Dynamis: +7,RNG
+Quicksilver,75,31,480,3.88,,COR
+Relic Gun,75,1,999,0.06,,RNG

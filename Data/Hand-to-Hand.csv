@@ -1,0 +1,392 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Aphelion Knuckles,1,1,60,0.8,DMG:+1 Delay:+60,All Jobs
+Cat Baghnakhs,1,2,60,1,DMG:+2 Delay:+60,"WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Cat Baghnakhs +1,1,3,51,1.24,DMG:+3 Delay:+51,"WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Cesti,1,1,48,0.83,DMG:+1 Delay:+48 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Cesti +1,1,2,43,1.06,DMG:+2 Delay:+43 Accuracy+4,"WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Fruit Punches,1,0,40,0.64,DMG:+0 Delay:+40 Accuracy+3,MNK
+Premium Mogti,1,1,96,0.71,"DMG:+1 Delay:+96 ""Final Paradise""",All Jobs
+Tokkosho,1,1,96,0.71,DMG+1 Delay+96,All Jobs
+Trainee Scissors,1,1,66,0.78,"DMG:+1 Delay:+66
+Latent effect: Clothcraft skill +1",All Jobs
+Worm Feelers,1,1,96,0.71,DMG:+1 Delay:+96,All Jobs
+Worm Feelers +1,1,2,91,0.91,"DMG:+2 Delay:+91
+Dispense: Ore
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Bronze Knuckles,5,2,96,0.89,DMG:+2 Delay:+96 Accuracy+2,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Bronze Knuckles +1,5,3,91,1.09,DMG:+3 Delay:+91 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Brass Knuckles,9,4,96,1.25,DMG:+4 Delay:+96 Accuracy+2,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Brass Knuckles +1,9,5,91,1.45,DMG:+5 Delay:+91 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Freesword's Baghnakhs,10,3,66,1.18,"DMG:+3 Delay:+66 Accuracy+2
+Attack+3","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Legionnaire's Knuckles,10,4,96,1.25,"DMG:+4 Delay:+96 Accuracy+2
+Attack+3","WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Royal Archer's Cesti,10,2,43,1.06,DMG:+2 Delay:+43 +2 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Tropical Punches,10,1,0,1,DMG:+1 Delay:+0 Accuracy+10,MNK
+Tropical Punches +1,10,2,0,1.25,DMG:+2 Delay:+0 Accuracy+12,MNK
+Brass Baghnakhs,11,4,60,1.4,DMG:+4 Delay:+60,"WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Brass Baghnakhs +1,11,5,55,1.63,DMG:+5 Delay:+55,"WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Hydro Baghnakhs +1,11,5,55,1.63,"DMG:+5 Delay:+55
+Additional effect with hydro
+pump equipped: Water damage","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Hydro Baghnakhs,11,4,60,1.4,"DMG:+4 Delay:+60
+Additional effect with hydro
+pump equipped: Water damage","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Burning Cesti,12,3,40,1.29,"DMG:+3 Delay:+40 Accuracy+3
+Additional effect: Fire damage","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Lizard Cesti,12,2,48,1.04,DMG:+2 Delay:+48 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Smash Cesti,12,2,48,1.04,"DMG:+2 Delay:+48 Accuracy+3
+Enchantment: Attack+3
+<50/50 0:30/[30:00, 0:30]>","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Strike Baghnakhs,14,5,42,1.7,DMG:+5 Delay:+42 DEX+2,"WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Bastokan Knuckles,15,5,86,1.47,"DMG:+5 Delay:+86 HP+2 MP+2
+Accuracy+2 Attack+3","WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Federation Baghnakhs,15,5,48,1.67,"DMG:+5 Delay:+48 Accuracy+2
+Attack+5","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Kingdom Cesti,15,4,33,1.54,"DMG:+4 Delay:+33 +2 Accuracy+3
+Attack+3","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Republic Knuckles,15,6,76,1.71,"DMG:+6 Delay:+76 HP+3 MP+3
+Accuracy+2 Attack+3","WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+San d'Orian Cesti,15,3,38,1.29,"DMG:+3 Delay:+38 +2 Accuracy+3
+Attack+2","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Windurstian Baghnakhs,15,4,57,1.41,"DMG:+4 Delay:+57 Accuracy+2
+Attack+4","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Hushed Baghnakhs,19,5,60,1.6,"DMG:+5 Delay:+60
+Additional effect: Silence
+Enchantment: ""Ensilence""
+<15/15 0:30/[10:00, 0:30]>",THF / DRK / NIN
+Silence Baghnakhs,19,5,60,1.6,"DMG:+5 Delay:+60
+Additional effect: Silence",THF / DRK / NIN
+Silence Baghnakhs +1,19,6,55,1.83,"DMG:+6 Delay:+55
+Additional effect: Silence",THF / DRK / NIN
+Cougar Baghnakhs,20,6,51,1.86,"DMG:+6 Delay:+51 +4
+Additional effect: Ice damage","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Metal Knuckles,20,6,96,1.61,DMG:+6 Delay:+96 Accuracy+2,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Metal Knuckles +1,20,7,91,1.81,DMG:+7 Delay:+91 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Platoon Cesti,20,4,48,1.46,DMG:+4 Delay:+48,"WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Sonic Knuckles,22,6,86,1.66,"DMG:+6 Delay:+86 Accuracy+2
+Additional effect: Wind damage",MNK
+Baghnakhs,24,6,60,1.8,DMG:+6 Delay:+60,"WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Baghnakhs +1,24,7,55,2.03,DMG:+7 Delay:+55,"WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Lynx Baghnakhs,24,6,30,2,DMG:+6 Delay:+30,"WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Custodes,25,4,48,1.46,"DMG:+4 Delay:+48
+Additional effect: Paralysis","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Poison Cesti,27,3,48,1.25,"DMG:+3 Delay:+48 Accuracy+3
+Additional effect: Poison","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Poison Cesti +1,27,4,40,1.5,"DMG:+4 Delay:+40 Accuracy+4
+Additional effect: Poison","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Boreas Cesti,30,6,48,1.88,"DMG:+6 Delay:+48
+Additional effect: Wind damage",MNK
+Claws,30,7,66,1.96,DMG:+7 Delay:+66,WAR / MNK / DRK / BST / NIN / PUP
+Claws +1,30,8,61,2.19,DMG:+8 Delay:+61,WAR / MNK / DRK / BST / NIN / PUP
+Hydro Claws,30,7,66,1.96,"DMG:+7 Delay:+66
+Additional effect with hydro
+pump equipped: Water damage",WAR / MNK / DRK / BST / NIN / PUP
+Hydro Claws +1,30,8,61,2.19,"DMG:+8 Delay:+61
+Additional effect with hydro
+pump equipped: Water damage",WAR / MNK / DRK / BST / NIN / PUP
+Tyro Katars,31,6,84,1.67,DMG:+6 Delay:+84,WAR / MNK / RDM / DRK / PUP
+Tyro Katars +1,31,7,75,1.9,DMG:+7 Delay:+75,WAR / MNK / RDM / DRK / PUP
+Impact Knuckles,32,8,86,2.02,DMG:+8 Delay:+86 STR+1 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Katars,33,8,84,2.04,DMG:+8 Delay:+84,WAR / MNK / RDM / DRK / PUP
+Katars +1,33,9,75,2.29,DMG:+9 Delay:+75,WAR / MNK / RDM / DRK / PUP
+Poison Baghnakhs,33,7,60,2,"DMG:+7 Delay:+60
+Additional effect: Poison",THF / DRK / NIN
+Poison Baghnakhs +1,33,8,57,2.22,"DMG:+8 Delay:+57
+Additional effect: Poison",THF / DRK / NIN
+Poison Claws,36,8,66,2.16,"DMG:+8 Delay:+66
+Additional effect: Poison",THF / DRK / NIN
+Poison Claws +1,36,9,61,2.39,"DMG:+9 Delay:+61
+Additional effect: Poison",THF / DRK / NIN
+Mythril Knuckles +1,38,10,91,2.36,DMG:+10 Delay:+91 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Mythril Knuckles,38,9,96,2.14,DMG:+9 Delay:+96 Accuracy+2,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Poison Katars,38,9,84,2.22,"DMG:+9 Delay:+84
+Additional effect: Poison",THF / DRK / NIN
+Poison Katars +1,38,10,81,2.43,"DMG:+10 Delay:+81
+Additional effect: Poison",THF / DRK / NIN
+Vampiric Claws,39,8,60,2.2,"DMG:+8 Delay:+60
+Additional effect: HP drain","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Himantes,40,4,48,1.46,DMG:+4 Delay:+48 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Himantes +1,40,5,40,1.71,DMG:+5 Delay:+40 Accuracy+4,"WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Noble Himantes,40,4,48,1.46,"DMG:+4 Delay:+48 Accuracy+3
+Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Tekko Kagi,40,4,48,1.46,"DMG:+10 Delay:+66 DEX+2 VIT+2
+Accuracy+3",MNK
+Tourney Patas,40,11,96,2.5,DMG:+11 Delay:+96 VIT+3,MNK
+Acid Claws,41,9,66,2.35,"DMG:+9 Delay:+66
+Additional effect: Weakens defense",THF / DRK / NIN
+Corrosive Claws,41,10,57,2.63,"DMG:+10 Delay:+57
+Additional effect: Weakens defense",THF / DRK / NIN
+Melt Claws,41,9,66,2.35,"DMG:+9 Delay:+66
+Additional effect: Weakens defense
+Enchantment: Weakens defense
+<15/15 0:30/[10:00, 0:30]>",THF / DRK / NIN
+Mythril Claws,41,9,66,2.35,DMG:+9 Delay:+66,WAR / MNK / DRK / BST / NIN / PUP
+Mythril Claws +1,41,10,61,2.59,DMG:+10 Delay:+61,WAR / MNK / DRK / BST / NIN / PUP
+Exocets,46,10,51,2.68,DMG:+10 Delay:+51 DEX+1 AGI+1 +9,"WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Adargas,47,10,54,2.65,"DMG:+10 Delay:+54 VIT+1
+Guarding skill +2",MNK / PUP
+Adargas +1,47,11,49,2.91,"DMG:+11 Delay:+49 VIT+2
+Guarding skill +3",MNK / PUP
+Patas,48,14,96,3.04,DMG:+14 Delay:+96,WAR / MNK / BST / NIN / PUP
+Patas +1,48,15,86,3.31,DMG:+15 Delay:+86,WAR / MNK / BST / NIN / PUP
+Cross-Counters,50,19,96,3.93,"DMG:+19 Delay:+96 Accuracy+3
+Evasion-10
+""Counter""+5",MNK
+Retaliators,50,19,96,3.93,"DMG:+19 Delay:+96
+Accuracy+3 Evasion-10
+""Counter""+5",MNK
+Tactician Magician's Hooks,50,15,91,3.26,DMG:+15 Delay:+91 Attack+10 DEF-10,WAR / MNK / BST / NIN / PUP
+Coeurl Cesti,52,5,48,1.67,"DMG:+5 Delay:+48 DEX+1 AGI+1
+Accuracy+3","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Darksteel Claws,52,11,66,2.75,DMG:+11 Delay:+66,WAR / MNK / DRK / BST / NIN / PUP
+Darksteel Claws +1,52,12,57,3.03,DMG:+12 Delay:+57,WAR / MNK / DRK / BST / NIN / PUP
+Tactician Magician's Hooks +1,52,15,81,3.36,"DMG:+15 Delay:+81 Attack+10 DEF-10
+In areas outside own nation's control:
+CHR+3",WAR / MNK / BST / NIN / PUP
+Tactician Magician's Hooks +2,52,16,71,3.67,"DMG:+16 Delay:+71 Attack+10 DEF-10
+In areas outside own nation's control:
+CHR+4",WAR / MNK / BST / NIN / PUP
+Torama Cesti,52,6,40,1.93,"DMG:+6 Delay:+40 DEX+2 AGI+2
+Accuracy+5","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Birdbanes,54,14,84,3.15,"DMG:+14 Delay:+84
+Vs. birds: Accuracy+3",WAR / MNK / RDM / DRK / PUP
+Darksteel Knuckles,54,12,96,2.68,DMG:+12 Delay:+96 Accuracy+2,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Darksteel Knuckles +1,54,13,86,2.94,DMG:+13 Delay:+86 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Sainti,55,10,51,2.68,"DMG:+10 Delay:+51 Accuracy+2
+Evasion+1",WAR / MNK / BST / NIN / PUP
+Sainti +1,55,11,49,2.91,"DMG:+11 Delay:+49 Accuracy+3
+Evasion+2",WAR / MNK / BST / NIN / PUP
+Bone Patas,56,16,96,3.39,DMG:+16 Delay:+96,WAR / MNK / BST / NIN / PUP
+Bone Patas +1,56,17,86,3.68,DMG:+17 Delay:+86,WAR / MNK / BST / NIN / PUP
+Hydro Patas,56,16,96,3.39,"DMG:+16 Delay:+96
+Additional effect with hydro
+pump equipped: Water damage",WAR / MNK / BST / NIN / PUP
+Hydro Patas +1,56,17,86,3.68,"DMG:+17 Delay:+86
+Additional effect with hydro
+pump equipped: Water damage",WAR / MNK / BST / NIN / PUP
+Venom Claws,57,12,66,2.94,"DMG:+12 Delay:+66
+Additional effect: Poison",THF / DRK / NIN
+Venom Claws +1,57,13,61,3.19,"DMG:+13 Delay:+61
+Additional effect: Poison",THF / DRK / NIN
+Poppet Katars,58,17,84,3.7,"DMG:+17 Delay:+84
+Latent effect: Attack+12",WAR / MNK / RDM / DRK / PUP
+Spartan Cesti,58,20,113,3.91,DMG:+20 Delay:+113 Accuracy+2,MNK
+Cermet Claws,59,11,51,2.89,DMG:+11 Delay:+51,WAR / MNK / DRK / BST / NIN / PUP
+Cermet Claws +1,59,12,42,3.19,DMG:+12 Delay:+42,WAR / MNK / DRK / BST / NIN / PUP
+Darksteel Katars,59,13,84,2.96,DMG:+13 Delay:+84,WAR / MNK / RDM / DRK / PUP
+Darksteel Katars +1,59,14,75,3.24,DMG:+14 Delay:+75,WAR / MNK / RDM / DRK / PUP
+Gnole Sainti,59,11,51,2.89,"DMG:+11 Delay:+51
+Full Moon: STR+2 DEX+2","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Gnole Sainti +1,59,12,49,3.11,"DMG:+12 Delay:+49
+Full Moon: STR+3 DEX+3","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Black Adargas,60,13,54,3.27,"DMG:+13 Delay:+54 VIT+2
+Guarding skill +4",MNK / PUP
+Black Adargas +1,60,14,49,3.53,"DMG:+14 Delay:+49 VIT+3
+Guarding skill +5",MNK / PUP
+Pagures,60,14,106,2.95,"DMG:+14 Delay:+106 VIT+3 +11
+Accuracy+2","WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Puppet Claws,60,12,66,2.94,"DMG:+12 Delay:+66 Attack+2
+Besieged: Accuracy+6",WAR / MNK / DRK / BST / NIN / PUP
+Jamadhars,61,14,84,3.15,DMG:+14 Delay:+84,WAR / MNK / RDM / DRK / PUP
+Jamadhars +1,61,15,75,3.43,DMG:+15 Delay:+75,WAR / MNK / RDM / DRK / PUP
+Stun Claws,62,12,66,2.94,"DMG:+12 Delay:+66
+Additional effect: ""Stun""",THF / DRK / NIN
+Stun Claws +1,62,13,61,3.19,"DMG:+13 Delay:+61
+Additional effect: ""Stun""",THF / DRK / NIN
+Venom Katars,63,14,84,3.15,"DMG:+14 Delay:+84
+Additional effect: Poison",THF / DRK / NIN
+Venom Katars +1,63,15,75,3.43,"DMG:+15 Delay:+75
+Additional effect: Poison",THF / DRK / NIN
+Gold Patas,64,18,122,3.48,DMG:+18 Delay:+122,WAR / MNK / BST / NIN / PUP
+Gold Patas +1,64,19,106,3.82,DMG:+19 Delay:+106,WAR / MNK / BST / NIN / PUP
+Severus Claws,64,15,61,3.59,DMG:+15 Delay:+61 STR+1 DEX+1,MNK / PUP
+Severus Claws +1,64,16,56,3.85,DMG:+16 Delay:+56 STR+2 DEX+1,MNK / PUP
+Darksteel Sainti,65,12,51,3.09,"DMG:+12 Delay:+51
+Accuracy+2 Evasion+1",WAR / MNK / BST / NIN / PUP
+Darksteel Sainti +1,65,13,49,3.32,"DMG:+13 Delay:+49
+Accuracy+3 Evasion+2",WAR / MNK / BST / NIN / PUP
+Shiva's Claws,65,11,60,2.8,"DMG:+11 Delay:+60 INT+3 Accuracy+8
+Additional effect: Paralysis","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Feral Fangs,66,19,96,3.93,DMG:+19 Delay:+96,WAR / MNK / BST / NIN / PUP
+Stun Jamadhars,66,15,84,3.33,"DMG:+15 Delay:+84
+Additional effect: ""Stun""",WAR / MNK / RDM / DRK / PUP
+Stun Jamadhars +1,66,16,75,3.62,"DMG:+16 Delay:+75
+Additional effect: ""Stun""",THF / DRK / NIN
+Tigerfangs,66,18,96,3.75,DMG:+18 Delay:+96,WAR / MNK / BST / NIN / PUP
+Narasimha's Cesti,67,6,0,2.25,"DMG:+6 Delay:+0 STR+1 DEX+1 AGI-1
+Accuracy+3",MNK
+Vishnu's Cesti,67,7,0,2.5,"DMG:+7 Delay:+0 STR+2 DEX+2 AGI-1
+Accuracy+4",MNK
+Dragon Claws,68,13,66,3.14,"DMG:+13 Delay:+66 +5
+Additional effect: Fire damage",MNK
+Dragon Claws +1,68,14,61,3.39,"DMG:+14 Delay:+61 +6
+Additional effect: Fire damage",MNK
+Acantha Shavers,69,18,51,4.33,"DMG:+18 Delay:+51
+""Store TP""+1
+Set: Increases STR, Attack,
+Ranged Attack, ""Magic Atk. Bonus""",WAR / MNK / BST / NIN / PUP
+Avengers,69,18,96,3.75,DMG:+18 Delay:+96 Attack+10 DEF-10,WAR / MNK / BST / NIN / PUP
+Useshi,69,8,48,2.29,"DMG:+8 Delay:+48
+""Kick Attacks""+3
+Set: Increases HP, VIT,
+Accuracy, Ranged Accuracy","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Adaman Sainti,70,18,51,4.33,"DMG:+18 Delay:+51
+Accuracy+2 Evasion+1
+Automaton: Max HP Boost",PUP
+Behem. Cesti +1,70,8,40,2.36,DMG:+8 Delay:+40 HP+17 Accuracy+4,MNK
+Behemoth Cesti,70,7,48,2.08,DMG:+7 Delay:+48 HP+15 Accuracy+3,MNK
+Gem Sainti,70,19,49,4.57,"DMG:+19 Delay:+49
+Accuracy+3 Evasion+2
+Automaton: Max HP Boost",PUP
+Hades Sainti,70,18,51,4.33,"DMG:+18 Delay:+51
+Accuracy+7 Evasion+7
+""Subtle Blow""+7
+Enmity+7",WAR / MNK / BST / NIN / PUP
+Hades Sainti +1,70,19,49,4.57,"DMG:+19 Delay:+49
+Accuracy+9 Evasion+9
+""Subtle Blow""+9
+Enmity+9",WAR / MNK / BST / NIN / PUP
+Pahluwan Katars,70,16,84,3.52,"DMG:+16 Delay:+84
+Assault: DMG:+18 ""Counter""+1",WAR / MNK / RDM / DRK / PUP
+Rune Baghnakhs,70,13,60,3.2,"DMG:+13 Delay:+60
+Latent effect:
+STR+7 ""Counter""+1","WAR / MNK / BLM / RDM / THF / DRK /
+BST / BRD / NIN / SMN / BLU / PUP"
+Cobra Baghnakhs,71,15,55,3.66,"DMG:+15 Delay:+55 Attack+7
+Enhances ""Resist Poison"" effect",WAR / MNK / DRK / BST / NIN / PUP
+Diamond Knuckles,71,17,96,3.57,DMG:+17 Delay:+96 VIT+2 Accuracy+2,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Diamond Knuckles +1,71,18,86,3.87,DMG:+18 Delay:+86 VIT+3 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Knuckles of Trials,71,16,96,3.39,"DMG:+16 Delay:+96
+Latent effect: HP+20 +10 +10",MNK / PUP
+Meteor Cesti,71,8,36,2.39,"DMG:+8 Delay:+36 STR+3 VIT+4
+""Subtle Blow""+1",MNK
+Master Caster's Baghnakhs,71,15,66,3.53,"DMG:+15 Delay:+66
+Enhances ""Resist Poison"" effect
+Citizens of Windurst: Attack+10",WAR / MNK / DRK / BST / NIN / PUP
+Pahluwan Patas,71,17,96,3.57,"DMG:+17 Delay:+96
+Depending on day: Increases elemental
+weapon skill damage",WAR / MNK / BST / NIN / PUP
+Shlng. Baghnakhs,71,21,51,4.95,"DMG:+21 Delay:+51
+STR+3 Accuracy+10
+""Double Attack""+1%
+""Subtle Blow""+3",MNK / PUP
+Martial Knuckles,72,16,96,3.39,DMG:+16 Delay:+96 TP Bonus,MNK
+Mighty Patas,72,17,96,3.57,"DMG:+17 Delay:+96 Evasion+5
+On Firesdays: DMG:+22 +15",MNK
+Scogan's Knuckles,72,15,96,3.21,"DMG:+15 Delay:+96 Accuracy+1
+Latent effect: Accuracy+10",PUP
+Wagh Baghnakhs,72,13,60,3.2,"DMG:+13 Delay:+60
+Latent effect: DMG:+18","WAR / MNK / RDM / THF / DRK / BST /
+NIN / PUP"
+Destroyers,73,5,48,1.67,"DMG:+5 Delay:+48
+Latent effect: DMG:+18
+Critical hit rate +6%","WAR / MNK / RDM / THF / PLD / DRK /
+BST / RNG"
+Faith Baghnakhs,73,9,113,2.04,"DMG:+9 Delay:+113 MND+7
+Virtue stone equipped:
+Occasionally attacks twice",MNK / NIN
+Indra Katars,73,19,84,4.07,"DMG:+19 Delay:+84
+""Triple Attack""+1%
+Additional effect: Lightning damage",WAR / MNK / RDM / DRK / PUP
+Lyft Sainti,73,18,51,4.33,DMG:+18 Delay:+51,MNK / PUP
+Pygme Sainti,73,16,51,3.92,"DMG:+16 Delay:+51 Accuracy+4
+Critical hit rate +3%",PUP
+Manoples,74,20,122,3.81,DMG:+20 Delay:+122 VIT+2,WAR / MNK / BST / NIN / PUP
+Manoples +1,74,21,106,4.16,DMG:+21 Delay:+106 VIT+3,WAR / MNK / BST / NIN / PUP
+Ponder. Manoples,74,20,122,3.81,"DMG:+20 Delay:+122 VIT+2
+Enchantment: ""Stone""
+<50/50 0:30/[10:00, 0:30]>",WAR / MNK / BST / NIN / PUP
+Burning Fists,75,16,96,3.39,DMG:+16 Delay:+96,MNK
+Caestus,75,23,96,4.64,"DMG:+23 Delay:+96
+In Dynamis: ""Final Heaven""",MNK
+Cat's Claws,75,10,66,2.55,DMG:+10 Delay:+66,MNK / PUP
+Dynamis Knuckles,75,16,96,3.39,"DMG:+16 Delay:+96
+In Dynamis: DMG:+18 Delay:+96
++9",MNK
+Glanzfaust,75,20,96,4.11,DMG:+20 Delay:+96,MNK
+Glanzfaust,75,20,96,4.11,"DMG:+20 Delay:+96
+Augments ""Focus"" and ""Dodge""
+""Ascetic's Fury""
+Aftermath: Increases Acc./Atk.
+Occasionally attacks twice",MNK
+Inferno Claws,75,15,49,3.74,DMG:+15 Delay:+49,PUP
+Kaiser Knuckles,75,20,86,4.23,DMG:+20 Delay:+86 CHR+3 Accuracy+3,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Kenkonken,75,17,49,4.15,DMG:+17 Delay:+49,PUP
+Kenkonken,75,17,49,4.15,"DMG:+17 Delay:+49
+Enhances ""Martial Arts"" effect
+Suppresses ""Overload""
+""Stringing Pummel""
+Aftermath (Incl. Automaton):
+Inc. Acc./Atk., Occ. attacks twice",PUP
+Koenigs Knuckles,75,19,96,3.93,DMG:+19 Delay:+96 CHR+2 Accuracy+2,"WAR / MNK / RDM / THF / PLD / DRK /
+BST"
+Mantis,75,14,55,3.46,DMG:+14 Delay:+55,MNK / PUP
+Militant Knuckles,75,1,96,0.71,"DMG:+1 Delay:+96
+In Dynamis: DMG:+16 Delay:+96
++7",MNK
+Oberon's Knuckles,75,18,96,3.75,DMG:+18 Delay:+96,MNK
+Oberon's Sainti,75,15,51,3.71,DMG:+15 Delay:+51,PUP
+Pugilists,75,9,86,2.21,DMG:+9 Delay:+86,MNK / PUP
+Relic Knuckles,75,1,999,0.19,DMG:+1 Delay:+999,MNK
+Simian Fists,75,12,86,2.76,DMG:+12 Delay:+86,MNK / PUP
+Spharai,75,23,86,4.79,"DMG:+23 Delay:+86 Attack+20
+Enhances ""Counter"" effect
+""Final Heaven""",MNK
+Wargfangs,75,0,75,0.57,DMG:+0 Delay:+75,MNK / PUP

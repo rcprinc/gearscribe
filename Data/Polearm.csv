@@ -1,0 +1,209 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Aern Spear,1,1,396,0.15,,All Jobs
+Aern Spear II,1,1,396,0.15,,All Jobs
+Escritorio,1,1,396,0.15,"Dispense: Cone Calamary
+<1/1 0:30/[:00:00, 0:30]>",All Jobs
+Harpoon,1,8,396,1.21,,WAR / PLD / SAM / DRG
+Harpoon +1,1,9,385,1.4,,WAR / PLD / SAM / DRG
+Hotengeki,1,1,492,0.12,,All Jobs
+Iapetus,1,1,492,0.12,,All Jobs
+Mizukage Naginata,1,1,480,0.13,,All Jobs
+Pitchfork,1,1,396,0.15,,All Jobs
+Pitchfork +1,1,2,369,0.33,Costume: Increases movement speed,All Jobs
+Sha Wujing's La. +1,1,2,385,0.31,"Enhances effects of
+distilled water
+Dispense: Distilled Water
+<1/1 0:30/[20:00:00, 0:30]>",All Jobs
+Sha Wujing's Lance,1,1,396,0.15,,All Jobs
+Tzee Xicu's Blade,1,1,480,0.13,,All Jobs
+Obelisk,4,13,396,1.97,STR+1 INT-1 MND-1,WAR / PLD / SAM / DRG
+Bronze Spear,7,16,396,2.42,,WAR / PLD / SAM / DRG
+Bronze Spear +1,7,17,385,2.65,,WAR / PLD / SAM / DRG
+Gimlet Spear,7,16,396,2.42,"Enchantment: Attack+3
+<50/50 0:30/[30:00, 0:30]>",WAR / PLD / SAM / DRG
+Brass Spear,14,25,396,3.79,,WAR / PLD / SAM / DRG
+Brass Spear +1,14,26,385,4.05,,WAR / PLD / SAM / DRG
+Spark Spear,14,25,396,3.79,"Additional effect with battery
+equipped: Lightning damage",WAR / PLD / SAM / DRG
+Spark Spear +1,14,26,385,4.05,"Additional effect with battery
+equipped: Lightning damage",WAR / PLD / SAM / DRG
+Ryl.Spr. Spear,18,28,396,4.24,,WAR / PLD / SAM / DRG
+Cruel Spear,20,29,385,4.52,"INT+2 MND-2
+-2 +2
+Additional effect: Impairs evasion",WAR / PLD / SAM / DRG
+Fuscina,20,31,396,4.7,Additional effect: Lightning damage,WAR / PLD / SAM / DRG
+Platoon Lance,20,37,492,4.51,,DRG
+Kingdom Spear,23,30,374,4.81,Attack+5,WAR / PLD / SAM / DRG
+San d'Orian Spear,23,29,385,4.52,Attack+3,WAR / PLD / SAM / DRG
+Spear,24,34,396,5.15,,WAR / PLD / SAM / DRG
+Spear +1,24,35,385,5.45,,WAR / PLD / SAM / DRG
+Military Spear,28,36,374,5.78,STR+1,WAR / PLD / SAM / DRG
+Ryl.Sqr. Halberd,30,37,396,5.61,,WAR / PLD / SAM / DRG
+Lizard Piercer,32,36,365,5.92,"Additional effect vs. lizards:
+Ice damage",WAR / PLD / SAM / DRG
+Kingdom Halberd,34,39,374,6.26,"In areas outside own nation's control:
+Accuracy+4",WAR / PLD / SAM / DRG
+Lance,34,51,492,6.22,,DRG
+Lance +1,34,52,478,6.53,,DRG
+Lucent Lance,34,51,492,6.22,"Enchantment: Delay:442
+<50/50 0:30/[30:00, 0:30]>",DRG
+San. Halberd,34,38,385,5.92,"In areas outside own nation's control:
+Accuracy+3",WAR / PLD / SAM / DRG
+Spark Lance,34,51,492,6.22,"Additional effect with battery
+equipped: Lightning damage",DRG
+Spark Lance +1,34,52,478,6.53,"Additional effect with battery
+equipped: Lightning damage",DRG
+Halberd,36,42,396,6.36,,WAR / PLD / SAM / DRG
+Halberd +1,36,43,385,6.7,,WAR / PLD / SAM / DRG
+Broach Lance,38,57,492,6.95,"STR+2 INT-1 MND-1
+Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>",PLD / DRG
+Obelisk Lance,38,57,492,6.95,STR+2 INT-1 MND-1,PLD / DRG
+Obelisk Lance +1,38,58,478,7.28,STR+3 INT-1 MND-1,PLD / DRG
+Behourd Lance,40,60,478,7.53,AGI+2,DRG
+Peregrine,40,61,492,7.44,DEX+1 VIT+1,DRG
+Orc Piercer,41,48,396,7.27,"HP+7 CHR+4
+Additional effect vs. Orcs:
+Light damage",WAR / PLD / SAM / DRG
+Trident,45,51,396,7.73,Additional effect: Lightning damage,WAR / PLD / SAM / DRG
+Heavy Halberd,47,56,419,8.02,Evasion-3,WAR / PLD / SAM / DRG
+Mythril Lance,48,69,492,8.41,,DRG
+Mythril Lance +1,48,70,478,8.79,,DRG
+Wind Spear,49,56,385,8.73,#ERROR!,WAR / PLD / SAM / DRG
+R.K. Army Lance,50,56,396,8.48,,WAR / PLD / SAM / DRG
+Kamayari,52,58,396,8.79,,SAM
+Kamayari +1,52,59,385,9.19,,SAM
+R.K. Lance +1,52,57,384,8.91,"In areas outside own nation's control:
+Attack+8",WAR / PLD / SAM / DRG
+R.K. Lance +2,52,58,372,9.35,"In areas outside own nation's control:
+Attack+9",WAR / PLD / SAM / DRG
+Holy Lance,53,74,492,9.02,Additional effect: Light damage,DRG
+Holy Lance +1,53,75,478,9.41,Additional effect: Light damage,DRG
+Monsoon Spear,53,59,396,8.94,Rainy weather: Accuracy+10,WAR / PLD / SAM / DRG
+Sacred Lance,53,74,492,9.02,"Additional effect: Light damage
+Enchantment: ""Enlight""
+<30/30 0:30/[5:00, 0:30]>",DRG
+Thundercloud,53,59,396,8.94,"DEX+3 +11
+-11 +11
+Additional effect: Lightning damage",WAR / PLD / SAM / DRG
+Battle Fork,55,61,396,9.24,"DEX+2
+Additional effect: Lightning damage",WAR / PLD / SAM / DRG
+Battle Fork +1,55,62,385,9.66,"DEX+3
+Additional effect: Lightning damage",WAR / PLD / SAM / DRG
+Spark Fork,55,61,396,9.24,"DEX+2
+Additional effect with battery
+equipped: Lightning damage",WAR / PLD / SAM / DRG
+Spark Fork +1,55,62,385,9.66,"DEX+3
+Additional effect with battery
+equipped: Lightning damage",WAR / PLD / SAM / DRG
+Calamar,56,62,396,9.39,AGI+2 MND+2,WAR / PLD / SAM / DRG
+Partisan,57,64,416,9.23,,WAR / PLD / SAM / DRG
+Partisan +1,57,65,403,9.68,,WAR / PLD / SAM / DRG
+Darksteel Lance,58,78,507,9.23,,DRG
+Darksteel Lance +1,58,79,492,9.63,,DRG
+Envy Spear,59,67,435,9.24,"STR-1 DEX-1 VIT-1
+AGI-1 INT-1 MND-1 CHR+7",WAR / PLD / SAM / DRG
+Couse,60,72,480,9,,WAR / SAM / DRG
+Couse +1,60,73,461,9.5,,WAR / SAM / DRG
+Dark Mezraq,60,81,492,9.88,Additional effect: Impairs evasion,DRG
+Dark Mezraq +1,60,82,478,10.29,Additional effect: Impairs evasion,DRG
+Dispel Couse,60,72,480,9,"Enchantment: ""Dispel""
+<50/50 0:30/[0:30, 0:30]>",WAR / SAM / DRG
+Grand Knight's Lance,60,80,492,9.76,Accuracy+7,DRG
+Schwarz Lance,60,82,551,8.93,STR+2 VIT+4,DRG
+Heavy Lance,62,80,492,9.76,Additional effect: Weight,DRG
+Bloody Lance,63,79,507,9.35,Additional effect: HP Drain,DRG
+Carnage Lance,63,80,492,9.76,Additional effect: HP Drain,DRG
+Golden Spear,65,66,396,10,,WAR / PLD / SAM / DRG
+Golden Spear +1,65,67,385,10.44,,WAR / PLD / SAM / DRG
+Cermet Lance,66,80,468,10.26,Accuracy+2,DRG
+Cermet Lance +1,66,81,453,10.73,Accuracy+3,DRG
+Narval,67,83,492,10.12,"HP+15
+Healing magic skill +10
+Additional effect vs. undead:
+Water damage",DRG
+Gae Bolg,68,92,551,10.02,HP+10 MP+10 +7,DRG
+Tonbo-Giri,68,72,396,10.91,"AGI+3 Enmity+3
+Vs. vermin: Critical hit rate +3%",SAM / DRG
+Barchha,69,84,492,10.24,VIT+3,DRG
+Barchha +1,69,85,478,10.67,VIT+4,DRG
+Bourdonasse,70,84,478,10.54,,DRG
+Colossal Lance,70,88,492,10.73,HP+25 STR+3 VIT+5,DRG
+Engetsuto,70,85,480,10.63,"Accuracy+2
+""Store TP""+1",WAR / SAM / DRG
+Engetsuto +1,70,86,461,11.19,"Accuracy+3
+""Store TP""+2",WAR / SAM / DRG
+Mercurial Spear,70,23,396,3.48,Occasionally attacks 2-3 times,WAR / DRG
+Puk Lance,70,84,492,10.24,Assault: DMG:93 Wyvern: HP+50,DRG
+Rune Halberd,70,68,396,10.3,"Latent effect:
+DEX+6 ""Double Attack""+5%","WAR / BLM / PLD / BRD / SAM / DRG /
+SMN"
+Schiltron Spear,70,70,396,10.61,"STR+5
+Parrying skill +6",WAR / PLD / SAM / DRG
+Imperial Neza,71,92,478,11.55,"Depending on day: Increases elemental
+weapon skill damage",DRG
+Ox Tongue,71,70,396,10.61,HP+10 DEX+2 VIT+2,WAR / PLD / SAM / DRG
+Ox Tongue +1,71,71,385,11.06,HP+11 DEX+3 VIT+3,WAR / PLD / SAM / DRG
+Rsv.Cpt. Lance,71,69,365,11.34,"Enhances ""Resist Silence"" effect
+Citizens of San d'Oria: DEF+10
+Adds ""Regen"" Effect",WAR / PLD / SAM / DRG
+Spear of Trials,71,68,396,10.3,Latent effect: HP+20 +10 +10,WAR / SAM / DRG
+Dreizack,72,87,477,10.94,"STR+4 DEX+1
+Additional effect: Weakens attacks",DRG
+Leviathan's Couse,72,89,480,11.13,"MND+8 Attack+8
+Latent effect: Water damage",WAR / SAM / DRG
+Martial Lance,72,84,492,10.24,TP Bonus,DRG
+Perforator,72,72,480,9,"Latent effect: DMG:89
+Critical hit rate +6%",DRG
+Tomoe,72,86,480,10.75,"Accuracy+5 Attack+5
+Parrying skill +10
+""Subtle Blow""+5",SAM / DRG
+Z's Trident,72,87,507,10.3,Latent effect: STR+12,DRG
+Love Halberd,73,60,396,9.09,"DEX+7
+Virtue stone equipped:
+Occasionally attacks twice",SAM / DRG
+Mighty Lance,73,87,507,10.3,"VIT+2
+On Firesdays: DMG:99 +15",DRG
+Stone-splitter,73,66,396,10,Latent effect: DMG:71,SAM / DRG
+Wyvern Spear,73,68,396,10.3,VIT+4 AGI+4,SAM / DRG
+Wyvern Spear +1,73,69,385,10.75,VIT+5 AGI+5,SAM / DRG
+Achilles' Spear,74,69,346,11.97,Accuracy+4,DRG
+Ice Lance,74,89,492,10.85,Additional effect: Ice damage,DRG
+Ice Lance +1,74,90,478,11.3,Additional effect: Ice damage,DRG
+Dynamis Lance,75,82,507,9.7,In Dynamis: +9,DRG
+Gae Assail,75,100,507,11.83,"In Dynamis: ""Geirskogul""",DRG
+Gungnir,75,100,510,12.2,"Accuracy+20
+""Geirskogul""
+Additional effect: Weakens defense",DRG
+Hotspur Lance,75,1,507,0.12,In Dynamis: +7,DRG
+Mezraq,75,93,492,11.34,"STR+2 VIT+2
+Additional effect: Impairs evasion",DRG
+Mezraq +1,75,94,478,11.8,"STR+3 VIT+3
+Additional effect: Impairs evasion",DRG
+Orichalcum Lance,75,92,492,11.22,"Accuracy+2
+Ranged Accuracy+2",DRG
+Ponderous Lance,75,92,492,11.22,"Accuracy+2
+Ranged Accuracy+2
+Enchantment: ""Stone""
+<50/50 0:30/[10:00, 0:30]>",DRG
+Radiant Lance,75,90,492,10.98,,DRG
+Relic Lance,75,1,999,0.06,,DRG
+Ryunohige,75,91,492,11.1,,DRG
+Ryunohige,75,91,492,11.1,"Augments jump attacks
+""Drakesbane""
+Aftermath (Incl. Wyvern):
+Increases Acc./Atk.
+Occasionally attacks twice",DRG
+Thalassocrat,75,94,492,11.46,"HP+10 DEX+2 VIT+2
+Enhances ""Resist Virus"" effect
+Additional effect: Impairs evasion",DRG
+Thalassocrat +1,75,95,478,11.92,"HP+12 DEX+3 VIT+3
+Enhances ""Resist Virus"" effect
+Additional effect: Impairs evasion",DRG
+Tournament Lance,75,91,492,11.1,"""Store TP""+3",DRG
+Triton's Lance,75,93,478,11.67,"Accuracy+3
+Ranged Accuracy+3",DRG
+Valkyrie's Fork,75,95,492,11.59,"""Double Attack""+3%
+""Store TP""+3",DRG
+Wyrm Tongue,75,96,510,11.29,"HP+10 MP+10 +7
+Accuracy+5",DRG

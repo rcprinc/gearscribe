@@ -1,0 +1,467 @@
+Name,Level,Jobs,Stats,Horizon Changes
+Bronze Mittens,1,WAR / MNK / RDM / THF / PLD / DRK / BST BRD / SAM / NIN / DRG / BLU / COR,DEF: 1,none
+Bronze Mittens +1,1,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Carpenter's Gloves,1,All Jobs,DEF: 2 +1 Woodworking skill +1,none
+Chocobo Gloves,1,All Jobs,DEF: 1 Chocobo riding time +3,none
+Cuffs,1,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 1,none
+Cuffs +1,1,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 2,none
+Dream Mittens,1,All Jobs,DEF: 1,
+Dream Mittens +1,1,All Jobs,"DEF: 2 Enhances ""Invisible"" effect Enchantment: ""Invisible""",
+Elvaan Gauntlets,1,All Jobs,DEF: 1,none
+Elvaan Gloves,1,All Jobs,DEF: 1,none
+Field Gloves,1,All Jobs,DEF: 1 Improves Mining and Logging results,none
+Fisherman's Gloves,1,All Jobs,DEF: 1 Fishing skill +1,none
+Galkan Bracers,1,All Jobs,DEF: 1,none
+Hume F Gloves,1,All Jobs,DEF: 1,none
+Hume M Gloves,1,All Jobs,DEF: 1,none
+Mithran Gauntlets,1,All Jobs,DEF: 1,none
+Tanner's Gloves,1,All Jobs,DEF: 2 +1 Leathercraft skill +1,none
+Tarutaru Mitts,1,All Jobs,DEF: 1,none
+Vagabond's Gloves,1,All Jobs,DEF: 1 HP recovered while healing +1,none
+Asbestos Mitts,6,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 2 +1 +1,none
+Leather Gloves,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Leather Gloves +1,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3,none
+Mitts,8,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 2,
+Mitts +1,8,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 3,none
+Tekko,8,MNK / SAM / NIN,DEF: 2,none
+Tekko +1,8,MNK / SAM / NIN,DEF: 3,none
+Coarse Gauntlets,9,WAR / PLD / DRK,DEF: 5 Evasion -3,none
+Legionnaire's Mittens,10,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 3 Attack +3,none
+Royal Footman's Gloves,10,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 Attack +3,none
+Scale Finger Gauntlets,10,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 3,none
+Solid Finger Gauntlets,10,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 4,none
+Brass Mittens,11,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 3,none
+Brass Mittens +1,11,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Gloves,11,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 3,none
+Gloves +1,11,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 4,none
+Zealot's Mitts,11,MNK / WHM / BLM / RDM / PLD / BRD / SMN/ BLU / PUP,DEF: 3 MP +5 INT -2 MND 3,none
+Linen Cuffs,12,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 3,none
+Linen Cuffs +1,12,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 4 STR +1 +3,none
+Battle Gloves,14,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 4 Accuracy +3 Evasion +3,none
+Angler's Gloves,15,All Jobs,DEF: 3 Fishing skill +1,Hidden Effect: Full set supposed to give a small bonus to number of gold arrows seen while fishing
+Anu's Gages,15,WHM / BRD / SMN,DEF: 3 MND +1,none
+Bastokan Mittens,15,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 4 HP +2 MP +2 Attack +3,none
+Enyo's Gauntlets,15,WAR / PLD / DRK / DRG,DEF: 4 STR +1,none
+Hoshikazu Tekko,15,MNK / SAM / NIN / PUP,DEF: 4 Accuracy +1,none
+Kingdom Gloves,15,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 HP +6 Attack +3,none
+Nemain's Cuffs,15,BLM / RDM / BLU,DEF: 3 MP +1,none
+Njord's Gloves,15,THF / BST / RNG / COR,DEF: 4 Ranged Attack +1,none
+Nomad's Gloves,15,All Jobs,DEF: 3 HP recovered while healing +1,none
+Republic Mittens,15,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 5 HP +3 MP +3 Attack +3,none
+Rider's Gloves,15,All Jobs,DEF: 3 Chocobo riding time +3,none
+San d'Orian Gloves,15,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4 HP +4 Attack +3,none
+Worker Gloves,15,All Jobs,DEF: 3 Improves Mining and Logging results,none
+Bone Mittens,16,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Bone Mittens +1,16,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 5 -3 Evasion +1,none
+Scentless Armlets,16,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 4 Evasion +5,none
+Fine Gloves,17,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6,none
+Lizard Gloves,17,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5,none
+Cotton Tekko,18,MNK / SAM / NIN,DEF: 5,none
+Cotton Tekko +1,18,MNK / SAM / NIN,DEF: 6,none
+Baron's Cuffs,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 6 MP +4 MND +1,none
+Carbuncle Mitts,20,SMN,DEF: 5 MP +14,none
+Garrison Gloves,20,All Jobs,DEF: 4 VIT +1 INT +1,none
+Mercenary's Tekko,20,MNK / SAM / NIN,DEF: 5 Accuracy +1 Ranged Accuracy +1,New stats of Accuracy +1 Ranged Accuracy +1 added.
+Trader's Cuffs,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 5,none
+White Mitts,20,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 4,none
+White Mitts +1,20,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 5 MP +3 Evasion +2,none
+Beetle Mittens,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 6,none
+Beetle Mittens +1,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 7 -3 Evasion +1,none
+Cotton Gloves,23,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 6,none
+Great Gloves,23,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 7,none
+Chain Mittens,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 7,none
+Chain Mittens +1,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 8,none
+Bodb's Cuffs,25,BLM / RDM / BLU,DEF: 6 MP +1 Accuracy +1,none
+Ea's Dastanas,25,WHM / BRD / SMN,DEF: 6 MND +1 CHR +1,none
+Federation Tekko,25,MNK / SAM / NIN,DEF: 7 Accuracy +3 Ranged Accuracy +3,none
+Freyr's Gloves,25,THF / BST / RNG / COR,DEF: 7 Attack +1 Ranged Attack +1,none
+Mycophile Cuffs,25,WHM / BLM / SMN,DEF: 6 INT +1 MND +2 Enmity -2,none
+Phobos's Gauntlets,25,WAR / PLD / DRK / DRG,DEF: 7 STR +1 VIT +1,none
+Shade Mittens,25,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,"DEF: 7 ""Empty Killer""",none
+Shade Mittens +1,25,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,"DEF: 8 Evasion +1 ""Empty Killer""",none
+Tsukikazu Gote,25,MNK / SAM / NIN / PUP,DEF: 7 Accuracy +1 Evasion +1,none
+Windurstian Tekko,25,MNK / SAM / NIN,DEF: 6 Accuracy +2 Ranged Accuracy +2,none
+Brass Finger Gauntlets,27,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 7,none
+Brass Finger Gauntlets +1,27,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 8,none
+Custom F Gloves,27,All Jobs,DEF: 6 HP +12 MP +4 STR +3 DEX +3 VIT -1 AGI -1,none
+Custom M Gloves,27,All Jobs,DEF: 6 HP +12 MP +4 STR +3 DEX +3 VIT -1 AGI -1,none
+Devotee's Mitts,27,MNK / WHM / BLM / RDM / PLD / BRD / SMN/ BLU / PUP,DEF: 5 MP +8 INT -4 MND 5,none
+Devotee's Mitts +1,27,MNK / WHM / BLM / RDM / PLD / BRD / SMN/ BLU / PUP,None,
+Elder's Bracers,27,All Jobs,DEF: 6 MP +32 INT +2,none
+Magna Gauntlets,27,All Jobs,DEF: 6 MP +24 DEX +2 INT +1,none
+Magna Gloves,27,All Jobs,DEF: 6 MP +24 DEX +2 INT +1,none
+Savage Gauntlets,27,All Jobs,DEF: 6 MP +16 VIT +4 MND +2,none
+Wonder Mitts,27,All Jobs,DEF: 6 HP +12 STR +3,none
+Wool Cuffs,28,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 6,none
+Wool Cuffs +1,28,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 7 AGI +1 +3,none
+Eisenhentzes,29,WAR / PLD,DEF: 9 VIT +1,none
+Kampfhentzes,29,WAR / PLD,DEF: 10 VIT +2,none
+Seer's Mitts,29,WHM / BLM / SMN / PUP,DEF: 5 INT +1 MND +1,none
+Seer's Mitts +1,29,WHM / BLM / SMN / PUP,DEF: 6 INT +2 MND +2,none
+Soil Tekko,29,MNK / SAM / NIN,DEF: 7 +1 +1,none
+Soil Tekko +1,29,MNK / SAM / NIN,DEF: 8 +2 +2,none
+Aiming Gloves,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 Enchantment: Ranged Accuracy +3,none
+Centurion's Finger Gauntlets,30,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 8 DEX +1,none
+Garish Mitts,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 9 On Earthsday: Evasion +2,Recipe seems to be disables as of now.
+Gigas Bracelets,30,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 9 HP +15 STR +3 DEX -2 AGI -2,none
+Mercenary Captain's Gloves,30,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 6 AGI +1,none
+Mist Mitts,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 9 On Earthsdays: Evasion +2 Enchantment: Evasion Boost,none
+Noct Gloves,30,THF / RNG / COR,DEF: 5  +1 Ranged Accuracy +1,none
+Noct Gloves +1,30,THF / RNG / COR,DEF: 6  +2 Ranged Accuracy +2,none
+Royal Squire's Mufflers,30,WAR / PLD / DRK / BST / SAM / NIN,DEF: 8 Accuracy +2,none
+Rubious Mitts,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 10 On Earthsdays or Windsdays: Evasion +2,none
+Strong Gloves,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8,none
+Studded Gloves,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7,none
+Bastokan Finger Gauntlets,34,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 9 DEX +1 In areas under own nation's control: STR +1,none
+Federation Gloves,34,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 8 AGI +1 In areas under own nation's control: Attack +7 Ranged Attack +7,none
+Horomusha Kote,34,MNK / SAM / NIN,DEF: 7 Attack +15,none
+Kingdom Mufflers,34,WAR / PLD / DRK / BST / SAM / NIN,DEF: 10 Accuracy +2 In areas under own nation's control: MP +12,none
+Linen Mitts,34,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 7,none
+Linen Mitts +1,34,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 8,none
+Ochimusha Kote,34,MNK / SAM / NIN,DEF: 8 -8 +8 Attack +20 Evasion -5,Obtainable from the BCNM Divine Punishers and not from the NM Mee Deggi the Punisher.
+Ochiudo's Kote,34,MNK / SAM / NIN,DEF: 8 -8 +8 Attack +20 Evasion -5,Obtainable via from Mee Deggi the Punisher and not from BCNM.
+Republic Finger Gauntlets,34,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 10 DEX +1 In areas under own nation's control: STR +2,none
+San d'Orian Mufflers,34,WAR / PLD / DRK / BST / SAM / NIN,DEF: 9 Accuracy +2 In areas under own nation's control: MP +10,none
+Shepherd's Bracers,34,BST / DRG / SMN / PUP,DEF: 10 HP recovered while healing +1 Pet: Adds Regen Effect,This is a custom Horizon item.
+Windurstian Gloves,34,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 7 AGI +1 In areas under own nation's control: Attack +5 Ranged Attack +5,none
+Deimos's Gauntlets,35,WAR / PLD / DRK / DRG,DEF: 9 STR +1 VIT +1 Accuracy +1,none
+Enlil's Kolluks,35,WHM / BRD / SMN,DEF: 7 MND +1 CHR +1 Enmity -1,none
+Freya's Gloves,35,THF / BST / RNG / COR,DEF: 8 AGI +1 Attack +1 Ranged Attack +1,none
+Hikazu Gote,35,MNK / SAM / NIN / PUP,"DEF: 8 Accuracy +1 Evasion +1 ""Subtle Blow"" +1",none
+Iron Mittens,35,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 8,none
+Iron Mittens +1,35,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 9,none
+Macha's Cuffs,35,BLM / RDM / BLU,DEF: 7 MP +1 Accuracy +1 Attack +1,none
+Bracers,36,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 8,none
+Bracers +1,36,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 9,none
+New Moon Armlets,36,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN/ BLU / COR / PUP,DEF: 8 MP +8,none
+Sennight Bangles,36,All Jobs,DEF: 9Weekday: Magic Accuracy +1,none
+Silver Mittens,36,WAR / PLD / DRK / BST / SAM / NIN,DEF: 9,none
+Silver Mittens +1,36,WAR / PLD / DRK / BST / SAM / NIN,DEF: 10,none
+Iron Finger Gauntlets,37,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 9,none
+Iron Finger Gauntlets +1,37,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 10,none
+Cuir Gloves,38,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 9,none
+Cuir Gloves +1,38,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 10,none
+Mage's Cuffs,38,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 9 AGI +2 +5,none
+Velvet Cuffs,38,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 8,none
+Combat Caster's Mitts,40,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 8 Attack +5,none
+Gauntlets,40,WAR / PLD / DRK,DEF: 11,none
+Gauntlets +1,40,WAR / PLD / DRK,DEF: 12,none
+Iron Musketeer's Gauntlets,40,WAR / PLD / DRK,DEF: 12 Ranged Accuracy +5,none
+Ogygos's Bracelets,40,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 11 HP +20 STR +5 DEX -3 AGI -3,none
+Palmer's Bangles,41,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,"DEF: 9 Enchantment: ""Gilfinder""",none
+Silver Bangles,41,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 9,none
+Silver Bangles +1,41,WHM / MNK / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 10,none
+Combat Caster's Mitts +1,43,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 9 Attack +5 In areas under own nation's control: HP +14,none
+Combat Caster's Mitts +2,43,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 10 Attack +5 In areas under own nation's control: HP +16,none
+Iron Musketeer's Gauntlets +1,43,WAR / PLD / DRK,DEF: 13 Ranged Accuracy +5 In areas under own nation's control: STR +2,none
+Iron Musketeer's Gauntlets +2,43,WAR / PLD / DRK,DEF: 14 Ranged Accuracy +5 In areas under own nation's control: STR +3,none
+Monsoon Tekko,43,MNK / SAM / NIN,DEF: 10 Rainy weather: Accuracy +8,none
+Alumine Moufles,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 10 STR +1 DEX +1 AGI -2 Attack +1 Accuracy +1 Evasion -1,"STR +1 added
+DEX +1 added
+AGI -2 added
+Attack +1 added
+Accuracy +1 added
+Evasion -1 added"
+Ate's Gauntlets,45,WAR / PLD / DRK / DRG,"DEF: 12 STR +2 Attack +2 ""Magic Atk. Bonus"" +1 Enmity +1",none
+Carapace Mittens,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 10,none
+Carapace Mittens +1,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 11 -3 Evasion +1,none
+Concealing Cuffs,45,WHM / BLM / BRD / SMN / PUP,DEF: 9 Enmity -5,none
+Engineer's Gloves,45,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP / DNC / GEO / RUN,DEF: 10 VIT +1 INT +1,
+Luisant Moufles,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 10 STR +1 DEX +1 AGI -3 Attack +2 Accuracy +2 Evasion -2,none
+Kote,46,SAM,DEF: 10,none
+Kote +1,46,SAM,DEF: 11,none
+Mufflers,46,WAR / PLD / DRK / BST / SAM / NIN,DEF: 12,none
+Mufflers +1,46,WAR / PLD / DRK / BST / SAM / NIN,DEF: 13,none
+Turtle Bangles,47,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 10,none
+Turtle Bangles +1,47,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 11,none
+Dino Gloves,48,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 13 +3 -1,none
+Raptor Gloves,48,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 12 +2 -1,none
+Steel Finger Gauntlets,48,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 12,none
+Steel Finger Gauntlets +1,48,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 13,none
+Wool Bracers,48,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 10,none
+Wool Bracers +1,48,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 11,none
+Mythril Gauntlets,49,WAR / PLD / DRK,DEF: 13,none
+Mythril Gauntlets +1,49,WAR / PLD / DRK,DEF: 14 INT +1 -1 +3 +3,none
+Shinobi Tekko,49,MNK / SAM / NIN,DEF: 11,none
+Shinobi Tekko +1,49,MNK / SAM / NIN,DEF: 12 DEX +1,none
+Austere Cuffs,50,SMN,DEF: 8 MP +15 CHR -1 Summoning Magic skill +2 Blood Pact ability delay -1,
+Black Mitts,50,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 10,none
+Crow Bracers,50,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 10 Evasion +5 Enmity -4,none
+Enkelados's Bracelets,50,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 14 HP +25 STR +7 DEX -4 AGI -4,none
+Ivory Mitts,50,WHM / SMN,DEF: 9 MP +12 DEX -2 MND +5,none
+Mage's Mitts,50,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 11 INT +1,none
+Penance Cuffs,50,SMN,DEF: 9 MP +17 CHR -2 Summoning Magic skill +3 Blood Pact ability delay -2,none
+Raven Bracers,50,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 11 Evasion +6 Enmity -5,none
+Royal Knight's Mufflers,50,WAR / PLD / DRK / BST / SAM / NIN,DEF: +13 Accuracy +3,none
+Rush Gloves,50,PLD / DRG,DEF: 11 VIT +4 AGI +1 MND -3,none
+Sly Gauntlets,50,BLM / RDM / BRD / BLU / PUP,DEF: 10 HP +8 AGI -1 INT +3,none
+Spiked Finger Gauntlets,50,WAR / BST / RNG / SAM / DRG,DEF: 8 VIT -2 Attack +12,none
+Storm Gages,50,All Jobs,DEF: 11 MP +22 Assault: MP recovered while healing +3,none
+Storm Manopolas,50,All Jobs,DEF: 16 Evasion +6 Enmity +3,none
+Tactician Magician's Cuffs,50,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 10 Evasion +5,none
+Aiming Bracelets,51,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 6 Accuracy +6 Attack -18,none
+Gold Bangles,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 11,none
+Gold Bangles +1,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 12,none
+Hunter's Bracers,52,RNG,"DEF: 10 HP +10 AGI +3  +10 Enhances ""Shadowbind"" effect",AGI +3 instead of DEX +3
+Ice Gauntlets,52,PLD / DRK,"DEF: 16 STR +4 VIT +4 Accuracy +4 MP recovered while healing +1 Physical damage: ""Ice Spikes"" effect",none
+Rogue's Armlets,52,THF,"DEF: 15 HP +10 DEX +3  +10 ""Steal"" +1",none
+Royal Knight's Mufflers +1,52,WAR / PLD / DRK / BST / SAM / NIN,DEF: 14 Accuracy +3 In areas under own nation's control: Ranged Accuracy +5,none
+Royal Knight's Mufflers +2,52,WAR / PLD / DRK / BST / SAM / NIN,DEF: 15 Accuracy +3 In areas under own nation's control: Ranged Accuracy +6,none
+Tactician Magician's Cuffs +1,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 11 Evasion +5 In areas under own nation's control: Accuracy +5,none
+Tactician Magician's Cuffs +2,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 12 Evasion +5 In areas under own nation's control: Accuracy +6,none
+Magi Cuffs,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 12 HP +13 MP +13 MND +3 +7,none
+Silk Cuffs,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 11,none
+Silk Cuffs +1,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 12 MND +3 +7,none
+Silken Cuffs,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 11 HP +12 MP +12,none
+Beast Gloves,54,BST,"DEF: 12 HP +11 DEX +3 Parrying Skill +5 ""Charm"" +3",none
+Chaos Gauntlets,54,DRK,"DEF: 12 HP +11 DEX +3  +10 ""Weapon Bash"" +10",none
+Corsair's Gants,54,COR,DEF: 11 HP +10 DEX +2 MND +2 Parrying Skill +5,none
+Evoker's Bracers,54,SMN,DEF: 11 MP +15 VIT +4 Occasionally converts damage taken of avatar element to MP Avatar: Enmity -2,none
+Fighter's Mufflers,54,WAR,DEF: 16 HP +13 STR +4 Shield Skill +10 Enmity +3,none
+Gallant Gauntlets,54,PLD,DEF: 16 HP +11 DEX +3  +10 Enmity +2,none
+Temple Gloves,54,MNK,"DEF: 14 HP +14 STR +4 +10 Enhances ""Boost"" effect",none
+Warlock's Gloves,54,RDM,DEF: 16 MP +12 DEX +4 +10 Parrying skill +10,none
+Wizard's Gloves,54,BLM,DEF: 13 MP +12 CHR +3 Elemental Magic skill +15 Enmity -1,none
+Akinji Bazubands,55,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 15 HP -9 Accuracy +4 Ranged Attack +3 Evasion +3,none
+Jaridah Bazubands,55,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 14 HP -9 Accuracy +3 Ranged Attack +2 Evasion +2,none
+Drachen Finger Gauntlets,56,DRG,DEF: 15 HP +11 DEX +3 Parrying Skill +10 Enhances wyvern's accuracy,none
+Magical Mitts,56,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 16 HP +20 MP +20,none
+Magus Bazubands,56,BLU,DEF: 16 MP +15 Parrying Skill +10 Increases chance to learn blue magic,none
+Myochin Kote,56,SAM,DEF: 15 HP +15 DEX +4 Enmity +2 Enhances effects of rice balls,none
+Protecting Bangles,56,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 30 -6,none
+Puppetry Dastanas,56,PUP,"DEF: 12 HP +13 AGI +3 Enhances ""Maneuver"" effect Reduces ""Overload"" rate",none
+Light Gauntlets,57,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 15 HP +15 STR +3 VIT +3,none
+Scorpion Mittens,57,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 13 HP +3 -2 +5 +5,none
+Scorpion Mittens +1,57,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 14 HP +4 -2 +7 +7,none
+Beak Gloves,58,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 14 VIT +1 +3,none
+Beak Gloves +1,58,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 15 VIT +2 +4,none
+Hailstorm Tekko,58,MNK / SAM / NIN,DEF: 12 +10 Rainy weather: Accuracy +9,none
+Hailstorm Tekko +1,58,MNK / SAM / NIN,DEF: 13 +12 Rainy weather: Accuracy +10,none
+Sand Gloves,58,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 13 DEX +2 AGI +2  +11 In Sandstorms: Evasion +7,none
+Abtal Dastanas,59,WAR / PLD / DRK / BST / SAM,DEF: 14 STR +5 AGI +4,none
+Darksteel Mufflers,59,WAR / PLD / DRK / BST / SAM / NIN,DEF: 16 +2,none
+Darksteel Mufflers +1,59,WAR / PLD / DRK / BST / SAM / NIN,DEF: 17 +3,none
+Sipahi Dastanas,59,WAR / PLD / DRK / BST / SAM,DEF: 13 STR +4 AGI +3,none
+Choral Cuffs,60,BRD,DEF: 15 HP +14 CHR +4 Singing skill +5 Enmity -1,none
+Coral Bangles,60,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 12 Magic damage taken -1%,none
+Deadeye Gloves,60,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 12 Ranged Accuracy +6 ""Slow"" +5% Paralysis: Ranged Accuracy +10",none
+Gilt Gauntlets,60,WAR / PLD / DRK,DEF: 17 VIT +2  +4,none
+Gold Gauntlets,60,WAR / PLD / DRK,DEF: 15 VIT +1  +3,none
+Healer's Mitts,60,WHM,DEF: 14 MP +10 STR +5 Healing Magic skill +15 Enmity -4,none
+Merman's Bangles,60,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 13 Magic damage taken -3%,none
+Ninja Tekko,60,NIN,DEF: 14 HP +13 DEX +3 Ranged Attack +20 Throwing Skill +5,none
+Pallas's Bracelets,60,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 15 HP +35 STR +9 DEX -5 AGI -5,none
+Sadhu Bracelets,60,WAR / PLD / DRK / BST / SAM / NIN,"DEF: 16 Latent effect:: ""Double Attack"" +2% Haste +1%",none
+Sadhu Cuffs,60,WHM / BLM / BRD / RNG / SMN / PUP,DEF: 14 Latent effect: MP +35 Spell interruption rate down 5% MP recovered while healing +1,none
+Trainer's Wristbands,60,BST,DEF: 14 DEX +4 CHR +4,none
+Carapace Gauntlets,61,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,DEF: 16 +5 Latent effect: Attack +8 DEF: +16,none
+Carapace Gauntlets +1,61,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,DEF: 17 +6 Latent effect: Attack +9 DEF: +17,none
+Silk Mitts,61,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 11 HP +5 +3 -3,none
+Silk Mitts +1,61,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,DEF: 12 HP +6 +4 -2,none
+Creek F Mitts,62,All Jobs,DEF: 11 HP +65 STR +6 VIT +2 AGI -3,none
+Creek M Mitts,62,All Jobs,DEF: 11 HP +65 STR +6 VIT +2 AGI -3,none
+Dune Bracers,62,All Jobs,DEF: 11 HP -35 MP +65 VIT -5 INT +2 MND +2,none
+Marine F Gloves,62,All Jobs,DEF: 11 MP +35 VIT -3 AGI -3 INT +4 MND +4 CHR +3,none
+Marine M Gloves,62,All Jobs,DEF: 11 MP +35 VIT -3 AGI -3 INT +4 MND +4 CHR +3,none
+River Gauntlets,62,All Jobs,DEF: 11 HP +60 VIT +6 AGI -5 MND +1,none
+Wood Gauntlets,62,All Jobs,DEF: 11 HP +30 MP +55 DEX +4 VIT -3 INT +4,none
+Wood Gloves,62,All Jobs,DEF: 11 HP +30 MP +55 DEX +4 VIT -3 INT +4,none
+Arhat's Tekko,63,MNK / NIN / SAM,DEF: 13 Evasion +3 Enmity +1,none
+Arhat's Tekko +1,63,MNK / NIN / SAM,DEF: 14 Evasion +4 Enmity +2,none
+Darksteel Mittens,63,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 14 +1 +1 Physical damage taken -1%,none
+Darksteel Mittens +1,63,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 15 +2 +2 Physical damage taken -2%,none
+Feronia's Bangles,63,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,"DEF: 13 HP +35 VIT +3 Daytime: Adds ""Regen"" effect",none
+Garden Bangles,63,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,"DEF: 12 HP +30 VIT +2 Daytime: Adds ""Regen"" effect",none
+Battle Bracers,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 13 Accuracy +1,none
+Battle Bracers +1,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 14 Accuracy +3,none
+Coral Finger Gauntlets,65,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 14 -3 +3 Magic damage taken -1%,none
+Coral Finger Gauntlets +1,65,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 15 -2 +4 Magic damage taken -2%,none
+Fencing Bracers,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 16 HP +18 Attack +6 Evasion +4,none
+Feral Gloves,65,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 15 -2 +4 Attack +4,none
+Grand Temple Knight's Bangles,65,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 11 In areas under own nation's control: AGI +2 Evasion skill +7,none
+Grand Temple Knight's Gauntlets,65,WAR / PLD / DRK,DEF: 15 In areas outside own nation's control: DEX +2 Parrying Skill +10,none
+Marid Mittens,65,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 12 HP +15 +5 Ranged Accuracy +2,none
+Marid Mittens +1,65,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 13 HP +17 +6 Ranged Accuracy +3,none
+Master Caster's Bracelets,65,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,In areas outside own nation's control: INT +1 MND +1 Enfeebling Magic skill +7 Elemental Magic skill +7,none
+Master Caster's Mitts,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 15 In areas under own nation's control: AGI +2 Evasion skill +10,none
+Praefectus's Gloves,65,All Jobs,DEF: 11 In areas outside own nation's control: VIT +2 Evasion Skill +5 Parrying Skill +5,none
+Tabin Bracers,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 13 Accuracy +1 Attack +1,none
+Tabin Bracers +1,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 14 Accuracy +3 Attack +3 Evasion +3,none
+Tiger Gloves,65,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 14 -3 +3 Attack +3,none
+Coral Mittens,66,WAR / THF / BST,DEF: 14 STR +1 DEX +2 Magic damage taken -1% Converts 15 MP to HP,none
+Merman's Mittens,66,WAR / THF / BST,DEF: 15 STR +1 DEX +3 Magic damage taken -2% Converts 20 MP to HP,none
+Scorpion Gauntlets,66,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,"DEF: 12 +5 Enhances ""Resist Silence"" effect Silence: MP recovered while healing +4",none
+Scorpion Gauntlets +1,66,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,"DEF: 13 +6 Enhances ""Resist Silence"" effect Silence: MP recovered while healing +5",none
+Aristocrat's Mitts,67,WHM,DEF: 17 MP +13 DEX +3 CHR +2,none
+Darksteel Gauntlets,67,PLD / DRK,DEF: 17 MP +7 STR +3 DEX -1  +2  +2,none
+Darksteel Gauntlets +1,67,PLD / DRK,DEF: 18 MP +8 STR +4 DEX -1  +3  +3,none
+Heavy Gauntlets,67,WAR / PLD / DRK,"DEF: 15 ""Slow"" +3% Physical damage taken -3% Enmity -3",none
+Noble's Mitts,67,WHM,DEF: 16 MP +12 DEX +2 CHR +1,none
+Dragon Finger Gauntlets,68,DRG,DEF: 15 HP +8  +10  +10 Breath damage taken -4%,none
+Dragon Finger Gauntlets +1,68,DRG,DEF: 16 HP +10  +12  +12 Breath damage taken -5%,none
+Dragon Kote,68,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 18 HP +28 MP +28 STR +2 MND +2,none
+Thick Mufflers,68,WAR / DRK / BST,DEF: 15 Accuracy +3 Attack +3 Evasion -2,none
+Thick Mufflers +1,68,WAR / DRK / BST,DEF: 16 Accuracy +3 Attack +4 Evasion -2,none
+Coeurl Gloves,69,THF / BST / RNG,DEF: 15 HP -1% DEX +2 VIT -1 Evasion +2,none
+Torama Gloves,69,RDM / THF / BST / RNG,DEF: 16 HP -1% DEX +3 VIT -1 Evasion +3,none
+Alkyoneus's Bracelets,70,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 16 HP +40 STR +11 DEX -6 AGI -6,none
+Andvaranauts,70,WAR / BLM / THF / DRK / BST / RNG / NIN / DRG / PUP,"DEF: 12 INT -7 ""Gilfinder"" +1",
+Barone Manopolas,70,WAR / DRG,DEF: 15 Attack +4 Parrying Skill +4 Enmity +1,none
+Beast Bazubands,70,BST,"DEF: 22 Pet: Defense Bonus Beseiged: Augments ""Call Beast""",none
+Blessed Mitts,70,WHM,DEF: 18 MP +15 MND +7 Haste +5% Enmity -3,none
+Blessed Mitts +1,70,WHM,DEF: 19 MP +18 MND +8 Haste +6% Enmity -4,none
+Breeder Mufflers,70,BST / DRG / SMN / PUP,DEF: 18 DEX +2 INT +2 Accuracy +4 Enmity -4 Set: Increases pet defense and enmity,none
+Caballero Gauntlets,70,WAR / PLD / DRK,"DEF: 24 HP +28 Enhances ""Undead Killer"" effect HP recovered while healing +2 Set: Increases VIT",none
+Conte Manopolas,70,WAR / DRG,DEF: 16 Attack +5 Parrying skill +5 Enmity +2,none
+Evoker's Gages,70,SMN,"DEF: 20 ""Leviathan"" Attack Bonus Besieged: Leviathan perpetuation cost -2",none
+Hachiman Kote,70,SAM,"DEF: 19 STR +4 ""Store TP"" +8 Latent effect: Attack +10",none
+Hachiman Kote +1,70,SAM,"DEF: 20 STR +5 ""Store TP"" +9 Latent effect: Attack +12",none
+Hydra Bracers,70,All Jobs,DEF: 20 Fellow: HP +10 MP +10 DEX +2,none
+Hydra Gloves,70,WHM / BLM / RDM / BRD / SMN,DEF: 16 Accuracy +6 Evasion +6 Enmity -5 MP recovered while healing +1,none
+Hydra Mittens,70,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG,DEF: 16 Enchantment: Accuracy +15 Ranged Accuracy +15,none
+Hydra Moufles,70,WAR / PLD / DRK,DEF: 17 HP -18 MP +18 Accuracy +4 Enmity +6,none
+King's Gauntlets,70,PLD,DEF: 19 HP +20 VIT +3  +3  +3 Enmity +3,none
+Lord's Gauntlets,70,PLD,DEF: 18 VIT +2  +2  +2 Converts 20 MP to HP Enmity +2,none
+Mercenary's Dastanas,70,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,"DEF: 24 Ranged Accuracy +8 Besieged:: Increases ""Rapid Shot"" activation rate",none
+Ogre Gloves,70,RDM / BST,"DEF: 16 MP +12 STR +6 DEX -3 Enhances ""Reward"" effect",none
+Ogre Gloves +1,70,"RDM , BST","DEF: +17, MP +14, STR +7, DEX −4 Enhances “Reward” effect",none
+Platinum Bangles,70,MNK / WHM / BLM / RDM / THF / DRK BRD / RNG / SMN / BLU / COR / PUP,DEF: 14,none
+Platinum Bangles +1,70,MNK / WHM / BLM / RDM / THF / DRK BRD / RNG / SMN / BLU / COR / PUP,DEF: 15,none
+Ritterhentzes,70,WAR / PLD / DRK,"DEF: 29 HP +25 ""Slow"" +4% Enchantment: ""Blaze Spikes""",none
+Tarasque Mitts,70,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 CHR -5 +5 Attack +10,none
+Tarasque Mitts +1,70,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 CHR -6 +6 Attack +12,none
+Thief's Kote,70,THF,"DEF: 16 ""Steal"" +3",none
+Toad Mittens Template:Sendable,70,MNK / WHM / BLM / RDM / PLD / BRD / RNG / SMN / BLU / PUP,"DEF: 16 HP +20 ""Magic Atk. Bonus"" +3 Enhances ""Resist Charm"" effect",none
+Trainer's Gloves,70,BST,DEF: 22 HP +20 MP +20 CHR +5 Enmity -2,none
+Vampiric Mitts,70,BLM / DRK,"DEF: 19 STR +3 DEX +3 Enhances ""Undead Killer"" effect Set: Enhances effect of ""Drain"" and ""Aspir""",none
+War Gloves,70,THF / RNG / COR,DEF: 15 HP +13 VIT -2 Accuracy +5 Evasion +5,none
+War Gloves +1,70,THF / RNG / COR,DEF: 16 HP +15 VIT -3 Accuracy +6 Evasion +6,none
+Barbarian Mittens,71,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 12 VIT -4 Attack +12 ""Subtle Blow"" -4 ""Counter"" +1",none
+Bison Wristbands,71,BST,"DEF: 13 MP +13 Accuracy +4 Enmity -1 Vs. Lizard: ""Charm"" +5",none
+Black Gadlings,71,DRK,"DEF: 15 STR +4 Attack +8 Physical damage taken +6% Enhances effect of ""Absorb"" spells",none
+Brave's Wristbands,71,BST,"DEF: 14 MP +14 Accuracy +5 Enmity -2 Vs. Lizard: ""Charm"" +6",none
+Khimaira Wristbands,71,BST,"DEF: 14 HP +13 MP +13 Accuracy +4 Evasion +4 Enmity -1 Vs. Lizards: ""Charm"" +5",none
+Onyx Gadlings,71,DRK,"DEF: 16 STR +5 Attack +10 Physical damage taken +7% Enhances ""Absorb"" effect spells",none
+Scout's Bracers,71,RNG,DEF: 14 HP +13 AGI +5 Evasion +7 Enmity -2,none
+Stout Wristbands,71,BST,"DEF: 15 HP +14 MP +14 Accuracy +5 Evasion +5 Enmity -2 Vs. Lizard: ""Charm"" +6",none
+Yasha Tekko,71,NIN,DEF: 16 Parrying Skill +7 Spell Interruption Rate 3% Enmity +2,none
+Yasha Tekko +1,71,NIN,DEF: 17 Parrying Skill +8 Spell Interruption Rate +4% Enmity +3,none
+Abyss Gauntlets,72,DRK,DEF: 20 MP +20 DEX +5 INT +8 Dark magic skill +5,none
+Amir Kolluks,72,WAR / PLD / DRK / SAM / DRG,DEF: 21 Attack +5 Parrying skill +5 Set: Reduces Magic and Breath Damage,none
+Aurum Gauntlets,72,WAR / PLD / DRK / BST / DRG,DEF: 23 STR +2 DEX +2 Accuracy -5 Attack +12 Evasion -10,none
+Commodore Gants,72,COR,"DEF: 14 HP +12 AGI +2 Ranged Accuracy +5 Enhances ""Snapshot"" effect",none
+Duelist's Gloves,72,RDM,"DEF: 17 MP +18 INT +4 Enhancing Magic skill +15 ""Magic Def. Bonus"" +2",none
+Dusk Gloves,72,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 24 HP +20 Attack +5 Haste +3% Decreases movement speed,none
+Dusk Gloves +1,72,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 25 HP +22 Attack +6 Haste +4% Decreases movement speed,none
+Enkidu's Mittens,72,MNK / THF / RNG / SAM / NIN / BLU / COR / PUP,"DEF: 24 STR +4 DEX +4 Accuracy +5 Ranged Accuracy +5 ""Subtle Blow"" +2",none
+Errant Cuffs,72,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 20 HP -20 MP +20 INT +5 Enmity -2,none
+Gavial Finger Gauntlets,72,SAM / DRG,DEF: 19 VIT +3 Attack +3 Magic damage taken -3%,none
+Gavial Finger Gauntlets +1,72,SAM / DRG,DEF: 20 VIT +3 VIT +4 Magic damage taken -4%,none
+Mahatma Cuffs,72,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 21 HP -25 MP +25 INT +6 Enmity -3,none
+Oracle's Gloves,72,WHM / BLM / BRD / SMN,DEF: 18 HP +15 MP +25 Enfeebling Magic skill +5 MP recovered while healing +2,none
+Pahluwan Dastanas,72,MNK / RDM / THF / BST / RNG / NIN / DRG / COR / PUP,"DEF: 19 Accuracy +5 Ranged Accuracy +5 Ranged Attack +5 Set: Enhances ""Subtle Blow"" effect",none
+Rasetsu Tekko,72,MNK / SAM / NIN,"DEF: 24 Attack +2 Evasion +10 Latent effect: ""Counter"" +1",none
+Rasetsu Tekko +1,72,MNK / SAM / NIN,"DEF: 25 Attack +3 Evasion +11 ""Counter"" +1",none
+Sha'ir Gages,72,BRD,DEF: 19 MP +12 CHR +5 Song recast delay -2,none
+Sheikh Gages,72,BRD,DEF: 20 MP +14 CHR +6 Song recast delay -4,none
+Sorcerer's Gloves,72,BLM,DEF: 15 MP +24 Dark Magic skill +10 Enmity -2 Bonus damage added to magic burst,none
+Summoner's Bracers,72,SMN,"DEF: 15 MP +25 Summoning Magic skill +10 ""Blood Pact"" ability delay -2 Enhances avatar accuracy",none
+Valor Gauntlets,72,PLD,"DEF: 22 HP +16 VIT +5 Enmity +3 ""Shield Bash"" +10",none
+Warrior's Mufflers,72,WAR,DEF: 22 HP +20 VIT +5 Attack +12 Enmity +2,none
+Wise Gloves,72,RDM,DEF: 16 MND +4 Accuracy +3 Ranged Accuracy +2 Enmity -2,none
+Wise Gloves +1,72,RDM,DEF: 17 MND +5 Accuracy +4 Ranged Accuracy +3 Enmity -3,none
+Yigit Gages,72,WHM / BLM / RDM / BRD / SMN / BLU,"DEF: 17 INT +5 MND +5 Evasion +4 ""Magic Atk. Bonus"" +2 Set: Adds ""Refresh"" effect",none
+Adaman Gauntlets,73,WAR / PLD,DEF: 20 MP +10 VIT +3 AGI -1 INT -1 Enmity +2,none
+Adaman Mufflers,73,WAR / DRK / BST,DEF: 22 INT -10 Accuracy +4 Attack +10 Evasion -4,none
+Armada Mufflers,73,WAR / DRK / BST,DEF: 23 INT -11 Haste +2% Accuracy +5 Attack +11 Evasion -5,Added +2% Haste
+Bandomusha Kote,73,MNK / SAM / NIN,DEF: 21 HP +3% -5 +5 -5 +5 -5 +5 -5 +5 Attack +22 Evasion -10,none
+Barbarossa's Moufles,73,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 22 Ranged Accuracy +7 Ranged Attack +7,none
+Bard's Cuffs,73,BRD,DEF: 18 HP +16 Evasion +5 Wind instrument skill +3 Enmity -3,none
+Blood Finger Gauntlets,73,RDM / PLD / DRK / RNG / DRG / BLU / COR,DEF: 27 HP +22 MP +22 Ranged Accuracy +11 Ranged Attack +11 Dark Magic skill +11,none
+Crimson Finger Gauntlets,73,RDM / PLD / DRK / RNG / DRG / BLU / COR,DEF: 26 HP +20 MP +20 Ranged Accuracy +10 Ranged Attack +10 Dark Magic skill +10,none
+Dragon Mittens,73,THF,"DEF: 16 AGI +4 Attack +2 ""Subtle Blow"" +2 Enmity +2",none
+Dragon Mittens +1,73,THF,"DEF: 17 AGI +5 Attack +3 ""Subtle Blow"" +3 Enmity +3",none
+Gem Gauntlets,73,WAR / PLD,DEF: 21 MP +12 VIT +4 AGI -2 INT -2 Enmity +3,none
+Genie Gages,73,WHM / BLM / RDM / PLD / DRK / SMN / BLU,DEF: 16 Elemental Magic skill +8 MP recovered while healing +1,none
+Genie Manillas,73,BLM,"DEF: 12 Elemental Magic Skill +6 ""Magic Atk. Bonus"" +3 Physical damage: ""Curse"" effect on opponent",none
+Hanzo Tekko,73,MNK / SAM / NIN,DEF: 18 +6 Accuracy +6 Evasion +6,none
+Hecatomb mittens,73,WAR / THF / PLD / DRK / BST / BRD / DRG,"DEF: 25 HP +8 STR +7 DEX +4 ""Slow"" +5%",
+Hecatomb Mittens,73,WAR / THF / PLD / DRK / BST / BRD / DRG,"DEF: 25 HP +8 STR +7 DEX +4 ""Slow"" +5%",none
+Hecatomb Mittens +1,73,WAR / THF / PLD / DRK / BST / BRD / DRG,"DEF: 26 HP +10 STR +8 DEX +5 ""Slow"" +7%",none
+Igqira Manillas,73,BLM,"DEF: 11 Elemental Magic Skill +5 ""Magic Atk. Bonus"" +2 Physical damage: ""Curse"" effect on opponent",none
+Kaiser Handschuhs,73,WAR / PLD,"DEF: 31 HP +22 STR -6 DEX -6 VIT +11 AGI +11 Enhances ""Resist Sleep"" effect",AGI +11 instead of CHR +11
+Koenig Handschuhs,73,WAR / PLD,"DEF: 30 HP +20 STR -5 DEX -5 VIT +10 AGI +10 Enhances ""Resist Sleep"" effect ""Shield Def. Bonus"" +2","AGI +10 instead of CHR +10
+
+""Shield Def. Bonus"" +2"
+Melee Gloves,73,MNK,"DEF: 15 HP +3% Attack +16 ""Subtle Blow"" +4 Enhances ""Chakra"" effect",none
+Mirage Bazubands,73,BLU,DEF: 17 HP +12 MP +12 DEX +5 MND +5 Evasion +5,none
+Pantin Dastanas,73,PUP,DEF: 18 HP +16 DEX +2 CHR +2 Haste +3% Automaton: Haste +3%,none
+Rune Bangles,73,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,Latent effect: Evasion +5 DEF: +32,none
+Saotome Kote,73,SAM,"DEF:21 HP+10 Attack+10 Enmity +1 Enhances ""Meditate"" effect",none
+Shura Kote,73,MNK / SAM / NIN,"DEF: 16 HP -20 Accuracy +5 Attack +10 Enhances ""Resist Paralyze"" effect",none
+Shura Kote +1,73,MNK / SAM / NIN,"DEF: 17 HP -25 Accuracy +7 Attack +12 Enhances ""Resist Paralyze"" effect",none
+Wyrm Finger Gauntlets,73,DRG,DEF: 19 HP +16 AGI +3 Accuracy +5 Wyvern: Magic damage taken -5%,none
+Zenith Mitts,73,WHM / BLM / RDM / BRD / SMN / GEO,"DEF: 23 ""Magic Atk. Bonus"" +5 Converts 50 HP to MP",
+Zenith Mitts +1,73,WHM / BLM / RDM / BRD / SMN,"DEF: 24 ""Magic Atk. Bonus"" +6 Converts 55 HP to MP",none
+Beast Gloves +1,74,BST,"DEF: 15 HP +11 DEX +5 CHR +5 Parrying Skill +10 ""Charm"" +3",
+Chaos Gauntlets +1,74,DRK,"DEF: 20 HP +11 MP +11 STR +6 DEX +6 Accuracy +3 ""Weapon Bash"" +10",none
+Choral Cuffs +1,74,BRD,DEF: 18 HP +14 VIT +7 CHR +7 Singing skill +10 Enmity -1,none
+Corsair's Gants +1,74,COR,DEF: 12 HP +15 DEX +5 MND +5 Evasion +3 Parrying Skill +5,none
+Drachen Finger Gauntlets +1,74,DRG,DEF: 19 HP +11 STR +5 DEX +5 Parrying Skill +12 Wyvern: Increases Accuracy,none
+Evoker's Bracers +1,74,SMN,"DEF: 11 MP +19 ""Blood Pact"" ability delay -1 Occasionally converts damage taken of avatar element to MP Avatar: Enmity -2",none
+Fighter's Mufflers +1,74,WAR,DEF: 22 HP +13 STR +6 Shield Skill +15 Enmity +3,none
+Gallant Gauntlets +1,74,PLD,DEF: 22 HP +11 DEX +6 VIT +3 Enmity +2,
+Healer's Mitts +1,74,WHM,DEF: 14 MP +15 STR +7 MND +7 Healing Magic skill +15 Enmity -4,none
+Hunter's Bracers +1,74,RNG,"DEF: 14 HP +10 DEX +6 AGI +6 Enhances ""Barrage"" effect Enhances ""Shadowbind"" effect",none
+Magus Bazubands +1,74,BLU,DEF: 17 MP +20 STR +3 INT +3 Parrying Skill +10 Increases chance to learn blue magic,none
+Myochin Kote +1,74,SAM,DEF: 21 HP +15 STR +7 DEX +7 Enmity +2 Enhances effects of rice balls,none
+Ninja Tekko +1,74,NIN,DEF: 18 HP +13 STR +6 DEX +6 Ranged Accuracy +20 Ranged Attack +20 Throwing Skill +5,none
+Noritsune Kote,74,MNK / SAM / NIN,DEF: 23 Accuracy +10,none
+Ostreger Mitts,74,WAR / BST / RNG / SAM / DRG,DEF: 24 VIT +4 Wyvern: HP +10,none
+Puppetry Dastanas +1,74,PUP,"DEF: 13 HP +18 STR +5 AGI +5 Enhances ""Maneuver"" effect Reduces ""Overload"" rate",none
+Rogue's Armlets +1,74,THF,"DEF: 16 HP +10 DEX +3 ""Steal"" +1 Increases ""Trick Attack"" damage",none
+Temple Gloves +1,74,MNK,"DEF: 15 HP +14 STR +6 Enhances ""Boost"" effect ""Subtle Blow"" +4",???
+Unicorn Mittens,74,WAR,DEF: 26 HP +24 Attack +8 Ranged Attack +8 Latent effect: Attack +7,none
+Unicorn Mittens +1,74,WAR,DEF: 28 HP +28 Attack +9 Ranged Attack +9 Latent effect: Attack +8,none
+Warlock's Gloves +1,74,RDM,DEF: 17 MP +17 DEX +6 INT +2 MND +2 Parrying skill +15,none
+Wizard's Gloves +1,74,BLM,DEF: 13 MP +17 INT +3 CHR +3 Elemental Magic skill +15 Enmity -2,none
+Abyss Gauntlets +1,75,DRK,DEF: 21 MP +20 DEX +5 INT +9 Dark Magic skill +7,none
+Ares' Gauntlets,75,WAR / PLD / DRK / DRG,"DEF: 20 HP +1% MP +1% STR +4 VIT +4 Accuracy +10 Set: Enhances ""Double Attack"" effect",none
+Askar Manopolas,75,WAR / PLD / DRK / BST / SAM / DRG,DEF: 23 DEX +5 Evasion +8 Enmity +4 Haste +2% Set: Max HP Boost,none
+Assassin's Armlets,75,THF,"DEF: 16 HP +7 CHR +5 Enmity +3 ""Treasure Hunter"" +1",
+Assassin's Armlets +1,75,THF,"DEF: 17 HP +26 CHR +5 Enmity +4 ""Treasure Hunter"" +1",none
+Bard's Cuffs +1,75,BRD,DEF: 19 HP +16 Evasion +5 Wind Instrument Skill +5 Enmity -4,none
+Carbuncle's Cuffs,75,All Jobs,"DEF: 14 Summoning magic casting time -1 Shining Ruby: Adds ""Regen"" effect",none
+Cleric's Mitts,75,WHM,"DEF: 16 MP +20 Enfeebling Magic skill +15 Enmity -3 Enhances potency of ""Banish"" vs. undead",none
+Cleric's Mitts +1,75,WHM,"DEF: 17 HP +20 MP +20 Enfeebling Magic skill +15 Enmity -4 Enhances potency of ""Banish"" vs. Undead",none
+Commodore Gants +1,75,COR,"DEF: 15 HP +15 AGI +3 Ranged Accuracy +5 Enhances ""Snapshot"" effect",none
+Denali Wristbands,75,MNK / THF / RNG / NIN / BLU / COR,DEF: 17 STR +4 MND +4 Attack +6 Evasion +6 Damage taken -2% Set: Increases Accuracy,none
+Duelist's Gloves +1,75,RDM,"DEF: 18 MP +23 INT +5 Enhancing Magic skill +15 ""Magic Def. Bonus"" +2",None
+Goliard Cuffs,75,WHM / BLM / RDM / BRD / SMN / PUP,"DEF: 18 Accuracy +4 Attack +4 ""Magic Atk. Bonus"" +4 Magic Accuracy +4 Set: ""Magic Def. Bonus""",none
+Hachiryu Kote,75,WAR / MNK / RNG / SAM / NIN,"DEF: 26 DEX +10 Accuracy +5 Enhances ""Zanshin"" effect Set: Enhances ""Store TP"" effect",none
+Homam Manopolas,75,THF / PLD / DRK / DRG / BLU,DEF: 20 HP +20 MP +20 Accuracy +4 Enmity +3 Haste +3%,none
+Koga Tekko,75,NIN,"DEF: 18 ""Ninja Tool Expertise"" Nighttime: STR +12 Haste +4%",none
+Koga Tekko +1,75,NIN,"DEF: 19 ""Ninja Tool Expertise"" Dusk to dawn: STR +13 Haste +4%",None
+Marduk's Dastanas,75,WHM / BRD / SMN,"DEF: 20 MP +2% MND +6 CHR +6 Adds ""Regen"" effect Enmity -4 Set: Enhances ""Fast Cast"" effect",none
+Melee Gloves +1,75,MNK,"DEF: 16 HP +3% Attack +18 ""Subtle Blow"" +5 Enhances ""Chakra"" effect II",none
+Mirage Bazubands +1,75,BLU,DEF: 18 HP +12 MP +12 DEX +6 MND +6 Evasion +5,none
+Monster Gloves,75,BST,"DEF: 15 HP +14 DEX +2 AGI +2""Charm"" +4 Augments Call Beast",Haste +3% for Jug Pets
+Monster Gloves +1,75,BST,"DEF: 16 HP +20 DEX +3 AGI +3""Charm"" +4 Augments Call Beast",Haste +3% for Jug Pets
+Morrigan's Cuffs,75,BLM / RDM / BLU,"DEF: 21 MP +25 Accuracy +5 Attack +5 Magic Accuracy +5 ""Magic Atk. Bonus"" +5 Set: Enhances ""Magic Attack Bonus"" effect",none
+Nashira Gages,75,WHM / BLM / RDM / SMN / BLU,DEF: 18 Magic Accuracy +3 Enmity -4 Avatar perpetuation cost -1 Haste +1%,none
+Nightmare Gloves,75,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 13 Latent effect: Avatar perpetuation cost -1,none
+Pantin Dastanas +1,75,PUP,DEF: 19 HP +25 DEX +3 CHR +3 Haste +3% Automaton: Haste +3%,none
+Saotome Kote +1,75,SAM,"DEF: 22 HP +20 Attack +12 Enmity +1 Enhances ""Meditate"" effect",none
+Scout's Bracers +1,75,RNG,DEF: 15 HP +13 AGI +6 Evasion +9 Enmity -2,none
+Seiryu's Kote,75,WAR / MNK / BST / BRD / RNG / SAM / NIN,DEF: 26 HP +50 AGI +15 Ranged Accuracy +10,none
+Shadow Cuffs,75,WHM / BLM / RDM / BRD / SMN,DEF: 14 INT +5 Magic Accuracy +3 Enmity -1 Physical damage taken +2%,none
+Shadow Gauntlets,75,WAR / PLD / DRK,DEF: 23 HP +18 MP +18 CHR +4 Accuracy +3 Attack +5,none
+Skadi's Bazubands,75,THF / BST / RNG / COR,DEF: 17 STR +5 AGI +5 Attack +10 Ranged Attack +10 Set: Increases rate of critical hits,none
+Sorcerer's Gloves +1,75,BLM,DEF: 16 MP +24 Dark Magic skill +12 Enmity -3 Bonus damage added to magic burst,none
+Summoner's Bracers +1,75,SMN,"DEF: 16 MP +30 Summoning Magic skill +12 ""Blood Pact"" ability delay -2 Enhances avatar accuracy",None
+Usukane Gote,75,MNK / SAM / NIN / PUP,"DEF: 20 Accuracy +10 Evasion +10 ""Subtle Blow"" +5 ""Counter"" +2 Set: Enhances Haste effect",none
+Valkyrie's Cuffs,75,WHM / BLM / RDM / BRD / SMN,DEF: 15 INT +6 Magic Accuracy +4 Enmity -2 Physical damage taken +3%,none
+Valkyrie's Gauntlets,75,WAR / PLD / DRK,DEF: 24 HP +20 MP +20 CHR +5 Accuracy +4 Attack +6,none
+Valor Gauntlets +1,75,PLD,"DEF: 23 HP +16 VIT +6 Enmity +4 ""Shield Bash"" +10",none
+Warrior's Mufflers +1,75,WAR,DEF: 23 HP +20 VIT +6 Attack +14 Enmity +2,none
+Wyrm Finger Gauntlets +1,75,DRG,DEF: 20 HP +16 MP +16 AGI +4 Accuracy +7 Wyvern: Magic damage taken -5%,none

@@ -1,0 +1,519 @@
+Name,Level,Jobs,Stats,Horizon Changes
+Laurel Crown,1,All Jobs,A crown to signify great acomplishments as a hardcore adventurer.,Cosmetic item received for achievemnts in Hardcore mode - details below.
+Skormoth Mask,1,All Jobs,None,
+Boudox's Masque,1,All Jobs,None,Drops from Goblin Delver NM on HorizonXI
+Bronze Cap,1,WAR / MNK / RDM / THF / PLD / DRK / BST BRD / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Bronze Cap +1,1,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 3,none
+Cache-nez,1,All Jobs,DEF: 2 Enmity +2,none
+Carbie Cap,1,All Jobs,DEF: 1,none
+Charity Cap,1,All Jobs,None,OOE Item that was added as cosmetic reward for users that reported bugs.
+Chef's Hat,1,All Jobs,"DEF: 1 Enhances ""Resist Poison"" effect Cooking skill +1",
+Circlet,1,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR,DEF: 1,none
+Circlet +1,1,MNK / WHM / BLM / RDM / THF / DRK BRD / RNG / SMN / BLU / COR / PUP,DEF: 2,none
+Copper Hairpin,1,All Jobs,HP -2 MP +5,none
+Copper Hairpin +1,1,All Jobs,HP -2 MP +6,none
+Coven Hat,1,All Jobs,DEF: 2 Latent effect: HP +3% MP +3%,none
+Dream Hat,1,All Jobs,DEF: 1,
+Dream Hat +1,1,All Jobs,DEF: 1 Dispense: Ginger Cookie,
+Egg Helm,1,All Jobs,DEF: 1 Chocobo Digging Bonus,
+Goblin Masque,1,All Jobs,DEF: 1,This item wasn't available until 2016.
+Hardcore Mask,1,All Jobs,DEF: 1,Cosmetic item received for achievemnts in Hardcore mode - details below.
+Horror Head,1,All Jobs,Full Moon + Darksday + Nighttime: Enmity -50,none
+Horror Head II,1,All Jobs,New Moon + Lightsday + Daytime: Enmity +50,none
+Judge's Helm,1,All Jobs,DEF: 50 GMs Only,none
+Korrigan Beret,1,All Jobs,"Enchanctment: ""Costume""",This is a custom Horizon XI item
+Magnifying Spectacles,1,All Jobs,DEF: 1 +1 Clothcraft skill +1,none
+Mandragora Masque,1,All Jobs,DEF: 1,
+Protective Spectacles,1,All Jobs,DEF: 1 +1 Bonecraft skill +1,none
+Pumpkin Head,1,All Jobs,Enmity -1,none
+Pumpkin Head II,1,All Jobs,Enmity +1,none
+Rabbit Cap,1,All Jobs,Dispense: Initial Egg,
+Shaded Spectacles,1,All Jobs,DEF: 1 +1 Goldsmithing skill +1,none
+Snowman Cap,1,All Jobs,DEF: 1 -12 +12 Enchantment: Costume,Enchantment turns you into a rainbow treasure chest instead of a snoll
+Spelunker's Helm,1,All Jobs,VIT -1,Drops from Goblin Delver NM on HorizonXI
+Tavnazian Mask,1,All Jobs,None,none
+Tinfoil Hat,1,All Jobs,"DEF: 1 Enhances ""Treasure Hunter"" ??? Enchanctment: ""Teleport"" (Burning Circle)","This is a custom Horizon XI item. Enchantment: ""Teleport"" (Burning Circle) provides to the following teleportation upon use:Bastok / Gustaberg -> Waughroon Shrine
+San d'Oria / Ronfaure -> Horlais Peak
+Windurst / Sarutabaruta -> Balga's Dais
+Beaucedine Glacier / Xarcabard -> Qu'Bia Arena
+
+
+*please note that in order to be teleported in a BCNM arena, the character you are using needs to have been there at least once.*"
+Windshear Hat,4,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 2 +1,none
+Bone Hairpin,5,All Jobs,HP -1 MP +3 +2,none
+Bone Hairpin +1,5,All Jobs,HP -1 MP +4 +3,
+Eldritch Bone Hairpin,5,All Jobs,HP -1 MP +3 +2 Enchantment: INT +2 MND +2,none
+Traveler's Hat,6,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN/ BLU / COR / PUP,DEF: 3 MND +1,
+Leather Bandana,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3,none
+Leather Bandana +1,7,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Hachimaki,8,MNK / SAM / NIN,DEF: 4,none
+Hachimaki +1,8,MNK / SAM / NIN,DEF: 5,none
+Compound Eye Circlet,9,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 4 Evasion +5,none
+Brass Hairpin,10,All Jobs,HP -4 MP +10,none
+Brass Hairpin +1,10,All Jobs,HP -4 MP +11,none
+Faceguard,10,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 5,none
+Faceguard +1,10,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 6,none
+Legionnaire's Cap,10,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 5 INT +1,none
+Royal Footman's Bandana,10,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 AGI +1,none
+Brass Cap,11,WAR / MNK / RDM / THF / PLD / DRK / BRD / BST / SAM / NIN / DRG/ BLU / COR,DEF: 5,none
+Brass Cap +1,11,WAR / MNK / RDM / THF / PLD / DRK / BRD / BST / SAM / NIN / DRG/ BLU / COR,DEF: 6,none
+Entrancing Ribbon,11,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 5 CHR +2,
+Headgear,11,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 5,none
+Headgear +1,11,MNK / WHM / RDM / THF / PLD / BST BRD / DRG / SMN / BLU / COR / PUP,DEF: 6,none
+Monk's Headgear,11,MNK,DEF: 5 VIT +2,none
+Poet's Circlet,12,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP</span,DEF: 5,none
+Sage's Circlet,12,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 6 INT +1,none
+Cotton Headband,14,All Jobs,DEF: 3 Evasion +3,none
+Erudite's Headband,14,All Jobs,DEF: 4 INT +1 Evasion +3,none
+Fungus Hat,14,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 6 +5 +5,none
+Noble's Ribbon,14,All Jobs,CHR +3 +3 +3 +3 +3 +3 +3 +3 +3,none
+Scarlet Ribbon,14,All Jobs,16,none
+Shell Hairpin,14,All Jobs,HP -3 MP +9 +6,
+Shell Hairpin +1,14,All Jobs,HP -3 MP +10 +7,
+Anu's Tiara,15,WHM / BRD / SMN,DEF: 3 MP +1%,none
+Bastokan Cap,15,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 6 HP +2 MP +2 INT +1,none
+Enyo's Mask,15,WAR / PLD / DRK / DRG,DEF: 6 Accuracy +1,none
+Hoshikazu Hachimaki,15,MNK / SAM / NIN / PUP,DEF: 5 AGI +1,none
+Kingdom Bandana,15,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 HP +6 AGI +1,none
+Nemain's Crown,15,BLM / RDM / BLU,DEF: 3 MP +1,none
+Njord's Mask,15,THF / BST / RNG / COR,DEF: 4 Ranged Attack +1,none
+Republic Cap,15,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 7 HP +3 MP +3 INT +1,none
+San d'Orian Bandana,15,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6 HP +4 AGI +1,none
+Bone Mask,16,WAR / MNK / RDM / THF / PLD / DRK BRD / BST / SAM / NIN / DRG/ BLU / COR,DEF: 7,
+Bone Mask +1,16,WAR / MNK / RDM / THF / PLD / DRK BRD / BST / SAM / NIN / DRG/ BLU / COR,DEF: 8 Evasion +1 -3,none
+Lizard Helm,17,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7,none
+Lizard Helm +1,17,WAR / RDM / THF / PLD / DRK / BST BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8,none
+Bonze's Circlet,18,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 7 MP +2,none
+Cotton Hachimaki,18,MNK / SAM / NIN,DEF: 7,none
+Cotton Hachimaki +1,18,MNK / SAM / NIN,DEF: 8,none
+Garrison Sallet,19,All Jobs,DEF: +5 MND +1 CHR +1,none
+Baron's Chapeau,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 8 INT +2 Enmity +2,none
+Blissful Chapeau,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 7 Enchantment: Recover MP,none
+Mercenary's Hachimaki,20,MNK / SAM / NIN,DEF: 8 STR +1,none
+Silver Hairpin,20,All Jobs,HP -6 MP +15,none
+Silver Hairpin +1,20,All Jobs,HP -6 MP +16,none
+Trader's Chapeau,20,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 7,none
+Trump Crown,20,All Jobs,DEF: 10 HP +14~ MP +14~ CHR +2,none
+Beetle Mask,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 9,none
+Beetle Mask +1,21,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 10 -3 Evasion +1,none
+Shepherd's Bonnet,21,BST / DRG / SMN / PUP,DEF: 7 HP +4 Pet: Accuracy +5 Magic Accuracy +3,This is a custom Horizon item.
+Cotton Headgear,23,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 9,none
+Great Headgear,23,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 10,none
+Emperor Hairpin,24,All Jobs,HP -15 DEX +3 AGI +3 Evasion +10,Obtainable from Valkurm Emperor and not via the BCNM Dropping Like Flies.
+Empress Hairpin,24,All Jobs,HP -15 DEX +3 AGI +3 Evasion +10,Obtainable via BCNM and not from Valkurm Emperor.
+Iron Mask,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 11,none
+Iron Mask +1,24,WAR / PLD / DRK / BST / SAM / NIN,DEF: 12,none
+Bodb's Crown,25,BLM / RDM / BLU,DEF: 7 MP +1 INT +1,none
+Ea's Tiara,25,WHM / BRD / SMN,DEF: 8 MP +1% MND +1,none
+Federation Hachimaki,25,MNK / SAM / NIN,DEF: 10 HP +4 MP +4 STR +1,none
+Freyr's Mask,25,THF / BST / RNG / COR,DEF: 9 AGI +1 Ranged Attack +1,none
+Phobos's Mask,25,WAR / PLD / DRK / DRG,DEF: 11 Accuracy +1 Attack +1,none
+Shade Tiara,25,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,"DEF: 10 ""Empty Killer""",none
+Shade Tiara +1,25,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,"DEF: 11 Evasion +1 ""Empty Killer""",none
+Tsukikazu Jinpachi,25,MNK / SAM / NIN / PUP,DEF: 10 AGI +1 Accuracy +1,none
+Windurstian Hachimaki,25,MNK / SAM / NIN,DEF: 9 HP +3 MP +3 STR +1,none
+Dodge Headband,26,All Jobs,DEF: 5 Evasion +3,none
+Brass Mask,27,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 11,none
+Brass Mask +1,27,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 12,none
+Wool Hat,28,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 9,none
+Wool Hat +1,28,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 10,none
+Eisenschaller,29,WAR / PLD,DEF: 13 AGI +1,none
+Kampfschaller,29,WAR / PLD,DEF: 14 AGI +2,none
+Seer's Crown,29,WHM / BLM / SMN / PUP,DEF: 4 INT +2,none
+Seer's Crown +1,29,WHM / BLM / SMN / PUP,DEF: 5 INT +3,none
+Soil Hachimaki,29,MNK / SAM / NIN,DEF: 10  +1  +1,none
+Soil Hachimaki +1,29,MNK / SAM / NIN,DEF: 11  +2  +2,none
+Centurion's Visor,30,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 12 DEX +1,none
+Circe's Hat,30,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 8 MP +6 MND +2,none
+Dandy Spectacles,30,All Jobs,Accuracy +2 Nighttime: Accuracy -20,none
+Eldritch Horn Hairpin,30,All Jobs,HP -4 MP +12 +8 Enchantment: INT +3 MND +3,none
+Fancy Spectacles,30,All Jobs,Accuracy +3 Nighttime: Accuracy -30,none
+Garish Crown,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 11 On Earthsdays: Evasion +2,none
+Horn Hairpin,30,All Jobs,HP -4 MP +12 +8,none
+Horn Hairpin +1,30,All Jobs,HP -4 MP +13 +9,none
+Legionnaire's Circlet,30,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 10 MP +5 MND +1  +4  +4,"MP +5
+MND +1"
+Mercenary Captain's Headgear,30,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 10 STR +1 DEX +1,none
+Mist Crown,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 11 On Earthsdays: Evasion +2 Enchantment: Evasion Boost,none
+Noct Beret,30,THF / RNG / COR,DEF: 9 AGI +1  +1,none
+Noct Beret +1,30,THF / RNG / COR,DEF: 10 AGI +2  +2,none
+Royal Squire's Helm,30,WAR / PLD / DRK / BST / SAM / NIN,DEF: 12 AGI +1,none
+Rubious Crown,30,MNK / RDM / PLD / BRD / RNG / BLU,DEF: 12 On Earthsdays or Windsdays: Evasion +2,none
+Strong Bandana,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 12,none
+Studded Bandana,30,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 11,none
+Kosshin,32,All Jobs,HP +20 MP +20,none
+Bastokan Circlet,34,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,"DEF: 11 +4 +4 In areas under own nation's control: ""Magic Atk. Bonus"" +3",none
+Bastokan Visor,34,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 13 DEX +1 In areas under own nation's control: HP +5 MP +5,none
+Federation Headgear,34,MNK / WHM / RDM / THF / PLD / BST BRD / DRG / SMN / BLU / COR / PUP,DEF: 12 STR +1 DEX +1 In areas under own nation's control: MP +12,none
+Kingdom Helm,34,WAR / PLD / DRK / BST / SAM / NIN,DEF: 14 AGI +1 In areas under own nation's control: HP +12,none
+Marine Hat,34,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 11 +7 -7 +7,none
+Republic Circlet,34,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,"DEF: 12 +4 +4 In areas under own nation's control: ""Magic Atk. Bonus"" +5",none
+Republic Visor,34,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 14 DEX +1 In areas under own nation's control: HP +6 MP +6,none
+San d'Orian Helm,34,WAR / PLD / DRK / BST / SAM / NIN,DEF: 13 AGI +1 In areas under own nation's control: HP +10,none
+Windurstian Headgear,34,MNK / WHM / RDM / THF / PLD / BST BRD / DRG / SMN / BLU / COR / PUP,DEF: 11 STR +1 DEX +1 In areas under own nation's control: MP +10,none
+Deimos's Mask,35,WAR / PLD / DRK / DRG,DEF: 13 MP +1% Accuracy +1 Attack +1,none
+Enlil's Tiara,35,WHM / BRD / SMN,DEF: 9 MP +1% MND +1 CHR +1,none
+Freya's Mask,35,THF / BST / RNG / COR,DEF: 10 DEX +1 AGI +1 Ranged Attack +1,none
+Hikazu Kabuto,35,MNK / SAM / NIN / PUP,DEF: 12 AGI +1 Accuracy +1 Evasion +1,none
+Macha's Crown,35,BLM / RDM / BLU,DEF: 8 MP +1 INT +1 magic accuracy +1,none
+Padded Cap,35,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 12,none
+Plain Cap,35,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 12,none
+Rusty Cap,35,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 8,none
+Strong Cap,35,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 13,none
+Alluring Headband,36,All Jobs,DEF: 7 CHR +1 Evasion +4,none
+Blink Band,36,All Jobs,"DEF: 6 Evasion +4 Enchantment: ""Blink""",none
+Flax Headband,36,All Jobs,DEF: 6 Evasion +4,none
+Purple Ribbon,36,All Jobs,32,none
+Red Cap,36,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 12,none
+Red Cap +1,36,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 13,none
+Silver Mask,36,WAR / PLD / DRK / BST / SAM / NIN,DEF: 14,none
+Silver Mask +1,36,WAR / PLD / DRK / BST / SAM / NIN,DEF: 15,none
+Iron Visor,37,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 14,none
+Iron Visor +1,37,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 15,none
+Cuir Bandana,38,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 14,none
+Cuir Bandana +1,38,WAR / RDM / THF / PLD / DRK / BST BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 15,none
+Mage's Hat,38,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 13,none
+Velvet Hat,38,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 12,none
+Dobson Bandana,39,All Jobs,"AGI +3 Evasion +5 Enhances ""Resist Poison"" effect",none
+Dobson Bandanna,39,All Jobs,"AGI +3 Evasion +5 Enhances ""Resist Poison"" effect",none
+Sinister Mask,39,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 12 STR +2 VIT -2 INT +2 MND -2,none
+Buffalo Helm,40,BST / DRG / SMN,DEF: 7 CHR +2 Pet: Magic Accuracy +6,This is a custom Horizon item.
+Electrum Hairpin,40,All Jobs,HP -10 MP +25,none
+Gala Corsage,40,All Jobs,DEF: 2 CHR +1,none
+Iron Musketeer's Armet,40,WAR / PLD / DRK,DEF: 17 VIT +2,none
+Lilac Corsage,40,All Jobs,DEF: 2,none
+Sallet,40,WAR / PLD / DRK,DEF: 16,none
+Sallet +1,40,WAR / PLD / DRK,DEF: 17,none
+Spelunker's Hat,40,All Jobs,Accuracy -10 Ranged Accuracy -10 Evasion -10,none
+Rain Hat,41,All Jobs,"MP +20 MND +2 CHR +2 Rainy Weather: Adds ""Regen"" effect",none
+Voyager Sallet,41,All Jobs,STR +3 DEX +4,none
+Iron Musketeer's Armet +1,43,WAR / PLD / DRK,DEF: 18 VIT +2 In areas under own nation's control: MP +14,none
+Iron Musketeer's Armet +2,43,WAR / PLD / DRK,DEF: 19 VIT +2 In areas under own nation's control: MP +16,none
+Valkyrie's Mask,43,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 16 MP +10 Attack +7,none
+Walkure Mask,43,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 11 HP +15 Attack +6,none
+Corsair's Hat,44,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 14 DEX +1 +8 -6 +8,none
+Corsair's Hat +1,44,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 15 DEX +2 +9 -6 +9,none
+Zunari Kabuto,44,SAM,DEF: 15,none
+Zunari Kabuto +1,44,SAM,DEF: 16,none
+Alumine Haubert,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 30 STR +1 DEX +1 Attack +2 Accuracy +2 Evasion -10,"STR +1 added
+DEX +1 added
+Attack +2 added
+Accuracy +2 added
+Evasion -10 added"
+Alumine Salade,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 16 STR +1 DEX +1 AGI -1 Attack +1 Accuracy +1 Evasion -2,"STR +1 DEX +1 AGI -1
+Attack +1 Accuracy +1
+Evasion -2"
+Carapace Mask,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 16,none
+Carapace Mask +1,45,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 17 -3 Evasion +1,none
+Luisant Haubert,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 30 STR +2 DEX +2 Attack +3 Accuracy +3 Evasion -12,none
+Luisant Salade,45,WAR / PLD / DRK / BST / SAM / NIN,DEF: 16 STR +1 DEX +1 AGI -1 Attack +2 Accuracy +2 Evasion -3,"Accuracy +2 instead of Accuracy +1
+Attack +2 instead of Attack +1"
+Namru's Tiara,45,WHM / BRD / SMN,DEF: 15 MP +10 Enhancing Magic skill +2,none
+Neit's Crown,45,BLM / RDM / BLU,DEF: 15 INT +2 MND +2 Magic Accuracy +1,none
+Banded Helm,46,WAR / PLD / DRK / BST / SAM / NIN,DEF: 18,none
+Banded Helm +1,46,WAR / PLD / DRK / BST / SAM / NIN,DEF: 19,none
+Jester's Headband,46,All Jobs,DEF: 8 DEX -1 CHR +2 Evasion +4,none
+Juggler's Headband,46,All Jobs,DEF: 9 DEX +2 CHR -1 Evasion +5,none
+Dino Helm,48,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 19 +3 -1,none
+Raptor Helm,48,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 18  +2  -1,none
+Steel Visor,48,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 18,none
+Steel Visor +1,48,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 19,none
+Wool Cap,48,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 16,none
+Wool Cap +1,48,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 17,none
+Mythril Sallet,49,WAR/PLD/DRK,DEF: 20,none
+Mythril Sallet +1,49,WAR / PLD / DRK,DEF: 21 INT +2 -1 +3,none
+Shinobi Hachigane,49,MNK / SAM / NIN,DEF: 17,none
+Shinobi Hachigane +1,49,MNK/SAM/NIN,DEF: 18  +3,none
+Austere Hat,50,SMN,DEF: 13 MP +8 CHR -1 Summoning Magic skill +2 Blood Pact ability delay -2,none
+Blue Ribbon,50,All Jobs,48,none
+Crow Beret,50,MNK / WHM / RDM / THF / PLD / BST BRD / DRG / SMN / BLU / COR / PUP,DEF: 15 Evasion +4 Enmity -7,none
+Gold Hairpin,50,All Jobs,HP -12 MP +30,none
+Gold Hairpin +1,50,All Jobs,HP -12 MP +33,none
+Penance Hat,50,SMN,DEF: 14 MP +8 CHR -2 Summoning Magic skill +3 Blood Pact ability delay -3,none
+Raven Beret,50,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 16 Evasion +5 Enmity -8,none
+Rival Ribbon,50,All Jobs,DEF: 15 MP +16 Enmity +2,none
+Shock Mask,50,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 19 Attack +4 Ranged Accuracy -4 Evasion +4 Converts 10 MP to HP,none
+Storm Turban,50,All Jobs,"DEF: 15 MP +18 ""Magic Def. Bonus"" +2 MP recovered while healing +1",none
+Storm Zucchetto,50,All Jobs,DEF: 15 Accuracy +4 Magic Accuracy +2,none
+Tactician Magician's Hat,50,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 16,none
+Elegant Ribbon,51,All Jobs,Increases resistance to all status ailments,none
+Vampire Mask,51,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 17 Nighttime:: Accuracy +3,none
+Mana Circlet,52,WHM / BLM / RDM / BRD / SMN,DEF: 9 MP +22,none
+Super Ribbon,52,All Jobs,HP +5 MP +5 STR +1 DEX +1 VIT +1 AGI +1 INT +1 MND +1 CHR +1 Accuracy +1 Attack +1 Ranged Accuracy +1 Ranged Attack +1 Evasion +1,none
+Tactician Magician's Hat +1,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 18 In areas under own nation's control: INT +3 MND +3,none
+Tactician Magician's Hat +2,52,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 19 In areas under own nation's control: INT +4 MND +4,none
+Magi Hat,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 18 HP +19 MP +19 MND +1,none
+Monsoon Jinpachi,53,MNK / SAM / NIN,DEF: 18 Rainy weather: Evasion +8,none
+Silk Hat,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 17,none
+Silk Hat +1,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 18 MND +1,none
+Silken Hat,53,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,DEF: 17 HP +18 MP +18,none
+Choral Roundlet,54,BRD,DEF: 15 HP +11 MND +2 CHR +2 Parrying skill +5 Enmity -1,MND +2 CHR +2 instead of MND +3
+Healer's Cap,54,WHM,DEF: 21 MP +13 MND +4 +15 Enmity -1,none
+Hunter's Beret,54,RNG,"DEF: 21 HP +13 INT +3 Ranged Attack +5 Increases ""Rapid Shot"" activation rate",none
+Rogue's Bonnet,54,THF,"DEF: 23 HP +13 INT +5 DEX +2 Parrying Skill +10 ""Steal"" +1",DEX +2
+Silk Headband,54,All Jobs,DEF: 9 Evasion +5,none
+Silk Headband +1,54,All Jobs,DEF: 10 Evasion +7,none
+Akinji Khud,55,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 22 HP -5 Attack +3 Ranged Attack +2,none
+Jaridah Khud,55,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 21 HP -5 Attack +2 Ranged Attack +1,none
+Royal Knight's Bascinet,55,WAR / PLD / DRK / BST / SAM / NIN,DEF: 22 STR +1 DEX +1,none
+Beast Helm,56,BST,"DEF: 22 HP +15 INT +5 MND +3 Increases ""Tame"" success rate ""Charm"" +4 Pet:Magic Accuracy +5","Pet: Magic Accuracy +5
+
+MND +3
+
+Currently the .DAT is bugged and does not reflect the +3mnd"
+Fighter's Mask,56,WAR,DEF: 24 HP +15 DEX +3 INT +1 Enmity +1,none
+Gallant Coronet,56,PLD,"DEF: 24 HP +12 MND +3 Enhances ""Cover"" effect Enmity +2",none
+Ninja Hatsuburi,56,NIN,DEF: 21 HP +10 AGI +3 CHR +5  +10 Ninjutsu Skill +5,AGI+3 was added
+Temple Crown,56,MNK,"DEF: 21 HP +16 MND +5 Attack +5Enhances ""Focus"" effect",Attack +5
+Scorpion Mask,57,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 20 HP +3  -2  +5  +5,none
+Scorpion Mask +1,57,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 21 HP +4  -2  +7  +7,none
+Beak Helm,58,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 21 VIT +1 +4,none
+Beak Helm +1,58,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 22 VIT 1 +6,none
+Abtal Turban,59,WAR / PLD / DRK / BST / SAM,DEF: 20 HP +10 STR +4 AGI +4,none
+Bascinet,59,WAR / PLD / DRK / BST / SAM / NIN,DEF: 23,none
+Bascinet +1,59,WAR / PLD / DRK / BST / SAM / NIN,DEF: 24,none
+Sipahi Turban,59,WAR / PLD / DRK / BST / SAM,DEF: 19 HP +8 STR +3 AGI +3,none
+Chaos Burgeonet,60,DRK,"DEF: 23 HP +12 STR +4 Dark Magic Skill +5 Enhances ""Souleater"" effect",none
+Coral Hairpin,60,All Jobs,HP -7 MP +21 +14,none
+Corsair's Tricorne,60,COR,"DEF: 22 HP +8 STR +2 Ranged Accuracy +8 Enhances ""Quick Draw"" effect",none
+Drachen Armet,60,DRG,DEF: 16 HP +12 DEX +2  +10 Wyvern uses breaths more effectively,DEX +2 instead of MND +5
+Evoker's Horn,60,SMN,DEF: 15 MP +20 INT +3 Summoning Magic Skill +5 Avatar: Enmity -3,none
+Gilt Armet,60,WAR / PLD / DRK,DEF: 25 VIT +3 +6,none
+Gold Armet,60,WAR / PLD / DRK,DEF: 22 VIT +2 +4,none
+Green Ribbon,60,All Jobs,64,none
+Green Ribbon +1,60,All Jobs,80,none
+Magus Keffiyeh,60,BLU,DEF: 23 MP +20 INT +3 MND +3 Enhances monster correlation effects,none
+Merman's Hairpin,60,All Jobs,HP -7 MP +24 +15,none
+Myochin Kabuto,60,SAM,"DEF: 20 HP +10 STR +2 MND +5 Enhances ""Warding Circle"" effect Enhances ""Meditate"" effect",STR +2
+Patroclus's Helm,60,WAR / THF / PLD / DRK / BST / BRD / DRG,DEF: 21 STR +2 Evasion -5 Haste +2% Enmity -5,none
+Puppetry Taj,60,PUP,DEF: 15 HP +10 DEX +3 MND +3 Automaton: HP recovered while healing +3 MP recovered while healing +3,none
+Reraise Hairpin,60,All Jobs,"HP -7 MP +21 +14 Enchantment: ""Reraise II""",none
+Warlock's Chapeau,60,RDM,"DEF: 23 MP +20 INT +3 Elemental Magic Skill +10 Enhances ""Fast Cast"" effect",none
+Wizard's Petasos,60,BLM,DEF: 20 MP +25 INT +4 +10 Enmity -4,none
+Carapace Helm,61,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,DEF: 23 +7 Latent effect: Attack +10 DEF: +23,none
+Carapace Helm +1,61,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,DEF: 24 +8 Latent effect: Attack +11 DEF: +24,none
+Goblin Coif,61,All Jobs,DEF: 5 +5 +5 +5 +5 +5 +5 -25 +5,none
+Orc Helm,61,All Jobs,DEF: 5  +5  +5  +5  +5  +5  -25  +5  +5,none
+Quadav Barbut,61,All Jobs,DEF: 5  +5  +5  +5  +5  -25  +5  +5  +5,none
+Yagudo Headgear,61,All Jobs,DEF: 5 +5 -25 +5 +5  +5 +5 +5 +5,none
+Mushroom Helm,62,MNK / WHM / BLM / RDM / THF / DRK / BRD / RNG / SMN / BLU / COR / PUP,"DEF: 18 INT +2 MND +2 +7 +7 On Watersdays and Darksdays: Adds ""Regen"" effect",none
+Shadow Mask,62,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 20 MP +10 STR +2 VIT -2 -10,none
+Arhat's Jinpachi,63,MNK / SAM / NIN,DEF: 19 Physical damage taken -4% Enmity +1,none
+Arhat's Jinpachi +1,63,MNK / SAM / NIN,DEF: 20 Physical damage taken -6% Enmity +2,none
+Coral Visor,63,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,DEF: 21 -4 +4 Magic damage taken -1%,none
+Coral Visor +1,63,WAR / RDM / PLD / DRK / BST / RNG SAM / DRG / BLU,DEF: 22 -3 +5 Magic damage taken -2%,none
+Frenzy Sallet,64,MNK/ THF / DRK / BST / SAM / DRG,DEF: 18 Latent effect: Accuracy +12 Haste 4%,none
+Cacaroon's Hood,65,All Jobs,DEF: 21 Vs. beasts: Increases feral drain success rate,none
+Darksteel Armet,65,PLD / DRK,DEF: 25 MP +8 INT +3 MND -1  +2  +2,none
+Darksteel Armet +1,65,PLD / DRK,DEF: 26 MP +9 INT +4 MND -1 +3 +3,none
+Darksteel Cap,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 21 +1 +1 Physical damage taken -1%,none
+Darksteel Cap +1,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 22 +2 +2 Physical damage taken -2%,none
+Dartorgor's Coif,65,All Jobs,DEF: 23 Vs. vermin: Increases feral drain success rate,none
+Feral Helm,65,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 22 -3 +5 Attack +4,none
+Green Beret,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 19 Accuracy +1 Evasion +1,none
+Green Beret +1,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 20 Accuracy +2 Evasion +2,none
+Lamia Garland,65,All Jobs,"DEF: 21 Latent Effect: CHR +7 Enhances ""Resist Charm"" effect",none
+Mamool Ja Helm,65,All Jobs,DEF: 21 Latent effect: STR +4 +15 +15,none
+No.3's Garland,65,All Jobs,DEF: 21 Vs. undead: Increases feral drain success rate,none
+Opo-opo Crown,65,All Jobs,STR +1 DEX +1 VIT +1 AGI +1 INT +1 MND +1 CHR -7,none
+Presidential Hairpin,65,MNK / WHM / RDM / THF / BST / BRD / NIN / DRG,"DEF: 18 In areas outside own nation's control: Adds ""Regen"" effect",none
+Qiqirn Hood,65,All Jobs,DEF: 21 Latent effect: Ranged Accuracy +2 Ranged Attack +2 Evasion +2,none
+Tabin Beret,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 19 HP +10 Accuracy +1 Evasion +1,none
+Tabin Beret +1,65,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 20 HP +12 Accuracy +2 Evasion +2,none
+Tiger Helm,65,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 21 -4 +4 Attack +3,none
+Troll Coif,65,All Jobs,DEF: 23 Latent effect: HP +32 VIT +5  -50,none
+Wivre Mask,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 20 STR +2 VIT +2 Evasion +10,none
+Wivre Mask +1,65,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / SAM / NIN / DRG / BLU / COR,DEF: 21 STR +3 VIT +3 Evasion +11,none
+Zoraal Ja's Helm,65,All Jobs,DEF: 21 Vs. lizards: Increases feral drain success rate,none
+Aristocrat's Crown,66,WHM,DEF: 24 MP +16 MND +3 CHR +2,none
+Coral Cap,66,WAR / THF / BST,DEF: 21 DEX +1 CHR +2 Magic damage taken -1% Converts 15 HP to MP,none
+Merman's Cap,66,WAR / THF / BST,DEF: 22 DEX +1 CHR +3 Magic damage taken -2% Converts 20 MP to HP,none
+Noble's Crown,66,WHM,DEF: 23 MP +15 MND +2 CHR +1,none
+Scorpion Helm,66,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,"DEF: 12 +7 Enhances ""Resist Paralyze"" effect Paralysis: Adds ""Refresh"" effect",none
+Scorpion Helm +1,66,WAR / MNK / RDM / THF / DRK / BST / BRD / RNG / SAM / DRG,"DEF: 23 +8 Enhances ""Resist Paralyze"" effect Paralysis: Adds ""Refresh"" effect",none
+Prism Headband,67,All Jobs,DEF: 11 Evasion +8,none
+Rainbow Headband,67,All Jobs,DEF: 10 Evasion +7,none
+Celata,68,WAR / DRK / BST,DEF: 22 Accuracy +3 Attack +4 Evasion -2,none
+Celata +1,68,WAR / DRK / BST,DEF: 23 Accuracy +3 Attack +5 Evasion -2,none
+Curate's Hat,68,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,DEF: 18 HP +25 MP +25 MP recovered while healing +1,none
+Dragon Mask,68,DRG,DEF: 23 HP +10 +10 +10 Breath damage taken -4%,none
+Dragon Mask +1,68,DRG,DEF: 24 HP +12 +12 +12 Breath damage taken -5%,none
+Wivre Hairpin,68,All Jobs,DEF: 15 HP -20 MP +38 +10,none
+Wivre Hairpin +1,68,All Jobs,DEF: 16 HP -22 MP +40  +12,none
+Coeurl Mask,69,THF / BST / RNG,DEF: 22 HP -1% Ranged Accuracy +3 Evasion +2,none
+Megrim Crown,69,All Jobs,DEF: 18 Enchantment: ???,none
+Torama Mask,69,RDM / THF / BST / RNG,DEF: 23 HP -1% Ranged Accuracy +4 Evasion +3,none
+Barone Zucchetto,70,WAR / DRG,DEF: 24 Attack +5 Parrying Skill +10 Enmity +1,none
+Black Ribbon,70,All Jobs,96,none
+Bowman's Mask,70,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 25 DEX +4 Ranged Accuracy +10 Enhances ""Resist Stun"" effect Set: Increases Ranged Attack",none
+Breeder Mask,70,BST / DRG / SMN / PUP,"DEF: 22 Accuracy +4 Enmity -3 Haste +1% Physical damage: ""Blaze Spikes"" effect Set: Increases pet defense and enmity",none
+Cactuar Ribbon,70,All Jobs,"AGI +4 +9 Enhances ""Resist Sleep"" effect Enhances ""Resist Paralyze"" effect",none
+Carline Ribbon,70,WHM / BLM / RDM / BRD / SMN / BLU,"MP +30 Magic Accuracy +4 Enhances ""Resist Stun"" effect Set: Increases CHR",none
+Conte Zucchetto,70,WAR / DRG,DEF: 25 Attack +6 Parrying Skill +12 Enmity +2,none
+Faerie Hairpin,70,All Jobs,HP -20 MP +55,none
+Fenrir's Crown,70,SMN,DEF: 10 MP +12 Fenrir: Enhances accuracy,none
+Feral Mask,70,WAR / MNK / THF / BST / NIN,DEF: 28 HP +21 VIT +6 Evasion -6 Guarding skill +6,none
+Hachiman Jinpachi,70,SAM,"DEF: 26 STR +3 Weapon Skill Accuracy +4 Latent effect: ""Double Attack"" +2%",none
+Hachiman Jinpachi +1,70,SAM,DEF: 27 STR +4 Weapon Skill Accuracy +5 Latent effect: Double Attack +3%,none
+Hydra Beret,70,WHM / BLM / RDM / BRD / SMN,DEF: 24 Accuracy +3 Evasion +3 Enmity -8 MP recovered while healing +2,none
+Hydra Cap,70,All Jobs,DEF: 28 Fellow: HP +10 MP +10 INT +2,none
+Hydra Salade,70,WAR / PLD / DRK,DEF: 25 HP -20 MP +20 Accuracy +5 Enmity +7,none
+Hydra Tiara,70,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 24 Enchantment: Potency,none
+King's Armet,70,PLD,DEF: 27 HP +15 VIT +3 +3 +3 Enmity +3,none
+Lord's Armet,70,PLD,DEF: 26 VIT +2 +2 +2 Converts 15 MP to HP Enmity +2,none
+Maat's Cap,70,All Jobs,"STR +7 DEX +7 VIT +7 AGI +7 INT +7 MND +7 CHR +7 Enchantment: ""Teleport""",
+Mercenary's Turban,70,DRK / BST / RNG / SAM / DRG,"DEF: 28 Enmity -4 Besieged:: Enhances ""Sharpshot"" effect",none
+Ogre Mask,70,RDM / BST,DEF: +23 MP +15 INT -5 CHR +3 Attack +10,none
+Ogre Mask +1,70,RDM / BST,DEF: +24 MP +17 INT -6 CHR +5 Attack +12,none
+Optical Hat,70,All Jobs,Accuracy +10 Ranged Accuracy +10 Evasion +10,none
+Tiger Mask,70,WAR / MNK / THF / BST / NIN,DEF: 27 HP +20 VIT +5 Evasion -5 Guarding skill +5,none
+Volunteer's Khud,70,MNK / WHM / RDM / THF / PLD / BST / BRD / DRG / SMN / BLU / COR / PUP,"DEF: 24 MP recovered while healing +2 Besieged:: ""Cure"" potency +5%",none
+War Beret,70,THF / RNG / COR,DEF: 20 HP +10 INT -3 Accuracy +7 Ranged Accuracy +7,none
+War Beret +1,70,THF / RNG / COR,DEF: 21 HP +12 INT -4 Accuracy +9 Ranged Accuracy +9,none
+Assassin's Bonnet,71,THF,"DEF: 24 HP +16 DEX +5 Enmity +2 Enhances ""Mug"" effect",none
+Bison Warbonnet,71,BST,"DEF: 25 MP +8 Enmity -1 Reduces ""Reward"" recast time Vs. beasts: ""Charm""+5",none
+Black Sallet,71,DRK,"DEF: 22 Accuracy +5 Attack +9 Damage Taken +9% Enhances Effect of ""Absorb"" Spells",none
+Brave's Warbonnet,71,BST,"DEF: 26 MP +9 Enmity -2 Reduces ""Reward"" Recast Time Vs. beasts: ""Charm"" +6",none
+Hissho Hachimaki,71,MNK / SAM / NIN,DEF: 22 Accuracy +8 Attack +8,none
+Khimaira Bonnet,71,BST,"DEF: 26 HP +8 MP +8 Enmity -3 Reduces ""Reward"" recast time Vs. Beasts: ""Charm"" +5",none
+Monster Helm,71,BST,"DEF: 26 HP +19 CHR +4 Parrying Skill +3 ""Charm"" +5",none
+Onyx Sallet,71,DRK,"DEF: +23 Accuracy +6 Attack +11 Damage taken +10% Enhances Effect of ""Absorb"" Spells",none
+Pineal Hat,71,MNK / WHM / BLM / PLD / BRD / DRG / SMN,DEF: 18 Accuracy +2 Attack +2 Evasion +2,none
+Reviler's Helm,71,WAR / RDM / PLD / DRK / BST / RNG / SAM / DRG / BLU,"DEF: 21 Enchantment: ""Provoke""",none
+Stout Bonnet,71,BST,"DEF: 27 HP +9 MP +9 Enmity -5Reduces ""Reward"" recast time Vs. Beasts: Charm +6",none
+Yasha Jinpachi,71,NIN,DEF: 22 INT +7 Spell interruption rate down 5% Enmity +2,none
+Yasha Jinpachi +1,71,NIN,DEF: 23 INT +8 Spell interruption rate down 6% Enmity +3,none
+Amir Puggaree,72,WAR / PLD / DRK / SAM / DRG,DEF: 23 Attack +5 Evasion +2 HP recovered while healing +2 Set: Reduces magic and breath damage,none
+Aurum Armet,72,WAR / PLD / DRK / BST / DRG,DEF: 23 STR +3 Accuracy +4 Attack +4 Evasion -7 Haste +2%,none
+Bard's Roundlet,72,BRD,DEF: 19 HP +13 CHR +5 Singing skill +5 Enmity -3,none
+Cleric's Cap,72,WHM,"DEF: 24 MP +25 VIT +4 Enmity -4 Enhances ""Resist Silence"" effect",none
+Dusk Mask,72,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 31 HP +30 VIT +5 Accuracy +5 Evasion +5 Decreases movement speed,none
+Dusk Mask +1,72,WAR / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 32 HP +32 VIT +6 Accuracy +6 Evasion +6 Decreases movement speed,none
+Enkidu's Cap,72,MNK / THF / RNG / SAM / NIN / BLU / COR / PUP,"DEF: 23 DEX +3 AGI +3 Accuracy +8 Ranged Accuracy +8 ""Subtle Blow"" +2",none
+Errant Hat,72,WHM / BLM / RDM / BRD / SMN / BLU PUP,DEF: 28 STR -2 DEX -2 VIT -2 AGI -2 INT +3 MND +3 CHR +3 Enmity -5,none
+Gavial Mask,72,SAM / DRG,DEF: 29 DEX +1 AGI +2 Magic damage taken -2%,none
+Gavial Mask +1,72,SAM / DRG,DEF: 30 DEX +2 AGI +3 Magic damage taken -3%,none
+Hydra Mask,72,SAM / DRG,DEF: 30 DEX +1 AGI +2 Accuracy +5 Evasion +5 Magic damage taken -2%,none
+Hydra Mask +1,72,SAM / DRG,DEF: 31 DEX +2 AGI +3 Accuracy +6 Evasion +6 Magic damage taken -3%,none
+Mahatma Hat,72,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 29 STR -3 DEX -3 VIT -3 AGI -3 INT +4 MND +4 CHR +4 Enmity -6,none
+Oracle's Cap,72,WHM / BLM / BRD / SMN,DEF: 19 HP +15 MP +25 Elemental Magic skill +5 MP recovered while healing +2,none
+Pahluwan Qalansuwa,72,MNK / RDM / THF / BST / RNG / NIN / DRG / COR / PUP,"DEF: 15 HP +25 Accuracy +7 Attack +5 Ranged Accuracy +7 Set: Enhances ""Subtle Blow"" effect",none
+Panther Mask,72,WAR / MNK / THF / BST / NIN,"DEF: 28 CHR +5 Enhances ""Lizard Killer"" effect Enhances ""Resist Paralyze"" effect Haste +2%",none
+Panther Mask +1,72,WAR / MNK / THF / BST / NIN,"DEF: 29 CHR +6 Enhances ""Lizard Killer"" effect Enhances ""Resist Paralyze"" effect Haste +3%",none
+Rasetsu Jinpachi,72,MNK / SAM / NIN,"DEF: 31 Attack +2 Physical damage: ""Blaze Spikes"" effect Latent effect: ""Counter"" +1",none
+Rasetsu Jinpachi +1,72,MNK / SAM / NIN,"DEF: 32Attack +3 Counter +1 Physical damage: ""Blaze Spikes"" effect",none
+Reikyo Hairpin,72,All Jobs,DEF: 19 HP -20 MP +20 Enchantment: Slightly Bad Breath,none
+Sha'ir Turban,72,BRD,DEF: 17 MP +9 CHR +3 Haste +1%,none
+Sheikh Turban,72,BRD,DEF: 18 MP +10 CHR +4 Haste +2%,none
+Wise Cap,72,RDM,DEF: 24 MP +13 Accuracy +2 Ranged Accuracy +3 Magic Accuracy +5,none
+Wise Cap +1,72,RDM,DEF: 25 MP +15 Accuracy +3 Ranged Accuracy +4 Magic Accuracy +6,none
+Yigit Turban,72,WHM / BLM / RDM / BRD / SMN / BLU,"DEF: 21 MND +4 ""Magic Atk. Bonus"" +2 Enmity -5 MP recovered while healing +1 Set: Adds ""Refresh"" effect",none
+Adaman Barbuta,73,WAR / PLD,DEF: 28 HP +12 MP +12 VIT +3 Evasion -3 Enmity +2,none
+Adaman Celata,73,WAR / DRK / BST,DEF: 30 HP -20 Accuracy +8  Attack +8 Evasion -8,Accuracy Increased from +5 to +8.
+Armada Celata,73,WAR / DRK / BST,DEF: 31 HP -21 Accuracy +9 Attack +9 Evasion -9,Added +3 Accuracy
+Blood Mask,73,RDM / PLD / DRK / RNG / DRG / BLU / COR,"DEF: 35 HP +22 MP +22 Enfeebling Magic skill +11 Adds ""Regen"" effect",none
+Brigand's Mask,73,WAR / MNK / THF / BST / NIN,DEF: 22 Accuracy +2 Attack +2 Haste +1%,none
+Crimson Mask,73,RDM / PLD / DRK / RNG / DRG / BLU / COR,"DEF: 34 HP +20 MP +20 Enfeebling Magic skill +10 Adds ""Regen"" effect",none
+Demon Helm,73,BLM / DRK / BRD,DEF: 25 INT +5 MND -5 Parrying skill +5 Singing skill +5,none
+Demon Helm +1,73,BLM / DRK / BRD,DEF: 26 INT +6 MND -6 Parrying skill +6 Singing skill +6,none
+Dragon Cap,73,THF,DEF: 24 AGI +4 Subtle Blow +3 Breath Damage Taken -5% Enmity +1,none
+Dragon Cap +1,73,THF,DEF: 25 AGI +5 Subtle Blow +4 Breath Damage Taken -6% Enmity +2,none
+Gem Barbuta,73,WAR / PLD,DEF: 29 HP +14 MP +14 VIT +4 Evasion -4 Enmity +3,none
+Genie Tiara,73,BLM,"DEF: 21 Evasion +11 Enfeebling Magic Skill +11 Physical damage: ""Curse"" effect on opponent",none
+Hecatomb Cap,73,WAR / THF / PLD / DRK / BST / BRD / DRG,"DEF: 33 HP +12 STR +11 DEX +5 ""Slow"" +9%",none
+Hecatomb Cap +1,73,WAR / THF / PLD / DRK / BST / BRD / DRG,"DEF: 35 HP +14 STR +12 DEX +6 ""Slow"" +11%",none
+Igqira Tiara,73,BLM,"DEF: 20 Evasion +10 Enfeebling magic skill +10 Physical damage: ""Curse"" effect on opponent",none
+Kaiser Schaller,73,WAR / PLD,DEF: 41 HP +32 STR -6 DEX -6 VIT +11 AGI +11 Shield Skill +6,AGI +11 instead of CHR +11
+Karura Hachigane,73,SMN,DEF: 20 Garuda: Perpetuation cost -2 Attack Bonus Defense Bonus,none
+Koenig Schaller,73,WAR / PLD,DEF: 40 HP +30 STR -5 DEX -5 VIT +10 AGI +10 Shield Skill +5,AGI +10 instead of CHR +10
+Koga Hatsuburi,73,NIN,DEF: 22 HP +20 Enhances ninjutsu damage Nighttime: Parrying skill +10,none
+Roshi Jinpachi,73,All Jobs,Enhances effects of rice balls,none
+Roshi Jinpachi +1,73,All Jobs,HP +20 Enhances Effects of Rice Balls,none
+Scout's Beret,73,RNG,"DEF: 24 HP +15 MND +4 Enmity -3 ""Recycle""",none
+Shura Zunari Kabuto,73,MNK / SAM / NIN,DEF: 20 HP -25 STR +5 Accuracy +5,none
+Shura Zunari Kabuto +1,73,MNK / SAM / NIN,DEF: 21 HP -30 STR +6 Accuracy +6,none
+Valor Coronet,73,PLD,"DEF: 28 HP +18 Healing Magic skill +10 Enmity +3 Enhances ""Rampart"" effect",none
+Warrior's Mask,73,WAR,"DEF: 28 DEX +5 Parrying Skill +5 Enmity +1 Enhances ""Warcry"" effect",none
+Zenith Crown,73,WHM / BLM / RDM / BRD / SMN / GEO,"DEF: 30 INT +3 MND +3 Enhances ""Resist Silence"" effect Converts 50 HP to MP",
+Zenith Crown +1,73,WHM / BLM / RDM / BRD / SMN,"DEF: 31 INT +4 MND +4 Enhances ""Resist Silence"" effect Converts 55 HP to MP",none
+Zoolater Hat,73,BST,"DEF: 19 Enchantment: Pet gains effect of ""Meditate""",none
+Ace's Helm,74,DRK / SAM / DRG,DEF: 28 STR +4 Accuracy +7 Evasion -7 Haste +4%,none
+Beast Helm +1,74,BST,"DEF: 26 HP +15 INT +8 MND +8 ""Charm"" +4 Increases ""Tame"" Success Rate Pet: Magic Accuracy +8",Pet: Magic Accuracy +8
+Chaos Burgeonet +1,74,DRK,"DEF: 27 HP +12 MP +12 STR +7 Dark Magic skill +5 Enhances ""Souleater"" effect",none
+Choral Roundlet +1,74,BRD,DEF: 19 HP +11 MND +6 CHR +6 Parrying skill +5 Enmity -2,none
+Corsair's Tricorne +1,74,COR,"DEF: 23 HP +13 STR +4 AGI +4 Ranged Accuracy +9 Enhances ""Quick Draw"" effect",none
+Drachen Armet +1,74,DRG,"DEF: 25 HP +12 VIT 8 MND 8 DEX +2 Enhances ""Spirit Link"" effect Wyvern uses breaths more effectively",DEX +2 added
+Elite Beret,74,WHM / BLM / RDM / SMN / BLU,DEF: 28 Divine Magic skill +4 Enfeebling Magic skill +4 Elemental Magic skill +4 Summoning Magic skill +4,none
+Elite Beret +1,74,WHM / BLM / RDM / SMN / BLU,DEF: 29 Divine Magic skill +5 Enfeebling Magic skill +5 Elemental Magic skill +5 Summoning Magic skill +5,none
+Evoker's Horn +1,74,SMN,DEF: 15 MP +25 INT +6 MND +6 Summoning Magic Skill +5 Avatar: Enmity -3,none
+Fighter's Mask +1,74,WAR,DEF: 28 HP +15 DEX +5 VIT +5 Enmity +1 HP recovered while healing +1,none
+Gallant Coronet +1,74,PLD,"DEF: 28 HP +12 MND +6 Enhances ""Cover"" effect Enmity +3",
+Healer's Cap +1,74,WHM,DEF: 21 MP +28 MND +7 Enmity -1 MP recovered while healing +1,none
+Hunter's Beret +1,74,RNG,"DEF: 24 HP +13 AGI +4 INT +4 Ranged Attack +5 Increases ""Rapid Shot"" activation rate",none
+Magus Keffiyeh +1,74,BLU,DEF: 24 MP +25 INT +5 MND +5 Enhances monster correlation effects,none
+Myochin Kabuto +1,74,SAM,"DEF: 25 HP +13 STR +5 MND +5 Enhances ""Warding Circle"" effect Enhances ""Meditate"" effect",none
+Ninja Hatsuburi +1,74,NIN,DEF: 22 HP +10 AGI +8 CHR +8 Evasion +8 Ninjutsu Skill +5,none
+Puppetry Taj +1,74,PUP,DEF: 16 HP +15 DEX +5 VIT +5 MND +5 Automaton: hp recovering while healing +3 MP recovered while healing +3,none
+Rogue's Bonnet +1,74,THF,"DEF: 24 HP +13 INT +5 DEX +3 Ranged Accuracy +8 Evasion +10 ""Steal"" +1","added INT +5
+added ""Steal"" +1"
+Temple Crown +1,74,MNK,"DEF: 23 HP +16 MND +8 Attack +5 Enhances ""Focus"" effect HP recovered while healing +1",none
+Unicorn Cap,74,WAR,DEF: 35 HP +36 Accuracy +6 Latent effect: STR +4,none
+Unicorn Cap +1,74,WAR,DEF: 37 HP 40 Accuracy +7 Latent effect: STR +5,none
+Warlock's Chapeau +1,74,RDM,"DEF: 24 MP +25 INT +5 Elemental Magic skill +10 Enhances ""Fast Cast"" effect",none
+Wizard's Petasos +1,74,BLM,DEF: 20 MP +30 INT +5 Enmity -4 MP recovered while healing +1,none
+Abyss Burgeonet,75,DRK,"DEF: 27 HP +30 VIT +7 Attack +10 Enhances ""Resist Paralyze"" effect",none
+Abyss Burgeonet +1,75,DRK,"DEF: 28 HP +30 VIT +8 Attack +12 Enhances ""Resist Paralyze"" effect",none
+Ares' Mask,75,WAR / PLD / DRK / DRG,"DEF: 28 HP +2% MP +2% Accuracy +12 Attack +12 Evasion -12 Set: Enhances ""Double Attack"" effect",none
+Askar Zucchetto,75,WAR / PLD / DRK / BST / SAM / DRG,DEF: 23 STR +4 DEX +4 VIT +4 Haste +4% Set: Max HP Boost,none
+Assassin's Bonnet +1,75,THF,"DEF: 25 HP +16 DEX +6 Enmity +3 Enhances ""Mug"" effect",none
+Bahamut's Mask,75,PLD / DRK / SAM / DRG,"DEF: 32 Enhances ""Dragon Killer"" effect Enmity +8",none
+Bard's Roundlet +1,75,BRD,DEF: 20 HP +13 CHR +6 Singing Skill +5 Enmity -4,
+Cleric's Cap +1,75,WHM,"DEF: 25 MP +25 VIT +5 Enmity -5 Enhances ""Resist Silence"" effect",none
+Commodore Tricorne,75,COR,"DEF: 24 HP +10 Ranged Attack +8 Augments ""Phantom Roll""",none
+Commodore Tricorne +1,75,COR,"DEF: 25 HP +12 Ranged Attack +10 Augments ""Phantom Roll""",none
+Denali Bonnet,75,MNK / THF / RNG / NIN / BLU / COR,DEF: 21 AGI +4 MND +4 Attack +3 Evasion +3 Haste +4% Set: Increases Accuracy,none
+Dream Ribbon,75,All Jobs,"Increases resistance to all status aliments +10% Adds ""Regen"" effect",This is a Custom HorizonXI item
+Duelist's Chapeau,75,RDM,"DEF: 24 MP +14 +10 Enfeebling Magic skill +15 Adds ""Refresh"" effect",none
+Duelist's Chapeau +1,75,RDM,"DEF: 25 HP +14 MP +14 MND +3 Enfeebling Magic skill +15 Adds ""Refresh"" effect",none
+Flawless Ribbon,75,All Jobs,"DEF: 18 +30 +30 Enhances ""Killer"" effects Increases resistance to all status ailments",none
+Gadzradd's Helm,75,All Jobs,DEF: 10 +10 +10 +10 +10 +10 -50 +10 +10 Enchantment: Calls Gadzradd,none
+Genbu's Kabuto,75,WAR / MNK / BST / BRD / RNG / SAM / NIN,DEF: 35 HP +50 VIT +15  +50,none
+Glory Crown,75,All Jobs,None,none
+Goliard Chapeau,75,WHM / BLM / RDM / BRD / SMN / PUP,"DEF: 20 HP +20 MP +20 MND +5 CHR +5 Enmity -4 MP recovered while healing +2 Set: ""Magic Defense Bonus""",none
+Homam Zucchetto,75,THF / PLD / DRK / DRG / BLU,DEF: 26 HP +22 MP +22 Accuracy +4 Magic Accuracy +4 Haste +3%,none
+Horus's Helm,75,DRK/SAM/DRG,DEF: 24 STR +3Haste +3% Attack +6 Evasion -6,This is a custom Horizon XI item.
+Io's helm,75,WAR/THF/PLD/DRK/BST/BRD/DRG/RUN,DEF: 32 STR +8 DEX +4,This is a custom Horizon XI item.
+Kawahori Kabuto,75,MNK / SAM / NIN,DEF: 27 Blind: Critical hit rate +5% Weapon Skill Accuracy +5 Enchantment: Blindness,none
+Koga Hatsuburi +1,75,NIN,DEF: 23 HP +27 Enhances ninjutsu damage Dusk to dawn: Parrying skill +12,none
+Marduk's Tiara,75,WHM / BRD / SMN,"DEF: 17 MP +4% MND +3 CHR +3 Divine magic skill +7 Singing Skill +7 Summoning Magic Skill +7 Enmity -3 Set: Enhances ""Fast Cast"" effect",none
+Melee Crown,75,MNK,"DEF: 23 HP +5% STR +5 Enmity -3 ""Subtle Blow"" +6",none
+Melee Crown +1,75,MNK,"DEF: 24 HP +5% STR +6 ""Subtle Blow"" +6 Enmity -4",none
+Mirage Keffiyeh,75,BLU,DEF: 24 HP +15 VIT +3 Blue Magic skill +5 Increases breath damage,none
+Mirage Keffiyeh +1,75,BLU,DEF: 25 HP +15 VIT +4 Increases Breath Damage,none
+Monster Helm +1,75,BST,"DEF: 27 HP +19 MP +19 CHR +5 Parrying Skill +3 ""Charm"" +5",
+Morrigan's Coronal,75,BLM / RDM / BLU,"DEF: 15 MP +20 STR +4 INT +4 MND +4 Accuracy +5 magic accuracy +5Set:'  Enhances ""Magic Atk. Bonus"" effect",none
+Nashira Turban,75,WHM / BLM / RDM / SMN / BLU,DEF: 19 Magic Accuracy +5 Enmity -5 Haste +2% Spell interruption rate down 10%,none
+Pantin Taj,75,PUP,"DEF: 19 HP +12 STR +3 AGI +3 Adds ""Regen"" effect Automaton: Adds ""Regen"" effect",none
+Pantin Taj +1,75,PUP,"DEF: 20 HP +12 STR +4 AGI +4 Adds ""Regen"" effect Automaton: Adds ""Regen"" effect",none
+Saotome Kabuto,75,SAM,DEF: 25 HP +20 Accuracy +10 Ranged Accuracy +5 Enmity +1,none
+Saotome Kabuto +1,75,SAM,DEF: 26 HP +20 Accuracy +12 Ranged Accuracy +7 Enmity +1,none
+Scout's Beret +1,75,RNG,"DEF: 25 HP +15 MND +5 Enmity -4 ""Recycle""",none
+Shadow Hat,75,WHM / BLM / RDM / BRD / SMN,DEF: 18 MP +35 Magic Accuracy +5 Enmity -3 Physical damage taken +3%,none
+Shadow Helm,75,WAR / PLD / DRK,DEF: 35 HP +15 MP +15 DEX +4 Accuracy +2 Attack +9,none
+Skadi's Visor,75,THF / BST / RNG / COR,DEF: 15 DEX +4 AGI +4 Attack +6 Ranged Attack +6 Haste +3% Set: Increases rate of critical hits,none
+Sorcerer's Petasos,75,BLM,DEF: 23 MP +23 Enfeebling Magic skill +5 Elemental Magic skill +10 Enmity -2,none
+Sorcerer's Petasos +1,75,BLM,DEF: 24 MP +29 Enfeebling Magic skill +5 Elemental Magic skill +10 Enmity -3,
+Summoner's Horn,75,SMN,"DEF: 18 MP +25 INT +3 ""Blood Pact"" ability delay -3 Weather: Avatar perpetuation cost -3",none
+Summoner's Horn +1,75,SMN,"DEF: 19 MP +30 INT +4 ""Blood Pact"" ability delay -3 Weather: Avatar perpetuation cost -3",none
+Tsoo's Headgear,75,All Jobs,DEF: 10  +10  -50  +10  +10  +10  +10  +10  +10 Enchantment: Calls Tsoo Haja,none
+Usukane Somen,75,MNK / SAM / NIN / PUP,DEF: 20 STR +3 AGI +3 Accuracy +7 Evasion +7 Haste +3% Set: Enhances Haste effect,none
+Valhalla Helm,75,WAR / PLD / DRK,"DEF: 40 HP +30 VIT +4 Damage taken -5% ""Slow"" +5%",none
+Valkyrie's Hat,75,WHM / BLM / RDM / BRD / SMN,DEF: 19 MP +40 Magic Accuracy +6 Enmity -4 Physical damage taken +4%,none
+Valkyrie's Helm,75,WAR / PLD / DRK,DEF: 36 HP +17 MP +17 DEX +5 Accuracy +3 Attack +10,none
+Valor Coronet +1,75,PLD,"DEF: 29 HP +18 MP +18 Healing Magic Skill +10 Enmity +4 Enhances ""Rampart"" effect",none
+Walahra Turban,75,All Jobs,HP +30 MP +30 Haste +5%,none
+Warrior's Mask +1,75,WAR,"DEF: 29 DEX +6 Parrying Skill +7 Enmity +1 Enhances ""Warcry"" effect",none
+Wyrm Armet,75,DRG,DEF: 25 HP +16 STR +4 +10 Enhances effect of wyvern's breath,none
+Wyrm Armet +1,75,DRG,DEF: 26 HP +16 STR +5 Attack +2 Enhances effect of wyvern's breath,none
+Wyvern Helm,75,DRK / BST / RNG / SAM / DRG,"DEF: 30 HP +30 STR +5  +10 Physical damage: ""Blaze Spikes"" effect",none
+Wyvern Helm +1,75,DRK / BST / RNG / SAM / DRG,"DEF: 31 HP +31 STR +6  +11 Physical damage: ""Blaze Spikes"" effect",none

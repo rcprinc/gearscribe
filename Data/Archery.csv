@@ -1,0 +1,171 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Artemis's Bow,1,1,360,0.17,,All Jobs
+Artemis's Bow +1,1,2,351,0.34,"Enchantment:
+""Teleport"" (Ro'Maeve)
+<1/1 0:30/[20:00:00, 0:30]>",All Jobs
+Judge's Bow,1,100,540,11.11,GMs Only,All Jobs
+Mizukage-no-Yumi,1,1,524,0.11,,All Jobs
+Shortbow,1,5,360,0.83,,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Shortbow +1,1,6,351,1.03,Ranged Accuracy+3,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Longbow,5,17,540,1.89,,WAR / PLD / DRK / RNG / SAM
+Longbow +1,5,18,524,2.06,"Ranged Accuracy+2
+Ranged Attack+3",WAR / PLD / DRK / RNG / SAM
+Self Bow,7,14,450,1.87,,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Self Bow +1,7,15,441,2.04,Ranged Accuracy+3,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Freesword's Bow,10,12,360,2,Ranged Accuracy+2,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Ryl.Arc. Longbow,10,24,540,2.67,,WAR / PLD / DRK / RNG / SAM
+Hunter's Longbow,12,27,490,3.31,"STR+1 AGI+1
+Ranged Accuracy+2 Ranged Attack+5",RNG
+Federation Bow,15,14,340,2.47,"Ranged Accuracy+3
+Ranged Attack+3","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Kingdom Bow,15,26,508,3.07,Ranged Accuracy+2,WAR / PLD / DRK / RNG / SAM
+San d'Orian Bow,15,25,524,2.86,Ranged Accuracy+1,WAR / PLD / DRK / RNG / SAM
+Windurstian Bow,15,13,350,2.23,"Ranged Accuracy+2
+Ranged Attack+2","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Power Bow,16,30,540,3.33,,WAR / PLD / DRK / RNG / SAM
+Power Bow +1,16,31,524,3.55,"Ranged Accuracy+2
+Ranged Attack+9",WAR / PLD / DRK / RNG / SAM
+Platoon Bow,20,15,360,2.5,,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Wrapped Bow,24,19,360,3.17,,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Wrapped Bow +1,24,20,351,3.42,Ranged Accuracy+3,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Assassin's Bow,29,21,330,3.82,"AGI+2
+Ranged Accuracy+3",RNG
+Great Bow,30,43,540,4.78,,WAR / PLD / DRK / RNG / SAM
+Great Bow +1,30,44,524,5.04,"Ranged Accuracy+2
+Ranged Attack+12",WAR / PLD / DRK / RNG / SAM
+Hamayumi,30,43,524,4.92,"Vs. Empty: Ranged Accuracy+10
+Ranged Attack+10%","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Shadow Bow,34,24,330,4.36,"AGI+2
+Ranged Accuracy+8",RNG
+Shadow Bow +1,34,25,320,4.69,"AGI+2
+Ranged Accuracy+10",RNG
+Composite Bow,36,36,450,4.8,,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Composite Bow +1,36,37,441,5.03,Ranged Accuracy+3,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Speed Bow,38,25,324,4.63,,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Battle Bow,40,54,540,6,,WAR / PLD / DRK / RNG / SAM
+Battle Bow +1,40,55,524,6.3,"Ranged Accuracy+2
+Ranged Attack+15",WAR / PLD / DRK / RNG / SAM
+Hunter's Zamburak,40,27,360,4.5,"AGI+4
+Ranged Accuracy+3
+Ranged Attack+3",RNG
+Shikar Bow,40,54,540,6,"Ranged Accuracy+4
+Ranged Attack+12",RNG
+Kaman,50,32,360,5.33,,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Kaman +1,50,33,350,5.66,Ranged Accuracy+3,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+War Bow,50,65,540,7.22,,WAR / PLD / DRK / RNG / SAM
+War Bow +1,50,66,524,7.56,"Ranged Accuracy+2
+Ranged Attack+18",WAR / PLD / DRK / RNG / SAM
+Sagittarius' Bow,53,34,330,6.18,"AGI+4
+Ranged Accuracy+3",RNG
+Eurytos' Bow,55,71,490,8.69,"STR+3 AGI+3
+Ranged Accuracy+2 Ranged Attack+23",RNG
+Lightning Bow,55,35,360,5.83,DEX+2 +6,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Lightning Bow +1,55,36,352,6.14,"DEX+3 +7
+Ranged Accuracy+3","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Vali's Bow,55,71,490,8.69,"STR+3 AGI+3
+Ranged Accuracy+2 Ranged Attack+23",RNG
+Loxley Bow,57,12,120,6,Ranged Accuracy+12,RNG
+Rapid Bow,58,37,360,6.17,,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Rapid Bow +1,58,38,350,6.51,Ranged Accuracy+3,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Sarnga,59,72,720,6,"STR+1 INT+1
+Ranged Accuracy+8",RNG
+Selene's Bow,60,72,540,8,"STR+2
+Ranged Accuracy and Ranged Attack
+varies with the phases of the moon",RNG
+Pharaoh's Bow,63,36,360,6,"In sandstorms: Ranged Accuracy+10
+Ranged Attack+15","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Amanokakoyumi,69,69,524,7.9,"Ranged Attack+15
+Set: Increases HP, VIT,
+Accuracy, Ranged Accuracy",RNG / SAM
+Failnaught,69,72,582,7.42,"Ranged Accuracy+10
+""Subtle Blow""+5 Enmity-5","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Gendawa,70,76,600,7.6,AGI+2,RNG
+Gendawa +1,70,77,582,7.94,"AGI+3
+Ranged Accuracy+3",RNG
+Imperial Bow,70,75,540,8.33,Assault: DMG:77 Ranged Accuracy+10,WAR / PLD / DRK / RNG / SAM
+Mighty Bow,70,53,450,7.07,"Ranged Accuracy+5
+On Windsdays: DMG:63 +15","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Rosenbogen,70,38,360,6.33,HP+10 VIT+3,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Rosenbogen +1,70,39,350,6.69,"HP+12 VIT+4
+Ranged Accuracy+3","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Arco de Velocidad,71,28,300,5.6,"HP+10 STR+1
+Daytime: Adds ""Regen"" effect","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Bow of Trials,71,39,360,6.5,Latent effect: HP+20 +10 +10,RNG
+Cobra Bow,71,77,524,8.82,"Ranged Accuracy+5
+Enhances ""Resist Blind"" effect",WAR / PLD / DRK / RNG / SAM
+Imperial Kaman,71,38,360,6.33,"Depending on day: Increases elemental
+weapon skill damage","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Mst.Cst. Bow,71,77,540,8.56,"Enhances ""Resist Blind"" effect
+Citizens of Windurst:
+Ranged Accuracy+7",WAR / PLD / DRK / RNG / SAM
+Shigeto Bow,71,75,600,7.5,"Ranged Attack+15
+SAM: Ranged Accuracy+7",RNG / SAM
+Shigeto Bow +1,71,76,582,7.84,"Ranged Attack+16
+SAM: Ranged Accuracy+8",RNG / SAM
+Expunger,72,26,360,4.33,"Ranged Accuracy+9
+Latent effect: DMG:39","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Ifrit's Bow,72,40,360,6.67,"STR+3
+Ranged Attack+10
+Latent effect:
+Increases rate of critical hits","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Martial Bow,72,67,540,7.44,TP Bonus,WAR / PLD / DRK / RNG / SAM
+Perdu Bow,73,38,360,6.33,Latent effect: DMG:42,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Rune Bow,73,38,360,6.33,"Latent effect:
+Ranged Accuracy+5 Enmity-2","WAR / BLM / RDM / THF / PLD / DRK /
+BST / BRD / RNG / SAM / NIN / SMN /
+BLU"
+Astrild,75,70,524,8.02,,RNG
+Cerberus Bow,75,72,600,7.2,AGI+2 +13 +13,WAR / PLD / DRK / RNG / SAM
+Cerberus Bow +1,75,73,582,7.53,"AGI+4 +14 +14
+Ranged Attack+24",WAR / PLD / DRK / RNG / SAM
+Dynamis Bow,75,68,540,7.56,In Dynamis: +9,RNG / SAM
+Fay Gendawa,75,72,540,8,,RNG
+Futatokoroto,75,81,540,9,"In Dynamis: ""Namas Arrow""",RNG / SAM
+Goshawk,75,39,512,4.57,,RNG
+Gyrfalcon,75,55,540,6.11,,RNG
+Kestrel,75,57,524,6.53,,RNG
+Lamian Kaman,75,19,270,4.22,"MP+10
+""Magic Def. Bonus""+1","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Lamian Kaman -1,75,10,540,1.11,Ranged Accuracy-8,"WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Lamian Kaman +1,75,20,261,4.6,"MP+12
+Ranged Accuracy+8
+""Magic Def. Bonus""+2","WAR / RDM / THF / PLD / DRK / BST /
+RNG / SAM / NIN"
+Relic Bow,75,1,999,0.06,,RNG / SAM
+Sparrow,75,50,524,5.73,,RNG
+Wolver Bow,75,1,540,0.11,In Dynamis: +7,RNG / SAM
+Yoichinoyumi,75,81,524,9.27,"Ranged Accuracy+20
+Ranged Attack+10
+""Namas Arrow""",RNG / SAM

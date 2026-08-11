@@ -1,0 +1,130 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Kunai,1,4,190,1.26,,NIN
+Kunai +1,1,5,185,1.62,,NIN
+Wakizashi,7,8,227,2.11,,NIN
+Wakizashi +1,7,9,222,2.43,,NIN
+Kyofu,13,11,227,2.91,"Additional effect with wind fan
+equipped: Wind damage",NIN
+Kyofu +1,13,12,222,3.24,"Additional effect with wind fan
+equipped: Wind damage",NIN
+Shinobi-Gatana,13,11,227,2.91,,NIN
+Shinobi-Gatana +1,13,12,222,3.24,,NIN
+Gassan,15,12,227,3.17,AGI+1,NIN
+Mokuto,16,11,232,2.84,Additional effect: Silence,NIN
+Mokuto +1,16,12,227,3.17,Additional effect: Silence,NIN
+Seito,16,11,232,2.84,"Additional effect: Silence
+Enchantment: ""Ensilence""
+<15/15 0:30/[10:00, 0:30]>",NIN
+Suzume,19,11,190,3.47,,NIN
+Ganko,20,12,227,3.17,,NIN
+Hibari,24,13,190,4.11,,NIN
+Hibari +1,24,14,185,4.54,,NIN
+Busuto,26,16,232,4.14,Additional effect: Poison,NIN
+Busuto +1,26,17,227,4.49,Additional effect: Poison,NIN
+Fukuro,28,15,190,4.74,STR+1 AGI+1,NIN
+Nikkariaoe,30,19,232,4.91,Spell interruption rate down 25%,NIN
+Kodachi,32,19,227,5.02,,NIN
+Kodachi +1,32,20,222,5.41,,NIN
+Reppu,32,19,227,5.02,"Additional effect with wind fan
+equipped: Wind damage",NIN
+Reppu +1,32,20,222,5.41,"Additional effect with wind fan
+equipped: Wind damage",NIN
+Niokiyotsuna,38,19,227,5.02,"""Double Attack""+1%",NIN
+Ohaguro,39,20,195,6.15,STR+1 DEX+1,NIN
+Anju,40,23,216,6.39,DEX+2,NIN
+Zushio,40,25,238,6.3,STR+2,NIN
+Bokuto,41,23,232,5.95,Additional effect: Blindness,NIN
+Bokuto +1,41,24,227,6.34,Additional effect: Blindness,NIN
+Hanafubuki,43,24,227,6.34,"Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>",NIN
+Sakurafubuki,43,24,227,6.34,,NIN
+Sakurafubuki +1,43,25,222,6.76,,NIN
+Melt Katana,46,25,232,6.47,"Additional effect: Weakens defense
+Enchantment: Weakens defense
+<15/15 0:30/[10:00, 0:30]>",NIN
+Yoto,46,25,232,6.47,Additional effect: Weakens defense,NIN
+Yoto +1,46,26,227,6.87,Additional effect: Weakens defense,NIN
+Hien,47,21,190,6.63,,NIN
+Hien +1,47,22,185,7.14,,NIN
+Sai,48,28,242,6.94,Parrying skill +3,NIN
+Sai +1,48,29,234,7.44,Parrying skill +5,NIN
+Buboso,50,25,190,7.89,STR+2 DEX+2 AGI+2,NIN
+Kageboshi,50,24,190,7.58,"Additional effect: ""Bind""",NIN
+Tsugumi,50,19,160,7.13,Accuracy+1,NIN
+Shinogi,52,28,227,7.4,DEX+3,NIN
+Keppu,54,26,227,6.87,"Additional effect with wind fan
+equipped: Wind damage",NIN
+Keppu +1,54,27,222,7.3,"Additional effect with wind fan
+equipped: Wind damage",NIN
+Muketsu,54,26,227,6.87,Additional effect: HP drain,NIN
+Muketsu +1,54,27,222,7.3,Additional effect: HP drain,NIN
+Hototogisu,55,24,185,7.78,"Accuracy+3
+Latent effect: Parrying skill +5",NIN
+Hocho,57,30,227,7.93,Cooking skill +3,NIN
+Sairen,60,31,238,7.82,"STR+3
+On Darksdays: STR+7 Enmity+1",NIN
+Kabutowari,61,30,227,7.93,,NIN
+Kabutowari +1,61,31,222,8.38,,NIN
+Kitsutsuki,64,26,185,8.43,Vs. plantoids: Critical hit rate +5%,NIN
+Kororito,66,33,232,8.53,Additional effect: Poison,NIN
+Kororito +1,66,35,227,9.25,Additional effect: Poison,NIN
+Imanotsurugi,67,35,227,9.25,Enmity+2,NIN
+Amanojaku,68,29,221,7.87,Accuracy-1,NIN
+Fudo,70,39,227,10.31,Critical hit rate +3%,NIN
+Karasuageha,70,29,190,9.16,"Assault: DMG:33 ""Subtle Blow""+1",NIN
+Ryumon,70,38,227,10.04,Latent effect: Attack Bonus,"NIN
+Notice: This page contains some out of era content. Caution should be used when using this information and around any 'red links'. Please double check the information where possible."
+Hayabusa,71,28,190,8.84,"""Subtle Blow""+1",NIN
+Hayabusa +1,71,29,185,9.41,"""Subtle Blow""+2",NIN
+Kodachi of Trials,71,33,227,8.72,Latent effect: HP+20 +10 +10,NIN
+Sayosamonji,71,37,227,9.78,"Depending on day: Increases elemental
+weapon skill damage",NIN
+Unsho,71,31,201,9.25,"STR+3 DEX+3 VIT-1
+""Subtle Blow""+1",NIN
+Mamushito,72,37,232,9.57,"Additional effect: ""Stun""",NIN
+Mamushito +1,72,38,227,10.04,"Additional effect: ""Stun""",NIN
+Senjuinrikio,72,25,227,"6.61
+(10.04 w/ latent)","Latent effect: DMG:38
+Critical hit rate +6%",NIN
+Shamo,72,33,232,8.53,TP Bonus,NIN
+Shusui,72,37,227,9.78,"HP-20 DEX+3 Accuracy+5
+""Subtle Blow""+2",NIN
+Unji,72,32,201,9.55,"STR+2 DEX+4 AGI-1
+""Subtle Blow""+1",NIN
+Hirenjaku,73,37,227,9.78,"Accuracy+2
+Magic Accuracy+2",NIN
+Hirenjaku +1,73,38,222,10.27,"Accuracy+3
+Magic Accuracy+3",NIN
+Izayoi,73,37,232,9.57,Attack+3,NIN
+Izayoi +1,73,38,227,10.04,Attack+5,NIN
+Musanto,73,37,222,10,,NIN
+Oninohocho,73,30,227,7.93,HP+20 Evasion+4 Enmity+2,NIN
+Perdu Blade,73,27,190,8.53,Latent effect: DMG:32,NIN
+Shiranui,73,37,227,9.78,"Evasion+3
+Additional effect: Light damage",NIN
+Tojaku,73,37,227,9.78,"Accuracy+2
+Magic Accuracy+2
+Enchantment: ""Stone""
+<50/50 0:30/[10:00, 0:30]>",NIN
+Kugui,74,39,242,9.67,"STR+2
+Parrying skill +1",NIN
+Narigitsune,74,38,227,10.04,"Evasion+5
+Magic damage taken -5%",NIN
+Otori,74,39,242,9.67,"AGI+2
+Parrying skill +4",NIN
+Rai Kunimitsu,74,34,227,8.99,"Critical hit rate +5%
+On Firesdays: DMG:41 +15",NIN
+Ihintanto,75,1,999,0.06,,NIN
+Kikoku,75,42,210,12,"Attack+20
+""Blade: Metsu""
+Additional effect: Paralysis",NIN
+Mimizuku,75,1,227,0.26,In Dynamis: +7,NIN
+Nagi,75,37,227,9.78,,NIN
+Nagi,75,37,227,9.78,"Magic Accuracy+10
+Enmity+10 Augments ""Mijin Gakure""
+""Blade: Kamu""
+Aftermath: Increases Acc./Atk.
+Occasionally attacks twice",NIN
+Rogetsu,75,33,227,8.72,In Dynamis: +9,NIN
+Sasuke Katana,75,33,227,8.72,,NIN
+Yoshimitsu,75,42,227,11.1,"In Dynamis: ""Blade: Metsu""",NIN

@@ -1,0 +1,136 @@
+.job-sidebar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.job-sidebar__item {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.job-sidebar__header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 16px;
+  background: none;
+  border: none;
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  text-align: left;
+  cursor: pointer;
+  transition: color 0.15s ease, background 0.15s ease;
+
+  &:hover {
+    color: var(--color-accent);
+    background: rgba(92, 200, 240, 0.06);
+  }
+}
+
+.job-sidebar__icon {
+  width: 12px;
+  color: var(--color-accent);
+  font-family: var(--font-heading);
+}
+
+.job-sidebar__job {
+  flex: 1;
+}
+
+.job-sidebar__job--selectable:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
+.job-sidebar__level-slot {
+  position: relative;
+  flex-shrink: 0;
+  min-width: 28px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.job-sidebar__level {
+  color: var(--color-text-muted);
+  font-size: 11px;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+.job-sidebar__hide-link {
+  display: none;
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--color-accent);
+  font-family: var(--font-body);
+  font-size: 11px;
+  letter-spacing: normal;
+  text-transform: none;
+  cursor: pointer;
+}
+
+.job-sidebar__item:hover .job-sidebar__level {
+  display: none;
+}
+
+.job-sidebar__item:hover .job-sidebar__hide-link {
+  display: inline-block;
+}
+
+.job-sidebar__children {
+  list-style: none;
+  margin: 0;
+  padding: 0 16px 10px 38px;
+}
+
+.job-sidebar__add,
+.job-sidebar__entry {
+  display: block;
+  width: 100%;
+  background: none;
+  border: none;
+  color: var(--color-text-muted);
+  font-family: var(--font-body);
+  font-size: 13px;
+  text-align: left;
+  padding: 4px 0;
+  cursor: pointer;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: var(--color-accent);
+  }
+}
+
+.job-sidebar__entry {
+  color: var(--color-text);
+}
+
+.job-sidebar__hidden-entry {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 4px 0;
+  color: var(--color-text-muted);
+  font-size: 13px;
+}
+
+.job-sidebar__show-link {
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--color-accent);
+  font-family: var(--font-body);
+  font-size: 13px;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

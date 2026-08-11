@@ -1,0 +1,29 @@
+# .NET
+bin/
+obj/
+*.user
+
+# Angular / Node
+node_modules/
+client/dist/
+client/.angular/
+
+# Generated wwwroot (built from client/, not source)
+server/wwwroot/
+
+# User-generated runtime data (not shipped reference data)
+Data/EquipmentSets/
+Data/Luas/
+Data/Macros/
+Data/Settings/
+
+# Compiled standalone distributable
+/Gearscribe/
+
+# IDE
+.vs/
+.vscode/*
+!.vscode/extensions.json
+
+# Claude Code local settings (machine-specific)
+.claude/settings.local.json

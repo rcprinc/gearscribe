@@ -1,0 +1,140 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Ark Tachi,1,1,999,0.06,"Enchantment: Costume
+<1/1 0:30/[1:00:00, 0:30]>",All Jobs
+Hardwood Katana,1,5,450,0.67,,All Jobs
+Lotus Katana,1,1,280,0.21,,All Jobs
+Melon Slicer,1,1,450,0.13,Tachi: Suikawari,All Jobs
+Mumeito,1,12,420,1.71,,SAM
+Mutsunokami,1,1,450,0.13,,All Jobs
+Mutsunokami +1,1,2,437,0.27,Evasion+20,All Jobs
+Shinai,1,2,480,0.25,Fellow: STR+4 DEX+4,All Jobs
+Wooden Katana,1,1,450,0.13,,All Jobs
+Zanmato,1,1,464,0.13,,All Jobs
+Zanmato +1,1,2,450,0.27,"Additional effect: ""Dispel""",All Jobs
+Tachi,8,21,450,2.8,,SAM
+Tachi +1,8,22,437,3.02,,SAM
+Katayama,10,28,450,3.73,STR+1 DEX+1,SAM
+Uchigatana,12,24,420,3.43,,SAM / NIN
+Uchigatana +1,12,25,407,3.69,,SAM / NIN
+Nodachi,16,30,450,4,,SAM
+Nodachi +1,16,31,437,4.26,,SAM
+Gunromaru,20,33,450,4.4,,SAM
+Okanehira,23,38,450,5.07,,SAM
+Kanesada,26,36,420,5.14,,SAM / NIN
+Kotetsu,27,40,450,5.33,,SAM
+Homura,34,47,463,6.09,Additional effect: Fire damage,SAM
+Homura +1,34,48,450,6.4,Additional effect: Fire damage,SAM
+Koen,34,47,463,6.09,"Additional effect: Fire damage
+Enchantment: ""Enfire""
+<30/30 0:30/[5:00, 0:30]>",SAM
+Ashura,36,45,420,6.43,,SAM / NIN
+Ashura +1,36,46,407,6.78,,SAM / NIN
+Hosodachi,37,51,428,7.15,,SAM
+Hosodachi +1,37,52,414,7.54,,SAM
+Tsurugitachi,37,51,428,7.15,"Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>",SAM
+Kagehide,40,54,420,7.71,VIT+2,SAM
+Magoroku,40,56,450,7.47,STR+1 AGI+1,SAM
+Mikazuki,44,58,450,7.73,,SAM
+Mikazuki +1,44,59,437,8.1,,SAM
+Odenta,48,63,450,8.4,,SAM
+Koryukagemitsu,50,67,450,8.93,STR+1 Accuracy+2,SAM
+Soboro Sukehiro,50,40,450,5.33,Occasionally attacks 2 to 3 times,SAM
+Kiku-Ichimonji,51,66,450,8.8,,SAM
+Jindachi,54,69,450,9.2,,SAM
+Jindachi +1,54,70,437,9.61,,SAM
+Dotanuki,55,65,420,9.29,Additional effect: Impairs evasion,SAM / NIN
+Raikiri,56,69,437,9.47,"Accuracy+3
+Decreases movement speed
+Thunder: Attack+10",SAM
+Amakura,57,71,450,9.47,"Latent effect: ""Store TP""+10",SAM
+Daihannya,59,72,450,9.6,STR+3,SAM
+Gld.Msk. Uchigat.,60,66,399,9.92,"Accuracy+4
+Attack+4
+Additional effect: Earth damage",SAM / NIN
+Omokage,60,66,420,9.43,"DEX+4
+""Store TP""+2",SAM
+Zanbato,61,73,464,9.44,,SAM
+Zanbato +1,61,74,450,9.87,,SAM
+Kanesada +1,63,68,420,9.71,,SAM / NIN
+Shinkanesada,63,69,407,10.17,,SAM / NIN
+Onikiri,65,74,450,9.87,Vs. Demons: Critical hit rate +5%,SAM
+Sukesada,66,69,399,10.38,"Attack+7
+""Double Attack""+1%",SAM / NIN
+Kazaridachi,67,76,450,10.13,CHR+2,SAM
+Kazaridachi +1,67,77,437,10.57,CHR+3,SAM
+Messhikimaru,67,76,450,10.13,"CHR+2
+Enchantment: ""Arcana Killer""
+<30/30 0:30/[10:00, 0:30]>",SAM
+Mukademaru,69,74,420,10.57,"""Subtle Blow""+2
+Set: Increases Evasion and
+HP recovered while healing
+Reduces Enmity",SAM / NIN
+Namioyogi,69,80,450,10.67,"Enmity+5
+Set: Increases STR, Attack,
+Ranged Attack, ""Magic Atk. Bonus""",SAM
+Honebami,70,68,420,9.71,,SAM / NIN
+Kamewari,70,79,450,10.53,"Accuracy+5
+Vs. arcana: Critical hit rate +7%",SAM
+Kosetsusamonji,70,76,420,10.86,"Assault: DMG:79 ""Store TP""+2",SAM / NIN
+Kumokirimaru,70,80,450,10.67,"Enhances ""Zanshin"" effect
+Critical hit rate +5%
+Vs. vermin: Critical hit rate +8%",SAM
+Murasame,70,72,420,10.29,"HP-5% +15
+Additional effect: Water damage",SAM / NIN
+Hotarumaru,71,78,420,11.14,"Depending on day: Increases elemental
+weapon skill damage",SAM / NIN
+Shirogatana,71,72,420,10.29,STR+2 INT+2,SAM / NIN
+Shirogatana +1,71,73,407,10.76,STR+3 INT+3,SAM / NIN
+Tachi of Trials,71,76,450,10.13,Latent effect: HP+20 +10 +10,SAM
+Hagun,72,64,450,8.53,TP Bonus,SAM
+Kotetsu +1,72,78,450,10.4,,SAM
+Michishiba,72,65,420,9.29,"Latent effect: DMG:78
+Critical hit rate +6%",SAM / NIN
+Nanatsusaya,72,77,420,11,"STR+7 DEX+7
+Enhances ""Zanshin"" effect",SAM
+Shinkotetsu,72,79,436,10.87,,SAM
+Shinsoku,72,80,450,10.67,"STR+5 AGI+1 INT-1
+Additional effect: TP drain",SAM
+Butachi,73,80,450,10.67,"HP+10
+DEX+2 VIT+2 +8",SAM
+Butachi +1,73,81,437,11.12,"HP+11
+DEX+3 VIT+3 +9",SAM
+Kagiroi,73,80,450,10.67,"HP+10
+DEX+2 VIT+2 +8
+Enchantment: ""Fire""
+<50/50 0:30/[10:00, 0:30]>",SAM
+Namikirimaru,73,60,420,8.57,Additional effect: TP drain,SAM / NIN
+Nukemaru,73,77,450,10.27,"STR+2
+On Firesdays: DMG:87 +15",SAM
+Onimaru,73,77,450,10.27,Latent effect: DMG:83,SAM
+Unshomaru,73,81,450,10.8,,SAM
+Ushikirimaru,73,82,450,10.93,"HP+15 STR+2
+Enmity+2
+Vs. beasts: Accuracy+7",SAM
+Hacchonenbutsu,74,70,378,11.11,Accuracy+4,SAM
+Amanomurakumo,75,88,437,12.08,"Accuracy+20
+""Tachi: Kaiten""
+Additional effect: Weakens attacks",SAM
+Donto,75,62,450,8.27,,SAM
+Efunotachi,75,65,450,8.67,,SAM
+Futsuno Mitama,75,84,480,10.5,"DEX+8
+""Store TP""+8
+Latent effect: STR+8",SAM
+Hayatemaru,75,1,450,0.13,In Dynamis: +7,SAM
+Ito,75,1,999,0.06,,SAM
+Kogarasumaru,75,81,450,10.8,,SAM
+Kogarasumaru,75,81,450,10.8,"Enhances ""Third Eye"" effect
+""Tachi: Rana""
+Aftermath: Increases Acc./Atk.
+Occasionally attacks twice",SAM
+Kurodachi,75,40,444,5.41,,SAM
+Oboromaru,75,76,450,10.13,In Dynamis: +9,SAM
+Pachipachio,75,82,480,10.25,"Accuracy-6
+Attack+12
+""Store TP""+2",SAM
+Radennotachi,75,79,450,10.53,,SAM
+Rindomaru,75,77,450,10.27,,SAM
+Shirodachi,75,67,450,8.93,,SAM
+Totsukanotsurugi,75,88,450,11.73,"In Dynamis: ""Tachi: Kaiten""",SAM
+Windslicer,75,76,450,10.13,,SAM

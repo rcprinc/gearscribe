@@ -1,0 +1,320 @@
+Name,Level,Jobs,Stats,Horizon Changes
+Anniversary Ring,1,All Jobs,Experience point bonus: +100% Maximum duration: 720 min. Maximum bonus: 3000,
+Ascetic's Ring,1,All Jobs,MND +1,none
+Bastokan Ring,1,All Jobs,HP +3 DEX +1 VIT +1,Players no longer start with their corresponding nation's ring (e.g. San d'Orian Ring). Instead they are awarded upon completing Nation Mission 1-3.
+Castor's Ring,1,All Jobs,None,It is currently unknown if marriages are available on Horizon.
+Copper Ring,1,All Jobs,HP +1 MP -1,none
+Copper Ring +1,1,All Jobs,HP +2 MP -1,none
+Ducal Guard's Ring,1,All Jobs,None,
+Hermit's Ring,1,All Jobs,INT+1,none
+Homing Ring,1,All Jobs,Enchantment: Outpost Warp,
+Pollux's Ring,1,All Jobs,None,none
+Return Ring,1,All Jobs,Enchantment: Outpost Warp,none
+San d'Orian Ring,1,All Jobs,DEF: 2 STR +1 MND +1,Players no longer start with their corresponding nation's ring (e.g. San d'Orian Ring). Instead they are awarded upon completing Nation Mission 1-3.
+Warp Ring,1,All Jobs,Enchantment: Warp,Only obtainable in Hardcore mode - details below.
+Windurstian Ring,1,All Jobs,MP +3 AGI +1 INT +1,Players no longer start with their corresponding nation's ring (e.g. San d'Orian Ring). Instead they are awarded upon completing Nation Mission 1-3.
+Brass Ring,7,All Jobs,HP +2 MP -2,none
+Brass Ring +1,7,All Jobs,HP +3 MP -2,none
+Astral Ring,10,All Jobs,Converts 25 HP to MP,
+Eremite's Ring,10,All Jobs,INT +2,
+Eremite's Ring +1,10,All Jobs,INT +3,
+Multiple Ring,10,All Jobs,Latent effect: HP +50 MP +20,none
+Safeguard Ring,10,All Jobs,DEF: 2,none
+Saintly Ring,10,All Jobs,MND +2,none
+Saintly Ring +1,10,All Jobs,MND +3,none
+Manashell Ring,11,All Jobs,#ERROR!,none
+Shell Ring,11,All Jobs,4,none
+Shell Ring +1,11,All Jobs,6,none
+Amber Ring,14,All Jobs,VIT+1 +3,none
+Amethyst Ring,14,All Jobs,DEX +1+3,none
+Armored Ring,14,All Jobs,DEF: 1 Enchantment: DEF: +8,none
+Balance Ring,14,All Jobs,DEX +2 +4,none
+Balance Ring +1,14,All Jobs,DEF: 1DEX +2+5,none
+Clear Ring,14,All Jobs,INT +1 +3,none
+Courage Ring,14,All Jobs,STR +2+4,none
+Courage Ring +1,14,All Jobs,DEF: 1STR +2+5,none
+Energy Ring,14,All Jobs,MP +3 +4,none
+Energy Ring +1,14,All Jobs,DEF: 1 MP +5 +5,none
+Hope Ring,14,All Jobs,CHR +2+4,none
+Hope Ring +1,14,All Jobs,DEF: 1CHR +2+5,none
+Knowledge Ring,14,All Jobs,INT +2 +4,none
+Knowledge Ring +1,14,All Jobs,DEF: 1 INT +2 +5,none
+Lapis Lazuli Ring,14,All Jobs,MND +1+3,none
+Leather Ring,14,All Jobs,Def:1,
+Leather Ring +1,14,All Jobs,DEF: 2,none
+Mighty Ring,14,All Jobs,STR +1 +3 Enchantment: Attack +5 Ranged Attack +5,none
+Onyx Ring,14,All Jobs,MP +2 +3,none
+Opal Ring,14,All Jobs,CHR +1  +3,none
+Poisona Ring,14,All Jobs,"HP +3 MP -3 Enchantment: ""Poisona""",none
+Reflex Ring,14,All Jobs,AGI +2+4,none
+Reflex Ring +1,14,All Jobs,DEF: 1AGI +2+5,none
+Sardonyx Ring,14,All Jobs,STR +1  +3,none
+Silver Ring,14,All Jobs,HP +3 MP -3,none
+Silver Ring +1,14,All Jobs,HP +4 MP -4,none
+Stamina Ring,14,All Jobs,VIT +2 +4,none
+Stamina Ring +1,14,All Jobs,DEF: 1 VIT +2 +5,none
+Tourmaline Ring,14,All Jobs,AGI +1+3,none
+Tranquility Ring,14,All Jobs,MND +2+4,none
+Tranquility Ring +1,14,All Jobs,DEF: 1MND +2+5,none
+Vision Ring,14,All Jobs,DEX +1+3 Enchantment: Accuracy+2 Ranged Accuracy+2,none
+Albatross Ring,15,All Jobs,Enchantment: Increases stamina while fishing,
+Fasting Ring,15,All Jobs,HP -20 MP +10 STR +1,none
+Pelican Ring,15,All Jobs,Enchantment: Increases rate at which fishing skill is gained,
+Penguin Ring,15,All Jobs,Enchantment: Increases skill at tiring fish,The ring is not currently available as the Brigand's quest doesn't work yet on Horizon
+Bomb Ring,16,All Jobs,DEF: 2 HP +15 -5,none
+Bone Ring,16,All Jobs,Accuracy -2 Ranged Accuracy +2,none
+Bone Ring +1,16,All Jobs,Accuracy -2 Ranged Accuracy +3,none
+Protean Ring,20,All Jobs,Garrison: Attack +3~ Ranged Attack +3~,none
+Variable Ring,20,All Jobs,Garrison: MP +28~ MP recovered while healing +1~,none
+Beetle Ring,21,All Jobs,Accuracy -3 Ranged Accuracy +3,none
+Beetle Ring +1,21,All Jobs,Accuracy -3 Ranged Accuracy +4,none
+Mythril Ring,24,All Jobs,HP +4 MP -4,
+Mythril Ring +1,24,All Jobs,HP +5 MP -5,none
+Carect Ring,25,All Jobs,MP +20 MND +1,none
+Bowyer Ring,29,All Jobs,Ranged Accuracy +3 Ranged Attack +3,none
+Archer's Ring,30,All Jobs,Accuracy+2 Ranged Accuracy+2,none
+Divisor Ring,30,All Jobs,Latent effect: Accuracy +6 Attack +3,none
+Rajas Ring,30,All Jobs,"STR +2~5 DEX +2~5 ""Store TP"" +5 ""Subtle Blow"" +5",none
+Sattva Ring,30,All Jobs,HP +15~30 VIT +2~5 AGI +2~5 Damage taken -5% Enmity +5,"Enmity +5 instead of Enmity +3
+Damage taken -5%"
+Shikaree Ring,30,All Jobs,Accuracy +2 Ranged Accuracy +2,none
+Tamas Ring,30,All Jobs,MP +15~30 INT +2~5 MND +2~5 Magic Accuracy +5 Enmity -5,"Enmity -5 instead of Enmity -3
+Magic Accuracy +5"
+Turquoise Earring,31,All Jobs,8,none
+Venerer Ring,34,All Jobs,Accuracy +3,none
+Horn Ring,35,All Jobs,Accuracy -4 Ranged Accuracy +4,none
+Horn Ring +1,35,All Jobs,Accuracy -4 Ranged Accuracy +5,none
+Jaeger Ring,35,All Jobs,Accuracy +4 Ranged Accuracy +4,none
+Alacrity Ring,36,All Jobs,AGI +3 +6,none
+Alacrity Ring +1,36,All Jobs,DEF: 2 AGI +3 +7,none
+Ametrine Ring,36,All Jobs,DEX +2 +5,none
+Aura Ring,36,All Jobs,MP +5 +6,none
+Aura Ring +1,36,All Jobs,DEF: 2 MP +7 +7,none
+Black Ring,36,All Jobs,MP +4 +5,none
+Deft Ring,36,All Jobs,DEX +3 +6,none
+Deft Ring +1,36,All Jobs,DEF: 2 DEX +3 +7,none
+Garnet Ring,36,All Jobs,STR +2 +5,none
+Goshenite Ring,36,All Jobs,INT +2 +5,none
+Loyalty Ring,36,All Jobs,CHR +3 +6,none
+Loyalty Ring +1,36,All Jobs,DEF: 2 CHR +3 +7,none
+Maldust Ring,36,All Jobs,VIT -3 CHR -3 +10,none
+Malflame Ring,36,All Jobs,STR -3 CHR -3 +10,none
+Malflash Ring,36,All Jobs,DEX -3 CHR -3 +10,none
+Malflood Ring,36,All Jobs,MND -3 CHR -3 +10,none
+Malfrost Ring,36,All Jobs,INT -3 CHR -3 +10,none
+Malgust Ring,36,All Jobs,AGI -3 CHR -3 +10,none
+Pearl Ring,36,All Jobs,CHR +2 +5,none
+Peridot Ring,36,All Jobs,AGI +2 +5,none
+Puissance Ring,36,All Jobs,STR +3 +6,none
+Puissance Ring +1,36,All Jobs,DEF: 2 STR +3 +7,none
+Solace Ring,36,All Jobs,MND +3 +6,none
+Solace Ring +1,36,All Jobs,DEF: 2 MND +3 +7,none
+Sphene Ring,36,All Jobs,VIT +2 +5,none
+Turquoise Ring,36,All Jobs,MND +2 +5,none
+Verve Ring,36,All Jobs,VIT +3 +6,none
+Verve Ring +1,36,All Jobs,DEF: 2 VIT +3 +7,none
+Wisdom Ring,36,All Jobs,INT +3 +6,none
+Wisdom Ring +1,36,All Jobs,DEF: 2 INT +3 +7,none
+Aegis Ring,38,MNK / WHM / RDM / THF / BST / BRD / RNG / SAM / NIN / BLU / COR,DEF: 5,none
+Blitz Ring,39,WAR / PLD / DRK / BST / DRG,Haste +1%,none
+Crossbowman's Ring,40,All Jobs,Ranged Attack +5 DEF -14,none
+Electrum Ring,40,All Jobs,HP -20 MP +20,none
+Ether Ring,40,All Jobs,Converts 30 HP to MP,none
+Luzaf's Ring,40,All Jobs,"Increases ""Phantom Roll"" area of effect",none
+Mana Ring,40,All Jobs,MP +15,none
+Marksman's Ring,40,All Jobs,DEF: 2 Ranged Accuracy +6,none
+Sniper's Ring,40,All Jobs,-20 Accuracy +5 Ranged Accuracy +5 DEF -10,none
+Sniper's Ring +1,40,All Jobs,-25 Accuracy +7 Ranged Accuracy +7 DEF -12,none
+Vilma's Ring,40,All Jobs,INT +1 MND +1 CHR +1 Converts 25 HP to MP,none
+Woodsman Ring,40,All Jobs,Accuracy +5 Ranged Accuracy +5 Evasion -5,none
+Assailant's Ring,42,All Jobs,Attack +5,none
+Mermaid's Ring,43,All Jobs,#ERROR!,none
+Carapace Ring,45,All Jobs,Accuracy -6 Ranged Accuracy +6,none
+Carapace Ring +1,45,All Jobs,Accuracy -6 Ranged Accuracy +7,none
+Gold Ring,45,All Jobs,HP +5 MP -5,
+Gold Ring +1,45,All Jobs,HP +6 MP -6,none
+Kshama Ring No. 2,49,All Jobs,DEX +3 Accuracy +2,none
+Kshama Ring No. 3,49,All Jobs,AGI +3 Evasion +1,none
+Kshama Ring No. 4,49,All Jobs,DEF: 3 VIT +3,none
+Kshama Ring No. 5,49,All Jobs,MP +5 INT +3,none
+Kshama Ring No. 6,49,All Jobs,MP +6 CHR +3,none
+Kshama Ring No. 8,49,All Jobs,STR +3 Attack +3,none
+Kshama Ring No. 9,49,All Jobs,MP +5 MND +3,none
+Sun Earring,49,All Jobs,12,none
+Balrahn's Ring,50,All Jobs,"Magic Accuracy +4 Assault: INT +4 MND +4 CHR +4 Adds ""Refresh"" effect",none
+Conjurer's Ring,50,SMN,Latent effect: Avatar perpetuation cost -1,none
+Drake Ring,50,DRG,"Latent effect: Enhances ""Jump"" effects",none
+Ebullient Ring,50,All Jobs,"HP +15 MP +15 Enhances ""Resist Paralyze"" effect",none
+Fencer's Ring,50,RDM,Latent effect: Sword enhancement spell damage +5,none
+Garrulous Ring,50,All Jobs,"STR +3 AGI +3 Enhances ""Resist Silence"" effect",none
+Guardian's Ring,50,PLD,"Latent effect: ""Shield Bash"" +10",none
+Hale Ring,50,All Jobs,"INT +3 MND +3 Enhances ""Resist Virus"" effect",none
+Imperial Ring,50,All Jobs,Assault: Haste +4%,none
+Jalzahn's Ring,50,All Jobs,"Ranged Accuracy +6 Ranged Attack +6 Assault: AGI +6 Enhances ""Snapshot"" effect",none
+Kampfer Ring,50,MNK,"Latent effect: ""Counter"" +2",none
+Medicine Ring,50,WHM,"Latent effect: ""Cure"" potency +10%",none
+Minstrel's Ring,50,BRD,Latent effect: Song spellcasting time -25%,none
+Phalanx Ring,50,All Jobs,DEF: 10,none
+Rogue's Ring,50,THF,"Latent effect: ""Steal"" +3",none
+Ronin Ring,50,SAM,Latent effect: Accuracy +5,none
+Shinobi Ring,50,NIN,Latent effect: Haste +4%,none
+Slayer's Ring,50,DRK,"Latent effect: ""Weapon Bash"" +10",none
+Soldier's Ring,50,WAR,"Latent effect: ""Double Attack"" +2%",none
+Sorcerer's Ring,50,BLM,"Latent effect: ""Magic Atk. Bonus"" +10",none
+Storm Ring,50,All Jobs,Assault: Accuracy +10,none
+Tamer's Ring,50,BST,"Latent effect: ""Killer"" effects +3",none
+Tracker's Ring,50,RNG,Latent effect: Enmity -2,none
+Trooper's Ring,50,All Jobs,DEF: 1Enmity -4 Besieged: VIT +10 Enchantment: Recover HP,none
+Ulthalam's Ring,50,All Jobs,"Accuracy +4 Attack +4 Assault: STR +4 DEX +4 Adds ""Regen"" effect",none
+Unfettered Ring,50,All Jobs,"DEF: 5 ""Magic Def. Bonus"" +2 Enhances ""Resist Petrify"" effect",none
+Unyielding Ring,50,All Jobs,"DEF: 7 DEX +3 VIT +3 Enhances ""Resist Charm"" effect",none
+Horizon Ring,51,All Jobs,HP +10 MP +10 Ranged Accuracy +5,none
+Nereid Ring,51,All Jobs,Wind Instrument Skill +3,none
+Serket Ring,51,All Jobs,Converts 50 HP to MP,none
+Trumpet Ring,51,All Jobs,Wind Instrument skill +2,none
+Allure Ring,54,All Jobs,CHR +4 +8,none
+Allure Ring +1,54,All Jobs,DEF: 3 CHR +4 +9,none
+Aquamarine Ring,54,All Jobs,MND +3 +7,none
+Celerity Ring,54,All Jobs,AGI +4 +8,none
+Celerity Ring +1,54,All Jobs,DEF: 3 AGI +4 +9,none
+Chrysoberyl Ring,54,All Jobs,VIT +3 +7,none
+Fluorite Ring,54,All Jobs,DEX +3 +7,none
+Genius Ring,54,All Jobs,INT +4 +8,none
+Genius Ring +1,54,All Jobs,DEF: 3 INT +4 +9,none
+Grace Ring,54,All Jobs,DEX +4 +8,none
+Grace Ring +1,54,All Jobs,DEF: 3 DEX +4 +9,none
+Jadeite Ring,54,All Jobs,AGI +3 +7,none
+Moon Ring,54,All Jobs,CHR +3 +7,none
+Mystic Ring,54,All Jobs,MP +7 +8,none
+Mystic Ring +1,54,All Jobs,DEF: 3 MP +9 +9,none
+Painite Ring,54,All Jobs,MP +6  +7,none
+Serenity Ring,54,All Jobs,MND +4 +8,none
+Serenity Ring +1,54,All Jobs,DEF: 3 MND +4 +9,none
+Sun Ring,54,All Jobs,STR +3 +7,none
+Victory Ring,54,All Jobs,STR +4 +8,none
+Victory Ring +1,54,All Jobs,DEF: 3 STR +4 +9,none
+Vigor Ring,54,All Jobs,VIT +4 +8,none
+Vigor Ring +1,54,All Jobs,DEF: 3 VIT +4 +9,none
+Zircon Ring,54,All Jobs,INT +3 +7,none
+Scorpion Ring,55,All Jobs,Accuracy -7 Ranged Accuracy +7,none
+Scorpion Ring +1,55,All Jobs,Accuracy -6Ranged Accuracy +8,none
+Zoredonite Ring,56,All Jobs,MP +20 INT +1,none
+Bomb Queen Ring,57,All Jobs,HP +75 -75,none
+Toreador's Ring,57,All Jobs,DEF: 1 HP +10 Accuracy +7,none
+Hard Leather Ring,59,All Jobs,DEF: 2 AGI +1,none
+Peace Ring,59,WHM / BLM / RDM / BRD / RNG / NIN / SMN / BLU / PUP,Enmity -1 Converts 10 HP to MP,none
+Tiger Ring,59,All Jobs,DEF: 3 AGI +2 Attack +2,none
+Demon's Ring,60,All Jobs,DEF: 2 HP +10 MP +10 -20 +10,none
+Demon's Ring +1,60,All Jobs,DEF: 3 HP +13 MP +13 -20 +13,none
+Gobniu's Ring,60,All Jobs,"DEF: 5 Breath damage taken -2% ""Magic Def. Bonus"" +1",none
+Gold Musketeer's Ring,60,All Jobs,In areas under own nation's control: DEF: 4 VIT +3 Accuracy +5,In areas under own nation's control: Accuracy +5 instead of In areas under own nation's control: AGI +2
+Grand Knight's Ring,60,All Jobs,In areas under own nation's control: MP +6 DEX +2 MND +3 Attack +8,New stat of Attack +8 added.
+Olduum Ring,60,All Jobs,"Enchantment: ""Teleport"" (Wajaom Woodlands)",none
+Patriarch Protector's Ring,60,All Jobs,In areas under own nation's control: HP +6 STR +2 INT +3,MP +6 MND +3 INT +3 Magic Accuracy +3
+Platinum Ring,60,All Jobs,HP +8 MP -8,none
+Platinum Ring +1,60,All Jobs,HP +9 MP -7,none
+Random Ring,60,All Jobs,Enchantment: DEX +1~8,none
+Tavnazian Ring,60,All Jobs,"Enchantment: ""Teleport""",none
+Assassin's Ring,61,THF,Enchantment: Ranged Accuracy +20,
+Getsul Ring,61,BRD,Enchantment: Max HP +20%,none
+Pacifist Ring,61,BST,Enchantment: Enmity -12,none
+Sanation Ring,61,RDM,Enchantment: MP recovered while healing +3,
+Tactical Ring,61,DRK,Enchantment: Regain,none
+Vivian Ring,61,All Jobs,DEF: 2 INT +1 MND +1 Converts 50 HP to MP,none
+Bloodbead Ring,62,All Jobs,DEF: 2 HP +50 MP -10,none
+Jelly Ring,63,All Jobs,Physical damage taken -5% Magic damage taken +5%,none
+Altep Ring,65,All Jobs,"Enchantment: ""Teleport-Altep""",none
+Dem Ring,65,All Jobs,"Enchantment: ""Teleport-Dem""",none
+Diabolos's Ring,65,All Jobs,On Darksdays: MP -15% Dark Magic Skill +15,none
+Earth Ring,65,All Jobs,DEF: 2 On Earthsdays: HP -15% DEF: +15,none
+Fire Ring,65,All Jobs,DEF: 2 On Firesday: HP -15% Attack +15 Ranged Attack +15,none
+Holla Ring,65,All Jobs,"Enchantment: ""Teleport-Holla""",none
+Ice Ring,65,All Jobs,DEF: 2 On Icedays: MP -15% Elemental Magic Skill +15,none
+Lightning Ring,65,All Jobs,DEF: 2 On Lightningdays: HP -15% Accuracy +15 Ranged Accuracy +15,none
+Mea Ring,65,All Jobs,"Enchantment: ""Teleport-Mea""",none
+Orichalcum Ring,65,All Jobs,HP +10 MP -10,none
+Poseidon's Ring,65,All Jobs,"HP +10 MP +10 Enchantment: ""Water Spirit""",none
+Triton Ring,65,All Jobs,HP +11 MP -11,none
+Vahzl Ring,65,All Jobs,"Enchantment: ""Teleport-Vahzl""",
+Water Ring,65,All Jobs,DEF: 2 On Watersdays MP -15% Conserve MP +15,none
+Wind Ring,65,All Jobs,DEF: 2 On Windsdays: HP -15% Evasion +15,none
+Yhoat Ring,65,All Jobs,"Enchantment: ""Teleport-Yhoat""",none
+Hercules' Ring,66,WAR / PLD,"Enmity +3 Latent effect: Adds ""Regen"" effect Adds ""Refresh"" effect",none
+Atlaua's Ring,67,BST,"Vs. amorphs: ""Charm"" +4 Vs. aquans: ""Charm"" +4",none
+Marid Ring,67,All Jobs,DEF: 1 Accuracy -9 Ranged Accuracy +9,none
+Marid Ring +1,67,All Jobs,DEF: 2 Accuracy -10 Ranged Accuracy +10,none
+Serene Ring,69,WHM/BLM/RDM/BRD/SMN,INT +2 MND +2 CHR +2 Converts 15 HP to MP Enmity -2,none
+Behemoth Ring,70,All Jobs,DEF: 2 HP +10 Accuracy -11 Ranged Accuracy +11,none
+Behemoth Ring +1,70,All Jobs,DEF: 3 HP +12 Accuracy -10 Ranged Accuracy +12,none
+Blood Ring,70,All Jobs,"Accuracy +5 Enhances ""Resist Blind"" effect Enhances ""Resist Paralyze"" effect Enhances ""Resist Curse"" effect",none
+Coral Ring,70,All Jobs,Accuracy -9 Ranged Accuracy +9 Magic damage taken -3%,none
+Defending Ring,70,All Jobs,Damage taken -10%,none
+Insect Ring,70,All Jobs,"Magic Accuracy +2 Enhances ""Resist Poison"" effect Enhances ""Resist Silence"" effect Enhances ""Resist Virus"" effect",none
+Mercenary's Ring,70,All Jobs,VIT +5 Besieged: Physical damage taken -5%,none
+Merman's Ring,70,All Jobs,Accuracy -8 Ranged Accuracy +10 Magic damage taken -4%,none
+Volunteer's Ring,70,All Jobs,"""Magic Def. Bonus"" +3 Besieged:: MP recovered while healing +5",none
+Evoker's Ring,71,SMN,MP +25 Summoning Magic skill +10 Avatar perpetuation cost -1,none
+Scintillant Ring,71,All Jobs,STR +2DEX +2VIT +2AGI +2 INT +2MND +2CHR +2 Enhances Resist Virus Effect,none
+Shining Ring,71,All Jobs,"STR +1 DEX +1 VIT +1 AGI +1 INT +1MND +1 CHR +1 Enhances ""Resist Virus"" Effect",none
+Adroit Ring,72,All Jobs,DEX +5 +10,none
+Adroit Ring +1,72,All Jobs,DEF: 4 DEX +5 +11,none
+Angel's Ring,72,All Jobs,CHR +4 +9,none
+Celestial Ring,72,All Jobs,MP +20 MND +5 +10 MP recovered while healing +1,none
+Communion Ring,72,All Jobs,MND +5 +10,
+Communion Ring +1,72,All Jobs,DEF: 4 MND +5 +11,
+Death Ring,72,All Jobs,MP +8 +9,none
+Diamond Ring,72,All Jobs,INT +4 +9,none
+Emerald Ring,72,All Jobs,AGI +4 +9,none
+Hades Ring,72,All Jobs,MP +9 +10,
+Hades Ring +1,72,All Jobs,DEF: 4 MP +11 +11,
+Heavens Ring,72,All Jobs,CHR +5 +10,none
+Heavens Ring +1,72,All Jobs,DEF: 4 CHR +5 +11,none
+Nimble Ring,72,All Jobs,AGI +5 +10,none
+Nimble Ring +1,72,All Jobs,DEF: 4 AGI +5 +11,
+Omniscient Ring,72,All Jobs,INT +5 +10,none
+Omniscient Ring +1,72,All Jobs,DEF: 4 INT +5 +11,none
+Robust Ring,72,All Jobs,VIT +5 +10,none
+Robust Ring +1,72,All Jobs,DEF: 4 VIT +5 +11,
+Ruby Ring,72,All Jobs,STR +4 +9,none
+Sapphire Ring,72,All Jobs,MND +4 +9,none
+Spinel Ring,72,All Jobs,DEX +4 +9,none
+Star Ring,72,All Jobs,MP +20 MND +4 +9 MP recovered while healing +1,none
+Topaz Ring,72,All Jobs,VIT +4 +9,none
+Triumph Ring,72,All Jobs,STR +5 +10,none
+Triumph Ring +1,72,All Jobs,DEF: 4 STR +5 +11,none
+Dragon Ring,73,All Jobs,DEF: 1 Accuracy -10 Ranged Accuracy +10 Breath damage taken -1%,none
+Dragon Ring +1,73,All Jobs,DEF: 2 Accuracy -12 Ranged Accuracy +12 Breath damage taken -1%,none
+Aqua Ring,74,All Jobs,DEF: 3 STR +2 DEX -2 MND +5,none
+Breeze Ring,74,All Jobs,DEF: 3 VIT +2 INT -2 AGI +5,none
+Dark Ring,74,All Jobs,DEF: 3 HP -20 MP +20 STR +1 DEX +1 VIT +1 AGI +1 INT +1 MND +1 CHR +1,none
+Flame Ring,74,All Jobs,DEF: 3 STR +5 INT +2 MND -2,none
+Light Ring,74,All Jobs,DEF: 3 HP +20 MP -20 STR -1 DEX -1 VIT -1 AGI -1 INT -1 MND -1 CHR +5,none
+Snow Ring,74,All Jobs,DEF: 3 AGI +2 STR -2 INT +5,none
+Soil Ring,74,All Jobs,DEF: 3 DEX +2 AGI -2 VIT +5,none
+Thunder Ring,74,All Jobs,DEF: 3 DEX +5 VIT -2 MND +2,none
+Begrudging Ring,75,All Jobs,"""Tonberry's Grudge""",This is a custom Horizon XI item.
+Bellona's Ring,75,All Jobs,Ranged Accuracy +8 Ranged Attack 8 Evasion -8 DEF: -8,none
+Bravery Band,75,PLD,Parry Rate +2% Enemy Critical Hit Rate 5%,This is a custom Horizon XI item.
+Cerberus Ring,75,All Jobs,DEF: 3 +5 Attack +3 Ranged Attack +4,none
+Cerberus Ring +1,75,All Jobs,DEF: 4 +6 Attack +4 Ranged Attack +5,none
+Deflecting Band,75,MNK,"""Slow"" +5% Augments ""Counterstance"" effect",This is a Horizon XI custom item.
+Dilation Ring,75,RDM,"Spell Cost +25% Allies: ""Refresh"" and ""Haste"" Duration +30s",This is a custom Horizon XI item.
+Duality Loop,75,WAR,Attack -10Shield Mastery +2,This is a custom Horizon XI item.
+Epsilon Ring,75,All Jobs,INT +5 Salvage: Wind Instrument Skill +3 Magic Accuracy +3,none
+Hangeki Ring,75,SAM,"""Store TP"" -5 Seigan: ""Counter"" Rate +5",This is a custom Horizon XI item.
+Iota Ring,75,All Jobs,DEX +3 VIT +3 AGI +3 Accuracy +3,
+Luftpause Mark,75,BRD,Magic Accuracy +3 Song Recast +20%,This is a custom Horizon XI item.
+Mars's Ring,75,All Jobs,Accuracy +8 Attack +8 Evasion -8 DEF: -8,none
+Minerva's Ring,75,All Jobs,Physical damage taken +8% Magic damage taken -8%,none
+Obscured Ring,75,SMN,"""Avatar Perpetuation Cost"" +2 Avatar: Enmity Retention +2",This is a custom Horizon XI item.
+Omicron Ring,75,All Jobs,"STR +5 Salvage: ""Counter"" +2",none
+Opuntia Hoop,75,BLM,"Latent effect: ""Magic Accuracy"" +50 ""Magic Atk. Bonus"" +20",This is a custom Horizon XI item.
+Overlord's Ring,75,All Jobs,"""Drain"" and ""Aspir"" potency +2",This is a custom Horizon XI item.
+Pi Ring,75,All Jobs,"MND +5 Salvage: Enhances ""Fast Cast"" effect",none
+Psi Ring,75,All Jobs,"AGI +5 Salvage: ""Store TP"" +5",none
+Shadow Ring,75,All Jobs,"Occasionally annulls magic damage taken Enhances resistance against ""Death"" On Darksdays: ""Magic Def. Bonus""",none
+Sharpshooter's Ring,75,RNG,"""Dead Aim"" +5 Enmity +5",This is a custom Horizon XI item.
+Spirited Ring,75,BST,"""Sic"" and ""Ready"" Delay +10 Pet: Accuracy +5 Magic Accuracy +5",This is a custom Horizon XI item.
+Tau Ring,75,All Jobs,"DEF: +5 Salvage: ""Double Attack"" +2%",none
+Vaulter's Ring,75,DRG,"Enhances ""High Jump"" effect High Jump Accuracy -5",This is a Horizon XI custom item.
+Virology Ring,75,WHM,"""Healing Magic"" Recast +10% MP Recovered on debuff removal",This is a custom Horizon XI item.

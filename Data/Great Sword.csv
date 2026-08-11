@@ -1,0 +1,163 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Brave Blade II,1,1,480,0.13,,All Jobs
+Chaosbringer,1,3,666,0.27,,WAR / DRK
+Goujian,1,1,480,0.13,,All Jobs
+Irradiance Blade,1,1,480,0.13,,All Jobs
+Judge's Sword,1,99,999,5.95,GMs Only,All Jobs
+Lament,1,1,430,0.14,,All Jobs
+Ophidian Sword,1,1,480,0.13,,All Jobs
+Rusty Greatsword,1,14,456,1.84,,WAR / PLD / DRK
+Deathbringer,5,20,466,2.58,Attack+8 DEF-6,DRK
+Surviver,6,19,444,2.57,HP+5 MP+5,WAR / PLD / DRK
+Claymore,10,22,444,2.97,,WAR / PLD / DRK
+Claymore +1,10,23,431,3.2,,WAR / PLD / DRK
+Gust Claymore,10,22,444,2.97,"Additional effect with wind fan
+equipped: Wind damage",WAR / PLD / DRK
+Gust Claymore +1,10,23,431,3.2,"Additional effect with wind fan
+equipped: Wind damage",WAR / PLD / DRK
+Burning Claymore,13,27,431,3.76,Additional effect: Fire damage,WAR / PLD / DRK
+Flame Claymore,13,26,444,3.51,Additional effect: Fire damage,WAR / PLD / DRK
+Vulcan Claymore,13,26,444,3.51,"Additional effect: Fire damage
+Enchantment: ""Enfire""
+<30/30 0:30/[5:00, 0:30]>",WAR / PLD / DRK
+Estramacon,15,28,444,3.78,Additional effect: TP drain,WAR / PLD / DRK
+Braveheart,18,30,444,4.05,DEX+2 Accuracy+5,WAR / PLD / DRK
+2-Hand. Sword +1,20,36,443,4.88,,WAR / PLD / DRK
+Lucent Sword,20,35,456,4.61,"Enchantment: Delay:410
+<50/50 0:30/[30:00, 0:30]>",WAR / PLD / DRK
+Mrc. Greatsword,20,33,431,4.59,Attack+7,WAR / PLD / DRK
+Plain Sword,20,35,456,4.61,,WAR / PLD / DRK
+Platoon Sword,20,33,444,4.46,,PLD / DRK
+Two-Hand. Sword,20,35,456,4.61,,WAR / PLD / DRK
+Barbarian's Sword,24,37,444,5,"Accuracy-5
+Attack+15",WAR / PLD / DRK
+Federation Sword,25,35,405,5.19,MP+8 Attack+7,WAR / PLD / DRK
+Windurstian Sword,25,34,418,4.88,MP+6 Attack+7,WAR / PLD / DRK
+Hellfire Sword,27,41,443,5.55,Additional effect: Fire damage,WAR / PLD / DRK
+Inferno Sword,27,40,456,5.26,Additional effect: Fire damage,WAR / PLD / DRK
+Prominence Sword,27,40,456,5.26,"Additional effect: Fire damage
+Enchantment: ""Enfire""
+<30/30 0:30/[5:00, 0:30]>",WAR / PLD / DRK
+Demonic Sword,31,44,456,5.79,#ERROR!,WAR / PLD / DRK
+Falx,33,42,430,5.86,,DRK
+Falx +1,33,43,421,6.13,,DRK
+Fine Claymore,36,47,431,6.54,,WAR / PLD / DRK
+Halo Claymore,36,46,444,6.22,"Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>",WAR / PLD / DRK
+Mythril Claymore,36,46,444,6.22,,WAR / PLD / DRK
+Icicle Sword,39,53,456,6.97,#ERROR!,WAR / PLD / DRK
+Ryl.Swd. Blade,40,56,480,7,"In areas outside own nation's control:
+Attack+5",PLD / DRK
+Greatsword,41,55,456,7.24,,WAR / PLD / DRK
+Greatsword +1,41,56,443,7.58,,WAR / PLD / DRK
+Gust Sword,41,55,456,7.24,"Additional effect with wind fan
+equipped: Wind damage",WAR / PLD / DRK
+Gust Sword +1,41,56,443,7.58,"Additional effect with wind fan
+equipped: Wind damage",WAR / PLD / DRK
+Ryl.Swd. Blade +1,43,57,466,7.34,"In areas outside own nation's control:
+Attack+6",PLD / DRK
+Ryl.Swd. Blade +2,43,58,453,7.68,"In areas outside own nation's control:
+Attack+7",PLD / DRK
+Faussar,47,61,480,7.63,,PLD / DRK
+Faussar +1,47,62,466,7.98,,PLD / DRK
+Cobra Claymore,50,63,405,9.33,MP+8 Attack+7,WAR / PLD / DRK
+Gerwitz's Sword,50,30,888,2.03,,WAR / PLD / DRK
+Musketeer's Sword,50,61,480,7.63,Attack+10,WAR / PLD / DRK
+Msk. Sword +1,52,62,466,7.98,Attack+10,WAR / PLD / DRK
+Msk. Sword +2,52,63,453,8.34,Attack+10,WAR / PLD / DRK
+Glorious Sword,53,68,456,8.95,#ERROR!,WAR / PLD / DRK
+Dst. Claymore,54,71,489,8.71,,WAR / PLD / DRK
+Dst. Claymore +1,54,72,475,9.09,,WAR / PLD / DRK
+Ryl.Grd. Sword,55,75,466,9.66,STR+2 MND+3 CHR+1,PLD
+Darksteel Falx,57,72,451,9.58,,DRK
+Darksteel Falx +1,57,73,442,9.91,,DRK
+Ram-Dao,59,78,480,9.75,,PLD
+Ram-Dao +1,59,79,466,10.17,,PLD
+Zweihander,60,76,456,10,,WAR / PLD / DRK
+Zweihander +1,60,77,443,10.43,,WAR / PLD / DRK
+Arondight,62,79,480,9.88,#ERROR!,WAR / PLD / DRK
+Mercurial Sword,62,26,444,3.51,Occasionally attacks 2 to 4 times,WAR / PLD
+Lockheart,64,72,444,9.73,"Additional effect: ""Dispel""",WAR / PLD / DRK
+Mythril Heart,66,80,480,10,"Additional effect: ""Dispel""",WAR / PLD / DRK
+Mythril Heart +1,66,81,466,10.43,"Additional effect: ""Dispel""",WAR / PLD / DRK
+Ascalon,68,76,458,9.96,"STR+3 VIT+3 MND+3
+Additional effect vs. dragons:
+Light damage",WAR / PLD / DRK
+Balisarde,69,80,456,10.53,"HP+10 MP+10
+Set: Increases HP, VIT,
+Accuracy, Ranged Accuracy",WAR / PLD / DRK
+Cruadin,69,83,480,10.38,"STR+3
+Campaign: Critical hit rate +15%
+Increases critical hit damage",PLD / DRK
+Flamberge,69,80,480,10,MND+2 Attack+5,PLD
+Flamberge +1,69,81,466,10.43,MND+3 Attack+7,PLD
+Gust Tongue,69,80,480,10,"MND+2 Attack+5
+Additional effect with wind fan
+equipped: Wind damage",PLD
+Gust Tongue +1,69,81,466,10.43,"MND+3 Attack+7
+Additional effect with wind fan
+equipped: Wind damage",PLD
+Adaman Claymore,70,75,444,10.14,,WAR / PLD / DRK
+Balmung,70,80,480,10,"HP-5% Accuracy+5
+Attack+13
+Additional effect: ""Dispel""",DRK
+Crude Sword,70,76,444,10.27,"""Weapon Bash""+15",WAR / PLD / DRK
+Djinnbringer,70,81,444,10.95,Assault: DMG:84 Accuracy+5,WAR / PLD / DRK
+Gloom Claymore,70,76,444,10.27,"Magic Accuracy+2
+""Magic Atk. Bonus""+2",DRK
+Rune Algol,70,80,489,9.82,"Latent effect: VIT+5
+Weapon skill damage +1%",WAR / PLD / DRK
+Doombringer,71,84,480,10.5,"Depending on day: Increases elemental
+weapon skill damage",WAR / PLD / DRK
+Ferrara,71,74,387,11.47,Accuracy+4,WAR / PLD / DRK
+Nagan,71,84,480,10.5,HP+10 DEX+2 VIT+2,PLD / DRK
+Nagan +1,71,85,466,10.94,HP+11 DEX+3 VIT+3,PLD / DRK
+Pealing Nagan,71,84,480,10.5,"HP+10 DEX+2 VIT+2
+Enchantment: ""Thunder""
+<50/50 0:30/[10:00, 0:30]>",PLD / DRK
+Rsv.Cpt.Grt. sword,71,75,444,10.14,"Enhances ""Resist Blind"" effect
+Citizens of San d'Oria: Accuracy+7",WAR / PLD / DRK
+Sword of Trials,71,74,444,10,Latent effect: HP+20 +10 +10,WAR / PLD / DRK
+Martial Sword,72,76,444,10.27,TP Bonus,WAR / PLD / DRK
+Mighty Sword,72,75,444,10.14,"STR+1 DEX+1
+On Firesdays: DMG:84 +15",WAR / PLD / DRK
+Scheherazade,72,76,430,10.6,"Parrying skill +5
+Enhances ""Lizard Killer"" effect
+Vs. lizards: Critical hit rate +7%",DRK
+Subduer,72,72,444,9.73,"Latent effect: DMG:85
+Critical hit rate +6%",WAR / PLD / DRK
+Bahadur,73,84,489,10.31,"HP+10 DEX+2 VIT+2
+Additional effect: Fire damage",WAR / PLD / DRK
+Bahadur +1,73,85,474,10.76,"HP+12 DEX+3 VIT+3
+Additional effect: Fire damage",WAR / PLD / DRK
+Balan's Sword,73,83,466,10.69,HP+13 STR+2 INT+4,PLD
+Balin's Sword,73,84,480,10.5,MP+13 STR+4 INT+2,DRK
+Gigant Sword,73,81,456,10.66,,WAR / PLD / DRK
+Gold Algol,73,84,489,10.31,Accuracy+4,DRK
+Gold Algol +1,73,85,474,10.76,Accuracy+4 Attack+4,DRK
+Lyft Claymore,73,81,444,10.95,,WAR / PLD / DRK
+Perdu Sword,73,80,456,10.53,Latent effect: DMG:84,WAR / PLD / DRK
+Naglering,74,85,501,10.18,"Accuracy+4
+Attack+20 Magic Accuracy+3",DRK
+Skofnung,74,78,444,10.54,"Accuracy+3
+Additional effect vs. gigas:
+Light damage",WAR / PLD / DRK
+Albion,75,83,466,10.69,,PLD / DRK
+Algol,75,85,489,10.43,"Attack+3
+""Triple Attack""+3%
+Additional effect: Fire damage",WAR / PLD / DRK
+Brand d'Arcon,75,69,466,8.88,,PLD / DRK
+Break Blade,75,67,466,8.63,,PLD / DRK
+Dull Claymore,75,1,444,0.14,,WAR / PLD / DRK
+Dynamis Blade,75,80,444,10.81,In Dynamis: +9,WAR / PLD / DRK
+Galatyn,75,85,494,10.32,,WAR / PLD / DRK
+Gilded Blade,75,1,444,0.14,In Dynamis: +7,WAR / PLD / DRK
+Nightfall,75,85,444,11.49,"""Regain""+10
+Additional effect: Terror",WAR / PLD / DRK
+Ragnarok,75,86,431,11.97,"Accuracy+20
+Increases rate of critical hits
+""Scourge""",WAR / PLD / DRK
+Relic Blade,75,1,999,0.06,,WAR / PLD / DRK
+Salamand Sword,75,41,456,5.39,,PLD / DRK
+Sunblade,75,70,466,9.01,,PLD / DRK
+Valhalla,75,86,444,11.62,"In Dynamis: ""Scourge""",WAR / PLD / DRK

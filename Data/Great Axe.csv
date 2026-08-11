@@ -1,0 +1,174 @@
+Name,Level,Damage,Delay,DPS,Description,Jobs
+Autarch's Axe,1,1,504,0.12,,All Jobs
+Helgoland,1,1,504,0.12,,All Jobs
+Onion Greataxe,1,14,504,1.67,,WAR / DRK
+Rusty Greataxe,1,15,504,1.79,,WAR / DRK
+Trainee Axe,1,1,504,0.12,Latent effect: Woodworking skill +1,All Jobs
+Za'Dha Chopper,1,1,504,0.12,,All Jobs
+Assailant's Axe,5,19,504,2.26,"Enchantment: Accuracy+3
+<50/50 0:30/[30:00, 0:30]>",WAR / DRK
+Butterfly Axe,5,19,504,2.26,,WAR / DRK
+Butterfly Axe +1,5,20,489,2.45,,WAR / DRK
+Hellfire Axe,8,24,489,2.94,Additional effect: Fire damage,WAR / DRK
+Inferno Axe,8,23,504,2.74,Additional effect: Fire damage,WAR / DRK
+Prominence Axe,8,23,504,2.74,"Additional effect: Fire damage
+Enchantment: ""Enfire""
+<30/30 0:30/[5:00, 0:30]>",WAR / DRK
+Greataxe,12,30,504,3.57,,WAR / DRK
+Greataxe +1,12,31,489,3.8,,WAR / DRK
+Hydro Axe,12,30,504,3.57,"Additional effect with hydro
+pump equipped: Water damage",WAR / DRK
+Hydro Axe +1,12,31,489,3.8,"Additional effect with hydro
+pump equipped: Water damage",WAR / DRK
+Moth Axe,16,32,480,4,DEX+1,WAR / DRK
+Neckchopper,20,39,489,4.79,Accuracy+5,WAR / DRK
+Platoon Cutter,20,32,504,3.81,,WAR / DRK
+Mammut,21,40,504,4.76,Additional effect: Ice damage,WAR / DRK
+Plantbane,25,43,504,5.12,"Additional effect vs. plantoids:
+Fire damage",WAR / DRK
+Military Axe,28,46,474,5.82,AGI+1,WAR / DRK
+Centurion's Axe,30,48,504,5.71,,WAR / DRK
+Twicer,31,50,504,5.95,"Enchantment: ""Double Attack""
+<20/20 0:30/[5:00, 0:30]>",WAR
+Voulge,31,50,504,5.95,,WAR
+Voulge +1,31,51,489,6.26,,WAR
+Bas. Greataxe,34,49,489,6.01,"In areas outside own nation's control:
+STR+1",WAR / DRK
+Heavy Axe,34,52,504,6.19,,WAR / DRK
+Heavy Axe +1,34,53,489,6.5,,WAR / DRK
+Hydro Cutter,34,52,504,6.19,"Additional effect with hydro
+pump equipped: Water damage",WAR / DRK
+Hydro Cutter +1,34,53,489,6.5,"Additional effect with hydro
+pump equipped: Water damage",WAR / DRK
+Lucent Axe,34,52,504,6.19,"Enchantment: Delay:453
+<50/50 0:30/[30:00, 0:30]>",WAR / DRK
+Republic Greataxe,34,50,474,6.33,"In areas outside own nation's control:
+STR+2",WAR / DRK
+Horror Voulge,37,60,489,7.36,VIT+1 Attack+8,WAR / DRK
+Huge Moth Axe,39,59,504,7.02,STR+2,WAR / DRK
+Raifu,42,63,504,7.5,Additional effect: Lightning damage,WAR
+Heavy Moth Axe,44,65,504,7.74,STR+3 DEX-3,WAR / DRK
+Kheten,44,63,504,7.5,,WAR / DRK
+Kheten +1,44,64,489,7.85,,WAR / DRK
+Regiment Kheten,44,63,504,7.5,"Enchantment: TP+100
+<100/100 0:30/[10:00, 0:30]>",WAR / DRK
+Tewhatewha,45,69,529,7.83,"""Double Attack""+1%",WAR
+Tewhatewha+1,45,70,514,8.17,"""Double Attack""+1%",WAR
+Eisentaenzer,46,67,482,8.34,DEX+2 CHR+2,WAR / DRK
+Gigant Axe,49,75,519,8.67,STR+4 INT-4,WAR / DRK
+Lcs. Voulge +1,50,80,489,9.82,,WAR
+Leucous Voulge,50,79,504,9.4,,WAR
+Executioner,54,85,504,10.12,STR+5 VIT-5,WAR / DRK
+Darksteel Voulge,55,81,529,9.19,,WAR
+Dst. Voulge +1,55,82,514,9.57,,WAR
+Schwarz Axt,56,80,504,9.52,"-11 +11
+Nighttime: Accuracy+10",WAR / DRK
+Forseti's Axe,58,78,489,9.57,"STR+1
+Additional effect: Wind damage",WAR
+Heavy Dst. Axe,59,85,529,9.64,,WAR / DRK
+Hydro Chopper,59,85,529,9.64,"Additional effect with hydro
+pump equipped: Water damage",WAR / DRK
+Hydro Chopper +1,59,86,514,10.04,"Additional effect with hydro
+pump equipped: Water damage",WAR / DRK
+Massive Dst. Axe,59,86,514,10.04,,WAR / DRK
+Demon's Axe,62,82,504,9.76,"STR+6 INT+6
+Dark magic skill +6",WAR / DRK
+Colossal Axe,64,83,519,9.6,HP+10 STR+4 INT-4,WAR / DRK
+Colossal Axe +1,64,84,504,10,HP+12 STR+5 INT-5,WAR / DRK
+Pendragon Axe,67,89,504,10.6,,WAR / DRK
+Dark Amood,68,85,504,10.12,"Enhances ""Resist Virus"" effect
+Latent effect:
+DMG:55 Occasionally attacks twice",WAR
+Dark Amood +1,68,86,489,10.55,"Enhances ""Resist Virus"" effect
+Latent effect:
+DMG:56 Occasionally attacks twice",WAR
+Erik's Axe,68,88,504,10.48,Accuracy+6 Attack+6,WAR / DRK
+Alastor,69,88,504,10.48,"HP+10 MP+10
+Set: Increases Evasion and
+HP recovered while healing
+Reduces Enmity",WAR / DRK
+Berserker's Axe,69,95,504,11.31,,WAR / DRK
+Sparth,69,89,504,10.6,"Haste+1%
+Set: Increases STR, Attack,
+Ranged Attack, ""Magic Atk. Bonus""",WAR / DRK
+Rune Chopper,70,88,504,10.48,"Latent effect:
+Accuracy+5 Haste+2%",WAR / BLM / DRK / BRD / SMN
+Wamoura Axe,70,88,504,10.48,"Assault: DMG:93 ""Double Attack""+1%",WAR / DRK
+Wardancer,70,89,504,10.6,Latent effect: Delay:474,WAR / DRK
+Axe of Trials,71,87,504,10.36,Latent effect: HP+20 +10 +10,WAR / DRK
+Bhuj,71,89,504,10.6,HP+10 DEX+2 VIT+2,WAR / DRK
+Bhuj +1,71,90,489,11.04,HP+11 DEX+3 VIT+3,WAR / DRK
+Fourth Toporok,71,88,474,11.14,"Attack+10
+Enhances ""Resist Blind"" effect",WAR / DRK
+Gawain's Axe,71,90,504,10.71,"STR+1 VIT+5 AGI-2
+Additional effect: Paralysis",WAR
+Imperial Bhuj,71,93,504,11.07,"Depending on day: Increases elemental
+weapon skill damage",WAR / DRK
+Seismic Axe,71,92,504,10.95,"Latent effect: Increases weapon
+skill accuracy and damage
+Additional effect: Earth damage",WAR / DRK
+Snr.Msk. Axe,71,88,504,10.48,"Enhances ""Resist Blind"" effect
+Citizens of Bastok: Attack+10",WAR / DRK
+Eventreuse,72,90,504,10.71,"AGI+4
+Enhances ""Plantoid Killer"" effect
+Vs. plantoid: Critical hit rate +7%",WAR
+Foolkiller,72,90,489,11.04,"Accuracy+7
+Attack+7
+Latent effect: STR+8",WAR
+Kinship Axe,72,30,504,3.57,Occasionally attacks 2 to 3 times,WAR
+Martial Bhuj,72,88,504,10.48,TP Bonus,WAR / DRK
+Rampager,72,74,504,8.81,"Latent effect: DMG:87
+Critical hit rate +6%",WAR / DRK
+Ulfhedinn Axe,72,91,504,10.83,"""Store TP""+1
+Additional effect vs. hounds:
+Ice damage",WAR / DRK
+Blizzard Toporok,73,92,504,10.95,"HP+10
+DEX+2 VIT+2 +8
+Enchantment: ""Blizzard""
+<50/50 0:30/[10:00, 0:30]>",WAR / DRK
+Fortitude Axe,73,64,504,7.62,"VIT+7
+Virtue stone equipped:
+Occasionally attacks twice",WAR / DRK
+Lyft Voulge,73,96,514,11.21,,WAR / DRK
+Mighty Axe,73,88,504,10.48,"VIT+1 AGI+1
+On Firesdays: DMG:98 +15",WAR / DRK
+Perdu Voulge,73,91,504,10.83,Latent effect: DMG:96,WAR / DRK
+Toporok,73,92,504,10.95,"HP+10
+DEX+2 VIT+2 +8",WAR / DRK
+Toporok +1,73,93,489,11.41,"HP+11
+DEX+3 VIT+3 +9",WAR / DRK
+Balestarius,74,88,504,10.48,"VIT+8
+Physical damage taken -8%
+Campaign: Occasionally attacks twice",WAR
+Byakko's Axe,74,94,504,11.19,#ERROR!,WAR / DRK
+Abaddon Killer,75,99,504,11.79,"In Dynamis: ""Metatron Torment""",WAR
+Agonal Bhuj,75,1,504,0.12,In Dynamis: +7,WAR
+Amood,75,88,504,10.48,"Enhances ""Resist Virus"" effect
+Latent effect:
+DMG:58 Occasionally attacks twice",WAR
+Amood +1,75,89,489,10.92,"Enhances ""Resist Virus"" effect
+Latent effect:
+DMG:59 Occasionally attacks twice",WAR
+Bonesplitter,75,89,504,10.6,,WAR
+Bravura,75,99,488,12.17,"Accuracy+20
+""Metatron Torment""
+Additional effect: Impairs evasion",WAR
+Conqueror,75,93,504,11.07,,WAR
+Conqueror,75,93,504,11.07,"Augments ""Berserk""
+""King's Justice""
+Aftermath: Increases Acc./Atk.
+Occasionally attacks twice",WAR
+Dynamis Bhuj,75,89,504,10.6,In Dynamis: +9,WAR
+Erlking's Kheten,75,91,504,10.83,,WAR
+Hephaestus,75,72,488,8.85,,WAR
+Luchtaine,75,44,504,5.24,,WAR
+Lumberjack,75,68,504,8.1,,WAR
+Relic Bhuj,75,1,999,0.06,,WAR
+Sagaris,75,75,504,8.93,,WAR
+Sturdy Axe,75,87,504,10.36,,WAR
+Wootz Amood,75,90,504,10.71,"Enhances ""Resist Virus"" effect
+Latent effect:
+DMG:57 Occasionally attacks twice",WAR
+Wootz Amood +1,75,91,489,11.17,"Enhances ""Resist Virus"" effect
+Latent effect:
+DMG:58 Occasionally attacks twice",WAR

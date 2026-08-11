@@ -1,0 +1,126 @@
+{
+  "WAR": [
+    "Mighty Strikes",
+    "Provoke",
+    "Berserk",
+    "Defender",
+    "Warcry",
+    "Aggressor",
+    "Tomahawk"
+  ],
+  "MNK": [
+    "Hundred Fists",
+    "Boost",
+    "Focus",
+    "Dodge",
+    "Chakra",
+    "Counterstance",
+    "Mantra"
+  ],
+  "THF": [
+    "Perfect Dodge",
+    "Steal",
+    "Sneak Attack",
+    "Mug",
+    "Trick Attack",
+    "Hide",
+    "Assassin's Charge",
+    "Feint"
+  ],
+  "WHM": [
+    "Benediction",
+    "Divine Seal",
+    "Martyr"
+  ],
+  "BLM": [
+    "Manafont",
+    "Elemental Seal",
+    "Cascade"
+  ],
+  "RDM": [
+    "Chainspell",
+    "Convert",
+    "Composure"
+  ],
+  "PLD": [
+    "Invincible",
+    "Holy Circle",
+    "Shield Bash",
+    "Sentinel",
+    "Cover",
+    "Rampart",
+    "Fealty"
+  ],
+  "DRK": [
+    "Blood Weapon",
+    "Arcane Circle",
+    "Last Resort",
+    "Weapon Bash",
+    "Souleater",
+    "Dark Seal"
+  ],
+  "BST": [
+    "Charm",
+    "Familiar",
+    "Reward",
+    "Call Beast",
+    "Gauge",
+    "Sic",
+    "Stay",
+    "Feral Howl"
+  ],
+  "BRD": [
+    "Soul Voice",
+    "Pianissimo",
+    "Nightingale",
+    "Troubadour"
+  ],
+  "RNG": [
+    "Eagle Eye Shot",
+    "Sharpshot",
+    "Scavenge",
+    "Camouflage",
+    "Barrage",
+    "Shadowbind",
+    "Velocity Shot",
+    "Stealth Shot"
+  ],
+  "SAM": [
+    "Meikyo Shisui",
+    "Third Eye",
+    "Meditate",
+    "Warding Circle",
+    "Hasso",
+    "Seigan",
+    "Shikikoyo"
+  ],
+  "NIN": [
+    "Mijin Gakure",
+    "Yonin",
+    "Innin",
+    "Futae"
+  ],
+  "DRG": [
+    "Spirit Surge",
+    "Call Wyvern",
+    "Jump",
+    "High Jump",
+    "Super Jump",
+    "Spirit Link",
+    "Ancient Circle",
+    "Deep Breathing"
+  ],
+  "SMN": [
+    "Astral Flow",
+    "Avatar's Favor",
+    "Elemental Siphon"
+  ],
+  "GEO": [
+    "Bolster",
+    "Life Cycle",
+    "Blaze of Glory",
+    "Dematerialize",
+    "Thend",
+    "Concentric Pulse"
+  ]
+}

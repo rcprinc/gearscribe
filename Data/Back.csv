@@ -1,0 +1,180 @@
+Name,Level,Slot,Jobs,Stats,Horizon Changes
+Apple Tank,1,Back,All Jobs,Dispense: Apple au Lait,none
+Ether Tank,1,Back,All Jobs,Dispense: Ether,none
+Orange Tank,1,Back,All Jobs,Dispense: Orange au Lait,none
+Pamama Tank,1,Back,All Jobs,Dispense: Pamama au Lait,none
+Pear Tank,1,Back,All Jobs,Dispense: Pear au Lait,none
+Persikos Tank,1,Back,All Jobs,Dispense: Persikos au Lait,none
+Potion Tank,1,Back,All Jobs,Dispense: Potion,none
+Water Tank,1,Back,All Jobs,Dispense: Distilled Water,none
+Rabbit Mantle,4,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 1,none
+Rabbit Mantle +1,4,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Cape,7,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 1,none
+Cape +1,7,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 2,none
+Mist Silk Cape,10,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 3 MND +1 +3,
+Traveler's Mantle,12,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 1 Evasion +3,none
+Lizard Mantle,17,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 2,none
+Lizard Mantle +1,17,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3,none
+Dhalmel Mantle,18,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR / DNC / RUN,DEF: 3,
+Breath Mantle,18,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 Enchantment: HP +18 Enmity +3,none
+Cotton Cape,18,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 2,none
+Cotton Cape +1,18,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 3,none
+Dhalmel Mantle +1,18,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4,none
+Talisman Cape,18,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 2 Enchantment: MP +12 Enmity -2,none
+Variable Cape,20,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 2~ MP 3~,none
+Variable Mantle,20,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3~,none
+Night Cape,21,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 +3 Evasion +3,none
+Nomad's Mantle,24,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 2 AGI +1 Evasion +3,none
+Nomad's Mantle +1,24,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 3 AGI +2 Evasion +3,none
+Invisible Mantle,28,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 4 +4 Enchantment: ""Invisible""",none
+Wolf Mantle,28,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4 +4,none
+Wolf Mantle +1,28,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 +3 +3 +3 +3 +3 +3 +3,none
+Singer's Mantle,30,Back,All Jobs,"DEF: 2 Latent effect: ""Paeon""+1","Latent effect: ""Paeon""+1 instead of
+Latent effect: Enhances ""Resist Silence"" effect"
+Wyvern Mantle,30,Back,All Jobs,"DEF: 2 Latent effect: Enhances ""Jump"" effect","The Latent effect of Wyvern Mantle has been changed from +6 attack to enhances ""Jump"" effect."
+Wizard's Mantle,30,Back,All Jobs,DEF: 2 Latent effect: MP recovered while healing +1,none
+Ashigaru Mantle,30,Back,All Jobs,"DEF: 2 Latent effect: Enhances ""Resist Blind"" effect",none
+Beater's Mantle,30,Back,All Jobs,DEF: 2 Latent effect: Increases Rapid Shot activation rate,none
+Esquire's Mantle,30,Back,All Jobs,"DEF: 2 Latent effect: Enhances ""Undead Killer"" effect",none
+Genin Mantle,30,Back,All Jobs,DEF: 2 Latent effect: AGI +3,"Previous stat of ""Resist Bind"" replaced with AGI +3."
+Healer's Mantle,30,Back,All Jobs,"DEF: 2 Latent effect: ""Magic Def. Bonus""",none
+Killer Mantle,30,Back,All Jobs,DEF: 2 Latent effect: Dark Magic Skill +5,none
+Magician's Mantle,30,Back,All Jobs,DEF: 2 Latent effect: Blood Pact ability delay -2,"Latent Effect: Summoning Magic Skill +5 changed to ""Blood Pact"" ability delay-2"
+Mercenary Mantle,30,Back,All Jobs,DEF: 2 Latent effect: Enmity +1,none
+Midnight Cape,30,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 4 +6 Evasion +4,none
+Pilferer's Mantle,30,Back,All Jobs,DEF: 2 Latent effect: Evasion +4,none
+Sarcenet Cape,30,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 3 +5 Evasion +3,none
+Trimmer's Mantle,30,Back,All Jobs,"DEF: 2 Latent effect: ""Charm"" +5",changed from Latent effect: Resist Slow
+Warlock's Mantle,30,Back,All Jobs,"DEF: 2 Latent effect: Enhances ""Fast Cast"" effect",none
+Wrestler's Mantle,30,Back,All Jobs,"DEF: 2 Latent effect: Enhances ""Martial Arts"" effect",none
+Black Cape,32,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 3 INT +2,none
+Black Cape +1,32,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 4 INT +3,none
+Sentinel's Mantle,32,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6 Evasion -5,none
+White Cape,32,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 3 MND +2,none
+White Cape +1,32,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 4 MND +3,none
+High Breath Mantle,36,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 +5 Enchantment: HP +38 Enmity +5,none
+Ram Mantle,36,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 +5,none
+Ram Mantle +1,36,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 5 +6,none
+Cavalier's Mantle,37,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 VIT +2 Evasion -10,none
+Cavalier's Mantle +1,37,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 9 VIT +3 Evasion -10,none
+Tundra Mantle,39,Back,WHM / BLM / RDM / BRD / RNG / NIN / SMN / BLU / PUP,DEF: 4 MP +5 +5 +5,none
+Resentment Cape,40,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 Enmity +2 In areas outside own nation's control: Magic damage taken -5%,none
+Agile Mantle,40,Back,WAR / THF / RNG / SAM / NIN,DEF: 5 AGI +1 Accuracy +1,none
+Earth Mantle,40,Back,WAR / PLD / DRK / BST / DRG,DEF: 6 VIT +1 +5 +5,none
+Rearguard Mantle,40,Back,WHM / BLM / RDM / BRD / SMN,DEF: 4 STR +1 VIT +1,none
+Lucent Cape,42,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 5 HP +7 MP +7 CHR +3,none
+Red Cape +1,43,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 5 INT +3 MND +3,
+Red Cape,43,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 4 INT +2 MND +2,none
+Aurora Mantle,44,Back,WHM / BLM / RDM / BRD / RNG / NIN / SMN / BLU / PUP,DEF: 5 MP +10 +7 +7,none
+Aurora Mantle +1,44,Back,WHM / BLM / RDM / BRD / RNG / NIN / SMN / BLU / PUP,DEF: 6 MP +12 +8 +8,none
+Green Cape,45,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 4 +3 +3 +3 +3,none
+Bat Cape,46,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6 +5 Evasion +5,none
+Jaguar Mantle,47,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 4 Attack +3 Evasion +1,none
+Raptor Mantle,48,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR / DNC / RUN,DEF: 6 +3 -1,none
+Dino Mantle,48,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 +4 -1,none
+Dodge Cape,49,Back,WHM / BLM / RDM / BRD / SMN / BLU PUP,DEF: 4 Evasion +5,none
+Volitional Mantle,49,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6 Latent effect: VIT +10,none
+Esoteric Mantle,50,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 2 MP +7 Enmity -1,none
+Gramary Cape,50,Back,WHM / BLM / RDM / BRD / RNG / NIN / SMN / BLU / PUP,"DEF: 2 Magic Accuracy +1 ""Magic Def. Bonus"" +2",none
+Heavy Mantle,50,Back,WAR / PLD / DRK / BST / DRG,DEF: 9,none
+Skulker's Cape,50,Back,WHM / BLM / RDM / SMN / BLU,"DEF: 4 Enhances ""Invisible"" effect Enhances ""Sneak"" effect","Skulkers cape now adds a roughly 50% duration boost to sneak and invisible as in era[[1][2]]
+
+Also seems to apply when casting sneak and invisible on other players."
+Sniper's Mantle,50,Back,WAR / THF / RNG / SAM / NIN,DEF: 4 Attack +2 Ranged Attack +1,none
+Storm Cape,50,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 4 MP +30 Assault: MP recovered while healing +2,none
+Storm Mantle,50,Back,All Jobs,DEF: 5 HP +30 Assault: HP +75,none
+Templar's Mantle,50,Back,PLD / DRK,DEF: 5 MP +20,none
+Amity Cape,51,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,Enmity -3,none
+Gaia Mantle,51,Back,WAR / PLD / DRK / BST / DRG,DEF: 7 VIT +1 +10 +10,none
+Gaia Mantle +1,51,Back,WAR / PLD / DRK / BST / DRG,DEF: 8 VIT +2 +12 +12,none
+Safety Mantle,51,Back,WAR / PLD / DRK / BST / DRG,DEF: 8 Opponent's critical hit rate -2%,none
+Bellicose Mantle,52,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 3 HP -10 Attack +6,none
+Lightning Mantle,53,Back,WAR / MNK / RDM / THF / PLD / DRK BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 +6,none
+Jester's Cape,54,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 5 CHR +7,none
+Jester's Cape +1,54,Back,WHM / BLM / RDM / BRD / SMN / BLU/ PUP,DEF: 6 CHR +10,none
+Hi-Potion Tank,55,Back,All Jobs,DEF: 1 Dispense: Hi-Potion,
+Royal Army Mantle,55,Back,All Jobs,DEF: 9 STR +2 MND +2,none
+Republican Army Mantle,55,Back,All Jobs,DEF: 6 HP +6 DEX +2 VIT +2,none
+Federal Army Mantle,55,Back,All Jobs,DEF: 6 MP +6 AGI +2 INT +2,none
+Beak Mantle,58,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 VIT +1  +5,none
+Beak Mantle +1,58,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 9 VIT +2 +7,none
+Enhancing Mantle,59,Back,MNK / WHM / RDM / THF / BST / BRD / RNG / SAM / NIN / BLU / COR,DEF: 8 HP +10 MP +10,none
+Sapient Cape,60,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 4 INT +2 MND +2 Enmity -2,
+Behemoth Mantle,60,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 12 HP +20 Attack +5,none
+Behemoth Mantle +1,60,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 13 HP +30 Attack +10,none
+Bullseye Cape,60,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 AGI +1 Ranged Attack +12,none
+Bushido Cape,60,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 7 Evasion +1 ""Store TP"" +1 ""Subtle Blow"" +1 Enhances ""Zanshin"" effect",none
+Busker's Cape,60,Back,All Jobs,DEF: 2 Latent effect: Enmity -2,none
+Immortal's Cape,60,Back,All Jobs,"DEF: 2 Latent effect: Enhances ""Resist Sleep"" effect",none
+Intensifying Cape,60,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 5 HP +30 MP +30,none
+Invigorating Cape,60,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 5 MP +1% Evasion +3 MP recovered while healing +1,none
+Knightly Mantle,60,Back,WAR / PLD,DEF: 12 VIT +4,none
+Miraculous Cape,60,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 5 MP +15 MND +3 CHR +3 Enmity -1,none
+Pirate's Cape,60,Back,All Jobs,"DEF: 2 Latent effect: Enhances ""Resist Paralyze"" effect",none
+Amemet Mantle,61,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 STR +1 Attack +10 Ranged Attack +10,
+Amemet Mantle +1,61,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 STR +2 Attack +15 Ranged Attack +15,
+Desert Mantle,62,Back,All Jobs,DEF: 8 HP +10 Sandstorms: VIT +2 AGI +2,none
+Desert Mantle +1,62,Back,All Jobs,DEF: 9 HP +15 Sandstorms: VIT +3 AGI +3,none
+Feral Mantle,64,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 10,none
+Tiger Mantle,64,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 9,none
+Lamia Mantle,65,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 8 MP +24 ""Magic Def. Bonus"" +3",none
+Lamia Mantle +1,65,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 9 MP +26 ""Magic Def. Bonus"" +4",none
+Sand Mantle,65,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 Attack +5 Petrification: Physical damage taken -20%,none
+Taffeta Cape,65,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 5 +13 Evasion +4,none
+Taffeta Cape +1,65,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 6 +14 Evasion +5,none
+Black Mantle,66,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 9 STR +1 +8,none
+Black Mantle +1,66,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 10 STR +1 +10,none
+Peace Cape,66,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,Enmity -4,none
+Peace Cape +1,66,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,Enmity -5,none
+Empowering Mantle,67,Back,MNK / WHM / RDM / THF / BST / BRD / RNG / SAM / NIN / BLU / COR,DEF: 9 HP +10 HP +1% MP +10 MP +1%,none
+Empowering Mantle +1,67,Back,MNK / WHM / RDM / THF / BST / BRD / RNG / SAM / NIN / BLU / COR,DEF: 10 HP +15 HP +1% MP +15 MP +1%,none
+Blue Cape,68,Back,WHM / BLM / BRD / RNG / SMN / PUP,DEF: 6 MP +15 -10 +5 +5 +5 -10 +5 +5 +5 Converts 15 HP to MP,none
+Blue Cape +1,68,Back,WHM / BLM / BRD / RNG / SMN / PUP,DEF: 7 MP +20 -8 +7 +7 +7 -8 +7 +7 +7 Converts 20 HP to MP,none
+Cheviot Cape,68,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 5 +13 Physical damage taken -5%,none
+Umbra Cape,68,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 6 +14 Physical damage taken -6%,none
+Birdman Cape,69,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,"DEF: 7 MP +30 CHR +9 Enhances ""Resist Paralyze"" effect",none
+Psilos Mantle,69,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 6 Accuracy +1 Attack +12 Ranged Accuracy +1 Ranged Attack +12,none
+Assassin's Cape,70,Back,THF,DEF: 7 DEX +4 AGI +4 Enmity +5,none
+Abyss Cape,70,Back,DRK,DEF: 6 Accuracy +7 Weapon Skill Accuracy +7 Magic Accuracy +7,none
+Summoner's Cape,70,Back,SMN,DEF: 6 HP +30 MP +30 Enmity -1,none
+Boxer's Mantle,70,Back,All Jobs,DEF: 8 Guarding Skill +10 Evasion Skill +10 Shield Skill +10 Parrying Skill +10,none
+Gunner's Mantle,70,Back,All Jobs,DEF: 7 Attack -10 Ranged Accuracy -10 Ranged Attack +20,none
+Charger Mantle,70,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR / DNC / RUN,DEF: 7 Attack +20 Ranged Accuracy -10 Ranged Attack -10,
+Jaeger Mantle,70,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 Attack -10 Ranged Accuracy +20 Ranged Attack -10,none
+Aries Mantle,70,Back,All Jobs,"DEF: 6 Sleep: Adds ""Regen"" effect and Adds ""Refresh"" effect Enchantment: Sleep",none
+Aslan Cape,70,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 7 HP -20 MP +20 MND +5 CHR -5,none
+Bard's Cape,70,Back,BRD,DEF: 6 CHR +7 Accuracy +7 Evasion +7,none
+Coeurl Mantle,70,Back,THF / BST / RNG,DEF: 8 HP -1% Evasion +3,none
+Fenrir's Cape,70,Back,All Jobs,Daytime: DEF: +10 Nighttime: Enmity +3,none
+Gigant Mantle,70,Back,All Jobs,DEF: 4 HP +80,none
+Gleeman's Cape,70,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 7 HP +20 MP -20 VIT -5 INT +5,none
+Lieutenant's Cape,70,Back,All Jobs,DEF: 8 HP +40 MP +20 Enchantment: Restores HP and MP,none
+Melee Cape,70,Back,MNK,DEF: 8 VIT +5 MND +5 HP recovered while healing +5,none
+Mercenary's Mantle,70,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,"DEF: 7 Enhances ""Resist Stun"" effect Besieged: ""Haste"" +3%",none
+Mirage Mantle,70,Back,BLU,DEF: 6 MP +20 Accuracy +7 Magic Accuracy +3,none
+Pantin Cape,70,Back,PUP,DEF: 6 DEX +5 Attack +15 Automaton: Attack +15,none
+Torama Mantle,70,Back,RDM / THF / BST / RNG,DEF: 9 HP -1% Evasion +4,none
+Valor Cape,70,Back,PLD,DEF: 16 HP +40 VIT +6 Enmity +3,none
+Rainbow Cape,71,Back,WHM / BLM / RDM / BRD / SMN BLU / PUP,DEF: 7 HP +9 MP +9 INT +3 MND +3 CHR +3,
+Aileron Mantle,71,Back,WAR / RDM / THF / DRK / NIN / COR,DEF: 5 Accuracy +6 Ranged Accuracy +6,none
+Corse Cape,71,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 9 +7 Evasion +7,none
+Forager's Mantle,71,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 7 STR +3 Attack +15,none
+Prism Cape,71,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 8 HP +10 MP +10 INT +4 MND +4 CHR +4,none
+Solitaire Cape,71,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,"DEF: 6 HP -20 ""Magic Atk. Bonus"" +2 Spell interruption rate down 8%",none
+Hexerei Cape,72,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 5 MP +8 Damage taken -3%,none
+Marid Mantle,72,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 10 HP +2% Ranged Attack +10,none
+Marid Mantle +1,72,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 11 HP +3% Ranged Attack +11,none
+Toreador's Cape,72,Back,All Jobs,DEF: 7 Evasion +9 Enmity +4,none
+Merciful Cape,73,Back,All Jobs,MP +25 Enhancing magic skill +5 Elemental magic skill +5 Dark magic skill +5,
+Altruistic Cape,73,Back,All Jobs,MP +25 Divine Magic skill +5 Healing Magic skill +5 Enfeebling Magic skill +5,
+Astute Cape,73,Back,All Jobs,MP +25 Summoning magic skill +5 Ninjutsu skill +5 Singing skill +5,
+Commander's Cape,73,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 8 STR +3 DEX +3 AGI +3,none
+Errant Cape,73,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 9 MP +30 Enmity -5,none
+Mahatma Cape,73,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 10 MP +32 Enmity -6,none
+Settler's Cape,73,Back,WAR / PLD / DRK / BST / DRG,DEF: 5 HP -30 Accuracy +10 Attack -10,none
+Erato's Cape,74,Back,WHM / BLM / RDM / BRD / SMN / BLU / PUP,DEF: 6 MP +18 String Instrument skill +4,none
+Wayang Kulit Mantle,74,Back,PUP,DEF: 5 Automaton: Melee Skill +2,none
+Maledictor's Shawl,75,Back,WHM / BLM / RDM / BLU,"DEF: 8 ""Conserve MP"" +3 Bonus Damage Added to Magic Burst",This is a custom Horizon XI item.
+Cerberus Mantle,75,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU /COR,DEF: 12 STR +3 +10 Attack +12 Enmity +3,none
+Cerberus Mantle +1,75,Back,WAR / MNK / RDM / THF / PLD / DRK / BST / BRD / RNG / SAM / NIN / DRG / BLU / COR,DEF: 13 STR +4 +12 Attack +15 Enmity +4,none
+Shadow Mantle,75,Back,All Jobs,DEF: 15 Occasionally annulls damage from physical attacks On Darksday: VIT +20,none

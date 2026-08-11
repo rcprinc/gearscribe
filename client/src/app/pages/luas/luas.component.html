@@ -1,0 +1,682 @@
+<div class="tab-layout">
+  <aside class="tab-layout__sidebar">
+    <app-job-sidebar
+      addLabel="+ Subjob"
+      [jobSelectable]="true"
+      [items]="savedSubjobs"
+      (jobClicked)="onJobSelected($event)"
+      (addClicked)="onAddSubjob($event)"
+      (itemClicked)="onSelectSubjob($event)"
+    ></app-job-sidebar>
+  </aside>
+
+  <div class="tab-layout__content page">
+    <h1 *ngIf="!selectedJob">Luas</h1>
+
+    <p *ngIf="!selectedJob">Select a job on the left, or add a subjob, to get started.</p>
+
+    <ng-container *ngIf="selectedJob && pickingSubjob">
+      <h2>{{ selectedJob }} — Select Subjob</h2>
+      <div class="lua-subjob-grid">
+        <button
+          type="button"
+          class="lua-subjob-grid__option"
+          *ngFor="let job of subjobChoicesFor(selectedJob)"
+          (click)="chooseSubjob(job)"
+        >
+          {{ job }}
+        </button>
+      </div>
+    </ng-container>
+
+    <ng-container *ngIf="selectedJob && !pickingSubjob">
+      <h2>{{ selectedJob }}{{ selectedSubjob ? '/' + selectedSubjob : '' }}</h2>
+      <div class="lua-category-buttons">
+        <button
+          type="button"
+          class="lua-category-buttons__option"
+          *ngFor="let category of visibleCategories()"
+          (click)="onCategoryClick(category)"
+        >
+          {{ category }}
+        </button>
+      </div>
+
+      <div class="lua-combined-output">
+        <h3 class="lua-combined-output__label">Combined Sets</h3>
+        <textarea
+          class="lua-combined-output__box"
+          [value]="combinedSetsText()"
+          readonly
+          spellcheck="false"
+        ></textarea>
+      </div>
+
+      <div class="lua-update-row" *ngIf="!selectedSubjob">
+        <button
+          type="button"
+          class="lua-update-button"
+          (click)="updateLuaFile()"
+        >
+          Update
+        </button>
+
+        <div class="lua-reload-hint">
+          <span class="lua-reload-hint__label">Reload command:</span>
+          <span class="lua-reload-hint__command">/lac load</span>
+        </div>
+      </div>
+    </ng-container>
+  </div>
+</div>
+
+<div class="lua-modal-overlay" *ngIf="generalModalOpen" (click)="closeGeneralModal()">
+  <div class="lua-modal" (click)="$event.stopPropagation()">
+    <div class="lua-modal__header">
+      <h3>{{ selectedJob }}{{ selectedSubjob ? '/' + selectedSubjob : '' }} — General</h3>
+      <button type="button" class="lua-modal__close" (click)="closeGeneralModal()">×</button>
+    </div>
+
+    <div class="lua-modal__tabs">
+      <button
+        type="button"
+        class="lua-modal__tab"
+        *ngFor="let tab of modalTabs()"
+        [class.lua-modal__tab--active]="activeGeneralTab === tab"
+        (click)="selectGeneralTab(tab)"
+      >
+        {{ tab }}
+      </button>
+    </div>
+
+    <div class="lua-modal__body">
+      <ng-container *ngIf="activeGeneralTab === 'Macro Book'; else stateTab">
+        <div class="lua-modal__macrobook-fields">
+          <label class="lua-modal__macrobook-field">
+            <span>Macro Book</span>
+            <input
+              type="text"
+              inputmode="numeric"
+              maxlength="2"
+              [(ngModel)]="macroBookValue"
+              (ngModelChange)="onMacroBookInputChange()"
+            />
+          </label>
+
+          <label class="lua-modal__macrobook-field">
+            <span>Macro Set</span>
+            <input
+              type="text"
+              inputmode="numeric"
+              maxlength="2"
+              [(ngModel)]="macroSetValue"
+              (ngModelChange)="onMacroBookInputChange()"
+            />
+          </label>
+        </div>
+
+        <textarea
+          class="lua-modal__output"
+          [(ngModel)]="macroBookText"
+          spellcheck="false"
+        ></textarea>
+      </ng-container>
+
+      <ng-template #stateTab>
+        <ng-container *ngIf="activeState() as state">
+          <div class="lua-modal__sets">
+            <button
+              type="button"
+              class="lua-modal__set"
+              [class.lua-modal__set--active]="selectedSetNameByState[state] === set.name"
+              *ngFor="let set of equipmentSetsForJob()"
+              (click)="applyEquipmentSet(set)"
+            >
+              {{ set.name }}
+            </button>
+            <p class="lua-modal__empty" *ngIf="equipmentSetsForJob().length === 0">
+              No equipment sets saved for {{ selectedJob }}.
+            </p>
+          </div>
+
+          <textarea
+            class="lua-modal__output"
+            [(ngModel)]="generalTextByState[state]"
+            spellcheck="false"
+          ></textarea>
+        </ng-container>
+      </ng-template>
+    </div>
+
+    <div class="lua-modal__footer">
+      <button
+        type="button"
+        class="lua-modal__manual-gear"
+        *ngIf="activeGeneralTab !== 'Macro Book'"
+        (click)="openManualGearModal()"
+      >
+        Manually Select Gear
+      </button>
+      <button type="button" class="lua-modal__save" (click)="saveGeneral()">Save</button>
+    </div>
+  </div>
+</div>
+
+<div class="lua-modal-overlay" *ngIf="elementModalOpen" (click)="closeElementModal()">
+  <div class="lua-modal" (click)="$event.stopPropagation()">
+    <div class="lua-modal__header">
+      <h3>{{ selectedJob }}{{ selectedSubjob ? '/' + selectedSubjob : '' }} — Element</h3>
+      <button type="button" class="lua-modal__close" (click)="closeElementModal()">×</button>
+    </div>
+
+    <div class="lua-modal__tabs">
+      <button
+        type="button"
+        class="lua-modal__tab"
+        *ngFor="let state of precastMidcastStates"
+        [class.lua-modal__tab--active]="activePrecastMidcast === state"
+        (click)="selectPrecastMidcast(state)"
+      >
+        {{ state }}
+      </button>
+    </div>
+
+    <div class="lua-modal__subtabs">
+      <button
+        type="button"
+        class="lua-modal__subtab"
+        *ngFor="let element of elementCategories"
+        [class.lua-modal__subtab--active]="activeElement === element"
+        (click)="selectElement(element)"
+      >
+        {{ element }}
+      </button>
+    </div>
+
+    <div class="lua-modal__body">
+      <ng-container *ngIf="activeElement as element">
+        <div class="lua-modal__sets">
+          <button
+            type="button"
+            class="lua-modal__set"
+            [class.lua-modal__set--active]="elementSetNameByState[activePrecastMidcast][element] === set.name"
+            *ngFor="let set of equipmentSetsForJob()"
+            (click)="applyElementEquipmentSet(set)"
+          >
+            {{ set.name }}
+          </button>
+          <p class="lua-modal__empty" *ngIf="equipmentSetsForJob().length === 0">
+            No equipment sets saved for {{ selectedJob }}.
+          </p>
+        </div>
+
+        <textarea
+          class="lua-modal__output"
+          [(ngModel)]="elementTextByState[activePrecastMidcast][element]"
+          spellcheck="false"
+        ></textarea>
+      </ng-container>
+    </div>
+
+    <div class="lua-modal__footer">
+      <button type="button" class="lua-modal__manual-gear" (click)="openElementManualGearModal()">
+        Manually Select Gear
+      </button>
+      <button type="button" class="lua-modal__save" (click)="saveElement()">Save</button>
+    </div>
+  </div>
+</div>
+
+<div class="lua-modal-overlay" *ngIf="jobAbilityModalOpen" (click)="closeJobAbilityModal()">
+  <div class="lua-modal" (click)="$event.stopPropagation()">
+    <div class="lua-modal__header">
+      <h3>{{ selectedJob }}{{ selectedSubjob ? '/' + selectedSubjob : '' }} — {{ activeJobAbilityName ?? 'Job Ability' }}</h3>
+      <button type="button" class="lua-modal__close" (click)="closeJobAbilityModal()">×</button>
+    </div>
+
+    <ng-container *ngIf="activeJobAbilityName === null; else jobAbilityEditor">
+      <div class="lua-jobability-list">
+        <button type="button" class="lua-jobability-list__add" (click)="openJobAbilityPickerForAdd()">
+          + Add
+        </button>
+        <button
+          type="button"
+          class="lua-jobability-list__item"
+          *ngFor="let entry of jobAbilityEntries; let i = index"
+          (click)="openJobAbilityPickerForEdit(i)"
+        >
+          {{ entry.abilityName }}
+        </button>
+        <p class="lua-modal__empty" *ngIf="jobAbilityEntries.length === 0">
+          No job abilities saved yet.
+        </p>
+      </div>
+    </ng-container>
+
+    <ng-template #jobAbilityEditor>
+      <div class="lua-modal__body">
+        <div class="lua-modal__sets">
+          <button
+            type="button"
+            class="lua-modal__set"
+            [class.lua-modal__set--active]="jobAbilityEntries[editingJobAbilityIndex!].equipmentSet === set.name"
+            *ngFor="let set of equipmentSetsForJob()"
+            (click)="applyJobAbilityEquipmentSet(set)"
+          >
+            {{ set.name }}
+          </button>
+          <p class="lua-modal__empty" *ngIf="equipmentSetsForJob().length === 0">
+            No equipment sets saved for {{ selectedJob }}.
+          </p>
+        </div>
+
+        <textarea
+          class="lua-modal__output"
+          [(ngModel)]="jobAbilityEntries[editingJobAbilityIndex!].lua"
+          spellcheck="false"
+        ></textarea>
+      </div>
+
+      <div class="lua-modal__footer">
+        <button type="button" class="lua-modal__manual-gear" (click)="openJobAbilityManualGearModal()">
+          Manually Select Gear
+        </button>
+        <button type="button" class="lua-modal__save" (click)="saveJobAbility()">Save</button>
+      </div>
+    </ng-template>
+  </div>
+</div>
+
+<div class="lua-jobability-picker-overlay" *ngIf="jobAbilityPickerOpen" (click)="closeJobAbilityPicker()">
+  <div class="lua-jobability-picker" (click)="$event.stopPropagation()">
+    <div class="lua-modal__header">
+      <h3>Select Job Ability</h3>
+      <button type="button" class="lua-modal__close" (click)="closeJobAbilityPicker()">×</button>
+    </div>
+
+    <div class="lua-jobability-picker__search">
+      <input type="text" placeholder="Search abilities..." [(ngModel)]="jobAbilityPickerSearch" />
+    </div>
+
+    <ul class="lua-jobability-picker__list">
+      <li *ngFor="let option of jobAbilityPickerOptions()">
+        <button
+          type="button"
+          class="lua-jobability-picker__option"
+          [class.lua-jobability-picker__option--active]="jobAbilityPickerSelected === option.abilityName"
+          (click)="selectJobAbilityPickerOption(option.abilityName)"
+        >
+          {{ option.abilityName }}
+        </button>
+      </li>
+      <li *ngIf="jobAbilityPickerOptions().length === 0" class="lua-modal__empty">
+        No matching job abilities.
+      </li>
+      <li *ngIf="!jobAbilityPickerExpanded">
+        <button type="button" class="lua-jobability-picker__expand" (click)="expandJobAbilityPickerToAllJobs()">
+          Expand to all jobs
+        </button>
+      </li>
+    </ul>
+
+    <div class="lua-modal__footer">
+      <button
+        type="button"
+        class="lua-modal__save"
+        [disabled]="!jobAbilityPickerSelected"
+        (click)="confirmJobAbilityPicker()"
+      >
+        Next
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="lua-modal-overlay" *ngIf="magicModalOpen" (click)="closeMagicModal()">
+  <div class="lua-modal" (click)="$event.stopPropagation()">
+    <div class="lua-modal__header">
+      <h3>{{ selectedJob }}{{ selectedSubjob ? '/' + selectedSubjob : '' }} — {{ activeSpellName ?? 'Magic' }}</h3>
+      <button type="button" class="lua-modal__close" (click)="closeMagicModal()">×</button>
+    </div>
+
+    <ng-container *ngIf="activeSpellName === null; else magicEditor">
+      <div class="lua-jobability-list">
+        <button type="button" class="lua-jobability-list__add" (click)="openSpellPickerForAdd()">
+          + Add
+        </button>
+        <button
+          type="button"
+          class="lua-jobability-list__item"
+          *ngFor="let entry of spellEntries; let i = index"
+          (click)="openSpellPickerForEdit(i)"
+        >
+          {{ entry.spellName }}
+        </button>
+        <p class="lua-modal__empty" *ngIf="spellEntries.length === 0">
+          No spells saved yet.
+        </p>
+      </div>
+    </ng-container>
+
+    <ng-template #magicEditor>
+      <div class="lua-modal__body">
+        <div class="lua-modal__sets">
+          <button
+            type="button"
+            class="lua-modal__set"
+            [class.lua-modal__set--active]="spellEntries[editingSpellIndex!].equipmentSet === set.name"
+            *ngFor="let set of equipmentSetsForJob()"
+            (click)="applySpellEquipmentSet(set)"
+          >
+            {{ set.name }}
+          </button>
+          <p class="lua-modal__empty" *ngIf="equipmentSetsForJob().length === 0">
+            No equipment sets saved for {{ selectedJob }}.
+          </p>
+        </div>
+
+        <textarea
+          class="lua-modal__output"
+          [(ngModel)]="spellEntries[editingSpellIndex!].lua"
+          spellcheck="false"
+        ></textarea>
+      </div>
+
+      <div class="lua-modal__footer">
+        <button type="button" class="lua-modal__manual-gear" (click)="openSpellManualGearModal()">
+          Manually Select Gear
+        </button>
+        <button type="button" class="lua-modal__save" (click)="saveMagic()">Save</button>
+      </div>
+    </ng-template>
+  </div>
+</div>
+
+<div class="lua-jobability-picker-overlay" *ngIf="spellPickerOpen" (click)="closeSpellPicker()">
+  <div class="lua-jobability-picker" (click)="$event.stopPropagation()">
+    <div class="lua-modal__header">
+      <h3>Select Spell</h3>
+      <button type="button" class="lua-modal__close" (click)="closeSpellPicker()">×</button>
+    </div>
+
+    <div class="lua-jobability-picker__search">
+      <input type="text" placeholder="Search spells..." [(ngModel)]="spellPickerSearch" />
+    </div>
+
+    <div class="lua-jobability-picker__limit">
+      <label class="gear-picker__show-details">
+        <input type="checkbox" [(ngModel)]="spellPickerLimitToJob" />
+        <span>Limit to {{ selectedJob }}</span>
+      </label>
+    </div>
+
+    <ul class="lua-jobability-picker__list">
+      <li *ngFor="let option of spellPickerOptions()">
+        <button
+          type="button"
+          class="lua-jobability-picker__option"
+          [class.lua-jobability-picker__option--active]="spellPickerSelected === option.spellName"
+          (click)="selectSpellPickerOption(option.spellName)"
+        >
+          {{ option.spellName }}
+        </button>
+      </li>
+      <li *ngIf="spellPickerOptions().length === 0" class="lua-modal__empty">
+        No matching spells.
+      </li>
+    </ul>
+
+    <div class="lua-modal__footer">
+      <button
+        type="button"
+        class="lua-modal__save"
+        [disabled]="!spellPickerSelected"
+        (click)="confirmSpellPicker()"
+      >
+        Next
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="lua-modal-overlay" *ngIf="petModalOpen" (click)="closePetModal()">
+  <div class="lua-modal" (click)="$event.stopPropagation()">
+    <div class="lua-modal__header">
+      <h3>{{ selectedJob }}{{ selectedSubjob ? '/' + selectedSubjob : '' }} — {{ activePetAbilityName ?? 'Pet' }}</h3>
+      <button type="button" class="lua-modal__close" (click)="closePetModal()">×</button>
+    </div>
+
+    <ng-container *ngIf="activePetAbilityName === null; else petEditor">
+      <div class="lua-jobability-list">
+        <button type="button" class="lua-jobability-list__add" (click)="openPetPickerForAdd()">
+          + Add
+        </button>
+        <button
+          type="button"
+          class="lua-jobability-list__item"
+          *ngFor="let entry of petEntries; let i = index"
+          (click)="openPetPickerForEdit(i)"
+        >
+          {{ entry.abilityName }}
+        </button>
+        <p class="lua-modal__empty" *ngIf="petEntries.length === 0">
+          No pet abilities saved yet.
+        </p>
+      </div>
+    </ng-container>
+
+    <ng-template #petEditor>
+      <div class="lua-modal__body">
+        <div class="lua-modal__sets">
+          <button
+            type="button"
+            class="lua-modal__set"
+            [class.lua-modal__set--active]="petEntries[editingPetIndex!].equipmentSet === set.name"
+            *ngFor="let set of equipmentSetsForJob()"
+            (click)="applyPetEquipmentSet(set)"
+          >
+            {{ set.name }}
+          </button>
+          <p class="lua-modal__empty" *ngIf="equipmentSetsForJob().length === 0">
+            No equipment sets saved for {{ selectedJob }}.
+          </p>
+        </div>
+
+        <textarea
+          class="lua-modal__output"
+          [(ngModel)]="petEntries[editingPetIndex!].lua"
+          spellcheck="false"
+        ></textarea>
+      </div>
+
+      <div class="lua-modal__footer">
+        <button type="button" class="lua-modal__manual-gear" (click)="openPetManualGearModal()">
+          Manually Select Gear
+        </button>
+        <button type="button" class="lua-modal__save" (click)="savePetAbility()">Save</button>
+      </div>
+    </ng-template>
+  </div>
+</div>
+
+<div class="lua-jobability-picker-overlay" *ngIf="petPickerOpen" (click)="closePetPicker()">
+  <div class="lua-jobability-picker" (click)="$event.stopPropagation()">
+    <div class="lua-modal__header">
+      <h3>Select Pet Ability</h3>
+      <button type="button" class="lua-modal__close" (click)="closePetPicker()">×</button>
+    </div>
+
+    <div class="lua-jobability-picker__search">
+      <input type="text" placeholder="Search pet abilities..." [(ngModel)]="petPickerSearch" />
+    </div>
+
+    <div class="lua-jobability-picker__limit">
+      <label class="gear-picker__show-details">
+        <input type="checkbox" [(ngModel)]="petPickerLimitToJob" />
+        <span>Limit to {{ selectedJob }}</span>
+      </label>
+    </div>
+
+    <ul class="lua-jobability-picker__list">
+      <li *ngFor="let option of petPickerOptions()">
+        <button
+          type="button"
+          class="lua-jobability-picker__option"
+          [class.lua-jobability-picker__option--active]="petPickerSelected === option.abilityName"
+          (click)="selectPetPickerOption(option.abilityName)"
+        >
+          {{ option.abilityName }}
+        </button>
+      </li>
+      <li *ngIf="petPickerOptions().length === 0" class="lua-modal__empty">
+        No matching pet abilities.
+      </li>
+    </ul>
+
+    <div class="lua-modal__footer">
+      <button
+        type="button"
+        class="lua-modal__save"
+        [disabled]="!petPickerSelected"
+        (click)="confirmPetPicker()"
+      >
+        Next
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="lua-gear-modal-overlay" *ngIf="manualGearModalOpen" (click)="closeManualGearModal()">
+  <div class="lua-gear-modal" (click)="$event.stopPropagation()">
+    <div class="lua-modal__header">
+      <h3>{{ selectedJob }}{{ selectedSubjob ? '/' + selectedSubjob : '' }} — Manually Select Gear</h3>
+      <button type="button" class="lua-modal__close" (click)="closeManualGearModal()">×</button>
+    </div>
+
+    <div class="lua-gear-modal__body">
+      <div class="gear-panel">
+        <div class="gear-panel__header">
+          <h3>Gear</h3>
+          <button type="button" class="gear-panel__filter-link" (click)="openPickerFilterModal()">
+            Filter<span *ngIf="pickerSelectedStatFilters.size > 0"> ({{ pickerSelectedStatFilters.size }})</span>
+          </button>
+        </div>
+        <div class="gear-panel__grid">
+          <div
+            class="gear-slot"
+            [class.gear-slot--active]="pickerActiveSlot?.key === slot.key"
+            *ngFor="let slot of manualGearSlots"
+            (click)="onPickerSlotClick(slot)"
+            (keydown.enter)="onPickerSlotClick(slot)"
+            (keydown.space)="onPickerSlotClick(slot)"
+            role="button"
+            tabindex="0"
+          >
+            <div class="gear-slot__header">
+              <span class="gear-slot__label">{{ slot.label }}</span>
+              <button
+                type="button"
+                class="gear-slot__remove"
+                *ngIf="pickerGear[slot.key]"
+                (click)="removePickerGear(slot, $event)"
+                title="Remove"
+              >
+                −
+              </button>
+            </div>
+            <span class="gear-slot__value">{{ pickerGear[slot.key] || '—' }}</span>
+          </div>
+        </div>
+      </div>
+
+      <div *ngIf="pickerActiveSlot" class="gear-picker">
+        <div class="gear-picker__header">
+          <h3>{{ pickerActiveSlot.label }}</h3>
+          <button type="button" class="gear-picker__close" (click)="closePickerSlot()">×</button>
+        </div>
+
+        <div class="gear-picker__filters">
+          <input
+            type="text"
+            placeholder="Search by name..."
+            [(ngModel)]="pickerSearchText"
+          />
+          <input
+            type="number"
+            placeholder="Max level"
+            min="1"
+            [(ngModel)]="pickerMaxLevel"
+          />
+        </div>
+
+        <div class="gear-picker__checkbox-row">
+          <label class="gear-picker__show-details">
+            <input type="checkbox" [(ngModel)]="pickerShowDetails" />
+            <span>Show details</span>
+          </label>
+
+          <label class="gear-picker__show-details gear-picker__show-details--right" *ngIf="pickerSignedIn">
+            <input type="checkbox" [(ngModel)]="pickerOwnedOnly" />
+            <span>Owned gear</span>
+          </label>
+        </div>
+
+        <div class="gear-picker__advanced" *ngIf="pickerAvailableWeaponTypes().length > 0">
+          <label>
+            <span>Weapon Type</span>
+            <select [(ngModel)]="pickerWeaponType">
+              <option value="">All Types</option>
+              <option *ngFor="let type of pickerAvailableWeaponTypes()" [value]="type">{{ type }}</option>
+            </select>
+          </label>
+        </div>
+
+        <ul class="gear-picker__list">
+          <li *ngFor="let item of filteredPickerGear()">
+            <button type="button" (click)="selectPickerGear(item)">
+              <div class="gear-picker__row">
+                <span class="gear-picker__name">{{ item.name }}</span>
+                <span class="gear-picker__level">Lv.{{ item.level }}</span>
+              </div>
+              <div class="gear-picker__stats" *ngIf="pickerShowDetails && item.stats">{{ item.stats }}</div>
+              <div class="gear-picker__description" *ngIf="pickerShowDetails && item.weaponType && item.notes">{{ item.notes }}</div>
+            </button>
+          </li>
+          <li *ngIf="filteredPickerGear().length === 0" class="gear-picker__empty">
+            No matching gear.
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" *ngIf="pickerShowFilterModal" (click)="closePickerFilterModal()">
+  <div class="modal" (click)="$event.stopPropagation()">
+    <div class="modal__header">
+      <h3>Filter by Stats</h3>
+      <button type="button" class="modal__close" (click)="closePickerFilterModal()">×</button>
+    </div>
+
+    <div class="modal__body">
+      <div class="modal__section" *ngFor="let section of pickerStatFilterSections">
+        <h4>{{ section.section }}</h4>
+        <div class="modal__options">
+          <label class="modal__stat-option" *ngFor="let stat of section.options">
+            <input
+              type="checkbox"
+              [checked]="pickerSelectedStatFilters.has(stat)"
+              (change)="togglePickerStatFilter(stat)"
+            />
+            <span>{{ stat }}</span>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal__footer">
+      <button type="button" class="modal__clear" (click)="clearPickerStatFilters()">Clear</button>
+      <button type="button" class="modal__done" (click)="closePickerFilterModal()">Done</button>
+    </div>
+  </div>
+</div>
